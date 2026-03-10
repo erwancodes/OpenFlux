@@ -70,3 +70,31 @@ feeds:
   - url: https://nouslesdevs.com/feed
     name: Nous Les Devs
     categories: [Programmation, DevOps, Cybersécurité]
+
+  - url: https://oliviersauvage.com/feed/
+    name: Olivier Sauvage (Numerika)
+    categories: [IA]
+
+  - url: https://david.drugeon-hamon.bzh/index.xml
+    name: David Drugeon-Hamon
+    categories: [DevOps, Cloud, IA, Programmation]
+
+  - url: https://blog.eleven-labs.com/feed.xml
+    name: Eleven Labs
+    categories: [Programmation, Web, DevOps]
+
+  - url: https://blog.ippon.fr/feed/
+    name: Ippon Technologies
+    categories: [Programmation, Cloud, IA, DevOps]
+
+  - url: https://makina-corpus.com/rss
+    name: Makina Corpus
+    categories: [Programmation, Web]
+
+  - url: https://www.jdecool.fr/feed.xml
+    name: Jérémy Decool
+    categories: [Programmation, Web]
+
+  - url: https://vincent.bernat.ch/fr/blog/atom.xml
+    name: Vincent Bernat
+    categories: [DevOps, Programmation, Cybersécurité]

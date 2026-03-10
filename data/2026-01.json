@@ -2,6 +2,38 @@
   "month": "2026-01",
   "articles": [
     {
+      "id": "f9a532f6e4c3",
+      "title": "Les news du mois de janvier 2026",
+      "description": "Photo de Pierre Châtel-Innocenti sur Unsplash Le mois de janvier a été pour moi le commencement d'une nouvelle aventure professionnelle. Une phase de découverte et d'apprentissage sur différents sujets. C'est l'occasion de se remettre en question et prendre de nouveaux défis. Ceci n'est pas une…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/01/news-janvier/",
+      "pubDate": "2026-01-31T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/01/news-janvier/banner.avif"
+    },
+    {
+      "id": "13b8386a4f37",
+      "title": "Patterns d'Architecture 2026 - Du Hype à la Réalité du Terrain Part. 1/2",
+      "description": "Découvrez les patterns d'architecture incontournables de 2026 : EDA, API-First, CQRS et Saga. Optimisez scalabilité et résilience de votre SI.",
+      "link": "https://blog.ippon.fr/2026/01/30/patterns-darchitecture-2026-part-1/",
+      "pubDate": "2026-01-30T09:23:44.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/01/Design-sans-titre--18--1.png"
+    },
+    {
       "id": "a256d0ce91ae",
       "title": "La veille de Wittouck - Fin janvier 2026",
       "description": "Janvier est passé à toute vitesse. En cette fin de mois, j’ai consulté pas mal de vidéos intéressantes que je voulais partager. Je me pose aussi pas mal de questions quant à la mise à disposition du contenu de ce site ou pas aux IA Gens, donc je me renseigne pas mal sur ce qui est fait par d’autres…",
@@ -13,6 +45,20 @@
         "Programmation",
         "DevOps",
         "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "adedb60a1227",
+      "title": "La réunion d'équipe la plus importante",
+      "description": "La réunion d’équipe que je considère comme indispensable est certainement la rétrospective. C’est un point essentiel pour favoriser l’amélioration continue et renforcer la dynamique d’équipe. La rétrospective permet de mettre en place un espace dédié pour réfléchir et prendre du recul sur le…",
+      "link": "https://www.jdecool.fr/blog/2026/01/30/la-reunion-d-equipe-la-plus-importante.html",
+      "pubDate": "2026-01-29T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null
     },
@@ -115,6 +161,22 @@
       "image": "https://domopi.eu/content/images/2025/12/BCO.9e8ed0ba-e305-48b9-8355-716993157c21.webp"
     },
     {
+      "id": "1bce695c0b0c",
+      "title": "LLM : apprendre à s’auto-évaluer pour agir comme un agent",
+      "description": "Comment des travaux comme GLAM et MAGELLAN apprennent aux LLM à estimer leurs chances de réussite, choisir quand agir et quand demander de l’aide.",
+      "link": "https://blog.ippon.fr/2026/01/26/llm-apprendre-a-sauto-evaluer-pour-agir-comme-un-agent/",
+      "pubDate": "2026-01-26T13:03:08.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/01/Gemini_Generated_Image_vhb962vhb962vhb9.png"
+    },
+    {
       "id": "a0eb4bfad002",
       "title": "PHP 8.3 : typage renforcé et nouvelles fonctionnalités",
       "description": "PHP 8.3 : constantes typées, json_validate(), attribut #[Override] et clonage readonly. Découvrez les nouveautés qui améliorent la sûreté et les performances du langage.",
@@ -185,6 +247,22 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "8bcb9ca8d22a",
+      "title": "La Couche Sémantique : Le Chaînon Manquant de la Valorisation des Données d'Entreprise",
+      "description": "Pourquoi et comment implementer une couche sémantique dans votre plateforme data pour simplifier votre gouvernance et faciliter l'usage par l'IA",
+      "link": "https://blog.ippon.fr/2026/01/23/la-couche-semantique-le-chainon-manquant-de-la-valorisation-des-donnees-dentreprise/",
+      "pubDate": "2026-01-23T10:30:38.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/01/Gemini_Generated_Image_1lrzpf1lrzpf1lrz.png"
+    },
+    {
       "id": "a8fc168ee41e",
       "title": "Cloudflare vs l'Italie : quand le blocage DNS devient un champ de bataille géopolitique",
       "description": "L'Italie demande à Cloudflare de bloquer des sites pirates. Cloudflare refuse et invoque le free speech. Mais derrière ce bras de fer, c'est notre dépendance à la tech US qui se révèle.",
@@ -213,6 +291,36 @@
         "IA"
       ],
       "image": "/wp-content/uploads/2026/01/article-voeux-2026-1024x569.webp"
+    },
+    {
+      "id": "27d9505a1759",
+      "title": "GitLab Runners : Maîtrisez les différents executors pour optimiser vos pipelines CI/CD",
+      "description": "L'intégration continue et le déploiement continu (CI/CD) sont devenus des pratiques incontournables. Au cœur de ces pipelines se trouve un composant essentiel mais souvent mal compris : le GitLab Runner. Cet agent d'exécution est le moteur qui transforme",
+      "link": "https://blog.ippon.fr/2026/01/21/gitlab-runners-maitrisez-les-differents-executors-pour-optimiser-vos-pipelines-ci-cd/",
+      "pubDate": "2026-01-21T07:43:24.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGdpdHxlbnwwfHx8fDE3NjgyMDU2OTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000"
+    },
+    {
+      "id": "7ecc192f73df",
+      "title": "Documentation vivante",
+      "description": "N’importe qui ayant déjà écrit de la documentation sait que le principal problème, c’est qu’elle devient rapidement obsolète une fois écrite. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une…",
+      "link": "https://www.jdecool.fr/blog/2026/01/21/une-documentation-vivante.html",
+      "pubDate": "2026-01-20T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
     },
     {
       "id": "243e1924dd09",
@@ -305,6 +413,21 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "7b37cba0e695",
+      "title": "RAID 5 avec des disques de capacités différentes sous Linux",
+      "description": "Les solutions RAID classiques gaspillent de l’espace lorsque les disques sont de tailles différentes. Le RAID logiciel Linux avec LVM exploite la capacité totale de chaque disque et permet d’étendre le stockage en remplaçant un ou deux disques à la fois.1 Nous partons de quatre disques de taille…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-raid-linux-heterogene",
+      "pubDate": "2026-01-19T04:49:42.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/raid-md0.bd970fa35a6b71.svg"
+    },
+    {
       "id": "46a09348f420",
       "title": "OWASP ZAP : comment implémenter un audit DAST automatisé avec Symfony et Docker",
       "description": "Passer du SAST au DAST en intégrant OWASP ZAP à votre workflow local via Docker et Castor. Un guide technique pour un audit de sécurité automatisé.",
@@ -335,6 +458,80 @@
       "image": "https://yoandev.co/img/backup.webp"
     },
     {
+      "id": "95405354e328",
+      "title": "Site internet du Centre Hospitalier de Cholet",
+      "description": "Établis­se­ment de santé de réfé­rence sur le terri­toire chole­tais, le Centre Hospi­ta­lier d",
+      "link": "https://makina-corpus.com/application-web-mobile/site-internet-du-centre-hospitalier-de-cholet",
+      "pubDate": "2026-01-16T16:00:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "d3427d1dbafb",
+      "title": "BDClimatS",
+      "description": "Face à l’ac­cé­lé­ra­tion du chan­ge­ment clima­tique, les données scien­ti­fiques sont de plus en plus nombreuses, mais aussi de plus en plus complexes à exploi­ter.",
+      "link": "https://makina-corpus.com/data-science/bdclimats",
+      "pubDate": "2026-01-16T15:04:44.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "c803adecd4a1",
+      "title": "Site inter­net de l'Institut de Formation aux Professions de Santé de Cholet",
+      "description": "L’Ins­ti­tut de Forma­tion aux Profes­sions de Santé (IFPS) de Cholet regroupe les forma­tions d’in­fir­mier·e·s (IFSI), d’aide-soignant·e·s (IFAS) et d’auxi­liaires de puéri­cul­ture (IFAP).",
+      "link": "https://makina-corpus.com/application-web-mobile/site-inter-net-de-linstitut-de-formation-aux-professions-de-sante-de-cholet",
+      "pubDate": "2026-01-16T15:00:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "c96e8e1e11df",
+      "title": "De la Data Platform à la Data Viz - Le chaînon manquant de votre stratégie data",
+      "description": "Découvrez comment transformer votre Data Platform en succès métier grâce à la Data Viz et aux Data Products. Créez de la valeur !",
+      "link": "https://blog.ippon.fr/2026/01/16/de-la-data-platform-a-la-data-viz-le-chainon-manquant-de-votre-strategie-data/",
+      "pubDate": "2026-01-16T09:28:45.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/01/Design-sans-titre--21-.png"
+    },
+    {
+      "id": "dbff441e9b55",
+      "title": "Pourquoi nous devons prendre en compte les impacts environnementaux dans notre utilisation de l’IA : le cache écologique d’une révolution technologique",
+      "description": "Découvrez l'impact écologique caché de l'IA : consommation d'eau, d'énergie et de métaux. Un plaidoyer pour une IA transparente et sobre en 2026.",
+      "link": "https://blog.ippon.fr/2026/01/16/ia-impacts-environnementaux/",
+      "pubDate": "2026-01-16T09:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/01/Design-sans-titre--18-.png"
+    },
+    {
       "id": "c7308fd5df93",
       "title": "La veille de Wittouck - Début janvier 2026",
       "description": "Après des vacances bien méritées, la Veille de Wittouck est de retour avec la même formule : mon analyse rapide des articles, vidéos ou podcasts qui m’ont intéressés sur les deux dernières semaines. Je ferai également un feedback de mes participations aux différentes conférences de l’année en…",
@@ -362,6 +559,20 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390398-cover.jpg"
+    },
+    {
+      "id": "5c22089ae3fa",
+      "title": "La formulation d'un message n'est pas un détail",
+      "description": "La manière dont on transmet un message est tout aussi importante que le fond du message lui-même. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Les équipes techniques…",
+      "link": "https://www.jdecool.fr/blog/2026/01/14/la-formulation-d-un-message-n-est-pas-un-detail.html",
+      "pubDate": "2026-01-13T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
     },
     {
       "id": "2cae3805556f",
@@ -420,6 +631,20 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "adea0c8db9ea",
+      "title": "Développement d'une plateforme web-cartographique d'indicateurs agroé­co­lo­gique",
+      "description": "Une plate­forme pour comprendre et suivre la tran­si­tion agroé­co­lo­gique Le projet est porté par Sola­gro, avec le soutien de parte­naires publics et privés enga­gés pour la tran­si­tion écolo­gique : l’",
+      "link": "https://makina-corpus.com/sig-cartographie/developpement-dune-plateforme-web-cartographique-dindicateurs-agroe-co-lo-gique",
+      "pubDate": "2026-01-12T13:00:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
     },
     {
       "id": "15bf6ff8261c",
@@ -494,6 +719,20 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390540-cover.jpg"
     },
     {
+      "id": "e3f8087b67ae",
+      "title": "Les bonnes pratiques sont contextuelles",
+      "description": "Ce qui fonctionne pour une équipe et un projet donné peut ne pas fonctionner ailleurs. L’architecture, la méthodologie, les pratiques en place qui ont fonctionné dans un contexte précis ne sont pas nécessairement transposables telles quelles d’une équipe à une autre ou d’un projet à un autre. Ce…",
+      "link": "https://www.jdecool.fr/blog/2026/01/07/les-bonnes-pratiques-sont-contextuelles.html",
+      "pubDate": "2026-01-06T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
       "id": "b26eb40bb854",
       "title": "Bloquer l'accès Internet d'un périphérique avec UniFi Network",
       "description": "Historique de révision Révision Date Commentaires Unifi Networks 1 Septembre 2021 Version initiale 6.4.54 2 Janvier 2026 Gestion IPv4 et IPv6 10.0.160 Dans nos installations domotiques, nous intégrons de plus en plus d'objets connectés, et pour",
@@ -551,6 +790,51 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "231525a647ef",
+      "title": "Répartition du trafic sur des chaussettes UDP avec eBPF et Go",
+      "description": "Akvorado collecte des flux sFlow et IPFIX via UDP. Comme UDP ne retransmet pas les paquets perdus, il faut les traiter rapidement. Akvorado exécute plusieurs routines écoutant sur le même port. Le noyau devrait répartir équitablement les paquets reçus entre ces routines. Cependant, cela ne…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-reuseport-ebpf-go",
+      "pubDate": "2026-01-05T07:51:52.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": null
+    },
+    {
+      "id": "3ffc6c366222",
+      "title": "Récapitulatif 2025",
+      "description": "Je ne suis pas coutumier du traditionnel récapitulatif de l’année écoulée, néanmoins cela ne fait pas de mal de regarder un peu en arrière de temps en temps. Partage de contenu Je m’étais fixé comme objectif de relancer un peu ce blog et de publier de manière plus régulière. J’avais en tête un…",
+      "link": "https://www.jdecool.fr/blog/2026/01/04/recapitulatif-2025.html",
+      "pubDate": "2026-01-03T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/img/blog/20260104-recapitulatif-2025/forumphp.jpeg"
+    },
+    {
+      "id": "9369d00e351d",
+      "title": "Bilan 2025 et perspectives pour 2026",
+      "description": "Otto Freijser sur Unsplash Eh oui, les fêtes sont passées, nous sommes déjà début 2026. Malgré la neige et le froid qui ont fait leur apparition en ce début de semaine, il est temps pour moi de faire une rétrospective de l’année écoulée autant au point de vue professionnel que personnel. J’aimerais…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/01/bilan-2025/",
+      "pubDate": "2026-01-03T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/01/bilan-2025/banner.avif"
     },
     {
       "id": "fdc67a2bb7a0",

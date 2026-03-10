@@ -17,6 +17,22 @@
       "image": "https://blog.zwindler.fr/2026/03/sysops-pratique.webp"
     },
     {
+      "id": "9c3936acf8bd",
+      "title": "Impedance Mismatch : pourquoi votre modélisation legacy tue votre expérience omnicanale et API",
+      "description": "Une des causes majeure des problèmes de modernisation du SI à faire cohabiter \"legacy\" et \"new\" ? L'impedance mismatch, autrement dit l'incapacité d'un processus simple et (~web) à rentrer dans le processus historique classique, en particulier sur la modélisation des données et des services.",
+      "link": "https://blog.ippon.fr/2026/03/09/impedance-mismatch-pourquoi-votre-modelisation-legacy-tue-votre-experience-omnicanale-et-api/",
+      "pubDate": "2026-03-09T10:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/02/Reifiez-vos-processus.jpg"
+    },
+    {
       "id": "110290748295",
       "title": "Découvrez BullMQ, une MessageQueue simple avec NodeJS",
       "description": "Dans une application moderne, certaines opérations peuvent être longues et bloquer l’application principale, on utilise alors souvent des files de tâches. BullMQ est une solution simple pour gérer ce type de traitement en arrière-plan.",
@@ -27,6 +43,19 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "ebd732443cdc",
+      "title": "Cortical Labs : quand des cellules humaines jouent à Doom",
+      "description": "Cortical Labs a créé le CL1, un ordinateur biologique utilisant 800 000 neurones vivants. Capable de jouer à Doom, ce système surpasse l'IA traditionnelle par sa faible consommation d'énergie et sa rapidité d'apprentissage. Cette fusion entre cellules vivantes et silicium ouvre une voie…",
+      "link": "https://oliviersauvage.com/2026/03/09/cortical-labs-quand-des-cellules-humaines-jouent-a-doom/",
+      "pubDate": "2026-03-09T07:27:50.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
       ],
       "image": null
     },
@@ -105,6 +134,22 @@
       "image": "https://yoandev.co/img/symfony-ai-mate.webp"
     },
     {
+      "id": "c4d026cdd406",
+      "title": "Hymne à la Vie IA",
+      "description": "Tout a commencé par une question simple : c'est quoi la BCE Loss ? Binary Cross-Entropy, une fonction de perte utilisée en classification. La formule est simple en apparence, mais quelque chose de remarquable s'y cache. BCE = −[y · log(p) + (1−y)",
+      "link": "https://blog.ippon.fr/2026/03/06/hymne-a-la-vie-ia-2/",
+      "pubDate": "2026-03-06T14:26:03.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/Generated-Image-Mar-06-2026-from-Google-AI-Studio--1-.png"
+    },
+    {
       "id": "38beecd11c4e",
       "title": "Sécurise ton SSH : des clés, zéro mot de passe, zéro stress",
       "description": "Tu viens de monter un nouveau serveur Linux (un VPS, une VM Proxmox, un Raspberry Pi), SSH est activé, tu t'y connectes avec ton mot de passe, ça marche, affaire classée. Sauf que si ton serveur est exposé sur internet, il se fait",
@@ -134,6 +179,77 @@
       "image": null
     },
     {
+      "id": "4c47295b952c",
+      "title": "Arrêtez de blâmer vos utilisateurs",
+      "description": "On a tous des phrases qui nous font réagir intérieurement. Parmi celles qui me font certainement le plus réagir, il y a les réactions du style « la plateforme est plantée, c’est la faute du client, il a fait n’importe quoi ». Parce que dans bien des cas, si le client a pu faire n’importe quoi,…",
+      "link": "https://www.jdecool.fr/blog/2026/03/06/arretez-de-blamer-vos-utilisateurs.html",
+      "pubDate": "2026-03-05T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "43bbc6d25256",
+      "title": "Découverte automatique de métriques Prometheus avec les labels Docker",
+      "description": "Akvorado, un collecteur de flux réseau, s’appuie sur Traefik, un proxy HTTP, pour exposer les services HTTP d’un environnement Docker Compose. Des labels Docker attachés à chaque service définissent les règles de routage. Traefik les prend en compte automatiquement au démarrage d’un conteneur.…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-decouverte-metriques-prometheus-labels-docker",
+      "pubDate": "2026-03-05T15:40:24.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": null
+    },
+    {
+      "id": "3b0e17c6041b",
+      "title": "Pourquoi avons-nous honte d’utiliser l’IA quand elle nous aide à faire notre travail ?",
+      "description": "L'article aborde le malaise des travailleurs français face à l'utilisation de l'IA pour accomplir des tâches, provoquant un sentiment de honte et de tromperie. Il souligne que les entreprises n'ont pas encore pleinement saisi le potentiel de l'IA, qui pourrait améliorer le sens du travail tout en…",
+      "link": "https://oliviersauvage.com/2026/03/05/pourquoi-avons-nous-honte-dutiliser-lia-quand-elle-nous-aide-a-faire-notre-travail/",
+      "pubDate": "2026-03-05T11:48:59.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "b117b4779a0d",
+      "title": "Les news du mois de février 2026",
+      "description": "Photo du Mont Blanc prises sur les pistes de ski de fond de la station des saisies @zebeurton De retour de vacances où je me suis ressourcé à la montagne, il est temps pour moi de passer en revue les différents articles, podcasts ou vidéos YouTube que j'ai pu glaner au mois de février. Au programme…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/02/news-fevrier/",
+      "pubDate": "2026-03-05T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/02/news-fevrier/banner.avif"
+    },
+    {
+      "id": "b3bdc389ad34",
+      "title": "Les agents IA : pas si autonomes qu’on pourrait le croire !",
+      "description": "Une étude conjointe de Carnegie Mellon et Stanford remet en question la vision sur l'impact de l'IA dans le travail. Elle révèle que les recherches se concentrent sur une petite portion d'emplois, souvent des tâches simples. En réalité, les agents IA ont des limitations notables et ne peuvent…",
+      "link": "https://oliviersauvage.com/2026/03/04/les-agents-ia-pas-si-autonomes-quon-pourrait-le-croire/",
+      "pubDate": "2026-03-04T10:49:07.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
+    },
+    {
       "id": "955f711dd170",
       "title": "Nouveau blog et ligne éditoriale",
       "description": "2025 a marqué un tournant avec l'IA générative. Entre débats et opportunités, j'ai choisi mon camp : celui de l'outil comme levier de création. Ce blog est mon nouvel espace pour partager mes réflexions, mes projets d'automatisation et mon retour aux sources par le code. Sans excuses.",
@@ -149,6 +265,35 @@
       "image": null
     },
     {
+      "id": "43545a22092f",
+      "title": "FinOps by Design - Intégrer le FinOps dès la conception d’une architecture cloud",
+      "description": "I - Introduction Depuis des années, les équipes Architecture, Développement, DevOps ont appris à intégrer la sécurité, la scalabilité et la résilience dès les premières étapes de conception. Pourtant, le co&",
+      "link": "https://blog.ippon.fr/2026/03/04/finops-by-design-integrer-le-finops-des-la-conception-dune-architecture-cloud/",
+      "pubDate": "2026-03-04T09:08:05.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/finops_by_design_img-1.png"
+    },
+    {
+      "id": "f73e307e0e6b",
+      "title": "Anton Korinec : « Beaucoup de PIB ne sera pas produit par des humains, donc aucun travailleur n’en retirera les bénéfices »",
+      "description": "Cette tribune critique la position de 3500 chercheurs français réclamant l'interdiction de l'IA générative, jugée rétrograde. Elle oppose cette vision à celle d'Anton Korinec, qui souligne l'importance d'anticiper l'impact de l'IA sur l'économie et l'emploi, tout en appelant à un débat ouvert et…",
+      "link": "https://oliviersauvage.com/2026/03/03/anton-korinec-beaucoup-de-pib-ne-sera-pas-produit-par-des-humains-donc-aucun-travailleur-nen-retirera-les-benefices/",
+      "pubDate": "2026-03-03T09:16:07.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
+    },
+    {
       "id": "574f65f05006",
       "title": "Comment récupérer les variables d’environnement en COBOL ?",
       "description": "Même si COBOL est un langage ancien, il reste encore utilisé dans de nombreux systèmes critiques. Mais comment faire pour adapter son comportement selon l’environnement, par exemple, passer du mode développement au mode production ? La réponse passe par les variables d’environnement.",
@@ -159,6 +304,19 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "5fbecb7d782e",
+      "title": "Michael Truell, CEO de Cursor AI : comment se transforment (en mieux) les métiers du numérique grâce à l’IA",
+      "description": "Le métier de développeur évolue rapidement chez Cursor grâce à l'intelligence artificielle, qui remplace de plus en plus les tâches de codage. Cette transformation, comparable à la révolution agricole, libère les professionnels des fonctions pénibles et valorise la créativité et la conception. Les…",
+      "link": "https://oliviersauvage.com/2026/03/02/michael-truell-ceo-de-cursor-ai-comment-se-transforment-en-mieux-les-metiers-du-numerique-grace-a-lia/",
+      "pubDate": "2026-03-02T11:07:08.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
       ],
       "image": null
     },

@@ -2,6 +2,48 @@
   "month": "2026-02",
   "articles": [
     {
+      "id": "ec15730913ff",
+      "title": "Quand la peur de l’IA annihile la pensée",
+      "description": "L'IA fait peur, mais cette peur est entretenu par les mogols de la tech qui s'en servent comme un argument de vente. Pourquoi tombons-nous toujours dans le panneau ? C'est la question que l'on se pose tous ici, à Numerika. L’article Quand la peur de l’IA annihile la pensée est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/02/28/quand-la-peur-de-lia-annihile-la-pensee/",
+      "pubDate": "2026-02-28T07:55:09.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "35af4c98d514",
+      "title": "Google lance Nano Banana 2 !",
+      "description": "Google lance Nano Banana 2, un modèle d'IA générative d'images combinant vitesse et puissance. Découvrez comment ce nouveau modèle offre une qualité d'image exceptionnelle, une cohérence des sujets améliorée et un contrôle créatif précis, tout en étant accessible dans divers produits Google pour…",
+      "link": "https://oliviersauvage.com/2026/02/27/google-lance-nano-banana-2/",
+      "pubDate": "2026-02-27T09:36:27.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "feeaf00f878d",
+      "title": "L’évaluation des LLMs est-elle morte ?",
+      "description": "L'évaluation des LLMs via benchmarks classiques est en crise, car les modèles déjouent les tests, les datasets saturent, le RLHF progresse et les agents autonomes se développent. Il faut se concentrer sur la robustesse, la généralisation et le comportement réel.",
+      "link": "https://blog.ippon.fr/2026/02/27/levaluation-des-llms-est-elle-morte/",
+      "pubDate": "2026-02-27T08:00:57.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/02/llm.png"
+    },
+    {
       "id": "a3a3d551cbc5",
       "title": "WebMCP : Quand vos pages web parlent directement à l'IA",
       "description": "Et si votre page web pouvait parler directement à l'IA ? Avec WebMCP, c'est possible. On construit ensemble MiamMCP, une app Symfony de commande de nourriture pilotée par Claude via le navigateur — d'abord à la main, puis avec WebMcpBundle.",
@@ -29,6 +71,32 @@
         "Programmation",
         "DevOps",
         "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "f10779032ad8",
+      "title": "Google met à jour Flow pour générer des vidéos encore plus belles !",
+      "description": "Google Labs dévoile une mise à jour majeure de Flow, sa plateforme de création de contenu assistée par IA. L'interface est repensée pour centraliser la création d'images et vidéos, avec des outils d'édition intuitifs et une gestion flexible des actifs. Découvrez comment Flow simplifie votre…",
+      "link": "https://oliviersauvage.com/2026/02/26/google-met-a-jour-flow-pour-generer-des-videos-encore-plus-belles/",
+      "pubDate": "2026-02-26T10:55:06.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "9fe9cf841a06",
+      "title": "Les business model disruptifs qui domineront 2027",
+      "description": "Découvrez les modèles économiques émergents qui révolutionneront le monde des affaires d'ici 2027. L'IA et l'automatisation ouvrent des perspectives inédites, permettant à de petites équipes de réaliser des prouesses autrefois inimaginables. Entreprises unipersonnelles à grande échelle,…",
+      "link": "https://oliviersauvage.com/2026/02/26/les-business-model-disruptifs-qui-domineront-2027/",
+      "pubDate": "2026-02-26T09:05:19.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
       ],
       "image": null
     },
@@ -62,6 +130,19 @@
       "image": null
     },
     {
+      "id": "40c85f2697e1",
+      "title": "L’explosion de la création de code va-t-elle faire s’effondrer la planète ?",
+      "description": "La généralisation du vibe coding transforme le paysage du développement logiciel, rendant le code accessible à tous, mais soulève des inquiétudes quant à la valeur réelle de cette compétence. Si le marché devient saturé, la véritable valeur résidera dans l'architecture, la maintenance et…",
+      "link": "https://oliviersauvage.com/2026/02/25/lexplosion-de-la-creation-de-code-va-t-elle-faire-seffondrer-la-planete/",
+      "pubDate": "2026-02-25T10:56:22.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
+    },
+    {
       "id": "f20884f4e39e",
       "title": "Le syndrome B2BigB : comment les grands groupes tuent doucement les startups ",
       "description": "Vendre à un grand groupe semble être la validation ultime pour une startup. C'est souvent le début de la fin. Cycles de vente interminables, trésorerie en tension, produit détourné de sa roadmap : voici pourquoi le B2BigB est un piège, et comment essayer de l'éviter.",
@@ -74,6 +155,20 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390865-cover.jpg"
+    },
+    {
+      "id": "6007a2b34f02",
+      "title": "Ne confondez pas dette technique et préférence personnelle",
+      "description": "Quand on évolue dans la tech, on entend souvent parler de « dette technique ». Je trouve ce terme assez galvaudé, car souvent, lorsque l’on me parle de dette technique, ce que l’on m’explique c’est que le code ne correspond pas au « standard » du développeur qui en parle. Ce billet a été…",
+      "link": "https://www.jdecool.fr/blog/2026/02/25/ne-confondez-pas-dette-technique-et-preference-personnelle.html",
+      "pubDate": "2026-02-24T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
     },
     {
       "id": "24c9cc992c51",
@@ -135,6 +230,22 @@
       "image": "https://yoandev.co/img/4558274b-71de-4467-aea2-0c52613d762c.jpeg"
     },
     {
+      "id": "9a6723b5620f",
+      "title": "L’Histoire du Deep Learning : quand les machines ont commencé à apprendre",
+      "description": "Le deep learning est aujourd’hui omniprésent dans les systèmes de vision, de langage et de recommandation. Pourtant, son succès est relativement récent à l’échelle de l’informatique. Pendant plusieurs décennies, les réseaux",
+      "link": "https://blog.ippon.fr/2026/02/20/lhistoire-du-deep-learning-quand-les-machines-ont-commence-a-apprendre/",
+      "pubDate": "2026-02-20T15:40:35.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/02/image7.png"
+    },
+    {
       "id": "8bf0cf8a59a9",
       "title": "Optimiser les perfs et la sécurité d'un site Hugo",
       "description": "Sur les bons conseils du pote Antoine Caron, j’ai pris le temps cette semaine d’optimiser un peu mon site. Ce site que vous êtes en train de lire est un site statique, buildé avec Hugo. J’avais déjà un peu travaillé la compression des différentes ressources, principalement les illustrations, mais…",
@@ -146,6 +257,20 @@
         "Programmation",
         "DevOps",
         "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "eddd4a8d8bbc",
+      "title": "Configurez votre Geotrek-widget en quelques clics !",
+      "description": "Geotrek-widget dispose désor­mais d’un nouveau construc­teur de confi­gu­ra­tion, acces­sible ici : https://geotrekce.github.io/Geotrek-rando-widget.",
+      "link": "https://makina-corpus.com/logiciel-libre/configurez-votre-geotrek-widget-en-quelques-clics",
+      "pubDate": "2026-02-19T16:00:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null
     },
@@ -181,6 +306,22 @@
       "image": "/wp-content/uploads/2026/02/7e6c3088-8d5d-4f20-9144-fe5ddc23cd01-1024x683.jpg"
     },
     {
+      "id": "0371d13d6650",
+      "title": "Spec-Driven Development (SDD) : de la spécification au code avec l’IA (exemple complet avec Kiro)",
+      "description": "Découvrez le Spec-Driven Development (SDD) et comment l’IA, avec Kiro, transforme une spécification en code structuré et vérifié par les tests.",
+      "link": "https://blog.ippon.fr/2026/02/18/spec-driven-development/",
+      "pubDate": "2026-02-18T07:47:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/02/spec-driven-developement.png"
+    },
+    {
       "id": "2d425c903f79",
       "title": "Touraine Tech 2026 - Voyage au pays de la rillette",
       "description": "Dans ma tournée des conférences tech de France pour jouer à Factorio, je suis passé par Touraine Tech, la semaine dernière. Comme toujours, c’est l’occasion de faire de nouvelles rencontres et de croiser les autres speakeuses et speakers. Voici donc le récap de ma visite à Touraine Tech, pour cette…",
@@ -192,6 +333,20 @@
         "Programmation",
         "DevOps",
         "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "9f400246f07c",
+      "title": "Boring technology: les bases de données relationnelles",
+      "description": "La semaine dernière, j’évoquais les « boring technologies » et le fait qu’elles soient sous-cotées dans l’esprit collectif. Les bases de données relationnelles et le langage SQL en sont probablement l’exemple le plus courant. Très largement utilisées dans les projets nécessitant de stocker des…",
+      "link": "https://www.jdecool.fr/blog/2026/02/18/boring-technology-les-bases-de-donnees-relationnelles.html",
+      "pubDate": "2026-02-17T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null
     },
@@ -208,6 +363,22 @@
         "Web"
       ],
       "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Capture_d_ecran_2026_02_17_a_11_12_20_6fa0af2297.png"
+    },
+    {
+      "id": "d0ea2691034b",
+      "title": "Une journée (riche) aux Cloud Native Days France 2026 (Partie 2/2)",
+      "description": "Nous sommes heureux de vous retrouver sur ce deuxième article dédié à la journée que nous avons passée lors des Cloud Native Days. Enchainons tout de suite sur 3 autres conférences qui nous ont marquées REX Sellsy",
+      "link": "https://blog.ippon.fr/2026/02/16/une-journee-riche-aux-cloud-native-days-france-2026-partie-2-2/",
+      "pubDate": "2026-02-16T13:00:25.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/02/CloudNativeDays-1.png"
     },
     {
       "id": "1a0606d940ab",
@@ -254,6 +425,20 @@
       "image": null
     },
     {
+      "id": "eac026cc4450",
+      "title": "Simplifier vos objets immuables avec PHP 8.5",
+      "description": "PHP 8.5 a été publié le 20 novembre 2025 et, dans les nouvelles fonctionnalités proposées par cette version, on trouve notamment la possibilité de mettre à jour des propriétés lors du clonage d’objets. Une amélioration qui va permettre de simplifier nos objets immuables. En programmation orientée…",
+      "link": "https://www.jdecool.fr/blog/2026/02/16/simplifier-vos-objets-immuables-avec-php-8-5.html",
+      "pubDate": "2026-02-15T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
       "id": "bbb725ea0b70",
       "title": "Générer son SEO avec Symfony AI et Gemini",
       "description": "Implémentez la génération automatique de titre, description et mots-clés SEO avec Symfony AI, Gemini et Messenger dans votre administration EasyAdmin",
@@ -296,6 +481,20 @@
       "image": "https://cdn-images-1.medium.com/max/1024/1*zSAXOFSm9eXMplkxCo0fNA.png"
     },
     {
+      "id": "21aaf30e6706",
+      "title": "Ce site est de retour en France",
+      "description": "Cela fait plusieurs années que je m’intéresse beaucoup à la souveraineté numérique et la dépendance technologique que l’on peut avoir (principalement concentré sur des acteurs américains). J’en parlais dans un précédent article, mais à ce titre, je souhaite réduire ma dépendance aux GAFAM au profit…",
+      "link": "https://www.jdecool.fr/blog/2026/02/14/ce-site-est-de-retour-en-france.html",
+      "pubDate": "2026-02-13T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
       "id": "828244575ca1",
       "title": "Touraine Tech 2026 - Récap du jour 2",
       "description": "Jour 2 - C’est reparti ! Me voici dans le train du retour et je prend un peu de temps pour mettre en forme mes notes de la journée. C’est parti pour le récap du jour 2 de Touraine Tech 2026 ! Après une soirée speakers très sympa dans un bar à jeux, je me suis levé un poil trop tard et j’ai loupé la…",
@@ -311,6 +510,22 @@
       "image": "https://blog.zwindler.fr/2026/02/tnt26-entree2.webp"
     },
     {
+      "id": "f16771403d7c",
+      "title": "Une journée (riche) aux Cloud Native Days France 2026 (Partie 1/2)",
+      "description": "Le mardi 3 Février 2026, Ippon Technologies était présente au Cloud Native Days France (anciennement Kubernetes Community Days) le salon du Cloud Native, du DevOps et de la souveraineté 3 ans après la première édition en 2023. L&",
+      "link": "https://blog.ippon.fr/2026/02/13/une-journee-riche-aux-cloud-native-days-france-2026-partie-1-2/",
+      "pubDate": "2026-02-13T13:44:42.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/02/CloudNativeDays.png"
+    },
+    {
       "id": "baa08262ea12",
       "title": "Touraine Tech 2026 - Récap du jour 1",
       "description": "De retour à Touraine Tech ! Pour la 2ème fois, j’ai participé à la conférence Touraine Tech (la première fois c’était en 2022). Contrairement à 2022, la conférence a maintenant lieu à l’Université de Sciences de Tours (et non plus à Polytech) et se déroule sur 2 jours. L’occasion de revenir…",
@@ -324,6 +539,20 @@
         "Programmation"
       ],
       "image": "https://blog.zwindler.fr/2026/02/tnt26-entree.webp"
+    },
+    {
+      "id": "fe74b585a51f",
+      "title": "Savoir jusqu'où utiliser les \"boring technologies\"",
+      "description": "Je milite activement pour l’utilisation des « boring technologies », les technologies ennuyeuses, mais maîtrisées par rapport aux solutions « tendances ». Le plus dur étant de savoir où s’arrêter et de déterminer à quel moment il est temps de changer de solutions. Ce billet a été initialement…",
+      "link": "https://www.jdecool.fr/blog/2026/02/12/savoir-jusqu-ou-utiliser-les-boring-technologies.html",
+      "pubDate": "2026-02-11T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
     },
     {
       "id": "b7d2b5b594e6",
@@ -399,6 +628,21 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179391122-cover.jpg"
     },
     {
+      "id": "00e827d26cc9",
+      "title": "Fragments d'un web adolescent",
+      "description": "J’ai exhumé quelques vieux articles tapés, adolescent, entre 1996 et 1998. Sans éclat à leur époque, ces pages composent, trois décennies plus tard, la chronique d’un temps disparu. Le mot « blog » n’existe pas encore. Wikipédia reste à venir. Google n’a pas vu le jour. AltaVista règne sur les…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-anciens-articles",
+      "pubDate": "2026-02-08T13:51:44.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": null
+    },
+    {
       "id": "3fedc0123717",
       "title": "Avoir son ASN personnel pour annoncer ses IPs sur Internet",
       "description": "Je vais bientôt souffler la première bougie de mon ASN : 209238 🎉. Je me suis dit qu’il n’y aurait pas de meilleur cadeau pour lui que d’en faire un article de blog pour expliquer mon parcours et comment je l’utilise. On va commencer par le début et expliquer déjà ce qu’est un ASN. Qu’est-ce qu’un…",
@@ -428,6 +672,50 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "86695356ebda",
+      "title": "Mon environnement de développement avec mise et chez-moi",
+      "description": "Photo de Anastasia Chepinska sur Unsplash Depuis plusieurs mois, j’utilise différentes machines sous différents OS en fonction de l’activité : ordinateurs personnels sous MacOS ou Fedora (Merci Asahi Linux), et ordinateur professionnel sous Ubuntu 24. Sur chaque environnement, j’installe les mêmes…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/02/env-dev-avec-mise-et-chezmoi/",
+      "pubDate": "2026-02-07T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/02/env-dev-avec-mise-et-chezmoi/banner.avif"
+    },
+    {
+      "id": "ba9d559de34b",
+      "title": "Repenser les formulaires Symfony : une approche moderne",
+      "description": "MapQue­ryS­tring et MapRequest­Pay­load de Symfony et en s’ai­dant de compo­sants Twig, nous propo­sons une nouvelle manière de faire des formu­laires dans un projet Symfony.",
+      "link": "https://makina-corpus.com/application-web-mobile/repenser-les-formulaires-symfony-une-approche-moderne",
+      "pubDate": "2026-02-06T11:30:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "3e743ef9ac30",
+      "title": "Module Itinéraires ou Outdoor, lequel choisir ?",
+      "description": "Dans Geotrek, la ques­tion du choix entre le module Itiné­raires et les modules Outdoor revient très fréquem­ment, notam­ment lors des premières prises en main ou des évolu­tions de confi­gu­ra­tion.",
+      "link": "https://makina-corpus.com/logiciel-libre/module-itineraires-ou-outdoor-lequel-choisir",
+      "pubDate": "2026-02-06T10:15:20.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
       "id": "b24de20bac4e",
       "title": "Impact de l'IA sur l'état de l'art de l'ingénierie logicielle en 2026",
       "description": "Comment l'IA a-t-elle transformé l'ingénierie logicielle ? De la fin de l'ego-coding au 'Context Driven Engineering', découvrez des retours d'expérience de Doctolib, Malt, Alan et Google sur l'industrialisation des agents IA en 2026",
@@ -455,6 +743,36 @@
         "Programmation"
       ],
       "image": "https://blog.zwindler.fr/2026/02/cndf26-keynote.webp"
+    },
+    {
+      "id": "c1eec90bb569",
+      "title": "Patterns d'Architecture 2026 - Du Hype à la Réalité du Terrain Part. 2/2",
+      "description": "Découvrez les patterns d'architecture incontournables de 2026 : Strangler Fig Pattern, ACL, Service Mesh, Hexagonal Architecture.",
+      "link": "https://blog.ippon.fr/2026/02/04/patterns-darchitecture-2026-part-2/",
+      "pubDate": "2026-02-04T08:38:17.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/02/Design-sans-titre--18-.png"
+    },
+    {
+      "id": "195cfd76b550",
+      "title": "Siloter les équipes, c'est effriter la cohésion",
+      "description": "J’évoque régulièrement la thématique du silotage des équipes. Aujourd’hui, j’aimerais revenir sur les barrières invisibles que cela crée pour la collaboration et le partage des connaissances. Découper les équipes, les isoler, c’est faire en sorte que ces dernières puissent se concentrer sur leur…",
+      "link": "https://www.jdecool.fr/blog/2026/02/04/siloter-les-equipes-c-est-effriter-la-cohesion.html",
+      "pubDate": "2026-02-03T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
     },
     {
       "id": "0747a15bd6f1",
