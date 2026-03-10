@@ -10,7 +10,7 @@ export function GET(context: APIContext) {
     description: 'Les derniers articles tech, IA, DevOps, Cloud et Cybersécurité agrégés par YoanDev.',
     site: context.site!,
     items: articles.map((article) => ({
-      title: article.title,
+      title: `Flux par YoanDev - ${article.title}`,
       pubDate: new Date(article.pubDate),
       description: article.description,
       link: `/article/${article.id}/`,
