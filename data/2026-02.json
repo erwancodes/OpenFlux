@@ -29,6 +29,20 @@
       "image": null
     },
     {
+      "id": "993894a1a593",
+      "title": "Les géants de l’industrie misent massivement sur la robotique et les humanoïdes",
+      "description": "L’industrie mondiale est en pleine mutation. Face à la concurrence accrue, aux exigences de productivité et à la pénurie de main-d’œuvre qualifiée, les géants industriels investissent massivement dans la robotique avancée et, plus particulièrement, dans les robots humanoïdes. Ces machines, qui…",
+      "link": "https://www.robot-magazine.fr/les-geants-de-lindustrie-misent-massivement-sur-la-robotique-et-les-humanoides/?utm_source=rss&utm_medium=rss&utm_campaign=les-geants-de-lindustrie-misent-massivement-sur-la-robotique-et-les-humanoides",
+      "pubDate": "2026-02-27T12:04:51.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
       "id": "35af4c98d514",
       "title": "Google lance Nano Banana 2 !",
       "description": "Google lance Nano Banana 2, un modèle d'IA générative d'images combinant vitesse et puissance. Découvrez comment ce nouveau modèle offre une qualité d'image exceptionnelle, une cohérence des sujets améliorée et un contrôle créatif précis, tout en étant accessible dans divers produits Google pour…",
@@ -135,6 +149,21 @@
       "image": null
     },
     {
+      "id": "ca2bdfcccfa0",
+      "title": "Statement on the comments from Secretary of War Pete Hegseth",
+      "description": "Statement on the comments from Secretary of War Pete Hegseth",
+      "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "pubDate": "2026-02-27T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6a1dbadfc435",
       "title": "Productivité et qualité",
       "description": "Comment concilier l’augmentation de la productivité grâce à des outils comme les LLM avec le maintien d’une qualité élevée ? C’est la question que je me pose depuis un moment, et je pense que nous sommes à un tournant critique. La délégation, ce serpent de mer Quand on parle de l’état du marché du…",
@@ -191,6 +220,20 @@
       "image": null
     },
     {
+      "id": "ecf444f22cb6",
+      "title": "Pourquoi 2026 pourrait être l’année charnière des robots humanoïdes",
+      "description": "L’année 2026 s’annonce comme un tournant majeur dans le développement des robots humanoïdes. Après des décennies de recherche théorique et d’expérimentations techniques souvent limitées à des laboratoires ou des démonstrations spectaculaires, plusieurs facteurs convergent pour rendre les robots…",
+      "link": "https://www.robot-magazine.fr/pourquoi-2026-pourrait-etre-lannee-charniere-des-robots-humanoides/?utm_source=rss&utm_medium=rss&utm_campaign=pourquoi-2026-pourrait-etre-lannee-charniere-des-robots-humanoides",
+      "pubDate": "2026-02-26T10:57:38.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
       "id": "f10779032ad8",
       "title": "Google met à jour Flow pour générer des vidéos encore plus belles !",
       "description": "Google Labs dévoile une mise à jour majeure de Flow, sa plateforme de création de contenu assistée par IA. L'interface est repensée pour centraliser la création d'images et vidéos, avec des outils d'édition intuitifs et une gestion flexible des actifs. Découvrez comment Flow simplifie votre…",
@@ -232,6 +275,51 @@
       "image": "https://blog.zwindler.fr/2026/02/0_days_without_kyverno.webp"
     },
     {
+      "id": "1dfaa948d064",
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "description": "Statement from Dario Amodei on our discussions with the Department of War",
+      "link": "https://www.anthropic.com/news/statement-department-of-war",
+      "pubDate": "2026-02-26T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "698d96f37cb3",
+      "title": "Closing the code review loop with Bugbot Autofix",
+      "description": "Bugbot Autofix can find and automatically fix issues in PRs by spawning cloud agents to test your changes.",
+      "link": "https://cursor.com/blog/bugbot-autofix",
+      "pubDate": "2026-02-26T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7395f18d78e2",
+      "title": "The third era of AI software development",
+      "description": "A third era of AI software development is emerging as autonomous cloud agents take on larger tasks over longer timescales.",
+      "link": "https://cursor.com/blog/third-era",
+      "pubDate": "2026-02-26T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "37528664319f",
       "title": "Generative Coding : here we are",
       "description": "On y est. Le code est généré par des outils de génération de code, à base de prompts. Nous sommes au début de 2026. Les développeurs ouvrent un terminal, tapent \"Claude Code\", et génèrent du code avec des outils de GenAI. Je vous recommande la lecture passionnante du rapport \"The 2026 State of…",
@@ -259,6 +347,20 @@
       "image": null
     },
     {
+      "id": "55b604f21209",
+      "title": "Google DeepMind lance un accélérateur dédié à la robotique européenne",
+      "description": "Une opportunité stratégique pour les startups de l’IA incarnée La course mondiale à la robotique intelligente franchit une nouvelle étape. Google DeepMind vient d’annoncer l’ouverture des candidatures pour son Accelerator: Robotics, un programme intensif de trois mois destiné à soutenir les…",
+      "link": "https://www.robot-magazine.fr/google-deepmind-lance-un-accelerateur-dedie-a-la-robotique-europeenne/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-lance-un-accelerateur-dedie-a-la-robotique-europeenne",
+      "pubDate": "2026-02-25T09:55:00.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
       "id": "f20884f4e39e",
       "title": "Le syndrome B2BigB : comment les grands groupes tuent doucement les startups ",
       "description": "Vendre à un grand groupe semble être la validation ultime pour une startup. C'est souvent le début de la fin. Cycles de vente interminables, trésorerie en tension, produit détourné de sa roadmap : voici pourquoi le B2BigB est un piège, et comment essayer de l'éviter.",
@@ -271,6 +373,21 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390865-cover.jpg"
+    },
+    {
+      "id": "62d5eb25a465",
+      "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+      "description": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+      "link": "https://www.anthropic.com/news/acquires-vercept",
+      "pubDate": "2026-02-25T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "6007a2b34f02",
@@ -333,6 +450,20 @@
       "duration": "00:12:16"
     },
     {
+      "id": "bd3c3daef12c",
+      "title": "Robots industriels vs robots domestiques : Deux mondes technologiques aux trajectoires divergentes",
+      "description": "À première vue, le mot « robot » semble désigner une réalité homogène. Pourtant, derrière cette appellation unique se cachent deux univers radicalement différents : celui des robots industriels, piliers invisibles de la production mondiale, et celui des robots domestiques, conçus pour évoluer dans…",
+      "link": "https://www.robot-magazine.fr/robots-industriels-vs-robots-domestiques-deux-mondes-technologiques-aux-trajectoires-divergentes/?utm_source=rss&utm_medium=rss&utm_campaign=robots-industriels-vs-robots-domestiques-deux-mondes-technologiques-aux-trajectoires-divergentes",
+      "pubDate": "2026-02-24T10:32:31.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
       "id": "6f78fd24792c",
       "title": "Votre prochain git push --force écrasera peut-être le travail de quelqu'un (voici comment l'éviter)",
       "description": "Un flag Git méconnu protège votre équipe des force push accidentels. Mais il a une faille que votre IDE peut exploiter sans que vous le sachiez.",
@@ -364,6 +495,36 @@
       "image": "https://lostinbrittany.dev/img/posts/2026-02-24-why-im-learning-rust-in-2026.png"
     },
     {
+      "id": "0d40f97ea619",
+      "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+      "description": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+      "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+      "pubDate": "2026-02-24T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5601774955a8",
+      "title": "Cursor agents can now control their own computers",
+      "description": "Cloud agents use the software they create to verify changes and demo their work.",
+      "link": "https://cursor.com/blog/agent-computer-use",
+      "pubDate": "2026-02-24T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "dd9e28f3e0fc",
       "title": "Diplôme, Titre RNCP, Bachelor, Mastère… quelles différences ?",
       "description": "Vous cherchez votre future école et vous êtes perdu dans toute l'offre de diplômes, titres et certifications en tout genre ?",
@@ -392,6 +553,35 @@
         "DevOps"
       ],
       "image": null
+    },
+    {
+      "id": "387661baf1bb",
+      "title": "IA incarnée, vision 3D, manipulation fine : les vraies ruptures robotiques",
+      "description": "Depuis plusieurs années, la robotique évolue à un rythme soutenu. Pourtant, derrière les annonces spectaculaires et les démonstrations impressionnantes, les véritables ruptures ne résident pas dans la forme des robots ou leur apparence humanoïde, mais dans trois transformations technologiques…",
+      "link": "https://www.robot-magazine.fr/ia-incarnee-vision-3d-manipulation-fine-les-vraies-ruptures-robotiques/?utm_source=rss&utm_medium=rss&utm_campaign=ia-incarnee-vision-3d-manipulation-fine-les-vraies-ruptures-robotiques",
+      "pubDate": "2026-02-23T11:01:36.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d3d38ded1c60",
+      "title": "Detecting and preventing distillation attacks",
+      "description": "Detecting and preventing distillation attacks",
+      "link": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "pubDate": "2026-02-23T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "353fb233137c",
@@ -471,6 +661,20 @@
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Jg8L3SbgZ3o"
     },
     {
+      "id": "e5ca9efb7e09",
+      "title": "Zurich : l’écosystème discret qui propulse la robotique européenne",
+      "description": "Alors que beaucoup de startups robotiques rêvent encore de la Silicon Valley, une autre ville s’impose progressivement comme un hub stratégique pour l’industrie robotique européenne : Zurich. Contrairement au logiciel pur, la robotique ne se développe pas uniquement dans un garage ou derrière un…",
+      "link": "https://www.robot-magazine.fr/zurich-lecosysteme-discret-qui-propulse-la-robotique-europeenne/?utm_source=rss&utm_medium=rss&utm_campaign=zurich-lecosysteme-discret-qui-propulse-la-robotique-europeenne",
+      "pubDate": "2026-02-20T09:00:38.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
       "id": "15fa5c248e78",
       "title": "MACI #154 - IA, veille techno et société - Avec Sébastien Prunier de SERLI",
       "description": "Dans cet épisode de Message à Caractère Informatique, nos invités explorent l’impact concret des outils d’IA générative sur le développement logiciel et le déploiement d’applications en ligne. Nous parlons d’agents, de modèles exécutables localement, et des nouvelles interfaces comme MCP qui…",
@@ -502,6 +706,21 @@
         "Cloud"
       ],
       "image": null
+    },
+    {
+      "id": "fe5168dbfade",
+      "title": "Making frontier cybersecurity capabilities available to defenders",
+      "description": "Making frontier cybersecurity capabilities available to defenders",
+      "link": "https://www.anthropic.com/news/claude-code-security",
+      "pubDate": "2026-02-20T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "81d8a0d4575c",
@@ -577,6 +796,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!vGju!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd14947d4-f0ca-4aa2-b267-e3733c24d36a_1200x630.png"
+    },
+    {
+      "id": "e0c333f9dafe",
+      "title": "Le CNRS renforce la souveraineté robotique française avec France 2030",
+      "description": "La robotique française entre dans une nouvelle phase stratégique. Le 3 février, le CNRS a officiellement lancé un programme de recherche ambitieux dans le cadre du plan France 2030. Doté de 30 millions d’euros sur six ans et demi, ce dispositif vise à lever les verrous scientifiques et…",
+      "link": "https://www.robot-magazine.fr/le-cnrs-renforce-la-souverainete-robotique-francaise-avec-france-2030/?utm_source=rss&utm_medium=rss&utm_campaign=le-cnrs-renforce-la-souverainete-robotique-francaise-avec-france-2030",
+      "pubDate": "2026-02-19T06:48:16.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2026/02/wandercradt.jpg",
+      "type": "blog"
     },
     {
       "id": "6d59d235116c",
@@ -676,6 +909,21 @@
       "duration": "3548"
     },
     {
+      "id": "432145ce1d8c",
+      "title": "Implementing a secure sandbox for local agents",
+      "description": "How we built agent sandboxing on macOS, Linux, and Windows to reduce interruptions while improving security.",
+      "link": "https://cursor.com/blog/agent-sandboxing",
+      "pubDate": "2026-02-18T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9f400246f07c",
       "title": "Boring technology: les bases de données relationnelles",
       "description": "La semaine dernière, j’évoquais les « boring technologies » et le fait qu’elles soient sous-cotées dans l’esprit collectif. Les bases de données relationnelles et le langage SQL en sont probablement l’exemple le plus courant. Très largement utilisées dans les projets nécessitant de stocker des…",
@@ -719,6 +967,66 @@
         "Web"
       ],
       "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Capture_d_ecran_2026_02_17_a_11_12_20_6fa0af2297.png"
+    },
+    {
+      "id": "4132eb3adfd5",
+      "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+      "description": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+      "link": "https://www.anthropic.com/news/anthropic-rwanda-mou",
+      "pubDate": "2026-02-17T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4a45eed67ee",
+      "title": "Introducing Claude Sonnet 4.6",
+      "description": "Introducing Claude Sonnet 4.6",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "pubDate": "2026-02-17T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1d9762162927",
+      "title": "Extend Cursor with plugins",
+      "description": "Discover and install pre-built capabilities on the Cursor Marketplace.",
+      "link": "https://cursor.com/blog/marketplace",
+      "pubDate": "2026-02-17T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8c83d38309fa",
+      "title": "How Stripe rolled out a consistent Cursor experience for 3,000 engineers",
+      "description": "Stripe pre-installs Cursor on every developer's machine to help engineers become productive with coding agents on day one.",
+      "link": "https://cursor.com/blog/stripe",
+      "pubDate": "2026-02-17T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "cfae016ab210",
@@ -972,6 +1280,21 @@
       "duration": "1:00:10"
     },
     {
+      "id": "196cf9a5d7c1",
+      "title": "Box chooses Cursor for enterprise-grade quality, security, and control",
+      "description": "Over 85% of engineers at Box now use Cursor daily, driving a 30-50% increase in roadmap throughput and a 80-90% reduction in migration effort.",
+      "link": "https://cursor.com/blog/box",
+      "pubDate": "2026-02-13T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "baa08262ea12",
       "title": "Touraine Tech 2026 - Récap du jour 1",
       "description": "De retour à Touraine Tech ! Pour la 2ème fois, j’ai participé à la conférence Touraine Tech (la première fois c’était en 2022). Contrairement à 2022, la conférence a maintenant lieu à l’Université de Sciences de Tours (et non plus à Polytech) et se déroule sur 2 jours. L’occasion de revenir…",
@@ -1016,6 +1339,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!lySc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F969eaaac-d4ef-4d10-8d8f-166a5e666c13_1017x556.png"
+    },
+    {
+      "id": "dd2c4d6606b3",
+      "title": "Expanding our long-running agents research preview",
+      "description": "Long-running agents are now available in the Cursor web app for Ultra, Teams, and Enterprise users.",
+      "link": "https://cursor.com/blog/long-running-agents",
+      "pubDate": "2026-02-12T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "fe74b585a51f",
@@ -1064,6 +1402,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/08157386-d323-4410-b09e-bc8b48298766.mp3?_=1770728512",
       "duration": "01:13:14"
+    },
+    {
+      "id": "24576775934b",
+      "title": "Increased usage for agents",
+      "description": "We've increased the included agent usage on individual plans.",
+      "link": "https://cursor.com/blog/increased-agent-usage",
+      "pubDate": "2026-02-11T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "5ea20c4076f5",
@@ -1167,6 +1520,21 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179391122-cover.jpg"
+    },
+    {
+      "id": "91be1ed7bbe6",
+      "title": "Introducing Composer 1.5",
+      "description": "Improved reasoning over challenging coding tasks by scaling RL over 20x.",
+      "link": "https://cursor.com/blog/composer-1-5",
+      "pubDate": "2026-02-09T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "00e827d26cc9",
@@ -1286,6 +1654,21 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179391028-cover.jpg"
     },
     {
+      "id": "a0a0e8d2cb82",
+      "title": "NVIDIA commits 3x more code across 30,000 developers with Cursor",
+      "description": "NVIDIA embeds Cursor across its SDLC to automate key workflows like code generation, testing, debugging, and deployment.",
+      "link": "https://cursor.com/blog/nvidia",
+      "pubDate": "2026-02-06T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a146d7a561bd",
       "title": "De l’intuition à l’argumentation : comment structurer votre pensée technique pour convaincre",
       "description": "Voici comment transformer votre intuition technique en arguments que personne ne peut balayer d'un revers de main.",
@@ -1299,6 +1682,21 @@
         "IA"
       ],
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/18d027e8-3422-4532-a9f5-8a98fba49a9f_1200x630.webp"
+    },
+    {
+      "id": "3fd7b9ca87dd",
+      "title": "Towards self-driving codebases",
+      "description": "We're making a part of our multi-agent research harness available to try today in preview.",
+      "link": "https://cursor.com/blog/self-driving-codebases",
+      "pubDate": "2026-02-05T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "618c3abfb039",
@@ -1396,6 +1794,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/fdfbad39-b049-4dba-9a97-453be1a0c555.mp3?_=1770123694",
       "duration": "01:02:31"
+    },
+    {
+      "id": "091b61caa9d6",
+      "title": "Claude is a space to think",
+      "description": "Claude is a space to think",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "pubDate": "2026-02-04T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "195cfd76b550",

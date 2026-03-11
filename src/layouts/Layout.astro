@@ -12,7 +12,7 @@ interface Props {
   noindex?: boolean;
 }
 
-const { title, description = 'Agrégateur de veille technologique — Les derniers articles tech, IA, DevOps, Cloud et Cybersécurité.', image, canonicalOverride, noindex = false } = Astro.props;
+const { title, description = 'Agrégateur de veille technologique — Les derniers articles tech, IA, DevOps, Cloud, Cybersécurité, Robotique et Vibe Coding.', image, canonicalOverride, noindex = false } = Astro.props;
 const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site).toString();
 ---
 
@@ -23,7 +23,7 @@ const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content={Astro.generator} />
 
-    <title>{title} | Flux</title>
+    <title>{title} | OpenFlux</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
     {noindex && <meta name="robots" content="noindex, follow" />}
@@ -31,13 +31,13 @@ const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonicalURL} />
-    <meta property="og:title" content="Flux. Veille technologique agrégée par YoanDev" />
+    <meta property="og:title" content="OpenFlux. Veille technologique agrégée par Erwan Codes" />
     <meta property="og:description" content={description} />
     {image && <meta property="og:image" content={image} />}
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Flux. Veille technologique agrégée par YoanDev" />
+    <meta name="twitter:title" content="OpenFlux. Veille technologique agrégée par Erwan Codes" />
     <meta name="twitter:description" content={description} />
     {image && <meta name="twitter:image" content={image} />}
 
@@ -61,7 +61,7 @@ const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site
     </main>
     <footer class="border-t border-zinc-800 py-6 text-center text-sm text-zinc-500">
       <div class="max-w-7xl mx-auto px-4">
-        <p>Flux — Veille technologique agrégée par <a href="https://yoandev.co" class="text-indigo-400 hover:text-indigo-300 transition-colors">YoanDev</a></p>
+        <p>OpenFlux — Veille technologique agrégée par <a href="https://yoandev.co" class="text-indigo-400 hover:text-indigo-300 transition-colors">Erwan Codes</a></p>
         <p class="mt-1">
           <a href="/rss.xml" class="text-zinc-400 hover:text-indigo-400 transition-colors inline-flex items-center gap-1">
             <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>

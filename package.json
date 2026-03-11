@@ -1,8 +1,8 @@
 {
-  "name": "flux",
+  "name": "openflux",
   "type": "module",
   "version": "1.0.0",
-  "description": "Agrégateur de veille technologique RSS",
+  "description": "OpenFlux - Agrégateur de veille technologique RSS",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",

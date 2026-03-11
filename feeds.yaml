@@ -12,7 +12,7 @@ feeds:
     categories: [Programmation, IA, Web]
 
   - url: https://yoandev.co/rss.xml
-    name: YoanDev
+    name: Erwan Codes
     categories: [Programmation, Web, DevOps, IA]
 
   - url: https://les-tilleuls.coop/feed.xml
@@ -167,3 +167,27 @@ feeds:
     name: Message à caractère informatique
     type: podcast
     categories: [Programmation, IA, Web]
+
+  - url: https://www.robot-magazine.fr/feed/
+    name: Robot Magazine
+    categories: [Robotique]
+
+  - url: https://www.generationrobots.com/blog/fr/feed/
+    name: Génération Robots
+    categories: [Robotique, Programmation]
+
+  - url: https://www.blogdumoderateur.com/feed/
+    name: Blog du Modérateur
+    categories: [Vibe Coding, IA, Web]
+
+  - url: https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml
+    name: Anthropic News
+    categories: [Vibe Coding, IA]
+
+  - url: http://feeds.feedburner.com/Pressecitron
+    name: Presse-citron
+    categories: [Vibe Coding, IA, Web]
+
+  - url: https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml
+    name: Cursor Blog
+    categories: [Vibe Coding, Programmation]

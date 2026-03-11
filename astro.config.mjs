@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://flux.yoandev.co',
+  site: 'https://flux.erwancodes.me',
   prefetch: {
     prefetchAll: true,
     defaultStrategy: 'viewport',

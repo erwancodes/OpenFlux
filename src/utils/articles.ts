@@ -16,8 +16,20 @@ export function loadAllArticles(): Article[] {
   return articles;
 }
 
+// Liste des catégories prédéfinies
+const PREDEFINED_CATEGORIES = [
+  'Programmation',
+  'IA',
+  'DevOps',
+  'Cybersécurité',
+  'Cloud',
+  'Web',
+  'Robotique',
+  'Vibe Coding',
+];
+
 export function getAllCategories(articles: Article[]): string[] {
-  const cats = new Set<string>();
+  const cats = new Set<string>(PREDEFINED_CATEGORIES);
   for (const article of articles) {
     for (const cat of article.categories) {
       cats.add(cat);
@@ -96,6 +108,8 @@ const categoryGradients: Record<string, string> = {
   Cybersécurité: 'from-red-600 to-rose-800',
   Cloud: 'from-sky-600 to-blue-800',
   Web: 'from-amber-600 to-yellow-800',
+  Robotique: 'from-cyan-600 to-cyan-800',
+  'Vibe Coding': 'from-fuchsia-600 to-pink-800',
 };
 
 export function getCategoryGradient(categories: string[]): string {
@@ -112,6 +126,8 @@ const categoryColors: Record<string, string> = {
   Cybersécurité: 'bg-red-500/20 text-red-400 border-red-500/30',
   Cloud: 'bg-sky-500/20 text-sky-400 border-sky-500/30',
   Web: 'bg-amber-500/20 text-amber-400 border-amber-500/30',
+  Robotique: 'bg-cyan-500/20 text-cyan-400 border-cyan-500/30',
+  'Vibe Coding': 'bg-fuchsia-500/20 text-fuchsia-400 border-fuchsia-500/30',
 };
 
 export function getCategoryColor(category: string): string {

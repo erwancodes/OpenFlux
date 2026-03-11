@@ -1,6 +1,6 @@
-# Flux
+# OpenFlux
 
-Agrégateur de veille technologique RSS. Un site statique construit avec Astro et Tailwind CSS, mis à jour automatiquement chaque matin via GitHub Actions.
+OpenFlux — Agrégateur de veille technologique RSS. Un site statique construit avec Astro et Tailwind CSS, mis à jour automatiquement chaque matin via GitHub Actions.
 
 ## Fonctionnalités
 
@@ -51,7 +51,7 @@ feeds:
     categories: [Programmation, Web]
 ```
 
-Catégories disponibles : `Programmation`, `IA`, `DevOps`, `Cybersécurité`, `Cloud`, `Web`.
+Catégories disponibles : `Programmation`, `IA`, `DevOps`, `Cybersécurité`, `Cloud`, `Web`, `Robotique`, `Vibe Coding`.
 
 Vous pouvez en ajouter de nouvelles, elles seront automatiquement prises en compte.
 

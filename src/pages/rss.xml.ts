@@ -6,11 +6,11 @@ export function GET(context: APIContext) {
   const articles = loadAllArticles().slice(0, 50);
 
   return rss({
-    title: 'Flux par YoanDev — Veille technologique',
-    description: 'Les derniers articles tech, IA, DevOps, Cloud et Cybersécurité agrégés par YoanDev.',
+    title: 'OpenFlux par Erwan Codes — Veille technologique',
+    description: 'Les derniers articles tech, IA, DevOps, Cloud, Cybersécurité, Robotique et Vibe Coding agrégés par Erwan Codes.',
     site: context.site!,
     items: articles.map((article) => ({
-      title: `Flux par YoanDev - ${article.title}`,
+      title: `OpenFlux - ${article.title}`,
       pubDate: new Date(article.pubDate),
       description: article.description,
       link: `/article/${article.id}/`,

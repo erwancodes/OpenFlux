@@ -82,6 +82,21 @@
       "image": null
     },
     {
+      "id": "6af746734c3c",
+      "title": "Claude on Mars",
+      "description": "Claude on Mars",
+      "link": "https://www.anthropic.com/mars",
+      "pubDate": "2026-01-30T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "adedb60a1227",
       "title": "La réunion d'équipe la plus importante",
       "description": "La réunion d’équipe que je considère comme indispensable est certainement la rétrospective. C’est un point essentiel pour favoriser l’amélioration continue et renforcer la dynamique d’équipe. La rétrospective permet de mettre en place un espace dédié pour réfléchir et prendre du recul sur le…",
@@ -169,6 +184,21 @@
         "Web"
       ],
       "image": "https://jolicode.com//media/cache/content/2026/elasticon/elasticon-2026.jpg"
+    },
+    {
+      "id": "ffdb1d750790",
+      "title": "Dynamixel : les points à vérifier avant d’intégrer un servo (XC/XM)",
+      "description": "Dynamixel : les points à vérifier avant d’intégrer un servomoteur (XC/XM) January 28, 2026 Quand on monte un prototype multi-axes (petit bras manipulateur, robot mobile, humanoïde, démonstrateur…), le choix des servomoteurs finit souvent par structurer tout le reste : mécanique, alimentation,…",
+      "link": "https://www.generationrobots.com/blog/fr/dynamixel-les-points-a-verifier-avant-dintegrer-un-servo-xc-xm/",
+      "pubDate": "2026-01-28T13:25:24.000Z",
+      "source": "Génération Robots",
+      "sourceUrl": "https://www.generationrobots.com/blog/fr/feed/",
+      "categories": [
+        "Robotique",
+        "Programmation"
+      ],
+      "image": "https://www.generationrobots.com/blog/wp-content/uploads/2026/01/serie-x-dynamixel-servomotors-300x150.jpg",
+      "type": "blog"
     },
     {
       "id": "e863ad0ff063",
@@ -276,6 +306,21 @@
       "image": "https://domopi.eu/content/images/2025/12/BCO.9e8ed0ba-e305-48b9-8355-716993157c21.webp"
     },
     {
+      "id": "f0817fc72b1b",
+      "title": "Securely indexing large codebases",
+      "description": "By securely reusing a teammate's existing index, we cut time-to-first-query from hours to seconds on the largest repos.",
+      "link": "https://cursor.com/blog/secure-codebase-indexing",
+      "pubDate": "2026-01-27T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9a0f795956b2",
       "title": "Quoi de neuf les devs? #163 - Veille tech et l'interview de Raphaël",
       "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Raphaël le papa d'Alsacréations. On parlera aussi de ✅ ASCII, ✅ Livewire, ✅ Rust, ✅ Game Dev, ✅ Java 26, ✅ etc...",
@@ -305,6 +350,21 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/01/Gemini_Generated_Image_vhb962vhb962vhb9.png"
+    },
+    {
+      "id": "2270e5d4760e",
+      "title": "Dropbox uses Cursor to index over 550,000 files and build an AI-native SDLC",
+      "description": "Dropbox accepts more than 1 million lines of agent generated code with Cursor every month, improving PR velocity and cycle time.",
+      "link": "https://cursor.com/blog/dropbox",
+      "pubDate": "2026-01-26T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "a0eb4bfad002",
@@ -607,6 +667,21 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "692fe50fca5d",
+      "title": "Salesforce accelerates velocity by over 30% and ships higher-quality code with Cursor",
+      "description": "Over 75% of developers at Salesforce now use Cursor, driving double-digit improvements in cycle time, PR velocity, and code quality.",
+      "link": "https://cursor.com/blog/salesforce",
+      "pubDate": "2026-01-21T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "7ecc192f73df",
@@ -971,6 +1046,21 @@
       "duration": "3808"
     },
     {
+      "id": "d356fb699b9b",
+      "title": "Building a better Bugbot",
+      "description": "How we used a custom AI-driven metric to systematically improve Bugbot.",
+      "link": "https://cursor.com/blog/building-bugbot",
+      "pubDate": "2026-01-15T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cf3442e1d095",
       "title": "Timeline de Velorutopia par ChatGPT",
       "description": "Mon collègue Mathieu a eu une drôle d’idée, celle de demander à ChatGPT de générer… la timeline de ma nouvelle, Vélorutopia. Je me suis dit que ça vous amuserait peut-être de voir, dans l’ordre chronologique, comment on est passé de 2025 (et même avant) à 2051, et ce qui s’est passé dans le monde.…",
@@ -1015,6 +1105,21 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390398-cover.jpg"
+    },
+    {
+      "id": "8b8b74bdb5b3",
+      "title": "Scaling long-running autonomous coding",
+      "description": "We've been experimenting with running coding agents autonomously for weeks at a time.",
+      "link": "https://cursor.com/blog/scaling-agents",
+      "pubDate": "2026-01-14T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "5c22089ae3fa",
@@ -1208,6 +1313,21 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "d729dd16169d",
+      "title": "Best practices for coding with agents",
+      "description": "A comprehensive guide to working with coding agents, from starting with plans to managing context, customizing workflows, and reviewing code.",
+      "link": "https://cursor.com/blog/agent-best-practices",
+      "pubDate": "2026-01-09T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "de2f53ce5720",
       "title": "Les syndicats, (tout) contre l’IA",
       "description": "En 1977, la Confédération française démocratique du travail (CFDT) publie un épais ouvrage qui décrit le quotidien des travailleur·euses de la poste, des banques et d’autres secteurs concernés par l’automatisation 1. Le constat du syndicat est sans appel : l’accélération Les syndicats, (tout)…",
@@ -1311,6 +1431,21 @@
         "Cloud"
       ],
       "image": null
+    },
+    {
+      "id": "f92116a7a437",
+      "title": "Dynamic context discovery",
+      "description": "As models improve as agents, we've found success by providing fewer details up front, making it easier for the agent to pull relevant context on its own.",
+      "link": "https://cursor.com/blog/dynamic-context-discovery",
+      "pubDate": "2026-01-06T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "7ca73e6b18d7",

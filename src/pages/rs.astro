@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import { loadAllArticles, formatDate } from '../utils/articles';
 
 const allArticles = loadAllArticles();
-const siteUrl = 'https://flux.yoandev.co';
+const siteUrl = 'https://flux.erwancodes.me';
 ---
 
 <Layout title="Partage Twitter" description="Generez des tweets pour partager les articles de veille." noindex>
@@ -127,7 +127,7 @@ const siteUrl = 'https://flux.yoandev.co';
   </div>
 </Layout>
 
-<script define:vars={{ articlesJson: JSON.stringify(allArticles), siteUrl: 'https://flux.yoandev.co' }}>
+<script define:vars={{ articlesJson: JSON.stringify(allArticles), siteUrl: 'https://flux.erwancodes.me' }}>
   const allArticles = JSON.parse(articlesJson);
   let visibleArticles = [];
   let currentDays = 1;
