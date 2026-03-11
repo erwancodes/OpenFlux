@@ -191,3 +191,7 @@ feeds:
   - url: https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml
     name: Cursor Blog
     categories: [Vibe Coding, Programmation]
+
+  - url: https://techcrunch.com/feed/
+    name: TechCrunch
+    categories: [IA, Programmation, Web]
