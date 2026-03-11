@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Flux is a French-language RSS feed aggregator built with **Astro 5** and deployed on **Netlify**. It aggregates 30+ tech RSS feeds into a static site with client-side search and filtering.
+Flux is a French-language RSS feed aggregator built with **Astro 5** and deployed on **Netlify**. It aggregates 36 tech RSS feeds into a static site with client-side search and filtering.
 
 ## Commands
 
@@ -30,7 +30,11 @@ Flux is a French-language RSS feed aggregator built with **Astro 5** and deploye
 - `src/utils/articles.ts` — Article loading, search, categorization utilities
 - `src/types/index.ts` — TypeScript interfaces (Article, FeedsConfig)
 - `src/pages/index.astro` — Main page with article list
+- `src/pages/page/[page].astro` — Static pagination pages
 - `src/pages/article/[id].astro` — Dynamic article detail (noindex)
+- `src/pages/sources.astro` — List of all aggregated RSS sources
+- `src/pages/a-propos.astro` — About page
+- `src/pages/search-index.json.ts` — JSON search index for Fuse.js (on-demand)
 - `src/pages/rss.xml.ts` — Outbound RSS feed (50 latest articles)
 
 ## Conventions

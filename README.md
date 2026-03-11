@@ -4,13 +4,14 @@ Agrégateur de veille technologique RSS. Un site statique construit avec Astro e
 
 ## Fonctionnalités
 
-- Agrégation automatique de flux RSS (cron quotidien à 6h)
+- Agrégation automatique de flux RSS (cron quotidien à 4h UTC)
 - Recherche full-text côté client (Fuse.js)
 - Filtrage par catégorie et par source
 - Pagination (15 articles/page)
 - Pages articles dédiées avec articles similaires
 - Indicateurs de fraîcheur (Nouveau / Récent)
 - Marquage des articles non lus
+- Pages Sources et À propos
 - Flux RSS sortant pour s'abonner
 - Dark mode, mobile first, View Transitions
 - SEO (meta, Open Graph, sitemap, robots.txt)
@@ -62,9 +63,9 @@ Vous pouvez en ajouter de nouvelles, elles seront automatiquement prises en comp
 ├── scripts/
 │   └── fetch-feeds.ts      # Script de récupération RSS
 ├── src/
-│   ├── components/         # Composants Astro
+│   ├── components/         # Composants Astro (ArticleCard, SearchBar, CategoryFilter…)
 │   ├── layouts/            # Layout principal
-│   ├── pages/              # Pages du site
+│   ├── pages/              # Pages du site (index, pagination, article, sources, à propos)
 │   ├── styles/             # CSS global
 │   ├── types/              # Types TypeScript
 │   └── utils/              # Utilitaires
@@ -85,7 +86,7 @@ Vous pouvez en ajouter de nouvelles, elles seront automatiquement prises en comp
 
 ## Déploiement
 
-Le site est déployé automatiquement sur Netlify à chaque push. L'action GitHub `fetch-feeds` tourne chaque matin à 6h et commit les nouveaux articles, ce qui déclenche un redéploiement.
+Le site est déployé automatiquement sur Netlify à chaque push. L'action GitHub `fetch-feeds` tourne chaque matin à 4h UTC et commit les nouveaux articles, ce qui déclenche un redéploiement.
 
 ## Licence
 
