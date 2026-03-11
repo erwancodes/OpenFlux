@@ -1,6 +1,6 @@
 {
   "framework": "astro",
-  "buildCommand": "npm run build",
+  "buildCommand": "npm run fetch-feeds && npm run build",
   "outputDirectory": "dist",
   "headers": [
     {

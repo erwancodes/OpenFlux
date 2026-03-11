@@ -2,6 +2,262 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "2bc6b5fb6e4b",
+      "title": "Hacker broke into FBI and compromised Epstein files, report says",
+      "description": "According to a Reuters report, a foreign hacker broke into a server that was part of the FBI’s investigation into Jeffrey Epstein — without realizing they had hacked an FBI server.",
+      "link": "https://techcrunch.com/2026/03/11/hacker-broke-into-fbi-and-compromised-epstein-files-report-says/",
+      "pubDate": "2026-03-11T16:50:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "494d61cc529d",
+      "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+      "description": "WordPress’s new browser-based service lets users create private sites without hosting or signup, turning the platform into a personal workspace for writing, research, and AI tools.",
+      "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
+      "pubDate": "2026-03-11T16:43:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "06ca1176f1ae",
+      "title": "Quoi de neuf les devs? #169 - Veille tech et l'interview d'Aurélien",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview d'Aurélien. On parlera aussi de ✅ SSH, ✅ PHP, ✅ JWT, ✅ Silicon Graphics, ✅ Tests techniques, ✅ etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-169-veille",
+      "pubDate": "2026-03-11T16:37:51.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KIuL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5cfbcc6-4eac-49b3-bdbc-1826d4cc8bc5_1920x1251.webp",
+      "type": "blog"
+    },
+    {
+      "id": "d523cb92325d",
+      "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+      "description": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
+      "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "pubDate": "2026-03-11T16:12:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f8e6e95fefb4",
+      "title": "EV startup Harbinger reveals a smaller work truck with electric and hybrid variants",
+      "description": "The LA-based startup is trying to corner the commercial truck market with its electric and hybrid trucks that offer a lower cost of ownership and a better driving experience.",
+      "link": "https://techcrunch.com/2026/03/11/ev-startup-harbinger-reveals-a-smaller-work-truck-with-electric-and-hybrid-variants/",
+      "pubDate": "2026-03-11T15:29:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "173735a5b226",
+      "title": "Meta didn’t buy Moltbook for bots — it bought into the agentic web",
+      "description": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
+      "link": "https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/",
+      "pubDate": "2026-03-11T15:11:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b6db5a5fcdab",
+      "title": "WhatsApp is launching parent-linked accounts for pre-teens",
+      "description": "WhatsApp is rolling out parent-managed accounts for under-13 users, limiting features to messaging and calls while giving parents PIN-protected controls, alerts, and approval over contacts and groups.",
+      "link": "https://techcrunch.com/2026/03/11/whatsapp-is-launching-parent-linked-accounts-for-pre-teens/",
+      "pubDate": "2026-03-11T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9bcc2be77571",
+      "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
+      "description": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
+      "link": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
+      "pubDate": "2026-03-11T14:48:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dcdb77873a65",
+      "title": "Meta rolls out new scam detection tools to Facebook, WhatsApp, and Messenger",
+      "description": "The tech giant says the new features are designed to alert users before they engage with something suspicious.",
+      "link": "https://techcrunch.com/2026/03/11/meta-rolls-out-new-scam-detection-tools-to-facebook-whatsapp-and-messenger/",
+      "pubDate": "2026-03-11T14:41:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e437bea6d44a",
+      "title": "Lucid Motors ships Apple CarPlay and Android Auto to Gravity SUV owners",
+      "description": "The update comes after a rocky first few months of software problems on the electric SUV.",
+      "link": "https://techcrunch.com/2026/03/11/lucid-motors-ships-apple-carplay-and-android-auto-to-gravity-suv-owners/",
+      "pubDate": "2026-03-11T14:29:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f08d2338f4a2",
+      "title": "Cloudflare permet de crawler un site entier avec une seule requête API",
+      "description": "Cloudflare déploie un nouveau endpoint /crawl dans son service Browser Rendering. L'outil permet de parcourir un site complet et d'en extraire le contenu en HTML, Markdown ou JSON structuré.",
+      "link": "https://www.blogdumoderateur.com/cloudflare-permet-crawler-site-entier-une-requete-api/",
+      "pubDate": "2026-03-11T14:18:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/cloudflare-crawl-api-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "eeddb26ac2e8",
+      "title": "Former Apple engineer raises $5M for a note-taking pendant that only records your voice",
+      "description": "Taya is trying to address privacy concerns around note-taking wearables with its device that can be worn as a pendant and records only the user's voice.",
+      "link": "https://techcrunch.com/2026/03/11/former-apple-engineer-raises-5m-for-a-note-taking-pendant-that-only-records-your-voice/",
+      "pubDate": "2026-03-11T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3f49f548a067",
+      "title": "Canopii looks to succeed where past indoor farms have not",
+      "description": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court.",
+      "link": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "pubDate": "2026-03-11T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b0840304d07",
+      "title": "TikTok now lets Apple Music subscribers play full songs without leaving the app",
+      "description": "TikTok, which is known for shaping music trends and viral songs, said the new feature is designed to make it easier to go from the moment of discovery to deeper listening.",
+      "link": "https://techcrunch.com/2026/03/11/tiktok-now-lets-apple-music-subscribers-play-full-songs-without-leaving-the-app/",
+      "pubDate": "2026-03-11T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "213f389057b8",
+      "title": "Google wraps up $32B acquisition of cloud cybersecurity startup Wiz",
+      "description": "Google has officially acquired Israeli cybersecurity firm Wiz for $32 billion in all-cash, a full year after the companies announced the deal. This marks Google's biggest acquisition in its history.",
+      "link": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/",
+      "pubDate": "2026-03-11T12:56:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5053ba2cb5c1",
+      "title": "Zoox plans to put its robotaxis on the Uber app in Vegas this year",
+      "description": "The purpose-built robotaxis will be available on Uber's app in Las Vegas this year, and Los Angeles next year, if Zoox gets the federal approval it's been seeking.",
+      "link": "https://techcrunch.com/2026/03/11/zoox-plans-to-put-its-robotaxis-on-the-uber-app-in-vegas-this-year/",
+      "pubDate": "2026-03-11T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0625b921cc6b",
       "title": "Anthropic dresse un classement des métiers les plus menacés par l’IA",
       "description": "Qui est vraiment menacé par l'IA ? Anthropic tente de répondre avec ses propres données et une méthodologie inédite, avec des conclusions qui tempèrent les scénarios catastrophistes. Pour le moment.",
@@ -15,6 +271,22 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/03/etude-anthropic-metiers-menaces-ia-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "290392ceea2f",
+      "title": "Health insurance startup Alan reaches €5B valuation",
+      "description": "Created in 2016, Alan has grown into a team of 740 people serving 1 million employees, freelancers, and retirees with health insurance and wellness services. Its app already lets users manage reimbursements, access doctors, and track health habits.",
+      "link": "https://techcrunch.com/2026/03/11/health-insurance-startup-alan-reaches-e5b-valuation/",
+      "pubDate": "2026-03-11T10:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -81,6 +353,22 @@
       "type": "blog"
     },
     {
+      "id": "15357f94634c",
+      "title": "Anduril snaps up space surveillance firm ExoAnalytic Solutions",
+      "description": "The deal could give Anduril a better shot at lucrative missile defense contracts through the \"Golden Dome\" system.",
+      "link": "https://techcrunch.com/2026/03/11/anduril-snaps-up-space-surveillance-firm-exoanalytic-solutions/",
+      "pubDate": "2026-03-11T07:01:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "55e5fd1e6aad",
       "title": "Branding digital en 2026 : « Le brand designer n’est plus seulement un créatif, c’est aussi un stratège »",
       "description": "Nous avons échangé avec Hélène Môme, brand et content designer B2B. Elle nous livre son regard sur l’évolution du métier et les compétences indispensables pour s'imposer en 2026.",
@@ -115,6 +403,22 @@
       "duration": "47:40"
     },
     {
+      "id": "71df12fc57b4",
+      "title": "Google brings Gemini in Chrome to India",
+      "description": "The rollout will let users access Gemini in Chrome through a sidebar on desktop, enabling them to ask Google's AI chatbot questions about the content on the screen; get information from their Gmail, Keep, Drive, and YouTube; and compare tab contents.",
+      "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+      "pubDate": "2026-03-11T02:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c1a59b1bc127",
       "title": "Installer et configurer Caddy 2 avec certificat SSL pour tous vos sous-domaines",
       "description": "Sécuriser votre serveur avec des certificat SSL pour tous vos sous-domaines grâce au DNS challenge",
@@ -128,6 +432,53 @@
         "DevOps"
       ],
       "image": null
+    },
+    {
+      "id": "c2ba3ca77ce3",
+      "title": "In a vote of confidence for Meta’s Threads, Kalshi adds sharing feature",
+      "description": "Kalshi now offers a share option that will automatically embed the relevant prediction market chart into a Threads post.",
+      "link": "https://techcrunch.com/2026/03/10/in-a-vote-of-confidence-for-metas-threads-kalshi-adds-sharing-feature/",
+      "pubDate": "2026-03-10T23:01:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "55025ff4fe1e",
+      "title": "Parent pénible",
+      "description": "Réunion parents-profs. Je suis prêt, j’ai bien réservé tous mes créneaux de 5 minutes sur l’application, et j’ai noté les questions que je veux poser. C’est l’heure de mon passage devant le professeur de français. Je m’assois, me présente. Il écrit notre nom de famille sur son petit cahier, avec…",
+      "link": "https://boris.schapira.dev/notes/2026-03-parent-penible/\n",
+      "pubDate": "2026-03-10T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "744fdfa90bd4",
+      "title": "Google and Tesla think we’re managing the electrical grid all wrong",
+      "description": "The duo have teamed up with other companies to launch Utilize, which seeks to change how the grid is used and regulated.",
+      "link": "https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/",
+      "pubDate": "2026-03-10T20:42:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "0302f8f8c7c8",
@@ -144,6 +495,22 @@
         "IA"
       ],
       "image": "https://les-tilleuls.coop/wp-content/uploads/2026/03/vignette-blog-1024x614.png"
+    },
+    {
+      "id": "67fb9e887f9e",
+      "title": "Amazon launches its healthcare AI assistant on its website and app",
+      "description": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+      "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+      "pubDate": "2026-03-10T20:10:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "fbfd5cf11daa",
