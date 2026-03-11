@@ -525,6 +525,22 @@
       "type": "blog"
     },
     {
+      "id": "0719105ec04a",
+      "title": "AI Tool Switching Is Stealth Friction – Beat It at the Access Layer",
+      "description": "Has your team’s sprint velocity actually improved since you approved all those AI coding tools? If not, recent research by JetBrains and UC Irvine shows your developers may be facing a new dimension of context switching that resists the usual fixes. The key findings were that most AI-assisted…",
+      "link": "https://blog.jetbrains.com/ai/2026/02/ai-tool-switching-is-stealth-friction-beat-it-at-the-access-layer/",
+      "pubDate": "2026-02-23T13:19:21.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/02/byok.jpg",
+      "type": "blog"
+    },
+    {
       "id": "dd9e28f3e0fc",
       "title": "Diplôme, Titre RNCP, Bachelor, Mastère… quelles différences ?",
       "description": "Vous cherchez votre future école et vous êtes perdu dans toute l'offre de diplômes, titres et certifications en tout genre ?",
@@ -691,6 +707,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.ausha.co/ygDLnsDkxKw3.mp3?t=1771324754",
       "duration": "58:24"
+    },
+    {
+      "id": "7da7195e71b8",
+      "title": "The Missing Link Between AI and Business Value",
+      "description": "Let’s call a spade a spade. Some enterprises are already using AI agents, but very few can explain their impact on business performance. Metrics such as DORA, SPACE, and developer experience indicators captured through third-party platforms offer insight into delivery velocity and developer quality…",
+      "link": "https://blog.jetbrains.com/ai/2026/02/the-missing-link-between-ai-and-business-value/",
+      "pubDate": "2026-02-20T06:27:54.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "8bf0cf8a59a9",
@@ -1326,6 +1358,22 @@
       "image": "https://i0.wp.com/dev-to-uploads.s3.amazonaws.com/uploads/articles/1yf6q4vacqcvsmlbjb1t.png?w=800&#038;ssl=1"
     },
     {
+      "id": "76b37890a608",
+      "title": "Are We Having the Wrong AI Dreams?",
+      "description": "(This opinion piece by JetBrains’ Team Lead in AI Development Experience reflects on key takeaways from NeurIPS 2025, a major AI research conference. It explains why these insights matter and considers related signals emerging from other recent research.) Mass layoffs, robots taking control of the…",
+      "link": "https://blog.jetbrains.com/ai/2026/02/are-we-having-the-wrong-ai-dreams/",
+      "pubDate": "2026-02-12T11:33:40.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/02/image-11.png",
+      "type": "blog"
+    },
+    {
       "id": "6a6d9bc370f9",
       "title": "Le guide définitif : quand utiliser type vs interface en TypeScript",
       "description": "J’ai épluché toutes les sources récentes sur type vs interface. Voici ce qu’il faut retenir ainsi que la règle que j’applique depuis plusieurs mois.",
@@ -1714,6 +1762,22 @@
       "image": "https://blog.zwindler.fr/2026/02/cndf26-keynote.webp"
     },
     {
+      "id": "c4798c0450e2",
+      "title": "Enhanced AI Management and Analytics for Organizations",
+      "description": "Today, we’re introducing the JetBrains Console, which provides enhanced AI management and analytics for organizations, including new capabilities to manage, observe, and control AI usage and costs across teams. AI is no longer an experiment for most development teams. It’s becoming part of the core…",
+      "link": "https://blog.jetbrains.com/ai/2026/02/enhanced-ai-management-and-analytics-for-organizations/",
+      "pubDate": "2026-02-04T10:31:58.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/02/Convert-to-GIF-project-2.gif",
+      "type": "blog"
+    },
+    {
       "id": "c1eec90bb569",
       "title": "Patterns d'Architecture 2026 - Du Hype à la Réalité du Terrain Part. 2/2",
       "description": "Découvrez les patterns d'architecture incontournables de 2026 : Strangler Fig Pattern, ACL, Service Mesh, Hexagonal Architecture.",
@@ -1836,6 +1900,22 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!Nmry!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe94f4ba-add8-49d9-ae86-279fd3d85c3e_922x602.png"
+    },
+    {
+      "id": "0443d184bf65",
+      "title": "Koog x ACP: Connect an Agent to Your IDE and More",
+      "description": "We hope you’re staying up to date with our latest posts and have checked out our tutorials on how to create coding agents in Koog and connect ACP-compliant agents to your JetBrains IDE. As useful as these guides are, one important piece was hitherto missing from the puzzle: How do you make your…",
+      "link": "https://blog.jetbrains.com/ai/2026/02/koog-x-acp-connect-an-agent-to-your-ide-and-more/",
+      "pubDate": "2026-02-02T13:02:34.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/01/image-6-1.png",
+      "type": "blog"
     },
     {
       "id": "0747a15bd6f1",

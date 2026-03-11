@@ -2,6 +2,38 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "0625b921cc6b",
+      "title": "Anthropic dresse un classement des métiers les plus menacés par l’IA",
+      "description": "Qui est vraiment menacé par l'IA ? Anthropic tente de répondre avec ses propres données et une méthodologie inédite, avec des conclusions qui tempèrent les scénarios catastrophistes. Pour le moment.",
+      "link": "https://www.blogdumoderateur.com/anthropic-classement-metiers-menaces-ia/",
+      "pubDate": "2026-03-11T10:20:22.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/etude-anthropic-metiers-menaces-ia-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "38f34428ff87",
+      "title": "LinkedIn : comment apparaître dans les réponses des IA",
+      "description": "Une étude Semrush menée sur 89 000 URL LinkedIn citées par ChatGPT, Google AI Mode et Perplexity, révèle les facteurs qui favorisent la visibilité dans les réponses générées par l'IA.",
+      "link": "https://www.blogdumoderateur.com/linkedin-comment-apparaitre-reponses-ia/",
+      "pubDate": "2026-03-11T09:59:16.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Semrush-citations-Linkedin-294x196.jpg",
+      "type": "blog"
+    },
+    {
       "id": "adb1486eb4fd",
       "title": "Permis rose : bientôt, il ne sera plus valable, voici la date limite pour le changer",
       "description": "Si vous avez encore un permis de conduire en carton rose, sachez qu'il va falloir le modifier pour qu'il rest valide. Le gouvernement a fixé une date butoir avant laquelle vous devrez obligatoirement le changer pour ne pas être en infraction.",
@@ -363,6 +395,22 @@
         "Web"
       ],
       "image": "https://www.presse-citron.net/app/uploads/2026/03/test-pixel-10a-review-880x587.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "227d1f772ed4",
+      "title": "Experimental AI Features for JetBrains IDEs: Recap and Insights",
+      "description": "JetBrains IDEs already offer a variety of AI features to help you with everyday development tasks, from code completion as you type to code generation and explanation in response to prompts or commands. As we continue expanding their AI capabilities, including with more tools and the ability to use…",
+      "link": "https://blog.jetbrains.com/ai/2026/03/experimental-ai-features-for-jetbrains-ides-recap-and-insights/",
+      "pubDate": "2026-03-10T16:32:30.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/03/image-11.png",
       "type": "blog"
     },
     {
@@ -850,6 +898,22 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/03/8-conseils-SEO-adaptation-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "270f94e2b018",
+      "title": "Air Launches as Public Preview – A New Wave of Dev Tooling Built on 26 Years of Experience",
+      "description": "Download Air – free for macOS. Windows and Linux versions coming soon. We hold a principled optimism for agentic software development – and a pragmatic one. After 26 years of building developer tools, we have a clear view of what needs to be built and a strong conviction that agents will…",
+      "link": "https://blog.jetbrains.com/air/2026/03/air-launches-as-public-preview-a-new-wave-of-dev-tooling-built-on-26-years-of-experience/",
+      "pubDate": "2026-03-09T13:02:18.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/03/Agent-Selector-2.png",
       "type": "blog"
     },
     {
@@ -1424,6 +1488,22 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/03/evolution-abonnes-snapchat-2022-202026-294x218.png",
+      "type": "blog"
+    },
+    {
+      "id": "4b1f776b8dea",
+      "title": "Cursor Joined the ACP Registry and Is Now Live in Your JetBrains IDE",
+      "description": "Cursor is now available as an AI agent inside JetBrains IDEs through the Agent Client Protocol. Select it from the agent picker, and it has full access to your project. If you’ve spent any time in the AI coding space, you already know Cursor. It has been one of the most requested additions to the…",
+      "link": "https://blog.jetbrains.com/ai/2026/03/cursor-joined-the-acp-registry-and-is-now-live-in-your-jetbrains-ide/",
+      "pubDate": "2026-03-04T15:28:01.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
