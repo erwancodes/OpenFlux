@@ -550,6 +550,23 @@
       "image": null
     },
     {
+      "id": "e580acb67162",
+      "title": "L'IA nous rend-elle plus productifs... ou plus crevés ?",
+      "description": "L'IA nous rend souvent plus productifs, ça, c'est indéniable. Seulement, pourquoi vous sentez-vous plus fatigué que jamais ? Vos tâches ont-elles radicalement changé ? Avez-vous l'impression de ne plus maîtriser les choses, que tout va trop vite ? Peut-être êtes-vous victime de la fatigue liée à…",
+      "link": "https://double-slash.dev/podcasts/iafatigue/",
+      "pubDate": "2026-03-02T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_128_iafatigue.mp3",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_128_iafatigue.mp3",
+      "duration": "2884"
+    },
+    {
       "id": "e651672f11b3",
       "title": "Dogfooding : Pourquoi mon propre blog est passé sur Writizzy ?",
       "description": "Dogfooding : Pourquoi j'ai migré EventuallyCoding vers Writizzy. Entre la difficulté de l'Open Source et l'agilité du SaaS, voici quelques retours d'expérience",

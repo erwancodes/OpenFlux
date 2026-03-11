@@ -168,6 +168,23 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390164-cover.jpg"
     },
     {
+      "id": "3d32a2b477ac",
+      "title": "🤖 News Janvier 2026 : Open Code, Qwen Code et un peu de code",
+      "description": "Dans cet épisode, nous évoquons du côté de l'IA, Claude Code avec Ollama, Open Code, Qwen Code et les compétences. L'équipe d'Astro qui migre vers Cloudflare. jQuery 4, Livewire 4 et une superbe librairie pour afficher vos chiffres. Retrouvez toutes les notes et les liens de l'épisode sur cette…",
+      "link": "https://double-slash.dev/podcasts/news-jan26/",
+      "pubDate": "2026-01-28T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_126_newsJanv26.mp3",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_126_newsJanv26.mp3",
+      "duration": "3567"
+    },
+    {
       "id": "801db48e60b1",
       "title": "PHP 8.4 : rattrapage de retard ou véritable modernisation ?",
       "description": "PHP 8.4 introduit les Property Hooks, la visibilité asymétrique et un parser HTML5 natif. Découvrez les nouveautés majeures de cette version attendue depuis des années.",
@@ -865,6 +882,23 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "647b5549a80c",
+      "title": "Inertia JS, le front et le back unifiés",
+      "description": "Inertia est un système qui permet de construire des applications web modernes en utilisant des frameworks front-end comme Vue.js ou React, tout en conservant une architecture back-end traditionnelle avec Laravel ou d'autres frameworks similaires. Retrouvez toutes les notes et les liens de l'épisode…",
+      "link": "https://double-slash.dev/podcasts/inertia/",
+      "pubDate": "2026-01-15T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_125_inertiaJS_frontBack.mp3",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_125_inertiaJS_frontBack.mp3",
+      "duration": "3808"
     },
     {
       "id": "cf3442e1d095",

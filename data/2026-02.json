@@ -606,6 +606,23 @@
       "image": null
     },
     {
+      "id": "dce0234eb937",
+      "title": "News Février 2026, du WebMCP, des agents spammeurs et du Markdown.",
+      "description": "Nous évoquons l'arrivée des WebMCP, l'option Cloudflare qui permet de retourner du markdown sur une requête, NativePHP qui devient open-source et gratuit, un jeu éducatif pour les enfants, TransformerJS qui arrive en V4, les projets open-source qui se font spammer et la perte de confiance des…",
+      "link": "https://double-slash.dev/podcasts/news-fev26/",
+      "pubDate": "2026-02-18T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_127_news-fev26.mp3",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_127_news-fev26.mp3",
+      "duration": "3548"
+    },
+    {
       "id": "9f400246f07c",
       "title": "Boring technology: les bases de données relationnelles",
       "description": "La semaine dernière, j’évoquais les « boring technologies » et le fait qu’elles soient sous-cotées dans l’esprit collectif. Les bases de données relationnelles et le langage SQL en sont probablement l’exemple le plus courant. Très largement utilisées dans les projets nécessitant de stocker des…",
