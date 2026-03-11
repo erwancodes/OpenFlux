@@ -23,7 +23,7 @@ OpenFlux — Agrégateur de veille technologique RSS. Un site statique construit
 - [Fuse.js](https://www.fusejs.io) — Recherche côté client
 - [rss-parser](https://github.com/rbren/rss-parser) — Parsing des flux RSS
 - GitHub Actions — Automatisation
-- Netlify — Hébergement
+- Vercel — Hébergement
 
 ## Démarrage rapide
 
@@ -70,7 +70,7 @@ Vous pouvez en ajouter de nouvelles, elles seront automatiquement prises en comp
 │   ├── types/              # Types TypeScript
 │   └── utils/              # Utilitaires
 ├── .github/workflows/      # GitHub Actions
-├── netlify.toml            # Config Netlify
+├── netlify.toml            # Config Vercel
 └── astro.config.mjs        # Config Astro
 ```
 
@@ -86,7 +86,7 @@ Vous pouvez en ajouter de nouvelles, elles seront automatiquement prises en comp
 
 ## Déploiement
 
-Le site est déployé automatiquement sur Netlify à chaque push. L'action GitHub `fetch-feeds` tourne chaque matin à 4h UTC et commit les nouveaux articles, ce qui déclenche un redéploiement.
+Le site est déployé automatiquement sur Vercel à chaque push. L'action GitHub `fetch-feeds` tourne chaque matin à 4h UTC et commit les nouveaux articles, ce qui déclenche un redéploiement.
 
 ## Licence
 

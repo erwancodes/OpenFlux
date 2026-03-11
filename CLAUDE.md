@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-OpenFlux is a French-language RSS feed aggregator built with **Astro 5** and deployed on **Netlify**. It aggregates ~40 tech RSS feeds (blogs + podcasts) into a static site with client-side search and filtering. Site: `https://flux.erwancodes.me`.
+OpenFlux is a French-language RSS feed aggregator built with **Astro 5** and deployed on **Vercel**. It aggregates ~40 tech RSS feeds (blogs + podcasts) into a static site with client-side search and filtering. Site: `https://flux.erwancodes.me`.
 
 ## Commands
 
@@ -15,13 +15,13 @@ OpenFlux is a French-language RSS feed aggregator built with **Astro 5** and dep
 | `npm run preview` | Preview production build |
 | `npm run fetch-feeds` | Fetch RSS articles → `/data/*.json` |
 
-No test framework or linter is configured. Node 22 is used in CI and Netlify.
+No test framework or linter is configured. Node 22 is used in CI and Vercel.
 
 ## Architecture
 
-**Data pipeline:** `feeds.yaml` → `scripts/fetch-feeds.ts` (rss-parser + retry logic) → monthly JSON files in `/data/` → Astro static build → Netlify deploy.
+**Data pipeline:** `feeds.yaml` → `scripts/fetch-feeds.ts` (rss-parser + retry logic) → monthly JSON files in `/data/` → Astro static build → Vercel deploy.
 
-**Key flow:** GitHub Actions runs `fetch-feeds` daily at 4 UTC, commits new data files to `data/`, then Netlify auto-rebuilds on push.
+**Key flow:** GitHub Actions runs `fetch-feeds` daily at 4 UTC, commits new data files to `data/`, then Vercel auto-rebuilds on push.
 
 **Frontend:** Static HTML with client-side JS for Fuse.js search, category/source/type filtering, and pagination (15 articles/page). Uses Tailwind CSS v4 (via Vite plugin) and Astro View Transitions (`ClientRouter`).
 
