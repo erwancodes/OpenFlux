@@ -3,6 +3,11 @@
   "type": "module",
   "version": "1.0.0",
   "description": "OpenFlux - Agrégateur de veille technologique RSS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erwancodes/OpenFlux.git"
+  },
+  "author": "Erwan Codes (https://erwancodes.me)",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
