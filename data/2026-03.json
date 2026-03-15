@@ -2,6 +2,752 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "be02c839d8c2",
+      "title": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+      "description": "Rivian CEO RJ Scaringe shares his thoughts and plans for his newest startup, Mind Robotics.",
+      "link": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "pubDate": "2026-03-15T14:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e341fd9e1304",
+      "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+      "description": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
+      "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+      "pubDate": "2026-03-14T21:24:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d40239b502b3",
+      "title": "US Army announces contract with Anduril worth up to $20B",
+      "description": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+      "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "pubDate": "2026-03-14T20:47:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0fc6636161c2",
+      "title": "Honda is killing its EVs — and any chance of competing in the future",
+      "description": "Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.",
+      "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
+      "pubDate": "2026-03-14T17:23:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d73a9e65912a",
+      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+      "description": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+      "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+      "pubDate": "2026-03-14T16:28:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6c6a60425df5",
+      "title": "As people look for ways to make new friends, here are the apps promising to help",
+      "description": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "link": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "pubDate": "2026-03-14T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d91173cd1096",
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "description": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+      "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+      "pubDate": "2026-03-14T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d999f83a0a23",
+      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "description": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+      "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "pubDate": "2026-03-14T00:12:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3ff21e4bcf2",
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "pubDate": "2026-03-14T00:01:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "09ab689e89a7",
+      "title": "Digg lays off staff and shuts down app as company retools",
+      "description": "Digg laid off a significant number of staff and shut down its app, but says it's not giving up on the startup.",
+      "link": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/",
+      "pubDate": "2026-03-13T21:51:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ebaae0adb25",
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "description": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+      "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "pubDate": "2026-03-13T21:37:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "14478bfadb99",
+      "title": "Facebook makes it easier for creators to report impersonators",
+      "description": "Facebook is making it easier for creators to report impersonators while tightening rules around reposts and other unoriginal content.",
+      "link": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/",
+      "pubDate": "2026-03-13T20:48:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8486a2020e80",
+      "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+      "description": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+      "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+      "pubDate": "2026-03-13T19:47:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0d96d5f2d798",
+      "title": "The biggest AI stories of the year (so far)",
+      "description": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+      "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+      "pubDate": "2026-03-13T19:38:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "50f4cf5d4574",
+      "title": "Travis Kalanick launches a new company called Atoms focused on robotics",
+      "description": "Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.",
+      "link": "https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/",
+      "pubDate": "2026-03-13T19:28:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8d7c289cdfa4",
+      "title": "Refonte de la page Conférences : data-driven avec Hugo",
+      "description": "Grosse refonte de ma page “Conférences” qui était un bazar sans nom, dans lequel j’avais aussi mélangé les podcasts, les publications écrites, etc. Maintenant tout est présenté avec des “cartes”, et bien séparé en 3 pages distinctes. Tous les fichiers sources (YAML, layouts Hugo, CSS) sont…",
+      "link": "https://blog.zwindler.fr/2026/03/13/refonte-page-conferences-hugo/",
+      "pubDate": "2026-03-13T19:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/conferences-apres.webp",
+      "type": "blog"
+    },
+    {
+      "id": "03bc39a03eb3",
+      "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+      "description": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
+      "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
+      "pubDate": "2026-03-13T17:09:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f11706819c9d",
+      "title": "Spotify will let you edit your Taste Profile to control your recommendations",
+      "description": "When you edit your Taste Profile, you'll impact your personalized playlists like Discover Weekly, recommendations, and Wrapped.",
+      "link": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
+      "pubDate": "2026-03-13T17:04:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a62cf6ed595",
+      "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
+      "description": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google’s $32 billion deal, finalized after a declined 2024…",
+      "link": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
+      "pubDate": "2026-03-13T16:20:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "83f686a0487a",
+      "title": "Sortie d’API Platform 4.3 : rencontre avec l’IA",
+      "description": "Nous sommes ravis d’annoncer la sortie d’API Platform 4.3 ! Cette version introduit une fonctionnalité majeure : le support natif du Model Context Protocol (MCP), permettant à vos ressources d’être directement consommées par des agents IA. Au-delà du MCP, cette version apporte des capacités de…",
+      "link": "https://les-tilleuls.coop/blog/sortie-dapi-platform-4-3-rencontre-avec-lia",
+      "pubDate": "2026-03-13T15:46:32.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/03/Gemini_Generated_Image_wgyyxbwgyyxbwgyy-1-1024x512.png",
+      "type": "blog"
+    },
+    {
+      "id": "22d124b47244",
+      "title": "Apple drops commission rates in China without a fuss",
+      "description": "Apple dropped its App Store commission rates to 25% in China, and commissions on auto-renewed subscriptions down to 12%.",
+      "link": "https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/",
+      "pubDate": "2026-03-13T15:12:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b04ea8ffba55",
+      "title": "The FBI is investigating malware hidden inside games hosted on Steam",
+      "description": "The FBI believes a series of video games published on Steam in the last two years were embedded with malware by the same hacker.",
+      "link": "https://techcrunch.com/2026/03/13/valve-steam-malware-games-fbi/",
+      "pubDate": "2026-03-13T14:55:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d64241ec5e39",
+      "title": "Le parcours d’achat B2B caché : décrypter les nouvelles habitudes des décideurs",
+      "description": "L'étude réalisée par Reddit et SurveyMonkey révèle que le parcours d'achat B2B est devenu complexe pour les entreprises, avec 83 % des décideurs menant leurs propres recherches avant de contacter les ventes. Les recommandations de pairs sont valorisées, tandis que Reddit influence significativement…",
+      "link": "https://oliviersauvage.com/2026/03/13/le-parcours-dachat-b2b-cache-decrypter-les-nouvelles-habitudes-des-decideurs/",
+      "pubDate": "2026-03-13T11:15:42.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3aeb2a9fb256",
+      "title": "SEO : les contenus d’actualité résistent aux AI Overviews grâce à Discover",
+      "description": "Alors que les résumés IA de Google ont réduit le trafic organique de 42 %, les contenus d'actualité chaude progressent de 103 %. Google Discover s'impose comme le principal relais de croissance.",
+      "link": "https://www.blogdumoderateur.com/seo-contenus-actualite-resistent-ai-overviews-grace-discover/",
+      "pubDate": "2026-03-13T09:50:45.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/web-search-traffic-impact-ai-overviews-294x209.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5d77aeb8d985",
+      "title": "Claude peut maintenant créer des visuels interactifs au fil de vos échanges",
+      "description": "Anthropic déploie en bêta une fonctionnalité de génération de visuels pour son assistant Claude : graphiques, diagrammes et illustrations interactives s'affichent désormais au fil de la conversation, sans passer par un panneau dédié.",
+      "link": "https://www.blogdumoderateur.com/claude-peut-creer-visuels-interactifs/",
+      "pubDate": "2026-03-13T09:41:19.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Claude-tableau-periodique-4-294x165.png",
+      "type": "blog"
+    },
+    {
+      "id": "c947ab985735",
+      "title": "Instagram teste (enfin) les liens cliquables en description",
+      "description": "Ça y est, Instagram teste enfin les liens cliquables dans les légendes de posts !",
+      "link": "https://www.blogdumoderateur.com/instagram-teste-enfin-liens-cliquables-description/",
+      "pubDate": "2026-03-13T09:28:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/instagram-liens-description-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "15bf08936af7",
+      "title": "Lenovo AI Workmate : l’IA qui transforme vos gestes en actions numériques",
+      "description": "L’intelligence artificielle s’invite progressivement dans tous les outils de travail. Après les assistants virtuels, les copilotes logiciels et les agents autonomes, une nouvelle génération de systèmes commence à apparaître : des interfaces intelligentes capables de comprendre directement les…",
+      "link": "https://www.robot-magazine.fr/lenovo-ai-workmate-lia-qui-transforme-vos-gestes-en-actions-numeriques/?utm_source=rss&utm_medium=rss&utm_campaign=lenovo-ai-workmate-lia-qui-transforme-vos-gestes-en-actions-numeriques",
+      "pubDate": "2026-03-13T09:25:41.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "44d9aa2f073a",
+      "title": "Facturation électronique : les critères pour choisir la bonne plateforme",
+      "description": "La facturation électronique devient progressivement obligatoire pour les entreprises françaises. Qui est concerné et comment choisir la bonne plateforme pour se mettre en conformité ?",
+      "link": "https://www.blogdumoderateur.com/facturation-electronique-criteres-choisir-bonne-plateforme/",
+      "pubDate": "2026-03-13T08:22:19.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Facturation-electronique-tiime-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "be4c9fc65223",
+      "title": "Touraine Tech 2026",
+      "description": "Les 12 & 13 février 2026 se tenait Touraine Tech, l’événement spécialisé tech de la région. Découvrez nos retours sur les différentes conférences.",
+      "link": "https://blog.ippon.fr/2026/03/13/touraine-tech-2026/",
+      "pubDate": "2026-03-13T08:00:37.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/TNT-12---13-f--vrier-2026-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e41292d64352",
+      "title": "MACI #156 - Agents IA, OpenAPI et WASM - Avec Ludovic Dussart de Zatsit",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, nos invités parcourent plusieurs actualités techniques qui montrent à quel point l’écosystème logiciel évolue rapidement. Nous parlons d’outils open source comme World Monitor, des évolutions d’Elastic Stack autour de la recherche…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/nouvel-episode-du-12-03-10-08",
+      "pubDate": "2026-03-13T07:00:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/uAmvt8655FW7mbexhZ74e9XdqrGCgluCDDmGwuuc_1400x1400.jpeg?t=1773306603",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/o9vZque1rYNr.mp3?t=1773306561",
+      "duration": "58:11"
+    },
+    {
+      "id": "a59c4b8097b1",
+      "title": "#156.diff - Maria DB: MariaDB, du serveur primaire au sharding avec Sylvain Arbaudie",
+      "description": "Il y a 3 ans, dans l'épisode #156 je recevais Sylvain Arbaudie. 3 ans plus tard, nous faisons une refacto de l'épisode ! Liens à suivre : Une personne tres interessante a suivre dans le monde des db : Benjamin Dicken https://www.linkedin.com/in/benjdicken Un flux rss tres planet mariadb par la…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-156-refacto-e6a8902669b6",
+      "pubDate": "2026-03-13T04:00:03.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/3ba28a36-02c3-4b4f-be14-e6a8902669b6.mp3?_=1773320463",
+      "duration": "51:04"
+    },
+    {
+      "id": "ce104dab957b",
+      "title": "Podcasts & Lives",
+      "description": "",
+      "link": "https://blog.zwindler.fr/podcasts-lives/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8dbe06596536",
+      "title": "Publications",
+      "description": "",
+      "link": "https://blog.zwindler.fr/publications/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "558196eec4ef",
+      "title": "La veille de Wittouck - Début mars 2026",
+      "description": "En ce début de mois de mars, les sujets de souveraineté ont encore fait le buzz. Au-delà des annonces (parfois décevantes), il faut prendre un peu de recul. L’excellent article de Katia donne des pistes concrètes pour aider à élaborer une souveraineté stratégique. J’ai aussi beaucoup consommé de…",
+      "link": "https://codeka.io/2026/03/13/la-veille-de-wittouck-d%C3%A9but-mars-2026/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/03/13/la-veille-de-wittouck-d%C3%A9but-mars-2026/cover_hu_242b02adc363f764.webp",
+      "type": "blog"
+    },
+    {
+      "id": "67d205b0ef8d",
+      "title": "Publicité en France : le digital a porté seul la croissance du marché en 2025",
+      "description": "Le Baromètre BUMP, publié par France Pub, l'IREP et Kantar Media, confirme un marché publicitaire français à deux vitesses. En hausse, le digital continue en effet de compenser les pertes des médias traditionnels.",
+      "link": "https://www.blogdumoderateur.com/publicite-france-digital-porte-seul-croissance-marche-2025/",
+      "pubDate": "2026-03-12T15:51:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/barometre-pub-bump-2025-recettes-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "73128c5f50d5",
+      "title": "Visibilité IA sur LinkedIn : stratégies pour influencer les réponses de chatGPT",
+      "description": "Découvrez comment votre contenu LinkedIn peut influencer les réponses de l'IA. Apprenez à créer du contenu original et éducatif, à favoriser la régularité et à tirer parti du leadership éclairé pour maximiser votre visibilité. Obtenez un plan d'action concret pour dominer l'écosystème de l'IA grâce…",
+      "link": "https://oliviersauvage.com/2026/03/12/visibilite-ia-sur-linkedin-strategies-pour-influencer-les-reponses-de-chatgpt/",
+      "pubDate": "2026-03-12T12:09:35.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8fa8c4cd9a7d",
+      "title": "WhatsApp : les moins de 13 ans peuvent désormais utiliser l’application sous contrôle parental",
+      "description": "Meta permet désormais aux préadolescents d'utiliser WhatsApp via un compte supervisé par les parents, avec un accès limité aux fonctionnalités de messagerie et d'appel.",
+      "link": "https://www.blogdumoderateur.com/whatsapp-moins-13-ans-utiliser-application-controle-parental/",
+      "pubDate": "2026-03-12T10:09:19.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/whatsapp-comptes-geres-parents-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bfd342d5f5f2",
+      "title": "Canva lance une fonction qui transforme une image fixe en design modifiable",
+      "description": "Canva dévoile Magic Layers, une fonction qui permet de retravailler une image fixe calque par calque. Et la démonstration s'avère convaincante.",
+      "link": "https://www.blogdumoderateur.com/canva-lance-fonction-transforme-image-fixe-design-modifiable/",
+      "pubDate": "2026-03-12T10:00:55.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/canva-media-layers.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "816720d998f1",
+      "title": "Claudette",
+      "description": "J'ai créé un petit projet sympa : Claudette ! Claudette analyse la structure de votre code source (fonctions, classes, imports, appels) et construit un graphe de connaissances persistant. Cela s'installe comme un plugin Claude Code, il y a un serveur MCP, il faut juste installer Go pour compiler.…",
+      "link": "https://www.touilleur-express.fr/2026/03/12/claudette",
+      "pubDate": "2026-03-12T10:00:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "598d07992319",
+      "title": "Personal Computer : Perplexity lance un agent IA qui tourne en permanence sur votre ordinateur",
+      "description": "Perplexity élargit son système agentique avec Personal Computer, un agent qui tourne 24h/24 sur un Mac mini connecté aux fichiers et applications de l'utilisateur.",
+      "link": "https://www.blogdumoderateur.com/personal-computer-perplexity-agent-ia-tourne-permanence-ordinateur/",
+      "pubDate": "2026-03-12T09:58:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Perplexity-Personnal-Computer-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "964287d93ed0",
+      "title": "Gemini CLI : Google déploie Plan Mode, un environnement sécurisé pour planifier le code",
+      "description": "Google déploie Plan Mode dans Gemini CLI, un environnement en lecture seule pour analyser le code et planifier les modifications sans risque d'altération des fichiers.",
+      "link": "https://www.blogdumoderateur.com/gemini-cli-google-deploie-plan-mode-environnement-securise-planifier-code/",
+      "pubDate": "2026-03-12T09:37:24.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Gemini_CLI_Plan_Mode_Demo-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "4d7f2a1a2f6c",
+      "title": "E-commerce : pourquoi votre moteur de recherche ne comprend plus vos clients",
+      "description": "Les consommateurs parlent à l'IA, mais les moteurs de recherche e-commerce restent sourds. Ce décalage coûte cher en conversions. Décryptage avec Sensefuel.",
+      "link": "https://www.blogdumoderateur.com/e-commerce-pourquoi-moteur-recherche-comprend-plus-clients/",
+      "pubDate": "2026-03-12T08:35:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Sensefuel-e-commerce-ia-moteur-recherche-294x147.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "d3d6912e48d7",
+      "title": "Où trouver des contenus originaux pour créer des contenus marketing ?",
+      "description": "Créer des contenus originaux pour le marketing, notamment sur LinkedIn, est un défi. Il est essentiel de diversifier ses sources d'inspiration, tant externes qu'internes, pour générer régulièrement des idées. Utiliser des études, actualités, témoignages clients et expertises internes enrichit la…",
+      "link": "https://oliviersauvage.com/2026/03/12/ou-trouver-des-contenus-originaux-pour-creer-des-contenus-marketing/",
+      "pubDate": "2026-03-12T08:24:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "de6477e5ea89",
+      "title": "GEO local : 3 leviers concrets pour apparaître dans les réponses des IA",
+      "description": "Store locators, cohérence des données sur les annuaires, gestion des avis... Découvrez ce qui influence les IA quand elles recommandent un point de vente.",
+      "link": "https://www.blogdumoderateur.com/geo-local-3-leviers-concrets-apparaitre-reponses-ia/",
+      "pubDate": "2026-03-12T06:00:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/geo-local-3-leviers-visibilite-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "4c00be375013",
+      "title": "Découvrez Nano Banana 2 : la nouvelle référence en génération d’images",
+      "description": "Découvrez les nouvelles capacités de Nano Banana 2 (Gemini 3.1 Flash Image) : ancrage visuel via Google Search, nouveaux paramètres comme les ratios extrêmes et les résolutions 512px, et le contrôle du mode \"Réflexion\". Ce guide explore comment maximiser l'utilisation de ce modèle pour la…",
+      "link": "https://oliviersauvage.com/2026/03/12/decouvrez-nano-banana-2-la-nouvelle-reference-en-generation-dimages/",
+      "pubDate": "2026-03-12T05:37:41.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "90495f56c1d5",
+      "title": "Les profils T-Shaped",
+      "description": "Il y a un type de profil qui performe particulièrement bien dans les équipes projet. Des profils spécialisés, mais qui ont un truc en plus: des compétences transverses complémentaires. C’est ce que l’on retrouve derrière la notion de profil “T-Shaped”. Ce billet a été initialement publié sur…",
+      "link": "https://www.jdecool.fr/blog/2026/03/12/les-profils-t-shaped.html",
+      "pubDate": "2026-03-11T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6486029750b9",
+      "title": "Introducing Tracy: The AI Observability Library for Kotlin",
+      "description": "Tracy is an open-source Kotlin library that adds production-grade observability to AI-powered applications in minutes. It helps you debug failures, measure execution time, and track LLM usage across model calls, tool calls, and your own custom application logic. Ultimately, comprehensive…",
+      "link": "https://blog.jetbrains.com/kotlin/2026/03/introducing-tracy-the-ai-observability-library-for-kotlin/",
+      "pubDate": "2026-03-11T17:41:09.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/03/langfuse-dark.gif",
+      "type": "blog"
+    },
+    {
       "id": "2bc6b5fb6e4b",
       "title": "Hacker broke into FBI and compromised Epstein files, report says",
       "description": "According to a Reuters report, a foreign hacker broke into a server that was part of the FBI’s investigation into Jeffrey Epstein — without realizing they had hacked an FBI server.",
@@ -432,6 +1178,36 @@
         "DevOps"
       ],
       "image": null
+    },
+    {
+      "id": "fe6ab7232ad7",
+      "title": "How we compare model quality in Cursor",
+      "description": "We use a hybrid online-offline eval process to keep our understanding of model quality aligned with what developers actually do.",
+      "link": "https://cursor.com/blog/cursorbench",
+      "pubDate": "2026-03-11T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73d307c82190",
+      "title": "Over 30 new plugins join the Cursor Marketplace",
+      "description": "Extend Cursor with prebuilt capabilities in our marketplace.",
+      "link": "https://cursor.com/blog/new-plugins",
+      "pubDate": "2026-03-11T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "c2ba3ca77ce3",
