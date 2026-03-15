@@ -9,6 +9,7 @@ const FEEDS_FILE = 'feeds.yaml';
 const MAX_RETRIES = 2;
 const RETRY_DELAY = 3000;
 const MIN_DATE = new Date('2026-01-01T00:00:00Z');
+const DATA_STALE_THRESHOLD_HOURS = 72;
 
 const parser = new RSSParser({
   timeout: 15000,
@@ -144,6 +145,22 @@ function loadExistingData(): Map<string, MonthlyData> {
   return dataMap;
 }
 
+function getLatestArticleTimestamp(dataMap: Map<string, MonthlyData>): number | null {
+  let latestTimestamp: number | null = null;
+
+  for (const monthData of dataMap.values()) {
+    for (const article of monthData.articles) {
+      const timestamp = new Date(article.pubDate).getTime();
+      if (isNaN(timestamp)) continue;
+      if (latestTimestamp === null || timestamp > latestTimestamp) {
+        latestTimestamp = timestamp;
+      }
+    }
+  }
+
+  return latestTimestamp;
+}
+
 async function main() {
   console.log('🚀 Démarrage de la récupération des flux RSS...\n');
 
@@ -162,12 +179,18 @@ async function main() {
   }
 
   let newArticleCount = 0;
+  let successfulFeedCount = 0;
+  let failedFeedCount = 0;
 
   for (const feedConfig of config.feeds) {
     console.log(`📡 Récupération: ${feedConfig.name} (${feedConfig.url})`);
 
     const feed = await fetchWithRetry(feedConfig.url);
-    if (!feed) continue;
+    if (!feed) {
+      failedFeedCount++;
+      continue;
+    }
+    successfulFeedCount++;
 
     const items = feed.items || [];
     console.log(`  → ${items.length} articles trouvés`);
@@ -226,8 +249,28 @@ async function main() {
     writeFileSync(`${DATA_DIR}/${monthKey}.json`, JSON.stringify(monthData, null, 2));
   }
 
+  console.log(`\n📈 Flux OK: ${successfulFeedCount} | Flux en échec: ${failedFeedCount}`);
   console.log(`\n✅ Terminé ! ${newArticleCount} nouveaux articles ajoutés.`);
   console.log(`📊 Total: ${existingIds.size} articles dans ${existingData.size} fichier(s) mensuel(s).`);
+
+  if (successfulFeedCount === 0) {
+    console.error('❌ Aucun flux n’a pu être récupéré. Échec du job pour éviter un faux positif.');
+    process.exit(1);
+  }
+
+  if (newArticleCount === 0) {
+    const latestArticleTimestamp = getLatestArticleTimestamp(existingData);
+    if (latestArticleTimestamp !== null) {
+      const ageHours = (Date.now() - latestArticleTimestamp) / (1000 * 60 * 60);
+      if (ageHours > DATA_STALE_THRESHOLD_HOURS) {
+        console.error(
+          `❌ Aucun nouvel article et la base la plus récente a ${ageHours.toFixed(1)}h. Échec du job pour signaler une collecte bloquée.`,
+        );
+        process.exit(1);
+      }
+    }
+  }
+
   process.exit(0);
 }
 
