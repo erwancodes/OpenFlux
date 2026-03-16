@@ -2,6 +2,200 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "71a1c43d07ae",
+      "title": "The billionaires made a promise — now some want out",
+      "description": "In 2010, Warren Buffett and Bill Gates launched a disarmingly simple campaign they called the Giving Pledge: a public commitment, open to the world’s wealthiest people, to give away more than half their fortune during their lifetime or upon their death. The moment seemed to call for it. Tech was…",
+      "link": "https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/",
+      "pubDate": "2026-03-16T04:40:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b439428501e9",
+      "title": "#185.diff - Code en bois: Apprendre le c-oh-oh-oh-de  avec Marc Agenis-Nevers",
+      "description": "Il y a 3 ans, dans l'épisode #185 je recevais Marc Agenis-Nevers. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site |…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-185-refacto-baf3d669cf7e",
+      "pubDate": "2026-03-16T04:00:28.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/05baaa16-23ec-4d22-b760-baf3d669cf7e.mp3?_=1773579628",
+      "duration": "36:26"
+    },
+    {
+      "id": "fc725a973e7d",
+      "title": "Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two",
+      "description": "“Frankenstein” won for Best Production Design, Best Costume Design, and Best Makeup and Hairstyling, while “KPop Demon Hunters” won for Best Animated Feature and Best Original Song.",
+      "link": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
+      "pubDate": "2026-03-16T02:27:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "991d5bc69ce6",
+      "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
+      "description": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+      "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+      "pubDate": "2026-03-16T00:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4c471ff2e823",
+      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "description": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+      "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+      "pubDate": "2026-03-15T21:01:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6aced28dd7e",
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "pubDate": "2026-03-15T18:49:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e092f057e4a9",
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+      "description": "The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.",
+      "link": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+      "pubDate": "2026-03-15T17:19:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6594e353b919",
+      "title": "Gérer du (gros) legacy avec Kevin Platel",
+      "description": "Dans cet épisode, Kevin Platel partage sa vision du code legacy et du rôle des architectes dans les grandes organisations comme Le Bon Coin. Au-delà de la technique, la discussion explore pourquoi le legacy apparaît souvent faute de conversations difficiles : manque de visibilité sur les impacts…",
+      "link": "https://podcast.ausha.co/artisan-developpeur/ge-rer-du-gros-legacy-avec-kevin-platel",
+      "pubDate": "2026-03-15T17:13:00.000Z",
+      "source": "Artisan Développeur",
+      "sourceUrl": "https://feed.ausha.co/BxW2S9Mex0Vb",
+      "categories": [
+        "Programmation"
+      ],
+      "image": "https://image.ausha.co/yTzT4EDUqUAkNKOKbKLuQUXSDDHOqGGqIfBxcQrM_1400x1400.jpeg?t=1772990035",
+      "type": "podcast",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/b3VLuMOx8pZy.mp3?t=1772989971",
+      "duration": "10:21"
+    },
+    {
+      "id": "f96d1348d5dc",
+      "title": "L'IA au service de l'industrialisation : Passer de 30% de réussite à 100% de fiabilité",
+      "description": "L’IA générative n’est pas déterministe. Pour industrialiser sans sacrifier la fiabilité, découvrez comment utiliser les LLM non comme moteurs, mais comme leviers pour forger vos propres outils.",
+      "link": "https://alex.balmes.co/fr/blog/l-ia-au-service-de-l-industrialisation-passer-de-30-de-reussite-a-100-de-fiabilite",
+      "pubDate": "2026-03-15T16:24:57.000Z",
+      "source": "Alex Balmes",
+      "sourceUrl": "https://alex.balmes.co/fr/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c763b7d30202",
+      "title": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "link": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
+      "pubDate": "2026-03-15T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7350e1629b21",
+      "title": "Flannel et NetworkPolicies : comment ajouter le support avec Cilium en CNI chaining",
+      "description": "Flannel, flannel, flannel… Flannel est un CNI simple et populaire 😢. C’est le CNI par défaut de k3s, celui que la moitié des tutos kubeadm utilisent, et on le retrouve aussi dans pas mal d’offres managées. OK, il est simple, il route les paquets entre les pods, il supporte VXLAN et WireGuard, il…",
+      "link": "https://blog.zwindler.fr/2026/03/15/flannel-networkpolicies-cilium-cni-chaining/",
+      "pubDate": "2026-03-15T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/flannel-cilium-chaining.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ae8360d15181",
+      "title": "Wiz investor unpacks Google’s $32B acquisition",
+      "description": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "pubDate": "2026-03-15T15:30:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "be02c839d8c2",
       "title": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
       "description": "Rivian CEO RJ Scaringe shares his thoughts and plans for his newest startup, Mind Robotics.",
