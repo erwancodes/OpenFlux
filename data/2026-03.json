@@ -2,6 +2,419 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "150a12ce190f",
+      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+      "description": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+      "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+      "pubDate": "2026-03-17T04:01:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "030f9a19a968",
+      "title": "SEC eyes shift to twice-yearly earnings reports",
+      "description": "The SEC is working on a proposal to allow public companies to release earnings reports twice a year instead of quarterly, per the WSJ.",
+      "link": "https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/",
+      "pubDate": "2026-03-17T00:27:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ea80dfdb60a",
+      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+      "description": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+      "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "pubDate": "2026-03-16T22:45:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d4086190a0bd",
+      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "description": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+      "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+      "pubDate": "2026-03-16T21:41:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "37ec95c45110",
+      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "description": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+      "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+      "pubDate": "2026-03-16T20:58:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6ff12b05d26a",
+      "title": "Memories AI is building the visual memory layer for wearables and robotics",
+      "description": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+      "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+      "pubDate": "2026-03-16T20:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3907cc7b507a",
+      "title": "Samsung bets this island startup can tame the grid with software and batteries",
+      "description": "GridBeyond's hardware and software coordinates several gigawatts of supply and demand to help balance the flow of electricity on the grid. The idea has attracted investors like Samsung Ventures.",
+      "link": "https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/",
+      "pubDate": "2026-03-16T20:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "106dc5b1ac18",
+      "title": "Apple acquires video editing software company MotionVFX",
+      "description": "The move could help Apple better compete with Adobe Premiere Pro and the Adobe Creative Cloud suite.",
+      "link": "https://techcrunch.com/2026/03/16/apple-acquires-video-editing-software-company-motionvfx/",
+      "pubDate": "2026-03-16T19:23:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "357dde767105",
+      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+      "description": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+      "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+      "pubDate": "2026-03-16T19:18:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5b166562adb8",
+      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+      "description": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+      "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+      "pubDate": "2026-03-16T19:12:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68e2de17a0ee",
+      "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+      "description": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
+      "link": "https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/",
+      "pubDate": "2026-03-16T18:36:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d23c71e9604b",
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
+      "description": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
+      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
+      "pubDate": "2026-03-16T17:51:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b0b32fb379c2",
+      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+      "description": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+      "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+      "pubDate": "2026-03-16T17:47:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e88b20bdcf4c",
+      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
+      "description": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
+      "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+      "pubDate": "2026-03-16T17:43:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c2cca849a62f",
+      "title": "The dictionary sues OpenAI",
+      "description": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
+      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+      "pubDate": "2026-03-16T17:38:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "be985cefb48c",
+      "title": "Antonio Gracias says he’s longing for ‘proentropic’ startups — those that are built to survive chaos",
+      "description": "Antonio Gracias talks at the Upfront Summit in LA about the future of technology.",
+      "link": "https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/",
+      "pubDate": "2026-03-16T15:57:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5bbe4f1a6659",
+      "title": "Shopify is preparing for AI shopping agents to change everything, exec says",
+      "description": "Shopify is preparing for an e-commerce transformation via AI shopping agents, says president Harley Finkelstein.",
+      "link": "https://techcrunch.com/2026/03/16/shopify-is-preparing-for-ai-shopping-agents-to-change-everything-exec-says/",
+      "pubDate": "2026-03-16T15:56:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dfeb2333b7e3",
+      "title": "Apple quietly launches AirPods Max 2",
+      "description": "The successor to its premium headphones cost $549 and are launching with enhanced active noise cancellation, the H2 chip, live translation, better sound quality, and more.",
+      "link": "https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/",
+      "pubDate": "2026-03-16T14:12:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b048cafe042",
+      "title": "Walmart-backed PhonePe shelves IPO as global tensions rattle markets",
+      "description": "PhonePe has paused its planned IPO, delaying a major liquidity event for investors including Tiger Global and Microsoft.",
+      "link": "https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/",
+      "pubDate": "2026-03-16T13:02:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ec7c8af5f75d",
+      "title": "Les 100 outils IA les plus utilisés dans le monde en 2026",
+      "description": "La 6e édition du rapport d'Andreessen Horowitz élargit le périmètre aux applications intégrant l'IA, tout en confirmant la domination de ChatGPT. Mais la concurrence s'organise.",
+      "link": "https://www.blogdumoderateur.com/100-outils-ia-plus-utilises-monde-2026/",
+      "pubDate": "2026-03-16T09:40:42.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Top-Gen-AI-Web-Top-50-List-294x186.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ca94329b5fd0",
+      "title": "Instagram supprime le chiffrement de bout en bout de sa messagerie privée",
+      "description": "Meta met fin au chiffrement de bout en bout sur les messages privés d'Instagram à partir du 8 mai 2026. Une décision justifiée par la faible adoption de la fonctionnalité.",
+      "link": "https://www.blogdumoderateur.com/instagram-supprime-chiffrement-bout-en-bout-messagerie-privee/",
+      "pubDate": "2026-03-16T09:31:52.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/instagram-chiffrement-messagerie-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dcd6c4bf5516",
+      "title": "Audio & vidéo : comment l’IA transforme la chaîne de production des créateurs",
+      "description": "Qualité sonore, découpe automatique, sous-titrage : l’IA transforme les méthodes de production et redéfinit l’équilibre entre technique et stratégie. Tour d'horizon.",
+      "link": "https://www.blogdumoderateur.com/audio-video-comment-ia-transforme-chaine-production/",
+      "pubDate": "2026-03-16T08:35:28.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/02/IA-Audio-Video-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "03177c6d99e8",
+      "title": "5 formations pour devenir chargé de communication",
+      "description": "Notre sélection de formations de la semaine est dédiée aux futurs experts de la communication digitale.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-communication-294/",
+      "pubDate": "2026-03-16T07:00:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/selection-formation-communication-294-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a496af1f1d11",
+      "title": "Liens Tech - Mars 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-mars-2026/",
+      "pubDate": "2026-03-16T06:45:33.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "108999a2d426",
+      "title": "Comment Google Discover sélectionne les articles : ce que révèle l’analyse du code",
+      "description": "En analysant le code côté client de l'application Google, un chercheur SEO a tenté de reconstituer le pipeline complet que traverse un article avant d'apparaître dans Discover.",
+      "link": "https://www.blogdumoderateur.com/comment-google-discover-selectionne-articles-analyse-code/",
+      "pubDate": "2026-03-16T06:00:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Google-Discover-analyse-code-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "2927e8ae3127",
+      "title": "Comment Schneider Electric accélère la robotisation des usines intelligentes",
+      "description": "La robotisation industrielle connaît aujourd’hui une accélération spectaculaire. Face aux pénuries de main-d’œuvre, à la pression sur la productivité et à la nécessité d’améliorer la qualité, les entreprises investissent massivement dans l’automatisation. Selon les dernières statistiques de…",
+      "link": "https://www.robot-magazine.fr/comment-schneider-electric-accelere-la-robotisation-des-usines-intelligentes/?utm_source=rss&utm_medium=rss&utm_campaign=comment-schneider-electric-accelere-la-robotisation-des-usines-intelligentes",
+      "pubDate": "2026-03-16T05:29:03.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
       "id": "71a1c43d07ae",
       "title": "The billionaires made a promise — now some want out",
       "description": "In 2010, Warren Buffett and Bill Gates launched a disarmingly simple campaign they called the Giving Pledge: a public commitment, open to the world’s wealthiest people, to give away more than half their fortune during their lifetime or upon their death. The moment seemed to call for it. Tech was…",
