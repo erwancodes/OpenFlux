@@ -2,6 +2,514 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "5f340c282a63",
+      "title": "#348.src - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS avec Jean-Christophe Leducq",
+      "description": "\"L'infrastructure logicielle est un métier, c'est très dur, c'est très, très dur comme métier.\" Le D.E.V. de la semaine est Jean-Christophe Leducq, CEO chez Digital Substrate. Issu du monde de la 3D industrielle, Jean-Christophe raconte comment la lourdeur des systèmes et la dette logicielle ont…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-348-51d98889e8c2",
+      "pubDate": "2026-03-18T04:00:52.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/38da8604-20cb-4439-bf35-e9835745ea06.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/2c683223-3bb9-4b02-91b0-51d98889e8c2.mp3?_=1773752512",
+      "duration": "59:50"
+    },
+    {
+      "id": "80e93d5064eb",
+      "title": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
+      "description": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.",
+      "link": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
+      "pubDate": "2026-03-17T21:39:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7687ba53db72",
+      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "description": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+      "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "pubDate": "2026-03-17T21:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f67289450e5",
+      "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+      "description": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+      "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+      "pubDate": "2026-03-17T20:50:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6fb9cfa1e954",
+      "title": "Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug",
+      "description": "Apple's first-ever \"background security improvement\" fixes a vulnerability in its Safari browser running its latest software.",
+      "link": "https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/",
+      "pubDate": "2026-03-17T20:10:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "885184adccf4",
+      "title": "Kagi brings its ‘small web’ of a human-only internet to mobile devices",
+      "description": "Kagi's \"Small Web\" offers a handpicked collection of more than 30,000 non-commercial, human-authored websites, including personal blogs, webcomics, and independent videos.",
+      "link": "https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/",
+      "pubDate": "2026-03-17T20:03:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a9c1da5d234",
+      "title": "The Pentagon is developing alternatives to Anthropic, report says",
+      "description": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+      "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+      "pubDate": "2026-03-17T18:20:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a1fe9259f972",
+      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+      "description": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+      "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+      "pubDate": "2026-03-17T17:17:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aa462b0fa59b",
+      "title": "GenAI et développement logiciel, épisode 2 : kubectl-debug-pvc, de l'idée à krew en 2x30 minutes",
+      "description": "Précédemment, dans “GenAI et dev” Dans mon article précédent, je vous parlais de mon retour d’expérience avec PodSweeper, un projet développé avec OpenCode et Claude Opus. Le bilan était nuancé : vitesse brute impressionnante, mais race conditions, gestion d’erreur laxiste, et nécessité constante…",
+      "link": "https://blog.zwindler.fr/2026/03/16/genai-llm-dev-kubectl-debug-pvc/",
+      "pubDate": "2026-03-17T17:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/kubectl-debug-pvc.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e3a01ab6784e",
+      "title": "Google’s data center power playbook comes into focus",
+      "description": "Google has long procured clean power for its operations and data centers, but recent deals show the company is changing tactics.",
+      "link": "https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/",
+      "pubDate": "2026-03-17T16:46:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a68f1887423",
+      "title": "Découvrir les niveaux de maturité de l'adoption des Coding Agents",
+      "description": "Si vous êtes plongé dans l'IA comme moi jusqu'au cou, vous avez dû vous rendre compte que chacun autour de vous a un niveau différent d'adoption des agents de développement (Coding Agent). Je m'intéresse ici uniquement aux outils qui permettent d'aider le développeur comme Claude Code, Open AI…",
+      "link": "https://www.touilleur-express.fr/2026/03/17/decouvrir-les-niveaux-de-maturite-de-ladoption-des-coding-agents",
+      "pubDate": "2026-03-17T16:43:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4db925f5f08",
+      "title": "Meet Vurt, the mobile-first streaming platform for indie filmmakers embracing vertical video",
+      "description": "Micro-drama apps make billions in consumer spending, so VURT launched its streaming app to allow indie filmmakers to capitalize on the vertical video trend.",
+      "link": "https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/",
+      "pubDate": "2026-03-17T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f348c228a681",
+      "title": "Google’s Personal Intelligence feature is expanding to all US users",
+      "description": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
+      "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+      "pubDate": "2026-03-17T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e68f4b4ee4a",
+      "title": "Stryker says it’s restoring systems after pro-Iran hackers wiped thousands of employee devices",
+      "description": "The hack, which brought ongoing widespread disruption to the company's operations, is thought to be the first major cyberattack in the United States in response to the Trump administration's war in Iran.",
+      "link": "https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/",
+      "pubDate": "2026-03-17T15:52:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "80cb097df58f",
+      "title": "OpenAI expands government footprint with AWS deal, report says",
+      "description": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
+      "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+      "pubDate": "2026-03-17T15:37:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7658cb1ae4ff",
+      "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
+      "description": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
+      "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+      "pubDate": "2026-03-17T15:16:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "afb072d2cd59",
+      "title": "Oura enters India’s smart ring market with the Ring 4",
+      "description": "Finnish smart ring maker Oura is finally launching in India, taking on local rivals such as Ultrahuman in a relatively young smart ring market that is becoming price-sensitive thanks to an influx of low-cost options.",
+      "link": "https://techcrunch.com/2026/03/17/oura-enters-indias-smart-ring-market-with-the-ring-4/",
+      "pubDate": "2026-03-17T15:14:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "23578fc0d65e",
+      "title": "World launches tool to verify humans behind AI shopping agents",
+      "description": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
+      "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+      "pubDate": "2026-03-17T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b96ea738032d",
+      "title": "MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month",
+      "description": "From a new iPhone to a budget-friendly MacBook, Apple announced a series of new products this week.",
+      "link": "https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
+      "pubDate": "2026-03-17T13:15:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "18931461bf24",
+      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+      "description": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
+      "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+      "pubDate": "2026-03-17T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a41405da346",
+      "title": "H&M wants to make clothing from CO2 using this startup’s tech",
+      "description": "Rubi has developed an enzymatic process to turn carbon dioxide into cellulose that's ready to be spun into lyocell or viscose.",
+      "link": "https://techcrunch.com/2026/03/17/hm-wants-to-make-clothing-from-co2-using-this-startups-tech/",
+      "pubDate": "2026-03-17T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1becc1b2bd29",
+      "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+      "description": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
+      "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+      "pubDate": "2026-03-17T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a9e88e789c07",
+      "title": "Amazon adds 1-hour and 3-hour delivery options in the US",
+      "description": "The e-commerce giant is making more than 90,000 items available via this new delivery system. If an item can be delivered to a user within one or three hours, they'll see a label saying so next to that item on the Amazon app.",
+      "link": "https://techcrunch.com/2026/03/17/amazon-adds-1-hour-and-3-hour-delivery-options-in-the-us/",
+      "pubDate": "2026-03-17T11:34:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b0f467c57054",
+      "title": "Koog Comes to Java: The Enterprise AI Agent Framework From JetBrains",
+      "description": "Adding AI agents to your enterprise backend shouldn’t mean compromising your architecture. If your core systems are built in Java, orchestrating LLMs shouldn’t require you to introduce separate Python microservices or rewrite your stack. Today, we are launching Koog for Java. Originally built to…",
+      "link": "https://blog.jetbrains.com/ai/2026/03/koog-comes-to-java/",
+      "pubDate": "2026-03-17T09:57:20.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/03/diagram.png",
+      "type": "blog"
+    },
+    {
+      "id": "51cb80ce5055",
+      "title": "Google déploie enfin des outils pour contrôler les coûts de l’API Gemini",
+      "description": "L'API Gemini se dote de contrôles budgétaires par projet, d'un nouveau système de paliers et de tableaux de bord dédiés aux coûts et à l'usage.",
+      "link": "https://www.blogdumoderateur.com/google-deploie-enfin-outils-controler-couts-api-gemini/",
+      "pubDate": "2026-03-17T09:21:09.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/API-Gemini-costs.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "e2eb95088701",
+      "title": "IA et service client : 5 usages concrets qui transforment la relation téléphonique",
+      "description": "L'IA conversationnelle redonne au téléphone une place centrale dans la relation client. Tour d'horizon de 5 usages concrets, avec Aircall.",
+      "link": "https://www.blogdumoderateur.com/ia-service-client-5-usages-concrets-transforment-relation-telephonique/",
+      "pubDate": "2026-03-17T09:01:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/IA-service-client-294x160.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6b5fdfffd93a",
+      "title": "Comment ne pas exécuter les scripts tiers avec npm, pnpm et yarn",
+      "description": "Découvrez comment utiliser npm install --ignore-scripts pour empêcher l’exécution de scripts dangereux ou inutiles lors de l’installation des dépendances npm.",
+      "link": "https://code-garage.com/blog/comment-ne-pas-executer-les-scripts-tiers-avec-npm-pnpm-et-yarn",
+      "pubDate": "2026-03-17T08:50:43.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da90883cbea2",
+      "title": "Cybersécurité : un guide pratique pour accompagner les startups tout au long de leur cycle de vie",
+      "description": "Pour accompagner les startups particulièrement vulnérables aux cyberattaques, mais pour qui la cybersécurité est souvent reléguée au second plan, l'ANSSI et la French Tech publient un guide pratique, de l'idéation au passage à l'échelle.",
+      "link": "https://www.blogdumoderateur.com/cybersecurite-guide-pratique-accompagner-startups-cycle-vie/",
+      "pubDate": "2026-03-17T08:46:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/guide_cybersecurite_startup_numerique-294x210.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bde92bc959b3",
+      "title": "Que promet le futur abonnement payant de Meta sur Instagram et WhatsApp ?",
+      "description": "Tour d'horizon des fonctionnalités que la formule premium de Meta, actuellement en développement, pourrait réserver à ses abonnés.",
+      "link": "https://www.blogdumoderateur.com/que-promet-futur-abonnement-meta-instagram-whatsapp/",
+      "pubDate": "2026-03-17T08:30:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/abonnement-premium-meta-instagram-facebook-whatsapp-294x165.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "26af4645062b",
+      "title": "Les 3 règles d’or de la communication sur les réseaux sociaux en B2B",
+      "description": "L'attention est une ressource précieuse sur les réseaux sociaux, ce qui rend difficile sa capture pour les entreprises. La régularité et la variété dans les publications sont essentielles. Il faut également surprendre son audience pour éviter la monotonie. Enfin, des éléments visuels attractifs…",
+      "link": "https://oliviersauvage.com/2026/03/17/les-3-regles-dor-de-la-communication-sur-les-reseaux-sociaux-en-b2b/",
+      "pubDate": "2026-03-17T07:44:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "09318ac5e9e7",
+      "title": "EcoStruxure : La plateforme qui connecte les robots et les usines",
+      "description": "L’industrie mondiale entre dans une nouvelle ère. La robotisation, l’intelligence artificielle, l’Internet industriel des objets (IIoT) et l’analyse des données transforment profondément les modes de production. Dans ce contexte, les entreprises cherchent à construire des usines capables de…",
+      "link": "https://www.robot-magazine.fr/ecostruxure-comment-schneider-electric-connecte-les-robots-et-les-usines-intelligentes/?utm_source=rss&utm_medium=rss&utm_campaign=ecostruxure-comment-schneider-electric-connecte-les-robots-et-les-usines-intelligentes",
+      "pubDate": "2026-03-17T06:19:26.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "cfc5ffb83c0f",
+      "title": "IA : 10 formations gratuites pour développer ses compétences",
+      "description": "De nombreuses formations gratuites permettent de mieux maîtriser l'intelligence artificielle. Voici les principales ressources disponibles !",
+      "link": "https://www.blogdumoderateur.com/ia-formations-gratuites/",
+      "pubDate": "2026-03-17T06:00:15.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/formations-intelligence-artificielle-gratuites-294x196.jpg",
+      "type": "blog"
+    },
+    {
       "id": "150a12ce190f",
       "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
       "description": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
@@ -29,6 +537,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1b756f27f38",
+      "title": "Training Composer for longer horizons",
+      "description": "By making self-summarization part of Composer's training, we can get training signal from trajectories much longer than the model's max context window.",
+      "link": "https://cursor.com/blog/self-summarization",
+      "pubDate": "2026-03-17T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
