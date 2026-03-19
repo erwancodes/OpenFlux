@@ -2,6 +2,484 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "1f8f8a22beac",
+      "title": "Meta is having trouble with rogue AI agents",
+      "description": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+      "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "pubDate": "2026-03-18T23:42:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fd9df2c6a18a",
+      "title": "Sam Altman’s thank-you to coders draws the memes",
+      "description": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
+      "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "pubDate": "2026-03-18T23:12:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3e54b188b99",
+      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "description": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+      "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "pubDate": "2026-03-18T20:30:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd58f905e397",
+      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+      "description": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+      "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "pubDate": "2026-03-18T20:01:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "80d5593d88de",
+      "title": "FBI is buying location data to track US citizens, director confirms",
+      "description": "FBI director Kash Patel told lawmakers that the agency is actively purchasing commercially available location data, which can track Americans without needing a warrant.",
+      "link": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
+      "pubDate": "2026-03-18T18:32:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "095ef3256e55",
+      "title": "Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes",
+      "description": "He told the Wall Street Journal he thinks autonomous planes will be \"10 times harder than Nikola ever was.\"",
+      "link": "https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/",
+      "pubDate": "2026-03-18T17:58:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9b3c1147f4f4",
+      "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+      "description": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+      "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+      "pubDate": "2026-03-18T17:54:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c844edcc7ffa",
+      "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators ",
+      "description": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+      "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+      "pubDate": "2026-03-18T17:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "69329af8f2a8",
+      "title": "The Gemini-powered features in Google Workspace that are worth using",
+      "description": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+      "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+      "pubDate": "2026-03-18T16:43:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1f44326b2441",
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "description": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "link": "https://techcrunch.com/2026/03/18/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "pubDate": "2026-03-18T16:34:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "96050446b133",
+      "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+      "description": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and…",
+      "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+      "pubDate": "2026-03-18T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67f0193bbb47",
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "description": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+      "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+      "pubDate": "2026-03-18T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8068b6c98473",
+      "title": "Facebook launches a new monetization program to attract popular creators from TikTok, YouTube",
+      "description": "Facebook says it paid creators nearly $3 billion through its monetization programs in 2025, a 35% increase from the previous year and its highest annual total to date.",
+      "link": "https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/",
+      "pubDate": "2026-03-18T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "414f3e19544d",
+      "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+      "description": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
+      "link": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
+      "pubDate": "2026-03-18T15:58:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21ef6eeb465e",
+      "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+      "description": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
+      "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
+      "pubDate": "2026-03-18T15:33:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac4bff9d93a6",
+      "title": "Marquis says over 672,000 people had personal and financial data stolen in ransomware attack",
+      "description": "Fintech company Marquis is notifying hundreds of thousands of people that hackers stole their personal and financial information, including their Social Security numbers.",
+      "link": "https://techcrunch.com/2026/03/18/marquis-says-over-672000-people-had-personal-and-financial-data-stolen-in-ransomware-attack/",
+      "pubDate": "2026-03-18T14:37:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "337bb9b10675",
+      "title": "Russians caught stealing personal data from Ukrainians with new advanced iPhone hacking tools",
+      "description": "A suspected group of Russian government hackers was caught targeting Ukrainians with new iPhone hacking tools designed for espionage and potentially to steal crypto.",
+      "link": "https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/",
+      "pubDate": "2026-03-18T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d52bf2c8c25b",
+      "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
+      "description": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
+      "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+      "pubDate": "2026-03-18T13:40:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5e1fce6a356f",
+      "title": "FOSDEM 2026 : Retour sur deux jours d’Open Source à Bruxelles",
+      "description": "Le week-end des 31 janvier et 1er février s’est tenue l’édition 2026 de FOSDEM. Entre keynotes et sessions techniques, le",
+      "link": "https://blog.zenika.com/2026/03/18/fosdem-2026-retour-sur-deux-jours-dopen-source-a-bruxelles/",
+      "pubDate": "2026-03-18T13:00:55.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f30b.png",
+      "type": "blog"
+    },
+    {
+      "id": "ded31217bd81",
+      "title": "Mave Health aims to improve attention and mood with its brain-stimulating headset",
+      "description": "Mave Health is listing the headset at $495 for preorders. It aims to ship devices to users in the U.S. and India in April 2026.",
+      "link": "https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/",
+      "pubDate": "2026-03-18T12:54:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a3054f4381f0",
+      "title": "Avec Dispatch, Anthropic permet de piloter Claude Cowork depuis votre téléphone",
+      "description": "Dispatch transforme le smartphone en télécommande pour Claude Cowork. La fonctionnalité synchronise un fil de conversation unique entre mobile et desktop, et permet de lancer des tâches à distance.",
+      "link": "https://www.blogdumoderateur.com/claude-dispatch-anthropic-piloter-cowork-depuis-telephone/",
+      "pubDate": "2026-03-18T12:00:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/claude-cowork-dispatch-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "18f4774d8e95",
+      "title": "My Computer : Manus permet à son agent IA d’automatiser des tâches sur votre ordinateur",
+      "description": "Disponible sur macOS et Windows, la nouvelle application desktop de Manus connecte son agent IA directement au poste de travail de l'utilisateur pour automatiser des tâches sur les fichiers et applications locaux.",
+      "link": "https://www.blogdumoderateur.com/my-computer-manus-agent-ia-automatiser-taches-ordinateur/",
+      "pubDate": "2026-03-18T10:12:57.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/My-Computer-Manus-Meta-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4e0e7a039884",
+      "title": "Mistral AI dévoile Small 4, Leanstral et Forge : ce qu’il faut retenir des annonces",
+      "description": "En l'espace de quelques heures, la société française a enchaîné les annonces, dévoilant un nouveau modèle unifié, un agent de vérification de code et une plateforme d'entraînement de modèles d'IA à destination des entreprises.",
+      "link": "https://www.blogdumoderateur.com/mistral-ai-devoile-small-4-leanstral-forge/",
+      "pubDate": "2026-03-18T10:06:45.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/mistral-forge-annonce-294x147.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c88ff949fd37",
+      "title": "FANUC met l’accent sur l’automatisation flexible et l’IA physique",
+      "description": "Du 30 mars au 2 avril 2026, le salon Global Industrie fera son retour à Paris-Nord Villepinte, réunissant l’ensemble des acteurs industriels autour des grandes transformations du secteur. À cette occasion, FANUC présentera sur son stand (Hall 5 – F161) plusieurs innovations illustrant les…",
+      "link": "https://www.robot-magazine.fr/fanuc-met-laccent-sur-lautomatisation-flexible-et-lia-physique/?utm_source=rss&utm_medium=rss&utm_campaign=fanuc-met-laccent-sur-lautomatisation-flexible-et-lia-physique",
+      "pubDate": "2026-03-18T09:56:11.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2026/03/CRX-3iA@FANUC-scaled.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "38c698c9f382",
+      "title": "GPT-5.4 mini et nano : OpenAI décline son modèle phare en versions optimisées pour les développeurs",
+      "description": "Après GPT-5.4 Thinking lancé début mars, OpenAI complète sa gamme avec deux modèles plus légers optimisés pour le code, l'utilisation d'outils et les architectures agentiques.",
+      "link": "https://www.blogdumoderateur.com/gpt-5-4-mini-nano-openai-decline-modele-phare-developpeurs/",
+      "pubDate": "2026-03-18T09:53:04.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/open-ai-5-4-nano-mini-294x165.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "95080f7aa774",
+      "title": "NemoClaw : NVIDIA veut sécuriser OpenClaw, la plateforme d’agents IA qui a conquis la tech",
+      "description": "OpenClaw a explosé début 2026 en permettant à chacun de déployer un assistant IA autonome sur sa propre machine. NVIDIA lance NemoClaw pour le sécuriser.",
+      "link": "https://www.blogdumoderateur.com/nemoclaw-nvidia-veut-securiser-openclaw-plateforme-agents-ia-conquis-tech/",
+      "pubDate": "2026-03-18T09:40:22.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/NemoClaw-OpenClaw-Nvidia-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "2da36a2e401b",
+      "title": "Réseaux sociaux : comment capter l’attention avec des infographies et des graphiques",
+      "description": "Sur les réseaux sociaux, capter l'attention est devenu un défi à cause de la surcharge d'informations. Pour sortir les utilisateurs de leur routine, il est conseillé d'utiliser des visuels attractifs, tels que des visages humains, des contrastes de couleurs, et des textes percutants. L'objectif est…",
+      "link": "https://oliviersauvage.com/2026/03/18/reseaux-sociaux-comment-capter-lattention-avec-des-infographies-et-des-graphiques/",
+      "pubDate": "2026-03-18T09:26:25.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8f45c0c239f7",
+      "title": "Le pouvoir d'un commit atomique",
+      "description": "Vos commits sont trop gros, trop flous… et ça vous ralentit. Découvrez comment une simple habitude peut rendre votre Git beaucoup plus propre, lisible et puissant. Notes de l'épisode : Les conventional commits : https://code-garage.com/podcast/classic/episode-104 Notre cours Git/Github complet :…",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Le-pouvoir-dun-commit-atomique-e3gk908",
+      "pubDate": "2026-03-18T09:15:20.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/117105096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-18%2F88b5fcf5-49ea-af14-c158-9f3d0306f456.mp3",
+      "duration": "00:10:48"
+    },
+    {
+      "id": "5423d96b074c",
+      "title": "Comment l’IA prescriptive transforme le pilotage de l’acquisition digitale",
+      "description": "L'IA prescriptive apporte une nouvelle dimension au pilotage de l'acquisition digitale. Elle réduit les silos de données, permet d'aligner les métriques plateformes et business et apporte la granularité suffisante pour contrôler l'efficacité des automatisations.",
+      "link": "https://www.blogdumoderateur.com/comment-ia-prescriptive-transforme-pilotage-acquisition-digitale/",
+      "pubDate": "2026-03-18T08:28:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/ia-prescriptive-acquisition-digitale-1-294x159.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "1c592057694e",
+      "title": "SEO : combien de fois faut-il répéter un mot clé dans un texte ?",
+      "description": "La répétition d'un mot clé suffit-elle encore à convaincre Google ? Entre héritage des débuts du SEO et algorithmes sémantiques, deux spécialistes remettent les pendules à l'heure.",
+      "link": "https://www.blogdumoderateur.com/seo-combien-fois-repeter-mot-cle-texte/",
+      "pubDate": "2026-03-18T06:00:12.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Mots-cles-repetition-294x172.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5f340c282a63",
       "title": "#348.src - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS avec Jean-Christophe Leducq",
       "description": "\"L'infrastructure logicielle est un métier, c'est très dur, c'est très, très dur comme métier.\" Le D.E.V. de la semaine est Jean-Christophe Leducq, CEO chez Digital Substrate. Issu du monde de la 3D industrielle, Jean-Christophe raconte comment la lourdeur des systèmes et la dette logicielle ont…",
@@ -18,6 +496,38 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/2c683223-3bb9-4b02-91b0-51d98889e8c2.mp3?_=1773752512",
       "duration": "59:50"
+    },
+    {
+      "id": "8209ed67440b",
+      "title": "News Mars 2026, Vite+, Void Cloud, du drama et de l'IA",
+      "description": "Nous évoquons le média L'Équipe qui repasse en MPA, Void Zero qui arrive avec plusieurs sorties. Vite 8, Vite Plus et Void Cloud. Datagouv nous propose du MCP, Mistral vous donne la possibilité d'avoir votre propre modèle, un DB vectoriel embarqué et des études sur l'IA. Retrouvez toutes les notes…",
+      "link": "https://double-slash.dev/podcasts/news-mars26/",
+      "pubDate": "2026-03-18T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1773850355/ART_129_efsvof.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_129_news-mars26.mp3",
+      "duration": "4126"
+    },
+    {
+      "id": "4f4bfb08acbd",
+      "title": "Période difficile pour les conférences développeur",
+      "description": "Avec l’avènement de l’IA, notre métier de développement logiciel doit se réinventer et avec lui, son écosystème. Je pense notamment aux conférences pour développeurs. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas…",
+      "link": "https://www.jdecool.fr/blog/2026/03/18/periode-difficile-pour-les-conferences-developpeur.html",
+      "pubDate": "2026-03-17T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "80e93d5064eb",
