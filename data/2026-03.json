@@ -2,6 +2,531 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "e5b839ee339a",
+      "title": "#315.exe - Apprentissage visuel: Dessine moi un Kube par Julien Dubois",
+      "description": "Pour l'épisode #315 je recevais Aurélie Vache. On en débrief avec Julien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn |…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-315-exe-d2e41d48e8ef",
+      "pubDate": "2026-03-20T04:00:11.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/565b64e1-90c5-4325-bb6c-d2e41d48e8ef.mp3?_=1773925271",
+      "duration": "12:15"
+    },
+    {
+      "id": "a8256174304a",
+      "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+      "description": "Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.",
+      "link": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "pubDate": "2026-03-19T23:28:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "128248f2b24c",
+      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "description": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+      "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "pubDate": "2026-03-19T22:09:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67dd96010ee3",
+      "title": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
+      "description": "A dancing robot in a Haidilao hot pot restaurant boogied down a little too hard.",
+      "link": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "pubDate": "2026-03-19T21:13:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "87cc1abd9166",
+      "title": "Polymarket continues its partnership spree with a Major League Baseball deal",
+      "description": "MLB is only the latest in a string of recently announced partnerships involving the prediction market.",
+      "link": "https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/",
+      "pubDate": "2026-03-19T19:46:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e1a77ea9f151",
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "description": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+      "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+      "pubDate": "2026-03-19T19:09:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b3980a242022",
+      "title": "Bluesky announces $100M Series B after CEO transition",
+      "description": "The additional funds have been used to scale Bluesky's team, while the company continues to develop Bluesky's app and the underlying ATProto that powers it.",
+      "link": "https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/",
+      "pubDate": "2026-03-19T19:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e2fd400e1063",
+      "title": "Geothermal startup Fervo catapults itself over the ‘valley of death’",
+      "description": "Fervo landed a large new loan with terms that strongly suggest the company's most turbulent days are behind it.",
+      "link": "https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/",
+      "pubDate": "2026-03-19T18:26:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "def86ff765ee",
+      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "description": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+      "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+      "pubDate": "2026-03-19T17:24:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "08971830f569",
+      "title": "Google introduces a new way for users to sideload Android apps that still protects against scams",
+      "description": "Google is making Android sideloading easier with a new advanced setting that lets users disable app verification after a multistep security process.",
+      "link": "https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/",
+      "pubDate": "2026-03-19T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1c1c58df6633",
+      "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+      "description": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+      "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+      "pubDate": "2026-03-19T16:14:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0c596e24a78a",
+      "title": "Meta decides not to shut down Horizon Worlds on VR after all",
+      "description": "Horizon Worlds was once a cornerstone of Meta's plans to build a social metaverse -- four years later, the company almost shut it down.",
+      "link": "https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/",
+      "pubDate": "2026-03-19T15:36:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e7c03c5bf03",
+      "title": "FBI seizes pro-Iranian hacking group’s websites after destructive Stryker hack",
+      "description": "The FBI and the Justice Department took down two websites linked to the pro-Iranian hacktivist group Handala, which last week hacked medical tech giant Stryker.",
+      "link": "https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/",
+      "pubDate": "2026-03-19T15:10:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d2c0ab4dc1bb",
+      "title": "CISA urges companies to secure Microsoft Intune systems after hackers mass-wipe Stryker devices",
+      "description": "The U.S. cybersecurity agency urged companies to prevent access to systems used for remotely managing their fleets of employee devices after hackers broke into a major U.S. medical tech giant and remotely wiped thousands of phones and computers.",
+      "link": "https://techcrunch.com/2026/03/19/cisa-urges-companies-to-secure-microsoft-intune-systems-after-hackers-mass-wipe-stryker-devices/",
+      "pubDate": "2026-03-19T15:08:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "56f0e5460622",
+      "title": "TechCrunch Startup Battlefield 200 nominations are still open",
+      "description": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
+      "link": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+      "pubDate": "2026-03-19T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d5de55f553b6",
+      "title": "Rivian sacrifices 2027 profit goal to push deeper into autonomy",
+      "description": "Rivian admitted in a regulatory filing that it is delaying its goal of reaching \"positive EBITDA\" next year because of how much it is spending on developing self-driving technology.",
+      "link": "https://techcrunch.com/2026/03/19/rivian-sacrifices-2027-profit-goal-to-push-deeper-into-autonomy/",
+      "pubDate": "2026-03-19T14:39:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b73d656949ef",
+      "title": "K2 to launch its first high-powered satellite for space compute",
+      "description": "K2's Gravitas is an ambitious project that aims to demonstrate the tech needed to build data centers in space.",
+      "link": "https://techcrunch.com/2026/03/19/k2-to-launch-its-first-high-powered-satellite-for-space-compute/",
+      "pubDate": "2026-03-19T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ec8ae87c262",
+      "title": "Tools for founders to navigate and move past conflict",
+      "description": "Founders can create frameworks for working through conflict and change when the team is just two or three people, and if done correctly, it can scale with the company.",
+      "link": "https://techcrunch.com/2026/03/19/tools-for-founders-to-navigate-and-move-past-conflict/",
+      "pubDate": "2026-03-19T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "550a8db4801e",
+      "title": "Alphabet’s X has a new spinout, and it’s going after one of the world’s most expensive bureaucratic nightmares",
+      "description": "Anori aims to shrink the pre-development process by getting all parties, including the city, on a unified platform from the start so that compliance conflicts are surfaced in weeks instead of months or years.",
+      "link": "https://techcrunch.com/2026/03/19/alphabets-x-has-a-new-spinout-and-its-going-after-one-of-the-worlds-most-expensive-bureaucratic-nightmares/",
+      "pubDate": "2026-03-19T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff19e7e1d5cc",
+      "title": "Why Your AI Governance Is Holding You Back, and You Don’t Even Know It",
+      "description": "Most enterprises claim to govern their AI use. They have policy documents, review boards, approval flows, and sandbox environments. On paper, control exists. Then agents enter real software delivery workflows. They generate code, refactor systems, open pull requests, query internal data, trigger…",
+      "link": "https://blog.jetbrains.com/ai/2026/03/why-your-ai-governance-is-holding-you-back-and-you-don-t-even-know-it/",
+      "pubDate": "2026-03-19T13:21:25.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "be63eece0bb4",
+      "title": "Consumer-focused privacy company Cloaked raises $375M as it expands to enterprise",
+      "description": "Cloaked's latest round is a mix of equity and growth funding.",
+      "link": "https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/",
+      "pubDate": "2026-03-19T13:19:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3680b4d181e6",
+      "title": "Tubi joins forces with popular TikTokers to create original streaming content",
+      "description": "Tubi launched its “Creatorverse Incubator” to help TikTokers create original shows exclusively for the streaming service.",
+      "link": "https://techcrunch.com/2026/03/19/tubi-joins-forces-with-popular-tiktokers-to-create-original-streaming-content/",
+      "pubDate": "2026-03-19T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "87d6391babc2",
+      "title": "Midjourney v8 : le générateur d’images tente de revenir dans la course",
+      "description": "Après plusieurs mois de discrétion, Midjourney ouvre les tests de sa version 8 sur un site dédié. Le modèle promet notamment une vitesse de génération 5 fois supérieure.",
+      "link": "https://www.blogdumoderateur.com/midjourney-v8-generateur-images-revenir-dans-course/",
+      "pubDate": "2026-03-19T11:36:50.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Midjourney-v8-294x147.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d43825878bb9",
+      "title": "Vibe coding : comment l’agence World Sellers est passé des LLM aux agents IA",
+      "description": "Wordsellers intègre l'IA, de l'assistance au codage au développement agentique, avec des outils comme Mistral, Claude et Gemini. L'IA améliore la productivité, transforme le rôle des développeurs et ouvre la voie à des applications à faible coût, tout en mettant l'accent sur la valeur humaine et le…",
+      "link": "https://oliviersauvage.com/2026/03/19/vibe-coding-comment-lagence-world-sellers-est-passe-des-llm-aux-agents-ia/",
+      "pubDate": "2026-03-19T11:19:47.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c09a6e8b3b4",
+      "title": "Google s’attaque à Figma avec Stitch, son outil de vibe design",
+      "description": "Stitch évolue vers une plateforme de design entièrement pilotée par l'IA. Google y introduit un canevas infini, un agent de suivi de projet, la commande vocale et DESIGN.md, un format pour partager des systèmes de design entre outils.",
+      "link": "https://www.blogdumoderateur.com/google-attaque-figma-stitch-outil-vibe-design/",
+      "pubDate": "2026-03-19T10:03:12.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/google-stitch-ia-294x166.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "73ae1480a203",
+      "title": "Comet : le navigateur IA de Perplexity est enfin disponible sur iPhone",
+      "description": "Disponible dès maintenant sur l'App Store, Comet embarque sur iPhone les fonctionnalités déjà déployées sur desktop et Android, dont le mode vocal ou Deep Research.",
+      "link": "https://www.blogdumoderateur.com/comet-navigateur-ia-perplexity-disponible-iphone/",
+      "pubDate": "2026-03-19T09:58:45.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/perplexity-comet-ios-294x164.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "737002313f74",
+      "title": "Pourquoi construire une identité de marque forte à l’heure des IA génératives ?",
+      "description": "Les petits éditeurs sont les plus touchés par la baisse du trafic de recherche. L'IA ne compense pas les pertes. Les stratégies des grands éditeurs incluent la diversification du trafic. Les petits éditeurs doivent construire une marque forte et explorer l'IA pour survivre. L’article Pourquoi…",
+      "link": "https://oliviersauvage.com/2026/03/19/pourquoi-construire-une-identite-de-marque-forte-a-lheure-des-ia-generatives/",
+      "pubDate": "2026-03-19T09:19:29.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "50534525ce98",
+      "title": "Du SEO au GEO : comment adapter sa stratégie aux moteurs de recherche génératifs",
+      "description": "73 % des jeunes Français ont déjà utilisé une IA conversationnelle. L'enjeu d'être visible dans ces espaces devient essentiel pour les marques. Entre SEO classique et GEO, comment adapter sa stratégie de visibilité ? Décryptage avec datashake.",
+      "link": "https://www.blogdumoderateur.com/seo-geo-comment-adapter-strategie-datashake/",
+      "pubDate": "2026-03-19T08:36:35.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/datashake-geo-seo-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "424bfc2124d4",
+      "title": "How GiLab Duo Agent Platform & Antigravity can collaborate to improve the quality of our applications",
+      "description": "🔎 Short introduction GitLab Duo Agent Platform is the new AI solution available in the DevOps platform. Integrated in the",
+      "link": "https://blog.zenika.com/2026/03/19/how-gilab-duo-agent-platform-antigravity-can-collaborate-to-improve-the-quality-of-our-applications/",
+      "pubDate": "2026-03-19T08:32:16.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f50e.png",
+      "type": "blog"
+    },
+    {
+      "id": "0f148067b80d",
+      "title": "Top 20 des modèles d’IA les plus performants en mars 2026 : le classement complet",
+      "description": "Les modèles les plus avancés d'Anthropic tiennent bon face à Gemini 3.1 Pro et GPT-5.4, pourtant tout juste déployés par Google et OpenAI.",
+      "link": "https://www.blogdumoderateur.com/top-20-modeles-ia-mars-2026-classement-complet/",
+      "pubDate": "2026-03-19T07:00:57.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/classement-modeles-ia-performants-mars-2026-294x179.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c193e3c87590",
+      "title": "GAFAM et souveraineté numérique : quelles sont les alternatives ?",
+      "description": "Comme beaucoup de monde, j'ai longtemps utilisé les services les plus évidents : Google pour chercher, Gmail pour les mails, Drive pour stocker, WhatsApp pour discuter. Les outils des GAFAM, quoi. Ceux qu'on ouvre sans même y penser, parce qu'ils sont",
+      "link": "https://domopi.eu/gafam-et-souverainete-numerique-quelles-sont-les-alternatives/",
+      "pubDate": "2026-03-19T06:45:34.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/souverainete_numerique.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b749a58eef36",
+      "title": "Devenir un expert de la data en 2026 : ce que l’IA a vraiment changé, et ce qui reste fondamental",
+      "description": "Rencontre avec Antoine Krajnc, fondateur et CEO de Jedha, qui partage avec nous son regard d'expert sur les compétences attendues pour les professionnels de la data, la nécessité de challenger l'IA, et les clés pour faire carrière dans ce secteur.",
+      "link": "https://www.blogdumoderateur.com/devenir-expert-data-2026-ia-vraiment-change-reste-fondamental/",
+      "pubDate": "2026-03-19T06:00:24.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Antoine-Krajnc-Jedha-BDM-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "aa1afd7491a2",
+      "title": "Introducing Composer 2",
+      "description": "Frontier-level coding with strong CursorBench results, higher token efficiency, and a faster default variant.",
+      "link": "https://cursor.com/blog/composer-2",
+      "pubDate": "2026-03-19T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1f8f8a22beac",
       "title": "Meta is having trouble with rogue AI agents",
       "description": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
@@ -513,6 +1038,21 @@
       "type": "podcast",
       "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_129_news-mars26.mp3",
       "duration": "4126"
+    },
+    {
+      "id": "c318247de89b",
+      "title": "Money Forward brings Cursor’s coding agents to product, design, and QA",
+      "description": "Over 1,000 Money Forward employees now use Cursor every day.",
+      "link": "https://cursor.com/blog/money-forward",
+      "pubDate": "2026-03-18T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "4f4bfb08acbd",
