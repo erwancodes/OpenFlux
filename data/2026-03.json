@@ -2,6 +2,358 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "ac8cc3f66b71",
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "description": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that…",
+      "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "pubDate": "2026-03-21T01:40:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac42cb0f4046",
+      "title": "Elon Musk misled Twitter investors while trying to get out of acquisition, jury says",
+      "description": "At the time, Musk had tweeted that Twitter had too many bots, which is why he was trying to renege on his commitment to buy the company.",
+      "link": "https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/",
+      "pubDate": "2026-03-20T23:29:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e55617d13471",
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "description": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "pubDate": "2026-03-20T20:53:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f06b410d0783",
+      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+      "description": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that…",
+      "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+      "pubDate": "2026-03-20T20:02:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6fb1b8cb7557",
+      "title": "Amid legal turmoil, Kalshi is temporarily banned in Nevada",
+      "description": "It's the latest escalation in a regulatory battle over the future of prediction markets.",
+      "link": "https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/",
+      "pubDate": "2026-03-20T19:15:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f5568c1aec8",
+      "title": "Pinterest CEO calls on governments to ban social media for users under 16",
+      "description": "Pinterest’s chief compares social media to tobacco and alcohol, saying children need similar protections.",
+      "link": "https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/",
+      "pubDate": "2026-03-20T19:01:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "49629bf052ba",
+      "title": "Why scientists can’t get a laugh",
+      "description": "Humor is hard to pull off in front of a cold audience, full stop.",
+      "link": "https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/",
+      "pubDate": "2026-03-20T17:39:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd53ff136ee9",
+      "title": "A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava",
+      "description": "A French naval officer went on a run around the deck of the Charles de Gaulle aircraft carrier, inadvertently leaking the warship's location when he uploaded the workout to Strava.",
+      "link": "https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/",
+      "pubDate": "2026-03-20T17:21:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b85fbd7c709",
+      "title": "WordPress.com now lets AI agents write and publish posts, and more",
+      "description": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+      "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+      "pubDate": "2026-03-20T16:43:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "87ddff727dfa",
+      "title": "Jeff Bezos’ Blue Origin enters the space data center game",
+      "description": "\"Project Sunrise\" would include more than 50,000 satellites performing high-energy compute on orbit.",
+      "link": "https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/",
+      "pubDate": "2026-03-20T16:27:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "255641ff9ff3",
+      "title": "US accuses Iran’s government of operating hacktivist group that hacked Stryker",
+      "description": "The U.S. Justice Department said an Iranian security ministry operates the fake activist persona known as Handala, which claimed responsibility for the destructive hack targeting medical tech giant Stryker.",
+      "link": "https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/",
+      "pubDate": "2026-03-20T16:18:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe000e9e42b9",
+      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+      "description": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+      "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+      "pubDate": "2026-03-20T16:14:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "656e98e9b1d9",
+      "title": "AI startups are eating the venture industry and the returns, so far, are good",
+      "description": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share.",
+      "link": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
+      "pubDate": "2026-03-20T15:41:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "69e46bb607a7",
+      "title": "Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US",
+      "description": "A cyberattack on a U.S. car breathalyzer company has left drivers across the United States reportedly stranded and unable to start their vehicles.",
+      "link": "https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/",
+      "pubDate": "2026-03-20T15:01:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d6ccafdb5390",
+      "title": "Amazon working on new smartphone with Alexa at its core, report says",
+      "description": "The device is being developed by the company's Devices and Services division, and it would feature personalized features aimed at making it easier to use Amazon's suite of apps, including Amazon shopping, Prime Video, and Prime Music, according to Reuters.",
+      "link": "https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/",
+      "pubDate": "2026-03-20T14:51:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "627ac2895564",
+      "title": "Microsoft présente MAI-Image-2, la nouvelle mouture de son générateur d’images par IA",
+      "description": "Avec MAI-Image-2, Microsoft poursuit sa stratégie d'autonomie en IA générative en améliorant la création d'images.",
+      "link": "https://www.blogdumoderateur.com/microsoft-mai-image-2-generateur-images-ia/",
+      "pubDate": "2026-03-20T13:03:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/stackloop-slower-longer.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "7f83c0e973b4",
+      "title": "The best AI investment might be in energy tech",
+      "description": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
+      "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+      "pubDate": "2026-03-20T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b240482dac5",
+      "title": "These AI notetaking devices can help you record and transcribe your meetings",
+      "description": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+      "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+      "pubDate": "2026-03-20T11:31:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ec9bb4ecd83e",
+      "title": "Adobe Firefly peut désormais copier et reproduire votre style visuel",
+      "description": "Adobe annonce une nouvelle série de mises à jour pour Firefly : modèles personnalisés, bibliothèque élargie, projet Moonlight... On fait le point !",
+      "link": "https://www.blogdumoderateur.com/adobe-firefly-peut-copier-reproduire-votre-style-visuel/",
+      "pubDate": "2026-03-20T09:23:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/nouveautes-adobe-firefly-294x129.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8d3bb6fdc21c",
+      "title": "Google transforme AI Studio en plateforme de vibe coding full stack",
+      "description": "Avec l'agent Antigravity et une intégration Firebase native, Google veut transformer AI Studio en un véritable environnement de développement full stack.",
+      "link": "https://www.blogdumoderateur.com/google-transforme-ai-studio-plateforme-vibe-coding-full-stack/",
+      "pubDate": "2026-03-20T09:15:15.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Google_AIS_FSR_CosmicFlow_05_DR-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "9adca9df01c7",
+      "title": "CyberCité lance une offre IA pour des visuels publicitaires plus performants et stratégiques",
+      "description": "Entre IA générative et pilotage humain, Clément Auran, Consultant SEA et Média senior, et David Bonnamour, Head of AI, nous présentent la nouvelle offre IA, innovante et créative, de CyberCité pour des campagnes publicitaires plus performantes.",
+      "link": "https://www.blogdumoderateur.com/cybercite-lance-offre-ia-visuels-publicitaires-plus-performants-strategiques/",
+      "pubDate": "2026-03-20T08:14:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/CyberCite_BDM_David_Clement-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "365f5a85599f",
+      "title": "Quiz : à qui appartiennent ces tweets mythiques ?",
+      "description": "Saurez-vous identifier la personnalité qui se cache derrière ces tweets mythiques de X ? C'est ce qu'on va vérifier.",
+      "link": "https://www.blogdumoderateur.com/quiz-tweets-mythiques/",
+      "pubDate": "2026-03-20T06:00:35.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/quiz-x-twitter-294x154.png",
+      "type": "blog"
+    },
+    {
       "id": "e5b839ee339a",
       "title": "#315.exe - Apprentissage visuel: Dessine moi un Kube par Julien Dubois",
       "description": "Pour l'épisode #315 je recevais Aurélie Vache. On en débrief avec Julien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn |…",
@@ -18,6 +370,39 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/565b64e1-90c5-4325-bb6c-d2e41d48e8ef.mp3?_=1773925271",
       "duration": "12:15"
+    },
+    {
+      "id": "46ba974e2652",
+      "title": "Timbernetes : Ajuster les ressources à chaud d'une appli Java",
+      "description": "La version 1.35 de Kubernetes, nommée “Timbernetes”, est sortie le 17 décembre dernier (ça passe vite !) et est déjà disponible sur toutes les bonnes plateformes de Cloud. Une des nouveautés importantes de cette version est le passage en Stable des In-place updates of Pod resources. Le principe de…",
+      "link": "https://codeka.io/2026/03/20/timbernetes-java/",
+      "pubDate": "2026-03-20T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/03/20/timbernetes-java/cover_hu_4624def1438b62ea.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1cf316f76904",
+      "title": "Migrer 1156 posts WordPress vers Eleventy avec Claude",
+      "description": "Vous vous souvenez de l'âge d'or des blogs français ? Entre 2005 et 2012, plus ou moins. L'époque où des gens comme Korben démarraient, où il existait une vraie blogosphère française, où la plupart des blogueurs se connaissaient, se mettaient dans des blogrolls mutuels, allaient à des rencontres…",
+      "link": "https://lostinbrittany.dev/fr/migrer-1156-posts-wordpress-vers-eleventy-avec-claude/",
+      "pubDate": "2026-03-20T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-03-20-migrer-1156-posts-01.png",
+      "type": "blog"
     },
     {
       "id": "a8256174304a",
