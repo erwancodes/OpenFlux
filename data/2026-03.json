@@ -2,6 +2,198 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "72a905229684",
+      "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
+      "description": "After four years, and multiple subpoenas and depositions, the beleaguered startup has dodged yet another bullet.",
+      "link": "https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/",
+      "pubDate": "2026-03-22T19:50:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f1bf95f3e1f4",
+      "title": "Do you want to build a robot snowman?",
+      "description": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+      "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "pubDate": "2026-03-22T19:45:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0f69e2bbcbf",
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "description": "Building on top of a Chinese model feels particularly fraught right now.",
+      "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "pubDate": "2026-03-22T18:41:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5fa79f8a3e19",
+      "title": "J'ai installé OpenClaw, ma vie a changé (pas trop)",
+      "description": "Cela faisait plusieurs semaines que l'idée me trottait en tête... mais bon, on a un vrai métier, pas le temps de faire des bidouilles, toussa. Et puis Devoxx France arrive dans 4 semaines. Je le sais, car on reçoit une bonne vingtaine d'emails chaque jour. \"Et comment je paye ? Et comment je…",
+      "link": "https://www.touilleur-express.fr/2026/03/22/installation-openclaw",
+      "pubDate": "2026-03-22T16:30:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a7760518e818",
+      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "description": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+      "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "pubDate": "2026-03-22T16:20:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "506c6633d619",
+      "title": "TechCrunch Mobility: Uber everywhere, all at once",
+      "description": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation.",
+      "link": "https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/",
+      "pubDate": "2026-03-22T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d59f6c91e411",
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "description": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+      "link": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "pubDate": "2026-03-22T14:43:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "55e026464829",
+      "title": "Calculer « 1/(40rods/​hogshead) → L/100km » depuis l'invite Zsh",
+      "description": "J’ai souvent besoin d’un calcul rapide ou de convertir une unité en une autre. Plutôt que de recourir à un outil séparé, quelques lignes de configuration Zsh transforment = en calculatrice. En tapant = 660km / (2/3)c * 2 -> ms, j’obtiens 6.60457 ms1 sans quitter mon terminal, grâce à l’éditeur de…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-calculatrice-zsh",
+      "pubDate": "2026-03-22T13:37:09.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/simpson-s06e18@1x.387986d4ff4a51.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bd37b98af7b4",
+      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple ",
+      "description": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "pubDate": "2026-03-22T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9867b42e6ffe",
+      "title": "Fault : injecter du chaos dans vos microservices",
+      "description": "Il y a une loi non écrite dans notre métier mais bien connue : un service qui n’a jamais subi de panne en production tombera en production, au pire moment possible, de la façon la plus inattendue qui soit. À peu près de la même manière qu’un SRE qui n’a jamais causé d’incident finira inévitablement…",
+      "link": "https://une-tasse-de.cafe/blog/fault/",
+      "pubDate": "2026-03-22T09:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "79b43f08005c",
+      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+      "description": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+      "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+      "pubDate": "2026-03-22T06:20:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b626c12e4ee",
+      "title": "Symfony UX Native : Transformez votre app web en application mobile native",
+      "description": "Et si vous pouviez transformer votre application Symfony en app mobile native, sans réécrire une seule ligne de code ? Avec UX Native et Hotwire Native, c'est possible. On construit ensemble un Carnet de Notes et on le prépare pour iOS et Android, pas à pas.",
+      "link": "https://yoandev.co/symfony-ux-native",
+      "pubDate": "2026-03-22T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-ux-native.webp",
+      "type": "blog"
+    },
+    {
       "id": "24207f89318d",
       "title": "It’s been 20 years since the first tweet",
       "description": "On March 21, 2006, Jack Dorsey posted a simple message: “just setting up my twittr”.",
