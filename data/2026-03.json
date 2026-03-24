@@ -2,6 +2,421 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "31277fd9d015",
+      "title": "Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick",
+      "description": "When asked whether he was still \"salty\" about about being shown the door at Uber, alongside co-founder Travis Kalanick, Michael didn't equivocate. \"I'll never forget that, nor forgive,\" he said.",
+      "link": "https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/",
+      "pubDate": "2026-03-23T23:49:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f36f48b245a",
+      "title": "Bengaluru food delivery startup Swish raises $38M, its third round in 18 months",
+      "description": "Swish has more than doubled its valuation in a year as its full-stack, hyperlocal model positions ultra-fast food delivery as a high-frequency habit.",
+      "link": "https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/",
+      "pubDate": "2026-03-23T23:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e8b43fb7c83",
+      "title": "Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund",
+      "description": "As prediction markets explode, the new firm called 5(c) Capital, will back startups supporting the burgeoning category.",
+      "link": "https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/",
+      "pubDate": "2026-03-23T22:57:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e2790ef21d82",
+      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+      "description": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
+      "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+      "pubDate": "2026-03-23T22:36:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8397d237cd9e",
+      "title": "Apple Maps may be about to get ads",
+      "description": "Apple Maps may soon serve ads in top results when users search on terms like \"restaurants.\"",
+      "link": "https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/",
+      "pubDate": "2026-03-23T22:33:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "75c4a7b4212c",
+      "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones",
+      "description": "Leaked \"DarkSword\" exploits published to GitHub allow hackers and cybercriminals to target iPhone users running old versions of iOS with spyware, according to cybersecurity researchers.",
+      "link": "https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/",
+      "pubDate": "2026-03-23T20:42:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a59755fc17ef",
+      "title": "Zipline snaps up another $200M to fuel its drone delivery expansion",
+      "description": "The funding adds to a previous round, announced in January, that valued the drone startup at $7.6 billion.",
+      "link": "https://techcrunch.com/2026/03/23/zipline-snaps-up-another-200m-to-fuel-its-drone-delivery-expansion/",
+      "pubDate": "2026-03-23T20:37:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c844cd15dd6a",
+      "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
+      "description": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
+      "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+      "pubDate": "2026-03-23T20:15:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "af7504c58274",
+      "title": "Russian authorities block paywall removal site Archive.today",
+      "description": "A notice on the popular paywall-bypass website Archive.today said that access is blocked \"by decision of [Russian] public authorities.\"",
+      "link": "https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/",
+      "pubDate": "2026-03-23T19:08:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bd1953f4c747",
+      "title": "Bipartisan bill seeks to ban sports betting on Kalshi and Polymarket",
+      "description": "Since FanDuel and DraftKings are subject to state-by-state gambling laws, rather than federal law, they would not be impacted by the bill.",
+      "link": "https://techcrunch.com/2026/03/23/bipartisan-bill-seeks-to-ban-sports-betting-on-kalshi-and-polymarket/",
+      "pubDate": "2026-03-23T18:31:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "706b5cfdda84",
+      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+      "description": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
+      "link": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
+      "pubDate": "2026-03-23T18:22:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4923562b6235",
+      "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
+      "description": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
+      "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+      "pubDate": "2026-03-23T18:00:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e4c7f729d442",
+      "title": "DoorDash introduces relief payments for drivers as the Iran-US war drives up gas prices",
+      "description": "Gas is one of the largest expenses for delivery drivers. With prices continuing to surge, DoorDash is offering a lifeline to Dashers with a new relief program.",
+      "link": "https://techcrunch.com/2026/03/23/doordash-introduces-relief-payments-for-drivers-as-the-iran-us-war-drives-up-gas-prices/",
+      "pubDate": "2026-03-23T17:48:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "473cfe676c3f",
+      "title": "Leonid Radvinsky, the owner of  OnlyFans, has passed away",
+      "description": "OnlyFans owner Leonid Radvinsky has passed away at the age of 43 after a battle with cancer.",
+      "link": "https://techcrunch.com/2026/03/23/leonid-radvinsky-the-owner-of-onlyfans-has-passed-away/",
+      "pubDate": "2026-03-23T16:32:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b355ff61c2b3",
+      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "description": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
+      "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "pubDate": "2026-03-23T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f4d4b18f3e3b",
+      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
+      "description": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
+      "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+      "pubDate": "2026-03-23T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b85e2cfc7beb",
+      "title": "Grab to buy Foodpanda Taiwan from Delivery Hero for $600 million",
+      "description": "Grab will acquire Delivery Hero’s Foodpanda business in Taiwan for $600 million, expanding beyond Southeast Asia and setting up a closer challenge to Uber Eats in a tightly contested market.",
+      "link": "https://techcrunch.com/2026/03/23/grab-to-buy-foodpanda-taiwan-from-delivery-hero-for-600-million/",
+      "pubDate": "2026-03-23T15:41:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1941eab9cfc3",
+      "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
+      "description": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DOD's decision to label Anthropic a \"supply-chain risk\" as retaliation, arguing that the Pentagon could simply have terminated its contract with the AI lab.",
+      "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
+      "pubDate": "2026-03-23T15:22:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf50ecf87714",
+      "title": "FBI says Iranian hackers are using Telegram to steal data in malware attacks",
+      "description": "Hackers working for Iran’s government are using Telegram in hacking operations that use malware to target dissidents, opposition groups, and journalists who oppose its regime, according to the FBI.",
+      "link": "https://techcrunch.com/2026/03/23/fbi-says-iranian-hackers-are-using-telegram-to-steal-data-in-malware-attacks/",
+      "pubDate": "2026-03-23T15:18:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4ac4b15f8229",
+      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "description": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to OpenAI.",
+      "link": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
+      "pubDate": "2026-03-23T15:03:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "66a8b73c927a",
+      "title": "Quand Mistral veut moraliser le pillage",
+      "description": "Cette proposition d’Arthur Mensch, cofondateur de Mistral, dans une tribune au Financial Times, mérite qu’on s’y arrête un instant (NB : comme elle est derrière un paywall, vous en trouverez plusieurs descriptifs, comme celui-ci chez Maddyness). Au moment même où Quand Mistral veut moraliser le…",
+      "link": "https://maisouvaleweb.fr/quand-mistral-veut-moraliser-le-pillage/",
+      "pubDate": "2026-03-23T12:05:30.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5e20aa224091",
+      "title": "Anthropic a interrogé 81 000 personnes sur leurs attentes et craintes face à l’IA",
+      "description": "L’enquête d’Anthropic souligne des usages déjà ancrés, mais aussi des craintes fortes, avec un écart net entre pays riches, plus méfiants, et pays émergents, plus confiants.",
+      "link": "https://www.blogdumoderateur.com/etude-anthropic-attentes-craintes-ia/",
+      "pubDate": "2026-03-23T10:12:09.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Anthropic-etude-sentiment-ia-294x172.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "62109580877c",
+      "title": "Avec Channels, Claude Code peut désormais être piloté depuis Discord et Telegram",
+      "description": "Claude Code peut désormais traiter des requêtes envoyées via ces deux messageries instantanées, à condition que la session soit ouverte sur la machine du développeur.",
+      "link": "https://www.blogdumoderateur.com/channels-claude-code-pilote-discord-telegram/",
+      "pubDate": "2026-03-23T09:55:15.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/claude-code-telegram-discord-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "ff45163313f9",
+      "title": "Comment créer du contenu engageant et authentique face à l’IA : les conseils de l’ECITV",
+      "description": "Face aux contenus générés par IA qui inondent le web, comment se démarquer en tant que professionnel du digital ? Yann Levy, directeur de l'ECITV, école spécialisée en marketing digital et audiovisuel, nous partage son analyse et ses conseils.",
+      "link": "https://www.blogdumoderateur.com/comment-creer-contenu-engageant-authentique-face-ia-conseils-ecitv/",
+      "pubDate": "2026-03-23T08:28:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/02/creer-contenu-engageant-authentique-saturation-posts-ia-conseils-ecitv-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "318d811aca0f",
+      "title": "5 formations pour devenir un expert en développement informatique",
+      "description": "Une sélection de formations dédiée à celles et ceux souhaitant acquérir ou renforcer leurs compétences en développement informatique.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-developpement-informatique-295/",
+      "pubDate": "2026-03-23T07:00:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/selection-formation-developpement-informatique-295-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "53580ed997d3",
+      "title": "Calendrier marketing 2026 : les temps forts à suivre au 2e trimestre",
+      "description": "Coupe du monde, soldes, fête des Mères, journées mondiales : tour d'horizon des dates à ne pas manquer pour vos campagnes marketing au deuxième trimestre 2026.",
+      "link": "https://www.blogdumoderateur.com/calendrier-marketing-2e-trimestre-2026/",
+      "pubDate": "2026-03-23T06:00:22.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/calendrier-marketing-t2-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
       "id": "72a905229684",
       "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
       "description": "After four years, and multiple subpoenas and depositions, the beleaguered startup has dodged yet another bullet.",
@@ -1518,6 +1933,21 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/03/claude-cowork-dispatch-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6bbbf21dad61",
+      "title": "Commentaire sur la polémique des perroquets",
+      "description": "Un court commentaire à propos de ce papier d’ Hubert Guillaud, sur l’état de la critique de l’IA à gauche qui nierait en quelque sorte, son potentiel, et la critique de la critique de l’IA. Le papier est orienté vers Commentaire sur la polémique des perroquets first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/commentaire-sur-la-polemique-des-perroquets/",
+      "pubDate": "2026-03-18T11:51:00.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
