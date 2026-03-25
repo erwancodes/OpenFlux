@@ -2,6 +2,500 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "a3220e9089ec",
+      "title": "#349.src - Tech et Soft Skills: Pourquoi l'empathie fait la différence dans une équipe de dev ? avec Sébastien Deleuze",
+      "description": "\"Les trois quarts du temps, le problème, il n'est pas technique. Le problème organisationnel, le problème politique&hellip c'est ça qui prend le dessus.\" Le D.E.V. de la semaine est Sébastien Deleuze, committer Spring Framework chez Broadcom. Dans cet épisode, Sébastien partage son expérience sur…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-349-810380cbbb8d",
+      "pubDate": "2026-03-25T04:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/39a6346b-af07-4450-bb42-6c65730e6ac7.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/62434dc1-affd-4d34-a70e-810380cbbb8d.mp3?_=1774357292",
+      "duration": "01:04:36"
+    },
+    {
+      "id": "288c617e9fe2",
+      "title": "A former Thiel fellow’s startup just launched a drone it says can replace police helicopters",
+      "description": "Brinc launched its newest 911 response drone this week, as the company seeks to expand its prominence in the public safety industry.",
+      "link": "https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/",
+      "pubDate": "2026-03-25T02:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "63284f4270d7",
+      "title": "Amazon just bought a startup making kid-size humanoid robots",
+      "description": "The acquisition of Fauna Robotics is the second robotics startup Amazon has purchased this month.",
+      "link": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "pubDate": "2026-03-25T00:53:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ddf0b1a1edc7",
+      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "description": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "pubDate": "2026-03-25T00:47:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "00284b30d11f",
+      "title": "New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching",
+      "description": "The dollar amount isn’t as important as the fact that this is the first jury verdict of its kind against Meta over harm to young people.",
+      "link": "https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/",
+      "pubDate": "2026-03-25T00:14:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d8617932111",
+      "title": "Lululemon bets Epoch Biodesign can eat its shorts, literally",
+      "description": "Startup Epoch Biodesign uses enzymes to break plastic waste down into monomers, the chemical building blocks that can be used to make new plastic.",
+      "link": "https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/",
+      "pubDate": "2026-03-25T00:01:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "767bb5cf2924",
+      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+      "description": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "pubDate": "2026-03-24T23:57:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a620efdac81b",
+      "title": "Accel, Prosus pick six ‘off-the-map’ startups for inaugural India cohort",
+      "description": "The six startups were selected from over 2,000 applications and will receive $500,000 to $2 million each.",
+      "link": "https://techcrunch.com/2026/03/24/accel-prosus-pick-six-off-the-map-startups-for-inaugural-india-cohort-atoms/",
+      "pubDate": "2026-03-24T23:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d89558bd870c",
+      "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+      "description": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+      "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+      "pubDate": "2026-03-24T22:22:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac7318ed6ca0",
+      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+      "description": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
+      "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "pubDate": "2026-03-24T21:00:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cf211d1f2b06",
+      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+      "description": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
+      "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+      "pubDate": "2026-03-24T20:56:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "10b7699c7a04",
+      "title": "Databricks bought two startups to underpin its new AI security product",
+      "description": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+      "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+      "pubDate": "2026-03-24T20:40:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e6d7525ec9d",
+      "title": "Crusoe makes big battery buys for its data centers",
+      "description": "Form Energy and Redwood Materials both received orders from the data center developer.",
+      "link": "https://techcrunch.com/2026/03/24/crusoe-makes-big-battery-buys-for-its-data-centers/",
+      "pubDate": "2026-03-24T20:40:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f7daca4784bf",
+      "title": "Arm is releasing the first in-house chip in its 35-year history",
+      "description": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
+      "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+      "pubDate": "2026-03-24T19:48:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cb7608856a5b",
+      "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+      "description": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
+      "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+      "pubDate": "2026-03-24T19:27:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a4f719716fca",
+      "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
+      "description": "Three Gemini-powered features are coming to your Google TV. This includes visual responses, deep dives, and sports briefs.",
+      "link": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
+      "pubDate": "2026-03-24T19:12:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3f93959dfee9",
+      "title": "OpenAI adds open source tools to help developers build for teen safety",
+      "description": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.",
+      "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "pubDate": "2026-03-24T18:41:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8fc9cc294c79",
+      "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
+      "description": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola.",
+      "link": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
+      "pubDate": "2026-03-24T18:41:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4ac8783badab",
+      "title": "BKR Capital raises $14.5M (so far) to  invest in Black founders",
+      "description": "BKR Capital announced Monday that its Fund II closed $20 million Canadian toward its $50 million target.",
+      "link": "https://techcrunch.com/2026/03/24/bkr-capital-raises-14-5m-so-far-to-invest-in-black-founders/",
+      "pubDate": "2026-03-24T17:47:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1da00a5879ee",
+      "title": "Crunchyroll confirms data breach after hacker claims unauthorized access",
+      "description": "Crunchyroll said it continues to investigate the data breach involving its users' personal information.",
+      "link": "https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/",
+      "pubDate": "2026-03-24T17:20:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0bf76ee604ea",
+      "title": "Doss raises $55M for AI inventory management that plugs into ERP",
+      "description": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
+      "link": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
+      "pubDate": "2026-03-24T17:18:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c1d45813c521",
+      "title": "Photoshop ajoute des options gratuites dans ChatGPT : suppression d’éléments, remplissage génératif…",
+      "description": "L'application Photoshop intégrée à ChatGPT gagne de nouvelles capacités d'édition, dont la suppression d'éléments et le changement d'arrière-plan, le tout accessible gratuitement.",
+      "link": "https://www.blogdumoderateur.com/photoshop-ajoute-options-gratuites-chatgpt/",
+      "pubDate": "2026-03-24T16:24:51.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Adobe-Photoshop-ChatGPT-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "981a51f55802",
+      "title": "Introducing JetBrains Central: An Open System for Agentic Software Development",
+      "description": "AI is beginning to change how software is produced. Instead of just assisting developers inside the editor, AI agents now investigate issues, generate code, run tests, and execute multi-step workflows. As this work scales, software development extends beyond individual tools or sessions. It becomes…",
+      "link": "https://blog.jetbrains.com/blog/2026/03/24/introducing-jetbrains-central-an-open-system-for-agentic-software-development/",
+      "pubDate": "2026-03-24T12:58:08.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/03/Blog-Featured-1280x720-2-4.png",
+      "type": "blog"
+    },
+    {
+      "id": "ac53198afacd",
+      "title": "Siemens et la robotique : comment le géant allemand redéfinit l’usine intelligente",
+      "description": "Dans l’imaginaire collectif, la robotique industrielle est dominée par des fabricants de robots comme ABB, FANUC ou KUKA. Pourtant, un acteur joue un rôle tout aussi déterminant dans la transformation des usines, souvent de manière moins visible : Siemens. Le groupe allemand, fondé en 1847, ne…",
+      "link": "https://www.robot-magazine.fr/siemens-et-la-robotique-comment-le-geant-allemand-redefinit-lusine-intelligente/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-et-la-robotique-comment-le-geant-allemand-redefinit-lusine-intelligente",
+      "pubDate": "2026-03-24T11:47:14.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "9bdf6a92b54b",
+      "title": "Instagram permet enfin de réorganiser les visuels d’un carrousel après publication",
+      "description": "Instagram déploie une fonctionnalité très attendue : il est désormais possible de modifier l'ordre des photos et vidéos d'un carrousel après sa mise en ligne.",
+      "link": "https://www.blogdumoderateur.com/instagram-permet-enfin-regorganiser-visuels-carrousel-apres-publication/",
+      "pubDate": "2026-03-24T09:39:40.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/instagram-modifier-carrousel-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cdf51f15cd7a",
+      "title": "⚗️ A local Agent with ADK and Docker Model Runner",
+      "description": "A French version is available on the Jean-Phi’s website. ⛅ Using AI in the Cloud I’m the first to admit",
+      "link": "https://blog.zenika.com/2026/03/24/%e2%9a%97%ef%b8%8f-a-local-agent-with-adk-and-docker-model-runner/",
+      "pubDate": "2026-03-24T09:37:19.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26c5.png",
+      "type": "blog"
+    },
+    {
+      "id": "3b82935be479",
+      "title": "iPhone : découvrez les nouveaux emojis disponibles avec iOS 26.4",
+      "description": "Des yeux écarquillés, une orque, un trombone, un coffre au trésor... La liste des nouveaux emojis disponibles sur la prochaine mise à jour de l'iPhone a été dévoilée.",
+      "link": "https://www.blogdumoderateur.com/iphone-decouvrez-nouveaux-emojis-ios-26-4/",
+      "pubDate": "2026-03-24T09:37:06.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Emojipedia-2026-liste-294x176.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a998c6b1ed6a",
+      "title": "Computer use : Claude prend le contrôle de votre Mac dans Cowork et Claude Code",
+      "description": "Anthropic permet à Claude de contrôler directement la souris, le clavier et le navigateur de votre Mac. La fonctionnalité, disponible dans Cowork et Claude Code, sort du cadre de l'API pour toucher tous les abonnés.",
+      "link": "https://www.blogdumoderateur.com/computer-use-claude-prend-controle-mac-cowork-claude-code/",
+      "pubDate": "2026-03-24T09:18:54.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/claude-cowork-computer-use-with-dispatch-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "69ef44b1d9a0",
+      "title": "Installer un serveur NTP local",
+      "description": "La synchronisation temporelle, c'est un de ces trucs qu'on ne remarque pas quand ça fonctionne, mais qui devient vite pénible quand ce n'est pas le cas : logs décalés entre deux machines, automatisations qui partent au mauvais moment,",
+      "link": "https://domopi.eu/installer-un-serveur-ntp-local/",
+      "pubDate": "2026-03-24T06:45:20.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/01/Designer--2-.png",
+      "type": "blog"
+    },
+    {
+      "id": "a45e2dbb6cb9",
+      "title": "Stitch : le nouvel outil de design d’interfaces de Google",
+      "description": "Stitch est un nouvel outil de design proposé par Google qui permet aux utilisateurs de créer des maquettes et prototypes de sites web et d'applications rapidement, sans compétences en design. Basé sur l'IA, il offre des fonctionnalités comme la création par prompt et l'exportation de systèmes de…",
+      "link": "https://oliviersauvage.com/2026/03/24/stitch-le-nouvel-outil-de-design-dinterfaces-de-google/",
+      "pubDate": "2026-03-24T06:28:54.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "39f65f5e7d3b",
+      "title": "Pinterest : 5 conseils d’experte pour en faire un vrai canal d’acquisition",
+      "description": "Profil, catalogue, mots clés, arborescence... Marilou Rudel, cofondatrice de Flair Agency, livre ses conseils pour exploiter le potentiel de Pinterest.",
+      "link": "https://www.blogdumoderateur.com/pinterest-5-conseils-experte-vrai-canal-acquisition/",
+      "pubDate": "2026-03-24T06:00:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/conseils-pinterest-marques-294x196.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "31277fd9d015",
       "title": "Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick",
       "description": "When asked whether he was still \"salty\" about about being shown the door at Uber, alongside co-founder Travis Kalanick, Michael didn't equivocate. \"I'll never forget that, nor forgive,\" he said.",
@@ -29,6 +523,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "892e04b21395",
+      "title": "Égapro",
+      "description": "– Papa, j’ai trouvé réussi le brevet blanc d’EMC1 ! La semaine dernière, nous avons discuté de l’index de l’égalité professionnelle, à l’occasion de la publication des résultats de mon entreprise. Forcément, ça aide ! Enseignement Moral et Civique. ↩ rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-03-egapro/\n",
+      "pubDate": "2026-03-23T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -1103,6 +1612,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3c4d1522e507",
+      "title": "Autonomie",
+      "description": "En tant que parent, on se fait toute une idée de l’autonomie. Comme quoi un jour, nos chers enfants feront les choses seuls, sans notre aide, et que ça sera à la fois génial et un peu triste. Et puis en fait, comme pour la marche, ça vient après une succession de mouvements désordonés. – Mais, t’es…",
+      "link": "https://boris.schapira.dev/notes/2026-03-autonomie/\n",
+      "pubDate": "2026-03-19T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
