@@ -2,6 +2,580 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "fd10eca46bc7",
+      "title": "The least surprising chapter of the Manus story is what’s happening right now",
+      "description": "Did anyone think there would not be a reckoning over this tie-up?",
+      "link": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
+      "pubDate": "2026-03-26T02:46:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ab7d8c2b183",
+      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+      "description": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+      "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+      "pubDate": "2026-03-26T00:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9cc7fda5851c",
+      "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
+      "description": "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting malware.",
+      "link": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+      "pubDate": "2026-03-26T00:03:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47068df6fd11",
+      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+      "description": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+      "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "pubDate": "2026-03-25T21:44:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "37de304a2da9",
+      "title": "Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks",
+      "description": "The spyware founder's comments are the most direct suggestion yet from anyone inside Intellexa that the Mitsotakis government authorized the hacking of dozens of phones belonging to senior Greek government ministers, opposition leaders, military officials, and journalists.",
+      "link": "https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/",
+      "pubDate": "2026-03-25T21:19:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b95d3e9093c6",
+      "title": "Who’s driving Waymo’s self-driving cars? Sometimes, the police.",
+      "description": "First responders have had to take control of Waymo vehicles and move them during emergency situations, including in at least two active crime scenes, TechCrunch found.",
+      "link": "https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/",
+      "pubDate": "2026-03-25T20:57:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c8101cd292a5",
+      "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+      "description": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
+      "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+      "pubDate": "2026-03-25T20:38:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc205ec0184b",
+      "title": "Melania Trump wants a robot to homeschool your child",
+      "description": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+      "link": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "pubDate": "2026-03-25T18:55:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "649e2798885e",
+      "title": "Riding the GLP-1 boom, VITL lands $7.5M to overhaul cash-pay clinic prescribing",
+      "description": "The startup provides an e-prescribing marketplace for the booming cash-pay clinic market.",
+      "link": "https://techcrunch.com/2026/03/25/riding-the-glp-1-boom-vitl-lands-7-5m-to-overhaul-cash-pay-clinic-prescribing/",
+      "pubDate": "2026-03-25T18:45:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dec4b2aec097",
+      "title": "Jury finds Meta and Google negligent in landmark social media addiction trial",
+      "description": "Evidence presented at the trial swayed the jury to the plaintiff's side, demonstrating that Meta understood how addictive its platforms could be among teens in particular and that it was actively researching the issue and using its findings to increase engagement among young users.",
+      "link": "https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/",
+      "pubDate": "2026-03-25T17:50:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c1f985cca72",
+      "title": "Meta is cutting several hundred jobs",
+      "description": "Meta is laying off several hundred employees across multiple teams, including sales, recruiting, and the Reality Labs division. The cuts will impact employees in the U.S. and other international markets.",
+      "link": "https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/",
+      "pubDate": "2026-03-25T17:49:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9af10e1cdb1a",
+      "title": "Apple overhauls its app developer platform with 100 new metrics, more tools",
+      "description": "Apple is adding 100+ new App Store Connect metrics, giving developers deeper, first-party insights into monetization, subscriptions, and user behavior as it doubles down on its app ecosystem in the AI era.",
+      "link": "https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/",
+      "pubDate": "2026-03-25T17:26:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "766b934b325c",
+      "title": "Bernie Sanders and AOC propose a ban on data center construction",
+      "description": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
+      "link": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+      "pubDate": "2026-03-25T17:15:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0bdb34abcd9f",
+      "title": "DeleteMe acquires social media security tool Block Party",
+      "description": "Tracey Chou founded Block Party in 2018 as a tool to help people stay safe from targeted harassment on Twitter, inspired by her own experiences.",
+      "link": "https://techcrunch.com/2026/03/25/deleteme-acquires-social-media-security-tool-block-party/",
+      "pubDate": "2026-03-25T16:51:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f4bfcb74b97",
+      "title": "Google launches Lyria 3 Pro music generation model",
+      "description": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
+      "link": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+      "pubDate": "2026-03-25T16:37:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c30d91ab9b83",
+      "title": "Russia arrests alleged owner of cybercrime forum LeakBase, report says",
+      "description": "Russian state-owned media reported that police in Russia arrested the administrator of LeakBase, a large hacking forum.",
+      "link": "https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/",
+      "pubDate": "2026-03-25T16:36:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "226378d84540",
+      "title": "Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior",
+      "description": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
+      "link": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
+      "pubDate": "2026-03-25T16:10:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "82a123823c94",
+      "title": "IA au travail : 70 % des dirigeants voient des gains de productivité, les salariés restent prudents",
+      "description": "Perception, usages, formation... Un rapport Ipsos pour Google passe au crible la transition IA des entreprises françaises, entre optimisme des dirigeants et prudence des salariés.",
+      "link": "https://www.blogdumoderateur.com/ia-au-travail-70-pourcent-dirigeants-voient-gains-productivite-salaries-restent-prudents/",
+      "pubDate": "2026-03-25T15:58:58.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Ipsos-bva-google-ia-travail-diffusion-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "25469b1c6543",
+      "title": "Les salaires dans la tech en 2026 : comparez votre rémunération",
+      "description": "The Product Crew publie son étude 2026 sur les salaires tech, accompagnée d’un comparateur interactif pour situer sa rémunération sur le marché. On fait le point !",
+      "link": "https://www.blogdumoderateur.com/salaires-tech-2026-comparer-remuneration/",
+      "pubDate": "2026-03-25T15:42:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/remunerations-data-analyst-2026-294x172.png",
+      "type": "blog"
+    },
+    {
+      "id": "0b10278d5a0a",
+      "title": "How soap opera-TikTok hybrids became a billion-dollar business",
+      "description": "Over the past few years, a new category of mobile apps has quietly exploded into a multi-billion dollar business. They’re called “micro dramas” — short-form, mobile-first scripted shows designed to be watched vertically on your phone. Think soap opera meets TikTok, complete with secret billionaire…",
+      "link": "https://techcrunch.com/video/how-soap-opera-tiktok-hybrids-became-a-billion-dollar-business/",
+      "pubDate": "2026-03-25T15:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7861423ec174",
+      "title": "Harvey confirms $11B valuation: Sequoia triples down",
+      "description": "Investors like Sequoia, Andreessen Horowitz, Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey.",
+      "link": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
+      "pubDate": "2026-03-25T15:27:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "889a1589af7a",
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+      "description": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
+      "link": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "pubDate": "2026-03-25T14:48:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48c1d2aa99f2",
+      "title": "Aux sources de notre industrie avec Yannick Grenzinger",
+      "description": "\"Ecrire plus de lignes de code n'est pas la solution pour livrer de la valeur plus vite\" A l'heure de l'IA générative, cette punchline a plus de sens que jamais. D’habitude, les épisodes qui parlent d’IA vieillissent mal. Pas celui-là. Tant mieux d’ailleurs, on l’a enregistré il y a un an. Pourtant…",
+      "link": "https://podcast.ausha.co/artisan-developpeur/aux-sources-de-notre-industrie-avec-yannick-grenzinger",
+      "pubDate": "2026-03-25T14:02:10.000Z",
+      "source": "Artisan Développeur",
+      "sourceUrl": "https://feed.ausha.co/BxW2S9Mex0Vb",
+      "categories": [
+        "Programmation"
+      ],
+      "image": "https://image.ausha.co/fLX9k5CvO0oKLYNJe4gEadREHiVor1NgohMiAWVn_1400x1400.jpeg?t=1774447331",
+      "type": "podcast",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/bPxpuG9WLAMb.mp3?t=1774447161",
+      "duration": "1:07:00"
+    },
+    {
+      "id": "4436a5bfb487",
+      "title": "Pourquoi il faut mettre des liens dans les posts de vos réseaux sociaux",
+      "description": "Les liens dans les posts sur les réseaux sociaux sont souvent pénalisés. Mais pourtant, ils sont importants. Dans cet article, je vous explique pourquoi il faut en faire et comment. L’article Pourquoi il faut mettre des liens dans les posts de vos réseaux sociaux est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/03/25/pourquoi-il-faut-mettre-des-liens-dans-les-posts-de-vos-reseaux-sociaux/",
+      "pubDate": "2026-03-25T11:30:40.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9acb6224687c",
+      "title": "ChatGPT enrichit son expérience shopping et abandonne Instant Checkout",
+      "description": "Plus visuelle, la nouvelle interface shopping de ChatGPT inclut la possibilité de comparer plus facilement les produits et d'effectuer une recherche par image.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-enrichit-experience-shopping-abandonne-instant-checkout/",
+      "pubDate": "2026-03-25T11:25:01.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/openai-nouvelle-interface-shopping-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8a76b9ab1c9d",
+      "title": "OpenAI abandonne son application Sora et perd un accord à un milliard de dollars",
+      "description": "Six mois après son lancement, l'application Sora disparaît sans explication officielle de la part d'OpenAI, qui peine toujours à trouver un business model efficace.",
+      "link": "https://www.blogdumoderateur.com/openai-abandonne-application-sora-perd-accord-un-milliard-dollars/",
+      "pubDate": "2026-03-25T11:11:20.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/fin-app-sora-openai-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "216d28517837",
+      "title": "Décommission de kibana.zwindler.fr, le Kibana qui hébergeait les sondages Okiwi",
+      "description": "La fin d’une époque ? Si vous me suivez depuis quelques années, vous savez que parmis mes nombreux side projects, j’héberge (hébergeais ?) un serveur Kibana pour permettre à tout le monde de consulter les résultats des sondages sur les salaires dans la tech Girondine, organisés par l’association…",
+      "link": "https://blog.zwindler.fr/2026/03/25/decomission-kibana-zwindler-fr-sondages-okiwi/",
+      "pubDate": "2026-03-25T11:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/okiwi-2024-2025.png",
+      "type": "blog"
+    },
+    {
+      "id": "660d592592eb",
+      "title": "Claude Code lance l’auto mode, pour équilibrer l’autonomie de l’IA et la sécurité",
+      "description": "Anthropic propose une nouvelle option pour les développeurs sur Claude Code : l'auto mode soumet chaque action à un classifieur IA avant exécution, sans demander de validation à chaque étape.",
+      "link": "https://www.blogdumoderateur.com/claude-code-lance-auto-mode/",
+      "pubDate": "2026-03-25T10:46:28.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/claude-code-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9df9d250022a",
+      "title": "Figma ouvre son canevas aux agents IA pour créer et modifier des composants",
+      "description": "Figma, par l'intermédiaire d'un nouvel outil de son serveur MCP, permet désormais aux agents IA d'écrire dans les fichiers de design en respectant les standards de chaque équipe.",
+      "link": "https://www.blogdumoderateur.com/figma-ouvre-canevas-agents-ia-creer-modifier-composants/",
+      "pubDate": "2026-03-25T10:43:33.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Agents-IA-canveas-Figma.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "41e908f14019",
+      "title": "Les 4C, votre assurance qualité face au Vibe Coding",
+      "description": "Concevoir, Contextualiser, Contraindre, Comprendre. Découvrez comment les 4C guide nos intéractions avec les LLM, tout en nous aidant à garantir la qualité et la maintenabilité du code, dans un paysage informatique en mutation perpétuelle.",
+      "link": "https://blog.ippon.fr/2026/03/25/les-4c-votre-assurance-qualite-face-au-vibe-coding/",
+      "pubDate": "2026-03-25T10:30:17.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/Gemini_Generated_Image_40i17540i17540i1-3.png",
+      "type": "blog"
+    },
+    {
+      "id": "473f3bcb2fd2",
+      "title": "Déploiement On-Premise - Partie 1 - Le socle Docker",
+      "description": "Dans cet article, nous vous expliquons notre approche de déploiement hybride pour une application Symfony conteneurisée avec Docker. Ce système permet un déploiement à la fois sur des serveurs connectés à Internet et en mode local (on-premise) pour les zones de travail sans connectivité réseau. Le…",
+      "link": "https://jolicode.com/blog/deploiement-on-premise-partie-1-le-socle-docker",
+      "pubDate": "2026-03-25T09:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/on-premise-docker-castor/arsol-schema-onpremise.png",
+      "type": "blog"
+    },
+    {
+      "id": "12a0b754666c",
+      "title": "Souveraineté numérique : pourquoi se tourner vers des alternatives à Microsoft 365",
+      "description": "Face aux tensions géopolitiques et aux lois extraterritoriales, la souveraineté numérique s'impose comme un enjeu majeur en 2026. Des plateformes collaboratives françaises comme Jamespot proposent des alternatives crédibles aux solutions américaines.",
+      "link": "https://www.blogdumoderateur.com/souverainete-numerique-pourquoi-tourner-vers-alternatives-microsoft-365/",
+      "pubDate": "2026-03-25T08:00:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Visuel-Jamespot-X-BDM-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a53ed70a395e",
+      "title": "Product management en 2026 : les compétences clés pour s’imposer sur un marché qui se réinvente",
+      "description": "Le product management se transforme en profondeur et exige de nouvelles compétences, dont une véritable capacité d'adaptation. Co-fondateur de The Product Crew, Mathias Frachon livre pour BDM sa lecture du marché et ses conseils pour y évoluer.",
+      "link": "https://www.blogdumoderateur.com/product-management-2026-competences-cles-marche-reinvente/",
+      "pubDate": "2026-03-25T07:30:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/mathias-frachon-the-product-crew-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e0cd7c02d83f",
+      "title": "Meta Verified, LinkedIn Premium, Snapchat+ : pour quel réseau social accepte-t-on de payer ?",
+      "description": "Snapchat+, X Premium, Meta Verified… Les offres premium fleurissent sur les réseaux sociaux. Mais qui paie vraiment ? On a posé la question à nos lecteurs.",
+      "link": "https://www.blogdumoderateur.com/meta-verified-linkedin-premium-snapchat-pour-quel-reseau-social-accepte-on-payer/",
+      "pubDate": "2026-03-25T07:00:01.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/abonnements-payants-reseaux-sociaux-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "828e123d9600",
+      "title": "SEO : Google déploie une mise à jour de ses algorithmes (March 2026 spam update)",
+      "description": "Google a lancé le déploiement de la March 2026 Spam Update, sa première mise à jour antispam de l'année. Le déploiement devrait prendre quelques jours.",
+      "link": "https://www.blogdumoderateur.com/seo-google-march-2026-spam-update/",
+      "pubDate": "2026-03-25T06:55:55.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/march-2026-spam-update-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "193ca6cd81a6",
+      "title": "Facebook devient le réseau social où la toxicité est la plus courante",
+      "description": "Bodyguard publie la deuxième édition de son Observatoire de la haine en ligne, résultat de l'analyse de 14,3 milliards de commentaires postés sur les réseaux sociaux en 2025.",
+      "link": "https://www.blogdumoderateur.com/facebook-devient-reseau-social-toxicite-plus-courante/",
+      "pubDate": "2026-03-25T06:00:55.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/repartition-toxicite-secteurs-294x227.jpg",
+      "type": "blog"
+    },
+    {
       "id": "a3220e9089ec",
       "title": "#349.src - Tech et Soft Skills: Pourquoi l'empathie fait la différence dans une équipe de dev ? avec Sébastien Deleuze",
       "description": "\"Les trois quarts du temps, le problème, il n'est pas technique. Le problème organisationnel, le problème politique&hellip c'est ça qui prend le dessus.\" Le D.E.V. de la semaine est Sébastien Deleuze, committer Spring Framework chez Broadcom. Dans cet épisode, Sébastien partage son expérience sur…",
@@ -125,6 +699,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cc2df75c737a",
+      "title": "Déploiement continu et cycles de développement longs",
+      "description": "Lorsque l’on travaille sur des applications web orientées SaaS, on a la chance de pouvoir livrer rapidement et régulièrement de nouvelles fonctionnalités aux utilisateurs. C’est ce qui se cache derrière les concepts de livraison ou de déploiement continu. Pourtant, beaucoup d’équipes font des mises…",
+      "link": "https://www.jdecool.fr/blog/2026/03/25/deploiement-continu-et-cycles-de-developpement-longs.html",
+      "pubDate": "2026-03-24T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
@@ -926,6 +1515,21 @@
       "type": "blog"
     },
     {
+      "id": "13cd4b0bb68a",
+      "title": "Fast regex search: indexing text for agent tools",
+      "description": "How we're building indexes for regular expression search so agents can find text in large monorepos without the 15-second ripgrep waits.",
+      "link": "https://cursor.com/blog/fast-regex-search",
+      "pubDate": "2026-03-23T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "72a905229684",
       "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
       "description": "After four years, and multiple subpoenas and depositions, the beleaguered startup has dodged yet another bullet.",
@@ -1015,6 +1619,22 @@
       "categories": [
         "IA",
         "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73aba7f17a36",
+      "title": "AI Workflow Framework - le CLI est dispo pour tout le monde",
+      "description": "Lancement d'AWF CLI : un outil en Go pour piloter des workflows IA déterministes et complexes. Conçu pour automatiser le \"vibe coding\" via YAML. Pour aider Claude, Gemini, Codex et leurs amis...",
+      "link": "https://alex.balmes.co/fr/blog/ai-workflow-framework-le-cli-est-dispo-pour-tout-le-monde",
+      "pubDate": "2026-03-22T15:24:59.000Z",
+      "source": "Alex Balmes",
+      "sourceUrl": "https://alex.balmes.co/fr/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA",
         "Web"
       ],
       "image": null,
