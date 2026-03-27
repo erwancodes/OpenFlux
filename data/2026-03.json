@@ -2,6 +2,468 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "2c64de19f77e",
+      "title": "#335.exe - Figma: From tech debt to AI, all through collaboration. The real life of a VP of Engineering par Caroline Chavier",
+      "description": "Pour l'épisode #335 je recevais Marcel Weekes. On en débrief avec Caroline. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-335-exe-b617f0a5ec50",
+      "pubDate": "2026-03-27T04:00:30.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/8af292f4-9d4f-4f3f-b226-b617f0a5ec50.mp3?_=1774530150",
+      "duration": "12:29"
+    },
+    {
+      "id": "57fcef62276f",
+      "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+      "description": "Sacks will be much further from power center in Washington than since the outset of this second Trump administration.",
+      "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+      "pubDate": "2026-03-27T01:26:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a2ab56effc9",
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "description": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+      "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "pubDate": "2026-03-27T01:18:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a3c2222831e",
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "description": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+      "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "pubDate": "2026-03-26T23:47:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d8c2c4725318",
+      "title": "Wikipedia cracks down on the use of AI in article writing",
+      "description": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+      "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "pubDate": "2026-03-26T21:50:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "17732333e3e1",
+      "title": "Mastodon is making its decentralized social network easier to use with its latest revamp",
+      "description": "Mastodon is redesigning user profiles to simplify the experience and better appeal to mainstream users and organizations.",
+      "link": "https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/",
+      "pubDate": "2026-03-26T20:42:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32b9551d831f",
+      "title": "Netflix confirms it’s raising prices again",
+      "description": "The standard plan without ads now costs $19.99 per month, a $2 increase from the previous $17.99 subscription fee, while the premium plan is also going up by $2 and will now cost $26.99 per month.",
+      "link": "https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/",
+      "pubDate": "2026-03-26T20:39:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2672ca8c0850",
+      "title": "16 of the most interesting startups from YC W26 Demo Day",
+      "description": "From redirecting doomscrolling to training humanoid robots, these 16 startups stood out as the most interesting ones from an overflowing YC cohort.",
+      "link": "https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/",
+      "pubDate": "2026-03-26T19:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c896dfd0e941",
+      "title": "Google Translate’s real-time headphone translations feature expands to iOS and more countries",
+      "description": "The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.",
+      "link": "https://techcrunch.com/2026/03/26/google-translates-real-time-headphone-translations-feature-expands-to-ios-and-more-countries/",
+      "pubDate": "2026-03-26T19:11:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ee8f1121394a",
+      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "description": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+      "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "pubDate": "2026-03-26T18:34:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "83a586727b32",
+      "title": "Data centers get ready — the Senate wants to see your power bills",
+      "description": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+      "link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+      "pubDate": "2026-03-26T18:23:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ba572658c39",
+      "title": "Defense startup Shield AI lands $12.7B valuation, up 140%, after US Air Force deal",
+      "description": "In one year, Shield AI's value has leaped 140%. This after it won a contract to be the software provider to Anduril's Fury fighter jet for the U.S. Air Force.",
+      "link": "https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/",
+      "pubDate": "2026-03-26T18:05:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32db77d3c706",
+      "title": "Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks",
+      "description": "Leaked hacking tools threaten the security of millions of older iPhones. Cybersecurity experts weigh in.",
+      "link": "https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/",
+      "pubDate": "2026-03-26T17:22:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3bce5ac8eb1",
+      "title": "Google is launching Search Live globally",
+      "description": "Search Live allows users to point their phone camera at objects to get real-time assistance, enabling back-and-forth conversations that draw on the visual context from the camera feed.",
+      "link": "https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/",
+      "pubDate": "2026-03-26T16:37:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae044561a6a0",
+      "title": "Silicon Valley’s two biggest dramas have intersected: LiteLLM and Delve",
+      "description": "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting malware.",
+      "link": "https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+      "pubDate": "2026-03-26T16:06:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a7fe3ceb8cb4",
+      "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "description": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+      "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "pubDate": "2026-03-26T15:25:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5fcbb38c82cc",
+      "title": "LLM à l’état de l’art pour équipes de développement : analyse statistique et perspectives",
+      "description": "Introduction Bien que l’invention des neurones formels date de 1943 [1], ce sont les réseaux sémantiques qui ont mené l’intelligence",
+      "link": "https://blog.zenika.com/2026/03/26/llm-a-letat-de-lart-pour-equipes-de-developpement-analyse-statistique-et-perspectives/",
+      "pubDate": "2026-03-26T14:53:56.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/03/image-5.png?resize=800%2C380&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "87c5e959e05f",
+      "title": "Why hiring the weirdos works",
+      "description": "When you’re building at breakneck speed, hiring a trusted team is crucial for an early-stage startup. Bland CEO and co-founder Isaiah Granet has tactical advice on how the company managed to find hidden talent in unlikely places.",
+      "link": "https://techcrunch.com/2026/03/26/why-hiring-the-weirdos-works/",
+      "pubDate": "2026-03-26T14:38:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "df6658f19ffc",
+      "title": "A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know.",
+      "description": "Here’s what we know, and what you need to know, about Coruna and DarkSword, two advanced iPhone hacking tools discovered by security researchers. DarkSword has now leaked online.",
+      "link": "https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/",
+      "pubDate": "2026-03-26T14:09:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "64cc218a4f92",
+      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+      "description": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
+      "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+      "pubDate": "2026-03-26T13:41:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "befd9c87ad54",
+      "title": "Cohere launches an open source voice model specifically for transcription",
+      "description": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
+      "link": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+      "pubDate": "2026-03-26T13:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6ee8f9d69e6",
+      "title": "WhatsApp can now draft AI-generated responses based on your conversations",
+      "description": "The Meta-owned messaging platform is also launching a way to free up space, the ability to touch up photos with Meta AI, and more.",
+      "link": "https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/",
+      "pubDate": "2026-03-26T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a7adcd734de4",
+      "title": "Global Industrie : les exposants qui redéfinissent l’usine du futur",
+      "description": "Une édition 2026 sous le signe de la transformation industrielle Dans moins d’une semaine, le salon Global Industrie 2026 ouvrira ses portes pour s’imposer, une nouvelle fois, comme le rendez-vous incontournable de l’innovation industrielle en Europe. Mais au-delà des machines et des démonstrations…",
+      "link": "https://www.robot-magazine.fr/global-industrie-2026-les-exposants-qui-redefinissent-lusine-du-futur/?utm_source=rss&utm_medium=rss&utm_campaign=global-industrie-2026-les-exposants-qui-redefinissent-lusine-du-futur",
+      "pubDate": "2026-03-26T10:54:00.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "a8e857898414",
+      "title": "Git : comment supprimer tous les fichiers en dehors de l’historique",
+      "description": "Découvrez comment supprimer les fichiers non suivis par Git après un git reset, avec git clean, les bonnes options et les précautions à connaître.",
+      "link": "https://code-garage.com/blog/git-comment-supprimer-tous-les-fichiers-en-dehors-de-l-historique",
+      "pubDate": "2026-03-26T09:57:15.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ccc6a21fef86",
+      "title": "Les jeunes et l’IA : quels impacts concrets sur le marché du travail ?",
+      "description": "Une analyse menée par l'Insee montre que l'emploi des moins de 30 ans recule dans les secteurs de l'informatique et des services d'information, en France comme aux États-Unis, alors que ces secteurs affichent une activité dynamique.",
+      "link": "https://www.blogdumoderateur.com/jeunes-ia-impacts-concrets-marche-travail/",
+      "pubDate": "2026-03-26T09:55:12.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/etude-insee-contribution-emploi-tranches-age-t4-2023-2025-france-294x125.png",
+      "type": "blog"
+    },
+    {
+      "id": "e7a4691b9a1c",
+      "title": "IA : les 10 générateurs d’images les plus performants en mars 2026",
+      "description": "Déployé il y a tout juste un mois, Nano Banana 2 n'est pas parvenu à détrôner GPT Image 1.5 de la première position d'un classement dominé par une poignée d'acteurs.",
+      "link": "https://www.blogdumoderateur.com/ia-10-generateurs-images-performants-mars-2026/",
+      "pubDate": "2026-03-26T09:45:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/classement-modeles-generation-image-mars-2026-294x147.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "36202f6fee2f",
+      "title": "Déploiement On-Premise - Partie 2 - Castor à la rescousse",
+      "description": "Dans le précédent article, nous avons vu toutes les étapes nécessaires pour préparer les images Docker qui seront utilisées en production. Mais nous allons maintenant aller plus loin pour automatiser et simplifier encore un peu plus cette étape grâce à Castor et les runners GitLab, le but étant de…",
+      "link": "https://jolicode.com/blog/deploiement-on-premise-partie-2-castor-a-la-rescousse",
+      "pubDate": "2026-03-26T09:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/on-premise-docker-castor/arsol-production-phar.png",
+      "type": "blog"
+    },
+    {
+      "id": "44b16f904904",
+      "title": "WooCommerce, Shopify, PrestaShop : quel CMS domine le e-commerce français ?",
+      "description": "WooCommerce, Shopify et PrestaShop captent 89 % du secteur du e-commerce en France. Mais la solution basée sur WordPress garde une belle longueur d'avance.",
+      "link": "https://www.blogdumoderateur.com/woocommerce-shopify-prestashop-cms-e-commerce-francais/",
+      "pubDate": "2026-03-26T09:00:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/classement-cms-plus-utilises-e-commerce-france-294x187.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c51371df9e0b",
+      "title": "Réorganisation des LXC, panne du NUC, refonte du homelab : retour sur un mois mouvementé",
+      "description": "Une migration propre, un onduleur qui lâche dans la nuit, une carte mère HS au réveil. Parfois c'est une panne qui finit par forcer les bonnes décisions.",
+      "link": "https://domopi.eu/reorganisation-des-lxc-panne-du-nuc-refonte-du-homelab-retour-sur-un-mois-mouvemente/",
+      "pubDate": "2026-03-26T06:45:36.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/rack.webp",
+      "type": "blog"
+    },
+    {
       "id": "fd10eca46bc7",
       "title": "The least surprising chapter of the Manus story is what’s happening right now",
       "description": "Did anyone think there would not be a reckoning over this tie-up?",
