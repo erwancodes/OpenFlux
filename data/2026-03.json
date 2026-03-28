@@ -2,6 +2,312 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "14fc9892db6e",
+      "title": "Whoop has LeBron – now it wants your mom",
+      "description": "Whoop founder Will Ahmed has spent 14 years building a health wearable beloved by elite athletes, and is now racing Oura — and the FDA, and the limits of consumer medicine — to turn it into something that could one day save your life.",
+      "link": "https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/",
+      "pubDate": "2026-03-28T02:31:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eaa01bcac30d",
+      "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
+      "description": "The deal would effectively double the company's $5.6 billion valuation in just four months.",
+      "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "pubDate": "2026-03-27T23:59:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1b76789dfb36",
+      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+      "description": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+      "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "pubDate": "2026-03-27T21:44:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "03c68e8fecce",
+      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+      "description": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+      "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+      "pubDate": "2026-03-27T19:11:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "43924a7eff0c",
+      "title": "Waymo’s skyrocketing ridership in one chart",
+      "description": "Waymo's weekly paid robotaxi trips have increased tenfold in less than two years.",
+      "link": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
+      "pubDate": "2026-03-27T19:11:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dd768c490925",
+      "title": "European Commission confirms cyberattack after hackers claim data breach ",
+      "description": "The European Union's top executive body has confirmed a cyberattack after hackers reportedly stole reams of data from the European Commission's cloud storage.",
+      "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
+      "pubDate": "2026-03-27T17:59:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "94e8750bb886",
+      "title": "Aetherflux reportedly raising Series B at $2 billion valuation",
+      "description": "Index Ventures is said to be leading a $250 million to $350 million round.",
+      "link": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
+      "pubDate": "2026-03-27T17:05:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "62556a98f12d",
+      "title": "Rivian gets another $1B from Volkswagen",
+      "description": "The two companies have been collaborating on a joint venture that would see Rivian tech go in VW's EVs.",
+      "link": "https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/",
+      "pubDate": "2026-03-27T15:47:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "11ad23a83fbc",
+      "title": "Iranian hackers claim breach of FBI director Kash Patel’s personal email account",
+      "description": "Handala, a pro-Iranian hacking group allegedly working for Iran’s government, published emails it said were taken from the Gmail account of FBI director Kash Patel.",
+      "link": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/",
+      "pubDate": "2026-03-27T15:39:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "50096a03493e",
+      "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
+      "description": "The tech giant's claim that it has not seen any successful spyware attacks targeting Apple devices with Lockdown Mode enabled comes amid a leak of hacking tools targeting users running devices with older software.",
+      "link": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
+      "pubDate": "2026-03-27T14:27:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5170768851c0",
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "description": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting…",
+      "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "pubDate": "2026-03-27T13:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a8a35fb139b",
+      "title": "SEO : Google déploie une mise à jour majeure de ses algorithmes (March 2026 Core Update)",
+      "description": "Google confirme le déploiement officiel de la nouvelle mise de ses algorithmes, la March 2026 Core Update. Elle survient quelques jours seulement après le lancement d'une autre mise à jour, la March 2026 Spam Update.",
+      "link": "https://www.blogdumoderateur.com/google-march-2026-core-update/",
+      "pubDate": "2026-03-27T11:32:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/google-march-2026-core-update-294x146.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "75635e0a66ca",
+      "title": "Gemini veut récupérer vos conversations issues de ChatGPT et Claude",
+      "description": "Google déploie deux outils pour faciliter la migration vers Gemini et améliorer l'expérience utilisateur. La fonctionnalité cible explicitement les utilisateurs de ChatGPT et Claude, mais reste indisponible en France.",
+      "link": "https://www.blogdumoderateur.com/google-veut-recuperer-conversations-issues-chatgpt-claude-gemini/",
+      "pubDate": "2026-03-27T10:08:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/google-gemini-transfert-conversations-ia-294x166.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5e3111664671",
+      "title": "iOS 27 : Apple va ouvrir Siri à ChatGPT, Claude, Gemini et aux IA tierces",
+      "description": "Apple prépare un système nommé Extensions qui permettra à Gemini, Claude ou Perplexity de s'intégrer directement à Siri, mettant fin à l'exclusivité d'OpenAI.",
+      "link": "https://www.blogdumoderateur.com/ios-27-apple-ouvrir-siri-chatgpt-claude-gemini-ia-tierces/",
+      "pubDate": "2026-03-27T09:53:16.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Siri-ios-27-apple-chatgpt-claude-gemini-294x201.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "4c868669802f",
+      "title": "6 nouveautés bientôt déployées sur WhatsApp : stockage, multi-compte, Meta AI…",
+      "description": "Meta déploie une salve de nouveautés sur WhatsApp, dont la possibilité de migrer ses discussions d'iOS vers Android et de gérer deux comptes simultanément sur iPhone.",
+      "link": "https://www.blogdumoderateur.com/6-nouveautes-whatsapp-stockage-multi-compte-meta-ai/",
+      "pubDate": "2026-03-27T09:51:04.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/nouveautes-whatsapp-mars-2026-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9b37529c5d78",
+      "title": "Quelle IA collecte le plus de données personnelles ?",
+      "description": "Une étude de Surfshark révèle que les chatbots d’IA collectent massivement des données personnelles, avec des pratiques très variables selon les plateformes.",
+      "link": "https://www.blogdumoderateur.com/quelle-ia-collecte-plus-donnees-personnelles/",
+      "pubDate": "2026-03-27T09:46:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Surfshark-donnees-etude-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "82fad7cc311a",
+      "title": "NuxtJS, le framework Vue avec des super-pouvoirs !",
+      "description": "Découvrez pourquoi apprendre NuxtJS vous permet de passer de Vue à un framework complet avec SSR, SEO, routing automatique et performances optimisées. Notes de l'épisode : Bibliothèque vs Framework : https://code-garage.com/podcast/classic/episode-11 Cours complet NuxtJS :…",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/NuxtJS--le-framework-Vue-avec-des-super-pouvoirs-e3h1ql4",
+      "pubDate": "2026-03-27T09:00:08.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/117549156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-27%2F0e49bdad-ed73-e5d7-2cab-51e361fd3050.mp3",
+      "duration": "00:12:19"
+    },
+    {
+      "id": "f0f820933649",
+      "title": "Kit R&D ROS2 pour robot mobile : intégration et développement simplifiés",
+      "description": "Kit R&D ROS2 pour robot mobile : intégration et développement simplifiés 31. März 2026 Le développement d’un robot mobile sous ROS2 nécessite plusieurs étapes techniques : intégration des capteurs, configuration logicielle, mise en communication des composants et accès au système embarqué. Le kit…",
+      "link": "https://www.generationrobots.com/blog/fr/kit-rd-ros-2-pour-robot-mobile-integration-simplifiee/",
+      "pubDate": "2026-03-27T08:14:11.000Z",
+      "source": "Génération Robots",
+      "sourceUrl": "https://www.generationrobots.com/blog/fr/feed/",
+      "categories": [
+        "Robotique",
+        "Programmation"
+      ],
+      "image": "https://www.generationrobots.com/blog/wp-content/uploads/2026/03/kit-rd-ros2-robot-mobile-integration-simplifiee-300x150.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b34409025030",
+      "title": "MACI #157 - PostgreSQL, Redis et React - Avec Ludovic Dussart de Zatsit",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, nos invités parcourent plusieurs actualités techniques autour des bases de données, de l’open source et des outils développeurs. Nous parlons des évolutions de PostgreSQL et MySQL, du sharding avec PgDog, et de la fin de vie de certaines…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-157-postgresql-redis-et-react-avec-ludovic-dussart-de-zatsit",
+      "pubDate": "2026-03-27T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/wMLOVVja6qOn3E97sHRgpqMEGcwvfDyQmmkBF7A5_1400x1400.jpeg?t=1774590549",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/oZw9zCxXwmLJ.mp3?t=1774590011",
+      "duration": "58:47"
+    },
+    {
       "id": "2c64de19f77e",
       "title": "#335.exe - Figma: From tech debt to AI, all through collaboration. The real life of a VP of Engineering par Caroline Chavier",
       "description": "Pour l'épisode #335 je recevais Marcel Weekes. On en débrief avec Caroline. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn…",
@@ -52,6 +358,22 @@
       "type": "blog"
     },
     {
+      "id": "1f63d3ab2922",
+      "title": "La veille de Wittouck - Fin mars 2026",
+      "description": "Comme depuis plusieurs semaines, je continue à m’intéresser aux sujets autour de la souveraineté numérique. J’ai aussi lu plusieurs articles et rapports sur l’Open Source, écrits par la CNCF et la Linux Foundation (les sujets sont connexes). Ces sujets ont d’ailleurs maintenant le droit à leur…",
+      "link": "https://codeka.io/2026/03/27/la-veille-de-wittouck-fin-mars-2026/",
+      "pubDate": "2026-03-27T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/03/27/la-veille-de-wittouck-fin-mars-2026/cover_hu_2d8aab1631788c76.webp",
+      "type": "blog"
+    },
+    {
       "id": "7a3c2222831e",
       "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
       "description": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
@@ -63,6 +385,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "62b7057e18dd",
+      "title": "TNT",
+      "description": "Les garçons sont à fond dans leur partie en coop de Minecraft en mode survie, ce qui donne des conversations d’initiés comme : – Si on collecte un bâton de Blaze, on le transforme en poudre, comme ça après on fait un oeil de l’End en mélangeant avec une perle. Dans ces moments-là, je suis un peu…",
+      "link": "https://boris.schapira.dev/notes/2026-03-tnt/\n",
+      "pubDate": "2026-03-26T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
