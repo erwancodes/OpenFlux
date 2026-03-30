@@ -2,6 +2,227 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "887f5cb7b9fb",
+      "title": "OpenCVE, une plateforme de veille et de gestion des vulnérabilités",
+      "description": "Des CVE publiées en permanence, impossible de toutes les suivre. OpenCVE filtre ce qui vous concerne et alerte dès qu'une faille touche vos logiciels ou équipements.",
+      "link": "https://domopi.eu/opencve-une-plateforme-de-veille-et-de-gestion-des-vulnerabilites/",
+      "pubDate": "2026-03-30T05:45:48.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/article_opencve.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b27b43ecf4be",
+      "title": "Ce qu’on a lu, vu, aimé et entendu en mars 2026 : les recos de la rédaction",
+      "description": "Au programme : une newsletter sur le journalisme qui se réinvente, une question provocante sur le plagiat, une étude qui interroge nos façons d'apprendre, un gadget IA pratique et une créatrice YouTube à ne pas manquer.",
+      "link": "https://www.blogdumoderateur.com/recos-redaction-mars-2026/",
+      "pubDate": "2026-03-30T05:00:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/recos-redac-bdm-mars-2026-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "6be8df97b6e4",
+      "title": "Why OpenAI really shut down Sora",
+      "description": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+      "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "pubDate": "2026-03-30T03:09:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "089cd54a99f7",
+      "title": "Let AI Write Code, Beyond the “Waouh” Effect, the IApocalypse?",
+      "description": "",
+      "link": "https://smaine-milianni.medium.com/let-ai-write-code-beyond-the-waouh-effect-the-iapocalypse-de513ad5319c?source=rss-c730ddf97658------2",
+      "pubDate": "2026-03-30T00:47:04.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/1024/0*qb9MMGn4tet5i1zx.png",
+      "type": "blog"
+    },
+    {
+      "id": "c57d9fcab898",
+      "title": "The Pixel 10a doesn’t have a camera bump, and it’s great",
+      "description": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
+      "link": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
+      "pubDate": "2026-03-29T21:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dbff13b2b958",
+      "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
+      "description": "CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.",
+      "link": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+      "pubDate": "2026-03-29T21:17:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "047ede7e736d",
+      "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
+      "description": "Amazon’s bet on “Project Hail Mary” has paid off handsomely.",
+      "link": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
+      "pubDate": "2026-03-29T19:50:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "38bd0bf17208",
+      "title": "En vrac de mars 2026",
+      "description": "Des nouvelles de l’IA «QuitGPT» : un mouvement de boycott du géant de l’intelligence artificielle ChatGPT, dont le cofondateur soutient Donald Trump (le président d’OpenAI est Greg Brockman est effectivement le plus grand donateur au superPAC de Trump, avec 25 millions de dollars pour son foyer.)…",
+      "link": "https://standblog.org/blog/post/2026/03/29/En-vrac-de-mars-2026",
+      "pubDate": "2026-03-29T17:30:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "448e6d63dc54",
+      "title": "Sora’s shutdown could be a reality check moment for AI video",
+      "description": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+      "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+      "pubDate": "2026-03-29T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b6820a89753d",
+      "title": "TechCrunch Mobility: When a robotaxi has to call 911",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "link": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
+      "pubDate": "2026-03-29T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21f998eb236b",
+      "title": "101 façons de déployer Kubernetes : 125 solutions, des PRs communautaires et une UI qui s'améliore",
+      "description": "Il bouge encore Depuis la sortie de l’interface web du projet début février, le projet a continué à évoluer. Ajout de solutions manquantes, petites améliorations de l’UI, contributions externes, optimisations de performances… Bref, un bon petit mois bien rempli pour ce gros side project que…",
+      "link": "https://blog.zwindler.fr/2026/03/29/101-facons-de-deployer-kubernetes-v3/",
+      "pubDate": "2026-03-29T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/125-kube.webp",
+      "type": "blog"
+    },
+    {
+      "id": "074f52e3fbc6",
+      "title": "Demandez le programme avec Samuel Retiere",
+      "description": "Pas de call for papers. Pas de slots “réservés” pour les sponsors. Cette contrainte force une exigence éditoriale rare. Chaque talk doit mériter sa place. Pas parce qu’il y a un budget derrière. Pas parce qu’il faut “faire plaisir”. Mais parce qu’il apporte quelque chose de vrai, de concret,…",
+      "link": "https://podcast.ausha.co/artisan-developpeur/demandez-le-programme-avec-samuel-retiere",
+      "pubDate": "2026-03-29T15:10:00.000Z",
+      "source": "Artisan Développeur",
+      "sourceUrl": "https://feed.ausha.co/BxW2S9Mex0Vb",
+      "categories": [
+        "Programmation"
+      ],
+      "image": "https://image.ausha.co/ZqcVAZgM4bgtgZunqH2Ic9DKxRYvltvQLp34vdp1_1400x1400.jpeg?t=1774448561",
+      "type": "podcast",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/Bxzvt4NElzpy.mp3?t=1774447649",
+      "duration": "17:10"
+    },
+    {
+      "id": "3ab45de39a3a",
+      "title": "SXSW rebounds as a top networking, ideas festival for founders and VCs",
+      "description": "SXSW made some changes this year, but some founders loved it all the same.",
+      "link": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/",
+      "pubDate": "2026-03-29T14:01:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bd9e2e719c72",
+      "title": "CRD ou APIService : comment étendre l'API Kubernetes ?",
+      "description": "CRD ou APIService ? Deux façons d'étendre l'API Kubernetes avec des philosophies radicalement différentes. On compare les deux avec des exemples concrets !",
+      "link": "https://une-tasse-de.cafe/blog/crd-vs-apiservice/",
+      "pubDate": "2026-03-29T08:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5589c049d733",
       "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
       "description": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
