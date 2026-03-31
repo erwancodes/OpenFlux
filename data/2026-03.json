@@ -2,6 +2,419 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "b519f11e43b5",
+      "title": "Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.",
+      "description": "The collapse of the brand, which was originally venture-backed and that went public in 2021, has been well-documented.",
+      "link": "https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/",
+      "pubDate": "2026-03-31T05:30:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "40b43078a6b5",
+      "title": "Avez-vous bien suivi l’actualité du mois de mars 2026 ?",
+      "description": "Avez-vous bien suivi l’actualité numérique du mois de mars 2026 ? Réponse à la fin du quiz !",
+      "link": "https://www.blogdumoderateur.com/quiz-actualite-mars-2026/",
+      "pubDate": "2026-03-31T05:00:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/quiz-actualite-mars-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f8044cd7942c",
+      "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+      "description": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+      "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "pubDate": "2026-03-30T23:41:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b5236710fc1",
+      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "description": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+      "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "pubDate": "2026-03-30T23:08:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "afa7f3db7925",
+      "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup ",
+      "description": "A few things turned investors' heads and drew them to participate in such a big round out of the gate.",
+      "link": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
+      "pubDate": "2026-03-30T21:53:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "22ab3ff2d707",
+      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+      "description": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+      "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "pubDate": "2026-03-30T20:24:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3071fa8fd55a",
+      "title": "What we’re looking for in Startup Battlefield 2026 and how to put your best application forward",
+      "description": "Here's what we're looking for in your Startup Battlefield 200 application and how to make sure your application reflects it.",
+      "link": "https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/",
+      "pubDate": "2026-03-30T18:57:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "86da171d4bd3",
+      "title": "Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’",
+      "description": "Shortly after Delve's founder published a lengthy denial of allegations, while promising changes, the accuser came forward with more alleged details.",
+      "link": "https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/",
+      "pubDate": "2026-03-30T18:26:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3c96af7179ae",
+      "title": "Meta starts testing a premium subscription on Instagram",
+      "description": "Among the premium features on Instagram is the ability to view a Story without the poster seeing that you viewed it and the option to see how many people have rewatched your Story.",
+      "link": "https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/",
+      "pubDate": "2026-03-30T18:10:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b76189d40902",
+      "title": "Bluesky’s new AI tool Attie is already the most blocked account other than J. D. Vance",
+      "description": "More than 125,000 Bluesky users have blocked Attie in just a few days, sending a strong message from the user base.",
+      "link": "https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/",
+      "pubDate": "2026-03-30T18:03:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d05ee7981ea",
+      "title": "Apple will hide your email address from apps and websites, but not cops",
+      "description": "Demands for Apple customer records by federal agents in recent months underscore the privacy limitations of email.",
+      "link": "https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/",
+      "pubDate": "2026-03-30T15:34:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f9754e3ff775",
+      "title": "Uber is buying Berlin startup Blacklane to bolster its ‘Elite’ offering",
+      "description": "It's a notable exit for Blacklane, which has raised more than $100 million from backers like Mercedes-Benz and Sixt.",
+      "link": "https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/",
+      "pubDate": "2026-03-30T14:46:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "56699521598b",
+      "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
+      "description": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
+      "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+      "pubDate": "2026-03-30T14:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "69d5a79dfd8c",
+      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "description": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
+      "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "pubDate": "2026-03-30T13:52:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73d5b94aff15",
+      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "description": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+      "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+      "pubDate": "2026-03-30T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bc932f6bca59",
+      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "description": "Mistral aims to start operating the data center by the second quarter of 2026.",
+      "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+      "pubDate": "2026-03-30T12:49:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f001682a2946",
+      "title": "Qodo raises $70M for code verification as AI coding scales",
+      "description": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+      "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+      "pubDate": "2026-03-30T12:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "adae22b91c32",
+      "title": "Starcloud raises $170 million Series A to build data centers in space",
+      "description": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+      "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "pubDate": "2026-03-30T11:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1f0b50f4c02c",
+      "title": "Jane now supports OpenAPI 3.1 and JSON Schema 2020-12",
+      "description": "Version 7.11.0 of Jane PHP, the API client and Normalizer generator, is now available. This major update to the generation engine focuses on aligning with the latest industry standards through the support of JSON Schema 2020-12 and OpenAPI 3.1. 🚀 Major Updates JSON Schema 2020-12 Support One of…",
+      "link": "https://jolicode.com/blog/jane-now-supports-openapi-3-1-and-json-schema-2020-12",
+      "pubDate": "2026-03-30T09:50:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2cd50191b378",
+      "title": "Jane supporte maintenant JSON Schema 2020-12 et OpenAPI 3.1",
+      "description": "La version v7.11.0 de Jane PHP, le générateur de client d'API et de Normalizer, est désormais disponible. Cette mise à jour majeure du moteur de génération se concentre sur l'alignement avec les derniers standards de l'industrie via le support de JSON Schema 2020-12 et d'OpenAPI 3.1. 🚀 Évolutions…",
+      "link": "https://jolicode.com/blog/jane-supporte-maintenant-json-schema-2020-12-et-openapi-3-1",
+      "pubDate": "2026-03-30T09:34:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5a1e23444d73",
+      "title": "Codex d’OpenAI se dote d’un système de plugins : Slack, Figma, Notion…",
+      "description": "OpenAI ajoute un système de plugins à Codex, avec plus de 20 intégrations disponibles dont Figma, Slack et Google Drive, emboîtant le pas à Anthropic sur le terrain des workflows de développement partagés.",
+      "link": "https://www.blogdumoderateur.com/codex-openai-systeme-plugins-slack-figma-notion/",
+      "pubDate": "2026-03-30T08:31:28.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Codex-plugins-openAI-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "54f1dc0883c0",
+      "title": "Ember : Le monitoring temps réel pour Caddy et FrankenPHP est disponible",
+      "description": "Nous sommes ravis de vous annoncer la sortie de Ember dans sa première version, un outil d’observabilité taillé pour FrankenPHP et Caddy. En tant que mainteneurs de ces différents projets open-source, nous souhaitons proposer à tous la meilleure expérience de monitoring et la plus intégrée possible…",
+      "link": "https://les-tilleuls.coop/blog/ember-le-monitoring-temps-reel-pour-caddy-et-frankenphp-est-disponible",
+      "pubDate": "2026-03-30T08:31:09.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ec-1f1e7.png",
+      "type": "blog"
+    },
+    {
+      "id": "2df959eabe1a",
+      "title": "Palettisation automatisée : comment Liebherr booste la productivité",
+      "description": "Automatisation industrielle : Liebherr renforce son offre de palettisation avec des solutions modulaires et évolutives Dans un contexte où l’optimisation des chaînes de production devient un levier stratégique pour les industriels, Liebherr-Verzahntechnik GmbH dévoile, à travers un récent…",
+      "link": "https://www.robot-magazine.fr/automatisation-industrielle-liebherr-palettisation-phs/?utm_source=rss&utm_medium=rss&utm_campaign=automatisation-industrielle-liebherr-palettisation-phs",
+      "pubDate": "2026-03-30T08:21:34.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "82541d45ad9e",
+      "title": "OpenAI abandonne ses « quêtes secondaires » pour faire face à Anthropic",
+      "description": "En une semaine, OpenAI a mis fin à Sora et à plusieurs projets annexes pour se recentrer sur l'entreprise. Le journaliste Jérôme Marin décrypte pour BDM ce que ces renoncements révèlent de la trajectoire de la maison mère de ChatGPT.",
+      "link": "https://www.blogdumoderateur.com/openai-abandonne-quetes-secondaires-faire-face-anthropic/",
+      "pubDate": "2026-03-30T08:15:51.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/openai-menage-strategie-quetes-secondaire-anthropic-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "94be5510c6bd",
+      "title": "SEO : les bonnes pratiques pour lancer un blog",
+      "description": "Lancer un blog ne se résume pas à publier quelques articles. Architecture, niche, qualité et technique : voici comment soigner votre projet.",
+      "link": "https://www.blogdumoderateur.com/seo-bonnes-pratiques-lancer-blog/",
+      "pubDate": "2026-03-30T07:34:16.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/02/Lancer-Blog-SEO-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cd4b9c388c91",
+      "title": "5 formations en ligne pour maîtriser la relation client",
+      "description": "Besoin de développer ou de renforcer vos compétences en gestion de la relation client ? Notre sélection de formations de la semaine vous apprend à utiliser efficacement les méthodes et outils CRM.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-relation-client-296/",
+      "pubDate": "2026-03-30T06:00:35.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/selection-formation-relation-client-296-294x169.jpg",
+      "type": "blog"
+    },
+    {
       "id": "887f5cb7b9fb",
       "title": "OpenCVE, une plateforme de veille et de gestion des vulnérabilités",
       "description": "Des CVE publiées en permanence, impossible de toutes les suivre. OpenCVE filtre ce qui vous concerne et alerte dès qu'une faille touche vos logiciels ou équipements.",
