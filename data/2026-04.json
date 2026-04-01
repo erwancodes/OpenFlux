@@ -1,0 +1,53 @@
+{
+  "month": "2026-04",
+  "articles": [
+    {
+      "id": "33979d18b7b9",
+      "title": "Êtes-vous incollable sur l’iPhone ?",
+      "description": "À l'occasion du 50e anniversaire d'Apple, ce mercredi 1er avril 2026, on teste vos connaissances sur le produit phare de la firme de Cupertino.",
+      "link": "https://www.blogdumoderateur.com/quiz-iphone/",
+      "pubDate": "2026-04-01T05:00:37.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/quiz-iphone-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "49e8ac67a008",
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+      "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "pubDate": "2026-04-01T01:42:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c98cc475fa11",
+      "title": "Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’",
+      "description": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving.",
+      "link": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
+      "pubDate": "2026-04-01T01:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}
