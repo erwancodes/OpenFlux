@@ -2,6 +2,436 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "e9da51af5851",
+      "title": "IA, illectronisme, smartphones : le vrai niveau numérique des Français",
+      "description": "En 2025, 84 % des Français disposaient d'un smartphone et 37 % avaient utilisé l'IA générative. Derrière ces chiffres, des fractures profondes persistent selon l'âge, le diplôme et le niveau de vie.",
+      "link": "https://www.blogdumoderateur.com/ia-illectronisme-smartphones-vrai-niveau-numerique-francais/",
+      "pubDate": "2026-04-02T05:00:54.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Illectronisme-France-Insee-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f1edbf147fd7",
+      "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
+      "description": "Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far.",
+      "link": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
+      "pubDate": "2026-04-01T22:58:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "53b2c4e43d82",
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+      "description": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+      "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "pubDate": "2026-04-01T22:12:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e61aaffbe59c",
+      "title": "The reputation of troubled YC startup Delve has gotten even worse",
+      "description": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.",
+      "link": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "pubDate": "2026-04-01T21:23:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c495c4f4e530",
+      "title": "‘System failure’ paralyzes Baidu robotaxis in China",
+      "description": "Passengers in Baidu's robotaxis were trapped for up to two hours.",
+      "link": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
+      "pubDate": "2026-04-01T21:12:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f2f0dd0d8c37",
+      "title": "A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)",
+      "description": "Sonder profiles are completely unstructured, encouraging users to build something that looks like a mood board or a digital collage. Think MySpace rather than LinkedIn.",
+      "link": "https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/",
+      "pubDate": "2026-04-01T20:46:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a21a19a43763",
+      "title": "Startup funding shatters all records in Q1",
+      "description": "The record quarterly fundraise largely fueled four mega-deals into OpenAI, Anthropic, xAI, and Waymo. But it also indicates a generally hot market.",
+      "link": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
+      "pubDate": "2026-04-01T20:25:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3540e8a20bff",
+      "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
+      "description": "The security update protects a raft of older iPhones and iPads from attacks linked to leaked hacking tools called DarkSword.",
+      "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
+      "pubDate": "2026-04-01T19:02:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d94e0a48e4d5",
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "description": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+      "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "pubDate": "2026-04-01T18:35:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "29db65fed2bc",
+      "title": "Cameo partners with TikTok to boost popularity",
+      "description": "Cameo launched a new TikTok integration that allows U.S. creators to offer personalized videos through the app.",
+      "link": "https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/",
+      "pubDate": "2026-04-01T17:11:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2ca29dae6d98",
+      "title": "WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker",
+      "description": "The Meta-owned company said it identified around 200 users who were tricked into installing a fake version of WhatsApp that was actually Italian-made spyware.",
+      "link": "https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/",
+      "pubDate": "2026-04-01T16:34:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2dbee207e554",
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "description": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+      "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "pubDate": "2026-04-01T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fb449b00f3ed",
+      "title": "SpaceX files confidentially for IPO in mega listing potentially valued at $1.75 trillion, report says",
+      "description": "The company has also lined up an unusually large number of 21 banks to manage the mega IPO, internally codenamed “Project Apex.\"",
+      "link": "https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/",
+      "pubDate": "2026-04-01T15:46:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f709198e6b17",
+      "title": "Hasbro says it was hacked, and may take ‘several weeks’ to recover",
+      "description": "The American toy-making giant noted that it was continuing to \"implement measures to secure its business operations,\" suggesting that the hackers may still be in the company's systems.",
+      "link": "https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/",
+      "pubDate": "2026-04-01T14:50:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47e628d04e0b",
+      "title": "Retours sur le Data Days Lille 2026",
+      "description": "Découvrez le bilan du Data Days Lille 2026 : IA, qualité des données, dbt-duckdb et stratégies de ranking. Un condensé d'expertises pour la data.",
+      "link": "https://blog.ippon.fr/2026/04/01/retours-sur-le-data-days-lille-2026/",
+      "pubDate": "2026-04-01T14:48:47.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/IMG_2366_2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b28840c21b3f",
+      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "description": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+      "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "pubDate": "2026-04-01T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ded8c45cbdc3",
+      "title": "Lucid Motors recalls over 4,000 Gravity SUVs citing improperly welded seat belts",
+      "description": "The company struggled with quality issues when Gravity production started last year, and the new recall shows it's not out of the woods yet.",
+      "link": "https://techcrunch.com/2026/04/01/lucid-motors-recalls-over-4000-gravity-suvs-citing-improperly-welded-seat-belts/",
+      "pubDate": "2026-04-01T13:40:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d605d6bcb0fd",
+      "title": "Programmer à la vitesse de la pensée : la nouvelle ère de Symfony Docker",
+      "description": "Parler de l’expérience développeur (DX) en 2026, c’est indéniablement parler de feedback instantané et d’agents de code. Lors du SymfonyLive Paris 2026, Kévin Dunglas a présenté « Coding at the Speed of Thought: Symfony DX in 2026 », une conférence où il a détaillé les fonctionnalités de pointe que…",
+      "link": "https://les-tilleuls.coop/blog/symfony-docker-dx",
+      "pubDate": "2026-04-01T13:27:42.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/Capture-decran-2026-04-01-a-15.06.40-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "aba893df55f0",
+      "title": "Nothing’s AI devices plan reportedly contains smart glasses and earbuds",
+      "description": "The glasses will reportedly feature cameras, microphones, and speakers, and will connect to a smartphone and the cloud to process AI queries.",
+      "link": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
+      "pubDate": "2026-04-01T12:33:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a02bb24d42db",
+      "title": "ABB vs Epson vs Stäubli : quel robot industriel choisir selon votre production ?",
+      "description": "Le choix d’un robot industriel ne se limite pas à une question de marque ou de budget. Il engage des décisions structurantes sur la productivité, la qualité, la flexibilité et la compétitivité d’une entreprise. Dans un marché mondial dominé par quelques acteurs majeurs, trois noms reviennent…",
+      "link": "https://www.robot-magazine.fr/abb-vs-epson-vs-staubli-quel-robot-industriel-choisir-selon-votre-production/?utm_source=rss&utm_medium=rss&utm_campaign=abb-vs-epson-vs-staubli-quel-robot-industriel-choisir-selon-votre-production",
+      "pubDate": "2026-04-01T10:42:28.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "20201b4e1b68",
+      "title": "Slack dévoile 30 fonctionnalités pour Slackbot : skills, recherche approfondie, mémoire…",
+      "description": "Dépeint comme « le coéquipier ultime », l'assistant de la messagerie collaborative peut transcrire et exécuter des tâches en réunion, ou concevoir des skills réutilisables pour automatiser les actions récurrentes.",
+      "link": "https://www.blogdumoderateur.com/slack-devoile-30-fonctionnalites-slackbot/",
+      "pubDate": "2026-04-01T09:19:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/slackbot-desktop.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "b3df62fa8dc2",
+      "title": "E-commerce : les 100 marques les plus performantes en France",
+      "description": "En 2025, le e-commerce a continué de progresser en France. Mais les entreprises étrangères restent celles qui génèrent le plus haut chiffre d'affaires.",
+      "link": "https://www.blogdumoderateur.com/e-commerce-100-marques-performantes-france/",
+      "pubDate": "2026-04-01T08:51:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/top-100-e-commerce-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0995497191b1",
+      "title": "Interdiction des réseaux sociaux : l’avis du Sénat complique l’adoption du texte",
+      "description": "Le Sénat a voté l'interdiction des réseaux sociaux aux moins de 15 ans, mais dans une version différente de celle adoptée par l'Assemblée nationale. Un désaccord qui pourrait retarder l'entrée en vigueur de la mesure.",
+      "link": "https://www.blogdumoderateur.com/interdiction-reseaux-sociaux-avis-senat-complique-adoption-texte/",
+      "pubDate": "2026-04-01T08:42:26.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/interdiction-resaux-sociaux-moins-ans-senat-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "946001710d8e",
+      "title": "ChatGPT peut désormais vous localiser pour de meilleures recommandations",
+      "description": "OpenAI déploie le partage de localisation dans ChatGPT. La fonction permet à l'assistant d'utiliser la position précise de l'appareil pour des recommandations locales plus adaptées.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-peut-vous-localiser-pour-meilleures-recommandations/",
+      "pubDate": "2026-04-01T08:37:29.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/chatgpt-geolocalisation-restaurants-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "49db894bedd3",
+      "title": "GEO : à l’heure des agents IA, soignez votre page identité",
+      "description": "Découvrez l'importance cruciale de la page d'accueil de votre entité pour le SEO et la perception de votre marque. Apprenez à optimiser cette page essentielle pour les moteurs de recherche, l'IA et les utilisateurs, en mettant l'accent sur la confiance et la corroboration. Comprenez l'évolution des…",
+      "link": "https://oliviersauvage.com/2026/04/01/geo-a-lheure-des-agents-ia-soignez-votre-page-identite/",
+      "pubDate": "2026-04-01T06:41:32.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d0215c3405a",
+      "title": "Anthropic passe aux aveux : « Claude est en réalité une vraie personne »",
+      "description": "L'entreprise le reconnaît enfin : Claude est un humain, et son visage est familier...",
+      "link": "https://www.blogdumoderateur.com/claude-vraie-personne/",
+      "pubDate": "2026-04-01T06:40:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/harold-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "a5302d5e85ec",
+      "title": "« L’IA ne signe pas la fin du métier » : l’analyse et les conseils d’un développeur web freelance",
+      "description": "Entre l'essor de l'IA et un marché plus exigeant, devenir développeur web full stack exige patience et persévérance. Jonathan Boyer, qui exerce ce métier en freelance, livre pour BDM son regard sur le secteur et ses conseils pour se lancer en 2026.",
+      "link": "https://www.blogdumoderateur.com/ia-signe-pas-fin-metier-analyse-conseils-developpeur-web-freelance/",
+      "pubDate": "2026-04-01T06:00:22.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/jonathan-boyer-developpeur-web-full-stack-freelance-294x154.jpg",
+      "type": "blog"
+    },
+    {
       "id": "33979d18b7b9",
       "title": "Êtes-vous incollable sur l’iPhone ?",
       "description": "À l'occasion du 50e anniversaire d'Apple, ce mercredi 1er avril 2026, on teste vos connaissances sur le produit phare de la firme de Cupertino.",

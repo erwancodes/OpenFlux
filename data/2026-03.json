@@ -34,6 +34,21 @@
       "type": "blog"
     },
     {
+      "id": "e76dc0f34cdb",
+      "title": "Le biais de nos choix techniques",
+      "description": "À mon sens, la compétence essentielle d’un développeur, ce n’est pas d’écrire du code (surtout à l’ère de l’IA), mais c’est de savoir choisir la bonne solution au bon problème et de savoir défendre ce choix. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette…",
+      "link": "https://www.jdecool.fr/blog/2026/04/01/le-biais-de-nos-choix-techniques.html",
+      "pubDate": "2026-03-31T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7a75256aaf93",
       "title": "Robotaxi companies refuse to say how often their AVs need remote help",
       "description": "Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Zoox all refused to cough up a number during Senator Ed Markey's recent investigation.",
@@ -256,6 +271,23 @@
       ],
       "image": "https://blog.seboss666.info/wp-content/uploads/2019/09/kubernetes.jpg",
       "type": "blog"
+    },
+    {
+      "id": "faf9ac9625c8",
+      "title": "Un VPN n'est pas un outil magique. Mais c'est quoi alors ?",
+      "description": "D'après les fournisseurs de VPN, activez-le et vous devenez invisible, anonyme et pleins d'autres super-pouvoirs. Mais qu'en est-il réellement ?",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Un-VPN-nest-pas-un-outil-magique--Mais-cest-quoi-alors-e3h7ub4",
+      "pubDate": "2026-03-31T15:04:31.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/117749540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-31%2F3984e0c2-fe38-8a7b-864f-01e845203585.mp3",
+      "duration": "00:08:59"
     },
     {
       "id": "8840d11a4797",
