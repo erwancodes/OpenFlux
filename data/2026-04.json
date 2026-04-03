@@ -2,6 +2,438 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "8d9d65c77f1d",
+      "title": "Adoption inégale, cadre flou, compétences attendues : l’impact de l’IA dans le commerce et le marketing",
+      "description": "Quels outils les cadres utilisent-ils au quotidien ? Comment former les équipes, et quelles sont les compétences attendues ? Éléments de réponse dans une récente étude publiée par l’Apec sur l'impact de l'IA dans le commercial et le marketing.",
+      "link": "https://www.blogdumoderateur.com/adoption-inegale-cadre-flou-competences-attendues-impact-ia-commerce-marketing/",
+      "pubDate": "2026-04-03T05:00:46.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/synthese-outils-ia-metiers-commercial-marketing-etude-apec-294x232.png",
+      "type": "blog"
+    },
+    {
+      "id": "e5d4047d9843",
+      "title": "#309.exe - IA inclusives: Une intelligence artificielle et une équité réelle par Julien Landuré",
+      "description": "Pour l'épisode #309 je recevais Cristina Lunghi. On en débrief avec Julien. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-309-3ff3375d9107",
+      "pubDate": "2026-04-03T03:00:51.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/23800d1f-a5e6-4bab-8280-3ff3375d9107.mp3?_=1775132691",
+      "duration": "10:59"
+    },
+    {
+      "id": "755ce9173775",
+      "title": "Gemma 4 peut-il remplacer Claude Code ? Benchmark sur un vrai projet Symfony",
+      "description": "Un modèle local de 9.6 GB peut-il générer du code Symfony fonctionnel ? Benchmark de Gemma 4 E4B : 5 scénarios, 15 runs, validation automatisée.",
+      "link": "https://yoandev.co/gemma4-opencode-benchmark",
+      "pubDate": "2026-04-03T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/gemma4.webp",
+      "type": "blog"
+    },
+    {
+      "id": "00a2e5a4e830",
+      "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
+      "description": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired.",
+      "link": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
+      "pubDate": "2026-04-02T22:56:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ccd702acb0d6",
+      "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
+      "description": "The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February.",
+      "link": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
+      "pubDate": "2026-04-02T21:26:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7240333dd405",
+      "title": "Artemis II is NASA’s last moon mission without Silicon Valley ",
+      "description": "Next time around, the pressure will be on SpaceX and Blue Origin.",
+      "link": "https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/",
+      "pubDate": "2026-04-02T20:06:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe7a8e9618b9",
+      "title": "Gateway Capital announces first close of $25M Fund II",
+      "description": "Gateway Capital, the Milwaukee-based venture firm founded by Dana Guthrie, can now begin investment operations for its $25M Fund II.",
+      "link": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/",
+      "pubDate": "2026-04-02T19:45:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "612489e10607",
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "description": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+      "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "pubDate": "2026-04-02T19:21:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "713ac705d520",
+      "title": "Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web",
+      "description": "Flipboard's social websites consolidate profiles and posts from Bluesky, Mastodon, Threads, YouTube, podcasts, blogs, and RSS feeds into a single, shared destination.",
+      "link": "https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/",
+      "pubDate": "2026-04-02T19:18:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3370c7b8add3",
+      "title": "ElevenLabs releases a new AI-powered music-generation app",
+      "description": "ElevenMusic lets users create and remix songs using text prompts. The new app suggests ElevenLabs wants to be more than just a voice model company.",
+      "link": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+      "pubDate": "2026-04-02T18:58:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ed70c4c33a48",
+      "title": "NASA astronauts prove that sending an email really is rocket science",
+      "description": "NASA Artemis II commander Reid Wiseman faced the most earthly possible conflict while in outer space: his Outlook wasn't working.",
+      "link": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/",
+      "pubDate": "2026-04-02T18:19:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16092a2f2ba6",
+      "title": "Microsoft takes on AI rivals with three new foundational models",
+      "description": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+      "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "pubDate": "2026-04-02T16:48:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "087377c971ef",
+      "title": "Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web",
+      "description": "An exposed Amazon-hosted server allowed anyone to access reams of customer data without needing a password.",
+      "link": "https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/",
+      "pubDate": "2026-04-02T16:29:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e96f7f9d19ee",
+      "title": "Google now lets you direct avatars through prompts in its Vids app",
+      "description": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+      "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+      "pubDate": "2026-04-02T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "57d9b0b53821",
+      "title": "ICE says it bought Paragon’s spyware to use in drug trafficking cases",
+      "description": "The acting director of U.S. Immigration and Customs Enforcement told lawmakers that the use of Paragon spyware is necessary to counter terrorists’ “thriving exploitation of encrypted communications platforms.”",
+      "link": "https://techcrunch.com/2026/04/02/ice-says-it-bought-paragons-spyware-to-use-in-drug-trafficking-cases/",
+      "pubDate": "2026-04-02T15:39:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc1ce081869e",
+      "title": "United’s mobile app now shows TSA wait times at select airports",
+      "description": "The TSA wait times feature is one of many new additions to the United app, including automatic rebooking assistance and real-time time weather radar maps.",
+      "link": "https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/",
+      "pubDate": "2026-04-02T14:44:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a9a4e32b6bca",
+      "title": "Tesla’s cheaper vehicles aren’t helping its declining sales",
+      "description": "The company's deliveries in the first quarter were just 6% higher than last year, and Tesla now faces a third straight year of falling sales.",
+      "link": "https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/",
+      "pubDate": "2026-04-02T14:18:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "58860f233863",
+      "title": "Commonwealth Fusion Systems leans on magnets for near-term revenue",
+      "description": "Realta Fusion is buying magnets from Commonwealth Fusion Systems, providing a revenue stopgap.",
+      "link": "https://techcrunch.com/2026/04/02/commonwealth-fusion-systems-leans-on-magnets-for-near-term-revenue/",
+      "pubDate": "2026-04-02T14:15:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f8cfd4a6ef3",
+      "title": "Diverse teams start with diverse VCs",
+      "description": "It is the path of least resistance for a growth-stage company to hire from the familiar Silicon Valley pipelines but if a founder wants a diverse team, that value has to be put into practice from the very first hire.",
+      "link": "https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/",
+      "pubDate": "2026-04-02T13:45:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f8a26d94793d",
+      "title": "Design : votre site est-il vraiment clair pour vos prospects ?",
+      "description": "L'harmonisation du marketing et du design est essentielle pour maintenir la clarté d'un site web. Avec le temps, la complexité peut obscurcir le message de l'entreprise, rendant difficile sa compréhension par les visiteurs. Il est crucial d'évaluer régulièrement la mission du site et de procéder à…",
+      "link": "https://oliviersauvage.com/2026/04/02/design-votre-site-est-il-vraiment-clair-pour-vos-prospects/",
+      "pubDate": "2026-04-02T13:01:08.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c68437cfa8a0",
+      "title": "Beehiiv expands into podcasting, taking aim at Patreon",
+      "description": "One way Beehiiv is convincing creators to switch from rivals like Substack and Patreon is by not taking a cut of revenue.",
+      "link": "https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/",
+      "pubDate": "2026-04-02T12:50:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3d0d1f5a144f",
+      "title": "Cash App launches ‘pay later’ feature for P2P transfers",
+      "description": "Block says that the new feature has strong built-in protections to keep users from so-called debt spirals.",
+      "link": "https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/",
+      "pubDate": "2026-04-02T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4cf589dfdbad",
+      "title": "Robot humanoïde K1 : une plateforme pédagogique pour l’académie et la recherche",
+      "description": "Robot humanoïde K1 : une plateforme pédagogique pour l’académie et la recherche 2 avril 2026 Dans de nombreux projets académiques en robotique, l’accès à une plateforme humanoïde reste limité. Résultat : une grande partie du travail se fait en simulation, loin des contraintes réelles du terrain.…",
+      "link": "https://www.generationrobots.com/blog/fr/robot-humanoide-k1-une-plateforme-pedagogique-pour-lacademie-et-la-recherche/",
+      "pubDate": "2026-04-02T09:42:31.000Z",
+      "source": "Génération Robots",
+      "sourceUrl": "https://www.generationrobots.com/blog/fr/feed/",
+      "categories": [
+        "Robotique",
+        "Programmation"
+      ],
+      "image": "https://www.generationrobots.com/blog/wp-content/uploads/2026/04/booster-k1-recherche-education-superieure-1-300x150.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d886c2307ced",
+      "title": "Étude SEO : le contenu généré par IA se classe-t-il bien sur Google ?",
+      "description": "Semrush a croisé les données de 42 000 pages de blog avec les réponses de 224 professionnels du SEO pour mesurer l'impact réel du contenu généré par IA sur les classements.",
+      "link": "https://www.blogdumoderateur.com/etude-seo-contenu-genere-ia-classement-google/",
+      "pubDate": "2026-04-02T08:46:31.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/SERP-position-classement-semrush-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ba4e36101665",
+      "title": "Code Santé, manga : comment l’association Crazy Esport réinvente la prévention pour les gamers",
+      "description": "Nous avons échangé avec Edern Plantier, président de l'association Crazy Esport, qui œuvre pour une pratique saine et responsable du jeu vidéo. Il nous présente ses nouveaux outils pédagogiques pensés pour accompagner tous les joueurs.",
+      "link": "https://www.blogdumoderateur.com/code-sante-manga-comment-association-crazy-esport-reinvente-prevention-gamers/",
+      "pubDate": "2026-04-02T08:02:30.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Edern-Plantier-Association-Crazy-Esport-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0bca0fc62f08",
+      "title": "SEO : doit-on désormais écrire pour les LLM ?",
+      "description": "Jessica Michenaud, cheffe de projet SEO chez l'agence Galopins, décrypte les enjeux du référencement par les LLM. La spécialiste rappelle que l'exigence éditoriale reste le meilleur atout des professionnels du secteur.",
+      "link": "https://www.blogdumoderateur.com/seo-ecrire-llm/",
+      "pubDate": "2026-04-02T07:47:37.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/LLM-SEO-Galopins-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "62aeab48d30b",
+      "title": "Mais au fait, c’est quoi la Retrieval-Augmented Generation (RAG) ?",
+      "description": "La Retrieval-Augmented Generation, ou RAG, enrichit les réponses des modèles d'IA en leur donnant accès à des bases de données externes. Décryptage d'un pilier de l'IA moderne.",
+      "link": "https://www.blogdumoderateur.com/retrieval-augmented-generation-rag/",
+      "pubDate": "2026-04-02T07:32:48.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Retrieval-augmented-generation-rag-294x165.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "e9da51af5851",
       "title": "IA, illectronisme, smartphones : le vrai niveau numérique des Français",
       "description": "En 2025, 84 % des Français disposaient d'un smartphone et 37 % avaient utilisé l'IA générative. Derrière ces chiffres, des fractures profondes persistent selon l'âge, le diplôme et le niveau de vie.",
@@ -15,6 +447,23 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Illectronisme-France-Insee-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c61980a42b66",
+      "title": "Les news du mois de mars 2026",
+      "description": "Anton Darius sur Unsplash Je n'ai pas été aussi productif que j'aurais voulu sur mon blog au mois de mars. Je commence à prendre mes marques dans mon nouveau poste au sein de Teralab : ce fut la dernière ligne droite pour le passage de connaissance avec la personne que je remplace ; elle est partie…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/03/news-mars/",
+      "pubDate": "2026-04-02T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/03/news-mars/banner.avif",
       "type": "blog"
     },
     {
