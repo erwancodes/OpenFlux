@@ -2,6 +2,278 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "4b0bfe976815",
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "pubDate": "2026-04-04T01:31:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8242e27ded06",
+      "title": "Lucid blames dip in Q1 sales on seat supplier issue",
+      "description": "Lucid said it has resolved the problem and is not changing its guidance for 2026.",
+      "link": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
+      "pubDate": "2026-04-04T01:03:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3522cca99ff3",
+      "title": "The anonymous social app that thinks it can work in Saudi Arabia",
+      "description": "When Fizz quietly debuted in Saudi Arabia, founder and CEO Teddy Solomon wasn’t expecting the app to catch on like it did.",
+      "link": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/",
+      "pubDate": "2026-04-03T22:24:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "563a7d87982e",
+      "title": "Tesla’s Texas factory workforce reportedly shrunk 22% in 2025",
+      "description": "Tesla's headcount fell from 21,191 workers to 16,506 workers in 2025, according to a report, as it grappled with its second straight year of declining sales.",
+      "link": "https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/",
+      "pubDate": "2026-04-03T20:43:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce0b1ecf26f6",
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+      "description": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+      "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "pubDate": "2026-04-03T20:35:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c1e67505e32",
+      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+      "description": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "pubDate": "2026-04-03T20:28:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "52112c920dc8",
+      "title": "Anthropic ramps up its political activities with a new PAC",
+      "description": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "pubDate": "2026-04-03T20:22:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "86f2e8cf7ba6",
+      "title": "Best iPad apps to boost productivity and make your life easier",
+      "description": "There are many iPad apps to help you organize recipes, sync tasks across devices, be more productive, and manage your notes.",
+      "link": "https://techcrunch.com/2026/04/03/best-ipad-apps-to-boost-productivity-make-your-life-easier/",
+      "pubDate": "2026-04-03T19:56:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "71e7caf7bd90",
+      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+      "description": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+      "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+      "pubDate": "2026-04-03T19:48:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3f331b18dbb",
+      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+      "description": "A new poll shows that the debate over data centers is far from settled.",
+      "link": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+      "pubDate": "2026-04-03T19:20:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8add96e41ac0",
+      "title": "The final days of the Tesla Model X and S are here. All bets are on the Cybercab.",
+      "description": "It's a new era for Tesla — and one that will rely on its ability to launch the Cybercab and mass-produce the Optimus robot.",
+      "link": "https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/",
+      "pubDate": "2026-04-03T16:48:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "85473cd47eec",
+      "title": "Europe’s cyber agency blames hacking gangs for massive data breach and leak",
+      "description": "CERT-EU blamed the cybercrime group TeamPCP for the recent hack on the European Commission, and said the notorious ShinyHunters gang was responsible for leaking the stolen data online.",
+      "link": "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/",
+      "pubDate": "2026-04-03T15:50:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "313ebed45b93",
+      "title": "The Facebook insider building content moderation for the AI era",
+      "description": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
+      "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+      "pubDate": "2026-04-03T14:00:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bb344d15d89f",
+      "title": "Transcription, voix, image : Microsoft déploie ses modèles maison dans Foundry",
+      "description": "Trois modèles maison dans Foundry, une stratégie d'autonomie vis-à-vis d'OpenAI qui se matérialise... Microsoft continue de construire sa propre infrastructure IA.",
+      "link": "https://www.blogdumoderateur.com/microsoft-deploie-modeles-maison-foundry/",
+      "pubDate": "2026-04-03T13:45:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/20260327_MAI_Models_Transcribe_GS_19-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "1b0c8975f23a",
+      "title": "Marketing d’influence en France : des budgets en hausse et des pratiques qui se structurent",
+      "description": "L'ARPP et France Pub publient la deuxième édition de leur étude sur les investissements des annonceurs en marketing d'influence. Le marché atteint 587 millions d'euros en 2025, porté par une professionnalisation croissante du secteur.",
+      "link": "https://www.blogdumoderateur.com/marketing-influence-budgets-hausse-pratiques-structurent/",
+      "pubDate": "2026-04-03T08:33:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Etude-ARPP-Influence-2026-294x188.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "01465b5af1d7",
+      "title": "Avec Veo 3.1, Google Vids peut désormais générer des clips vidéo et des avatars IA",
+      "description": "L'outil de création vidéo de la suite Workspace offre jusqu'à 10 générations gratuites par mois.",
+      "link": "https://www.blogdumoderateur.com/veo-3-1-google-vids-generer-clips-video-avatars-ia/",
+      "pubDate": "2026-04-03T08:30:36.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/google-vids-veo-3-1-294x172.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0a178e98dbd0",
+      "title": "Gemma 4 : Google dévoile ses nouveaux modèles open source pour mobile, PC et cloud",
+      "description": "Gemma 4 propose quatre modèles calibrés pour tourner en local sur téléphone, GPU grand public ou infrastructure cloud, sous licence Apache 2.0.",
+      "link": "https://www.blogdumoderateur.com/gemma-4-google-modeles-open-source-mobile-pc-cloud/",
+      "pubDate": "2026-04-03T08:25:16.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/google-gemma-4-294x166.jpg",
+      "type": "blog"
+    },
+    {
       "id": "8d9d65c77f1d",
       "title": "Adoption inégale, cadre flou, compétences attendues : l’impact de l’IA dans le commerce et le marketing",
       "description": "Quels outils les cadres utilisent-ils au quotidien ? Comment former les équipes, et quelles sont les compétences attendues ? Éléments de réponse dans une récente étude publiée par l’Apec sur l'impact de l'IA dans le commercial et le marketing.",
@@ -50,6 +322,22 @@
         "IA"
       ],
       "image": "https://yoandev.co/img/gemma4.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a996365b88c6",
+      "title": "Setup",
+      "description": "Dans cette page, je liste simplement l’ensemble de mon setup, avec des liens vers les fabricants (non affiliés). Mes machines J’utilise deux machines pour travailler : un NUC de chez Asus en PC fixe, et un X1 Carbon de chez Lenovo en PC portable. Je conserve mes machines assez longtemps (4 ans en…",
+      "link": "https://codeka.io/setup/",
+      "pubDate": "2026-04-03T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
