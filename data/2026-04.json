@@ -2,6 +2,452 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "219ad9eb59c9",
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "description": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "pubDate": "2026-04-08T05:40:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3e6e188ba2d0",
+      "title": "Comment YouTube s’est retrouvé noyé sous les publicités",
+      "description": "En deux ans, YouTube a neutralisé les adblockers, conquis les annonceurs et battu tous ses records. Ses 2,5 milliards d'utilisateurs, eux, ont surtout appris à compter jusqu'à quinze et à cliquer sur \"Ignorer\".",
+      "link": "https://www.blogdumoderateur.com/comment-youtube-retrouve-noye-publicites/",
+      "pubDate": "2026-04-08T05:00:15.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/youtube-noye-publicite-294x165.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "258eade92350",
+      "title": "#351.ad - AWS Summit: Rester aux commandes des agents de code avec Julien Lepine",
+      "description": "\"On doit avoir des développeurs qui vont plus près du métier\" Le D.E.V. de la semaine est Julien Lépine, Directeur de la Technologie chez Amazon Web Services France. Dans cet épisode, il revient sur les coulisses de l'AWS Summit, la transformation fulgurante du métier de développeur et l'impact des…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-351-e24d141734cd",
+      "pubDate": "2026-04-08T03:00:26.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/da7f0660-bd3a-47f3-a1b7-79e964ed4587.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/18034e7c-cf4a-42ce-9e1a-e24d141734cd.mp3?_=1775563346",
+      "duration": "01:03:22"
+    },
+    {
+      "id": "dba46abe23c7",
+      "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+      "description": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+      "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+      "pubDate": "2026-04-07T21:35:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6c5dd0c3a047",
+      "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+      "description": "Eclipse will put some of that money towards incubating, or building startups.",
+      "link": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+      "pubDate": "2026-04-07T21:24:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7271a5baa0a7",
+      "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
+      "description": "A joint FBI, NSA, and CISA advisory warns that Iranian hackers have \"escalated\" their tactics in response to the ongoing U.S.-Israel war with Iran.",
+      "link": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
+      "pubDate": "2026-04-07T19:59:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cfd6c8244aaf",
+      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+      "description": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+      "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+      "pubDate": "2026-04-07T18:46:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89ee0ecc24fd",
+      "title": "Intel signs on to Elon Musk’s Terafab chips project",
+      "description": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
+      "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+      "pubDate": "2026-04-07T18:10:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e772cfb91971",
+      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+      "description": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work.",
+      "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "pubDate": "2026-04-07T18:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f49724f40d00",
+      "title": "Apple’s foldable iPhone is on track to launch in September, report says",
+      "description": "The news follows a report from Nikkei Asia on Tuesday that raised concerns the company’s foldable iPhone could be delayed due to challenges during the phone’s engineering test phase.",
+      "link": "https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/",
+      "pubDate": "2026-04-07T17:47:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9a26a09ff443",
+      "title": "Russian government hackers broke into thousands of home routers to steal passwords",
+      "description": "Fancy Bear, also known as APT28, has taken over thousands of residential home routers to steal passwords and authentication tokens in a wide-ranging espionage operation.",
+      "link": "https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/",
+      "pubDate": "2026-04-07T17:01:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3d522da595c3",
+      "title": "Chrome finally adds a better way to deal with too many open tabs",
+      "description": "Google Chrome's latest update brings vertical tabs and a cleaner Reading Mode to help manage cluttered browsing.",
+      "link": "https://techcrunch.com/2026/04/07/chrome-is-finally-getting-vertical-tabs/",
+      "pubDate": "2026-04-07T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "742a462f570a",
+      "title": "Hate jump scares? This app warns you before they happen",
+      "description": "The app uses iPhone Live Activities to alert you when scary scenes are about to happen, while also tracking what to watch and where to stream it.",
+      "link": "https://techcrunch.com/2026/04/07/binge-is-a-movie-tracking-app-that-warns-you-of-jump-scares-in-real-time/",
+      "pubDate": "2026-04-07T16:51:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac3e1605911b",
+      "title": "Uber is the latest to be won over by Amazon’s AI chips",
+      "description": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
+      "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+      "pubDate": "2026-04-07T16:46:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dda0c4b10d00",
+      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+      "description": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
+      "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "pubDate": "2026-04-07T16:05:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6564c048fc8b",
+      "title": "Google Maps can now write captions for your photos using AI",
+      "description": "Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.",
+      "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+      "pubDate": "2026-04-07T15:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "382e9a2413b4",
+      "title": "A teenage Minecraft YouTuber raised $1,234,567 for a meme prediction market called Giggles. It broke me.",
+      "description": "Justin Jin’s company Giggles – which he describes as “putting a trading app and TikTok together” – started as a joke.",
+      "link": "https://techcrunch.com/2026/04/07/a-teenage-minecraft-youtuber-raised-1234567-for-a-meme-prediction-market-called-giggles-it-broke-me/",
+      "pubDate": "2026-04-07T14:02:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c30de5478ae5",
+      "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
+      "description": "Four days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.",
+      "link": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
+      "pubDate": "2026-04-07T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "caf40d73192e",
+      "title": "Trump administration plans to cut cybersecurity agency’s budget by $700 million",
+      "description": "The budget proposal would force CISA to operate with a significantly lower budget than previous years, citing the government's claims that the election misinformation programs were used to \"target the President.\"",
+      "link": "https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/",
+      "pubDate": "2026-04-07T13:50:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73e3f2f92840",
+      "title": "Why a former AirPods engineer is now building heat pumps",
+      "description": "Merino Energy has simplified the heat pump dramatically in a quest to make them cheaper and easier to install.",
+      "link": "https://techcrunch.com/2026/04/07/why-a-former-airpods-engineer-is-now-building-heat-pumps/",
+      "pubDate": "2026-04-07T13:00:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4db371182485",
+      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets ",
+      "description": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
+      "link": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
+      "pubDate": "2026-04-07T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21008b4e938f",
+      "title": "Adobe launches Acrobat-based Student Spaces, a free AI-powered study tool for students",
+      "description": "Adobe Acrobat Student Spaces is a free tool for students to use AI and create different kinds of study material from documents.",
+      "link": "https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/",
+      "pubDate": "2026-04-07T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ca5c91fe23f",
+      "title": "Nouveautés Brand Graph Generator",
+      "description": "Le Brand Graph Generator a été mis à jour avec un accès gratuit pour 10 générations d'images. Un nouveau wizard simplifie l'ajout de l'identité visuelle, tandis qu'une fonction \"Je suis flemmard\" facilite la création d'infographies. Bientôt disponible en version SaaS, cet outil promet d'améliorer…",
+      "link": "https://oliviersauvage.com/2026/04/07/nouveautes-brand-graph-generator/",
+      "pubDate": "2026-04-07T09:37:21.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7acaabaa34f0",
+      "title": "Claude : OpenClaw et les autres agents tiers ne sont plus couverts par l’abonnement",
+      "description": "Anthropic met fin à l'accès forfaitaire pour les outils tiers sur Claude. OpenClaw, le framework d'agents IA le plus populaire, est le premier visé.",
+      "link": "https://www.blogdumoderateur.com/claude-openclaw-autres-agents-tiers-plus-couverts-abonnement/",
+      "pubDate": "2026-04-07T08:46:48.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Anthropic-Claude-OpenClaw-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "9cd1a536c9c6",
+      "title": "Photoshop dans ChatGPT : les prompts à connaître pour retoucher gratuitement vos photos",
+      "description": "Photoshop, intégré à ChatGPT, permet de retoucher ses photos en langage naturel, sans abonnement au chatbot ou à Adobe. Voici comment l'activer et quels prompts utiliser.",
+      "link": "https://www.blogdumoderateur.com/photoshop-chatgpt-prompts-retoucher-gratuitement-photos/",
+      "pubDate": "2026-04-07T08:00:35.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Photoshop-chatgpt-tutoriel-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fe89fdb60b51",
+      "title": "Facturation électronique : pourquoi les TPE et PME ont intérêt à ne pas attendre",
+      "description": "Entre mise en conformité, réduction des délais d'encaissement et gain de temps, les TPE et PME ont tout intérêt à anticiper la réforme de la facturation électronique, qui entre en vigueur à compter du 1er septembre 2026.",
+      "link": "https://www.blogdumoderateur.com/facturation-electronique-pourquoi-tpe-pme-interet-pas-attendre/",
+      "pubDate": "2026-04-07T07:44:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/facturation-electronique-tpe-pme-transition-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "15db9a15a119",
+      "title": "Stitch : conseils pour utiliser le dernier outil de design de Google",
+      "description": "Découvrez Stitch de Google Labs, un outil de design IA qui transforme la création d'interfaces. Apprenez à l'utiliser efficacement en définissant une direction créative claire, en personnalisant les systèmes de design, et en intégrant du contenu percutant. Optimisez votre workflow et créez des…",
+      "link": "https://oliviersauvage.com/2026/04/07/stitch-conseils-pour-utiliser-le-dernier-outil-de-design-de-google/",
+      "pubDate": "2026-04-07T06:24:24.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e1dddc4023c3",
+      "title": "5 formations pour apprendre à maîtriser Canva",
+      "description": "Une sélection de formations destinée à celles et ceux souhaitant développer leurs compétences sur l'outil Canva.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-canva-297/",
+      "pubDate": "2026-04-07T06:00:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/selection-formation-canva-297-294x196.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3db7795115c7",
       "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
       "description": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
