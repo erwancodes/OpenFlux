@@ -2,6 +2,468 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "f26f7f8f55df",
+      "title": "« L’UX designer devient un architecte de la relation entre l’utilisateur et l’IA », Amélie Poirier (Niji)",
+      "description": "Compétences attendues, outils à maîtriser, formations recommandées… Lead designer chez Niji, Amélie Poirier décrypte pour BDM les mutations du métier d'UX designer dans un secteur profondément transformé par l'IA.",
+      "link": "https://www.blogdumoderateur.com/ux-designer-devient-architecte-relation-utilisateur-ia-amelie-poirier-niji/",
+      "pubDate": "2026-04-09T05:00:06.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Amelie-Poirier-lead-designer-niji-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b32fc52b022a",
+      "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
+      "description": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
+      "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+      "pubDate": "2026-04-08T21:50:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5831fcc4eaba",
+      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+      "description": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness.",
+      "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+      "pubDate": "2026-04-08T21:19:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd8f69ff4898",
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "pubDate": "2026-04-08T21:05:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6109aa076149",
+      "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+      "description": "Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.",
+      "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
+      "pubDate": "2026-04-08T21:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "241a8f6de524",
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "description": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "pubDate": "2026-04-08T20:09:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e75639c3c41f",
+      "title": "Amazon to end support for older Kindle devices",
+      "description": "Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content.",
+      "link": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
+      "pubDate": "2026-04-08T19:56:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8de9244176e4",
+      "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
+      "description": "This is the first model Meta has released under its Superintelligence Labs, led by former Scale AI CEO Alexandr Wang.",
+      "link": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+      "pubDate": "2026-04-08T18:53:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d0eef69fe602",
+      "title": "Hack-for-hire group caught targeting Android devices and iCloud backups",
+      "description": "Security researchers exposed a spying campaign by a hack-for-hire group that used Android spyware and phishing to steal iCloud credentials and hack victims’ devices.",
+      "link": "https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/",
+      "pubDate": "2026-04-08T18:51:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "711477931b31",
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "description": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+      "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "pubDate": "2026-04-08T18:23:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f2f9e87e4186",
+      "title": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber",
+      "description": "Volkswagen subsidiary MOIA America still has a long and winding regulatory road before it can launch a commercial robotaxi service.",
+      "link": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
+      "pubDate": "2026-04-08T17:19:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "42b2b7a412ec",
+      "title": "These are the countries moving to ban social media for children",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "link": "https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/",
+      "pubDate": "2026-04-08T16:30:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2388fc28cf94",
+      "title": "British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto",
+      "description": "Back, a long-time researcher and pioneer in cryptography, denies the allegation that he is the secretive creator of Bitcoin.",
+      "link": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/",
+      "pubDate": "2026-04-08T16:03:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "051651614142",
+      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+      "description": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+      "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+      "pubDate": "2026-04-08T16:01:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ca8a3f3381f",
+      "title": "Hackers steal and leak sensitive LAPD police documents",
+      "description": "The LAPD said the breach affected “a digital storage system” belonging to the city’s Attorney's Office. The World Leaks extortion gang was reported to be behind the attack.",
+      "link": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
+      "pubDate": "2026-04-08T15:38:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68888d3ed659",
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "description": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "pubDate": "2026-04-08T15:23:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0530702acda1",
+      "title": "Developer of VeraCrypt encryption software says Windows users may face boot-up issues after Microsoft locked his account",
+      "description": "The maker of the popular open source file encryption software VeraCrypt said Microsoft locked his online account, which may prevent device owners from booting up their computers.",
+      "link": "https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/",
+      "pubDate": "2026-04-08T15:21:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "05c490176622",
+      "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+      "description": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+      "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+      "pubDate": "2026-04-08T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b27a18255706",
+      "title": "Docker Agent : La puissance de l’IA Agentique sans écrire une seule ligne de code",
+      "description": "L’intégration d’agents IA dans nos flux de travail n’est plus une option, c’est une nécessité. Pourtant, une barrière de taille",
+      "link": "https://blog.zenika.com/2026/04/08/docker-agent-la-puissance-de-lia-agentique-sans-ecrire-une-seule-ligne-de-code/",
+      "pubDate": "2026-04-08T14:35:25.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6e0.png",
+      "type": "blog"
+    },
+    {
+      "id": "4dc4bf39a557",
+      "title": "As YouTube grows on TV, it eyes more interactive video across formats",
+      "description": "YouTube's hiring across roles, partnerships, and a Bengaluru hub shows how it is building out its TV strategy.",
+      "link": "https://techcrunch.com/2026/04/08/as-youtube-grows-on-tv-it-eyes-more-interactive-video-across-formats/",
+      "pubDate": "2026-04-08T14:03:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3328d0ed6004",
+      "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "description": "Save up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register today.",
+      "link": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "pubDate": "2026-04-08T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e88d82513515",
+      "title": "Notre retour sur le SymfonyLive Paris 2026",
+      "description": "Les années passent, mais certaines traditions restent immuables. Il y a quelques jours, la communauté s'est de nouveau réunie à la Cité Universitaire pour l'édition 2026 du Symfony Live Paris. Si le monde de la tech avance à toute vitesse, le cru 2026 conserve la recette qui a fait son succès. Nous…",
+      "link": "https://jolicode.com/blog/notre-retour-sur-le-symfonylive-paris-2026",
+      "pubDate": "2026-04-08T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/symfony-live-paris-2026/Fabien_TUI.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9e0591f91efa",
+      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+      "description": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+      "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+      "pubDate": "2026-04-08T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "041e7dd752dd",
+      "title": "Using ACP + Deep Agents to Demystify Modern Software Engineering",
+      "description": "This guest post comes from Jacob Lee, Founding Software Engineer at LangChain, who set out to build a coding agent more aligned with how he actually likes to work. Here, he walks through what he built using Deep Agents and the Agent Client Protocol (ACP), and what he learned along the way. I’ve…",
+      "link": "https://blog.jetbrains.com/ai/2026/04/using-acp-deep-agents-to-demystify-modern-software-engineering/",
+      "pubDate": "2026-04-08T12:32:39.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/04/jetbrains.gif",
+      "type": "blog"
+    },
+    {
+      "id": "179120f5a047",
+      "title": "Claude Mythos : un modèle d’IA trop dangereux pour être rendu public",
+      "description": "Anthropic a présenté Claude Mythos Preview, un modèle frontier capable de détecter des milliers de failles zero-day en quelques heures. Trop dangereux pour être rendu public, il n'est accessible qu'à une cinquantaine d'organisations.",
+      "link": "https://www.blogdumoderateur.com/claude-mythos-modele-ia-dangereux-public/",
+      "pubDate": "2026-04-08T09:06:09.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Claude-Glasswing-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "836751be6309",
+      "title": "CRM et IA en 2026 : ce que les agents intelligents changent vraiment pour les PME. Décryptage par Lilit Schoo (Bitrix24)",
+      "description": "Lilit Schoo, cheffe marketing numérique de Bitrix24, donne les clés pour distinguer un agent intelligent d'une automatisation enrichie, et éviter les erreurs de déploiement les plus courantes.",
+      "link": "https://www.blogdumoderateur.com/crm-ia-2026-pme/",
+      "pubDate": "2026-04-08T08:59:01.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/bitrix-ia-itw-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "32521fb1b200",
+      "title": "Adobe lance Student Spaces, un concurrent gratuit de NotebookLM pour les étudiants",
+      "description": "Adobe lance Student Spaces, un hub d’étude gratuit et collaboratif adossé à Acrobat. L’outil génère flashcards, quiz, guides et podcasts à partir de documents de cours.",
+      "link": "https://www.blogdumoderateur.com/adobe-lance-student-spaces-concurrent-gratuit-notebooklm-etudiants/",
+      "pubDate": "2026-04-08T08:52:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/acrobat-student-spaces-294x172.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f72d48ab50fb",
+      "title": "Google Chrome déploie enfin les onglets verticaux : comment les activer",
+      "description": "Comme Arc, Firefox ou Edge, Google Chrome permet désormais d'afficher ses onglets ouverts dans une barre latérale.",
+      "link": "https://www.blogdumoderateur.com/google-chrome-deploie-onglets-verticaux/",
+      "pubDate": "2026-04-08T08:50:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/mode-lecture-google-chrome.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "ab12c4d3fedf",
+      "title": "IA générative : comment réussir son premier POC ?",
+      "description": "95% des projets d’IA générative échouent en raison de problèmes méthodologiques. Chez Creatis, une approche par communautés de pratiques a été mise en place, impliquant 7 groupes de travail et 187 tests. Cela a conduit au développement d'un agent conversationnel, améliorant significativement la…",
+      "link": "https://oliviersauvage.com/2026/04/08/ia-generative-comment-reussir-son-premier-poc/",
+      "pubDate": "2026-04-08T08:18:39.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "219ad9eb59c9",
       "title": "Google quietly launched an AI dictation app that works offline",
       "description": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
@@ -50,6 +512,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/18034e7c-cf4a-42ce-9e1a-e24d141734cd.mp3?_=1775563346",
       "duration": "01:03:22"
+    },
+    {
+      "id": "a1c945478f3b",
+      "title": "Déployer et livrer: et si c'était deux choses différentes ?",
+      "description": "Dans de nombreuses équipes de développement, déployer c’est livrer des fonctionnalités aux utilisateurs. Pourtant, il est tout à fait possible de dissocier déploiement et livraison. Cela peut même avoir de nombreux avantages. Ce billet a été initialement publié sur LinkedIn Voir la publication…",
+      "link": "https://www.jdecool.fr/blog/2026/04/08/deployer-et-livrer-et-si-c-etait-deux-choses-differentes.html",
+      "pubDate": "2026-04-07T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "dba46abe23c7",
