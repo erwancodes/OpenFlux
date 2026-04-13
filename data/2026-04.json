@@ -2,6 +2,184 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "d7271dbae998",
+      "title": "5 formations en ligne pour maîtriser la data",
+      "description": "Notre sélection de formations de la semaine est dédiée aux futurs experts de la data.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-data-298/",
+      "pubDate": "2026-04-13T06:00:14.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/selection-formation-data-298-294x184.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6d40b2f81f15",
+      "title": "Comment Hellowork utilise le hackathon pour faire émerger de nouvelles fonctionnalités",
+      "description": "En 2025, Hellowork a organisé son premier hackathon interne, en modifiant certaines règles et en laissant carte blanche à ses équipes. Un an plus tard, le projet retenu a été déployé, et le groupe envisage de ritualiser l'exercice.",
+      "link": "https://www.blogdumoderateur.com/comment-hellowork-utilise-hackathon-emerger-nouvelles-fonctionnalites/",
+      "pubDate": "2026-04-13T05:00:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/hellowork-page-accueil-294x155.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "89261d9b396f",
+      "title": "#199.diff - Formation No-Codeur Alegria: Une école de dev sans code avec Thomas Bonnenfant",
+      "description": "Il y a 3 ans, dans l'épisode #199 je recevais Thomas Bonnenfant. 3 ans plus tard, nous faisons une refacto de l'épisode ! **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-199-aec048373c7e",
+      "pubDate": "2026-04-13T03:00:37.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/3052ce1d-887f-4e64-be3e-aec048373c7e.mp3?_=1775995237",
+      "duration": "51:47"
+    },
+    {
+      "id": "2bb645eec6db",
+      "title": "Le renouveau de l'Analyste Programmeur ?",
+      "description": "En 2003, je suis sorti d’IUT avec mon DUT d’ingénierie logicielle en poche et avec le titre d’Analyste Programmeur. Et pendant les années suivantes, peut-être même pendant la moitié ou les deux tiers de ma carrière, j’ai fait beaucoup de programmation et assez peu d’analyse.",
+      "link": "https://blog.pascal-martin.fr/post/le-renouveau-de-analyste-programmeur/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/le-renouveau-de-analyste-programmeur/",
+      "pubDate": "2026-04-13T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ab4a2bfe2fb0",
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "description": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "pubDate": "2026-04-12T21:14:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9762e1e3f1ab",
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "pubDate": "2026-04-12T19:58:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b7b91c7ace75",
+      "title": "X says it’s reducing payments to clickbait accounts",
+      "description": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier",
+      "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "pubDate": "2026-04-12T17:02:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd7d1bf743cd",
+      "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "link": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
+      "pubDate": "2026-04-12T16:06:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89a3eeb44777",
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "pubDate": "2026-04-12T15:07:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d5da6c46f2f0",
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "description": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+      "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "pubDate": "2026-04-12T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "09e3aab9eb49",
+      "title": "Slate Auto: Everything you need to know about the Bezos-backed EV startup",
+      "description": "Slate auto burst onto the scene in April 2025. Here is a timeline that covers its origins, backers, product, and other new details.",
+      "link": "https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/",
+      "pubDate": "2026-04-12T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ffafc7f072f1",
       "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
       "description": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",
