@@ -2,6 +2,484 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "43e402719b33",
+      "title": "Liens Tech - Avril 2026",
+      "description": "La sélection d'avril : notes Markdown, gestion Docker, Kanban, des sauvegardes Restic, LLM local et un éditeur visuel pour Home Assistant.",
+      "link": "https://domopi.eu/liens-tech-avril-2026/",
+      "pubDate": "2026-04-15T05:45:02.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "813b0e2f60c1",
+      "title": "Email marketing, WhatsApp, SMS : quels canaux choisir pour fidéliser ses clients en 2026 ?",
+      "description": "L'email marketing est-il toujours roi ? Les messageries instantanées sont-elles vraiment fiables ? Jonathan Loriaux, consultant CRM et codirecteur de Badsender, démêle les idées reçues et les pièges à éviter pour fidéliser ses clients en 2026.",
+      "link": "https://www.blogdumoderateur.com/email-marketing-whatsapp-sms-quels-canaux-choisir-fideliser-clients-2026/",
+      "pubDate": "2026-04-15T05:00:59.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Jonathan-Loriaux-BDM-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "35f31b11ab66",
+      "title": "#352.src - Recrutement et IA: Pourquoi l'IA change-t-elle vraiment le recrutement (ou pas) ? avec Caroline Chavier",
+      "description": "\"Les algos sont nuls pour lire les signaux faibles et il est là le sujet.\" Le D.E.V. de la semaine est Caroline Chavier, CEO de The Allyance, cofondatrice du meet-up Paris Women in Machine Learning and Data Science et investisseuse spécialisée IA éthique. Elle décrypte l'impact inédit de l'IA sur…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-352-43a135876465",
+      "pubDate": "2026-04-15T03:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/70bba4d1-6682-43f9-8df1-855b245916d6.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/95976f18-ad50-447d-a216-43a135876465.mp3?_=1776168093",
+      "duration": "53:54"
+    },
+    {
+      "id": "37ed9e6d0091",
+      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
+      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "pubDate": "2026-04-15T02:31:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "42e1d4892638",
+      "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+      "description": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.",
+      "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+      "pubDate": "2026-04-14T21:33:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fcd54cfe6703",
+      "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites",
+      "description": "Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner.",
+      "link": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/",
+      "pubDate": "2026-04-14T18:31:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "485475d055d6",
+      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+      "description": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+      "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+      "pubDate": "2026-04-14T18:09:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b5da30e45c1b",
+      "title": "London gets closer to its first robotaxi service as Waymo begins testing",
+      "description": "Waymo's commercial service will eventually follow testing if the U.K. government approves.",
+      "link": "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/",
+      "pubDate": "2026-04-14T18:00:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d52e62c2a045",
+      "title": "YouTube livestreams will now hold back ads during peak engagement to protect the vibe",
+      "description": "Until now, the only way to avoid seeing ads was by paying for a YouTube Premium subscription.",
+      "link": "https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/",
+      "pubDate": "2026-04-14T17:18:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f4e262cfc4a1",
+      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+      "description": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+      "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+      "pubDate": "2026-04-14T17:13:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae2728d9ff72",
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+      "description": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+      "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+      "pubDate": "2026-04-14T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a1a5657a4b7a",
+      "title": "How the rewards app Freecash scammed its way to the top of the app stores",
+      "description": "Freecash was removed from Apple's App Store after TechCrunch reached out for comment.",
+      "link": "https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/",
+      "pubDate": "2026-04-14T16:43:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c3289ef593c",
+      "title": "Financial risk management platform Pillar raises $20M seed in round led by a16z",
+      "description": "Pillar hopes to offer sophisticated, institutional-grade tools to small and medium-sized enterprises. \"Our goal is to make hedging as accessible and ubiquitous as payments or accounting software,\" he said.",
+      "link": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
+      "pubDate": "2026-04-14T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "41d71baaa145",
+      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "description": "The first StrictlyVC of the year will be coming to San Francisco before you know it. There are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "pubDate": "2026-04-14T15:30:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0b443e5d4ea5",
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "description": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
+      "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "pubDate": "2026-04-14T14:48:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "63cceb541575",
+      "title": "Adobe fixes PDF zero-day security bug that hackers have exploited for months",
+      "description": "It's not clear how many people were compromised by this hacking campaign, but a security researcher said the hackers were targeting victims since at least November 2025.",
+      "link": "https://techcrunch.com/2026/04/14/adobe-fixes-pdf-zero-day-security-bug-that-hackers-have-exploited-for-months/",
+      "pubDate": "2026-04-14T14:35:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f8cd3e949f1a",
+      "title": "Tesla adds ‘streaks,’ other stats to track how often drivers use Full Self-Driving software",
+      "description": "Tesla has also made it easy to subscribe to the advanced driver assistance system.",
+      "link": "https://techcrunch.com/2026/04/14/tesla-adds-streaks-and-other-stats-to-track-how-often-drivers-use-full-self-driving-software/",
+      "pubDate": "2026-04-14T14:33:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "20312d1c6107",
+      "title": "Instacart acquires Instaleap to expand its enterprise platform internationally",
+      "description": "The acquisition will allow the company to expand its business into international markets without needing to launch a delivery network in those regions.",
+      "link": "https://techcrunch.com/2026/04/14/instacart-acquires-instaleap-to-expand-its-enterprise-platform-internationally/",
+      "pubDate": "2026-04-14T14:29:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b0a087e6a68f",
+      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
+      "description": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
+      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "pubDate": "2026-04-14T14:22:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5b8cba7735f",
+      "title": "Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz",
+      "description": "Amazon on Tuesday agreed to buy satellite company Globalstar, known for powering Apple's \"Emergency SOS\" feature, for $11.57 billion in cash.",
+      "link": "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/",
+      "pubDate": "2026-04-14T13:55:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1d52128f57b",
+      "title": "L'application d'enregistrements des cartes Korrigo pour les lycées publics bretons",
+      "description": "La Région Bretagne trans­forme sa carte KorriGo en une carte multi-services pour les lycéens et person­nels des 115 établis­se­ments publics bretons.",
+      "link": "https://makina-corpus.com/application-web-mobile/lapplication-denregistrements-des-cartes-korrigo-pour-les-lycees-publics",
+      "pubDate": "2026-04-14T13:25:58.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "15eedf04aae3",
+      "title": "Lucid Motors names new CEO, lands more money from Uber and Saudis",
+      "description": "The search for a new CEO, which lasted over a year following the sudden resignation of Peter Rawlinson, is finally over.",
+      "link": "https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/",
+      "pubDate": "2026-04-14T12:22:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "17f7bad3851e",
+      "title": "Robotique humanoïde : Le vrai défi n’est plus la technologie, mais le passage à l’échelle",
+      "description": "Pendant des années, la robotique humanoïde a été perçue comme un défi purement technologique. Concevoir des machines capables de marcher, manipuler des objets ou interagir avec leur environnement constituait le cœur de l’innovation. En 2026, ce paradigme a profondément évolué. Le véritable goulot…",
+      "link": "https://www.robot-magazine.fr/robotique-humanoide-le-vrai-defi-nest-plus-la-technologie-mais-le-passage-a-lechelle/?utm_source=rss&utm_medium=rss&utm_campaign=robotique-humanoide-le-vrai-defi-nest-plus-la-technologie-mais-le-passage-a-lechelle",
+      "pubDate": "2026-04-14T11:23:25.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e71be08e499a",
+      "title": "Inertia moves to commercialize one of the world’s most elaborate science experiments",
+      "description": "Inertia has signed three agreements with the Lawrence Livermore National Lab, paving the way for the company to bring its pioneering fusion reactor to market.",
+      "link": "https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/",
+      "pubDate": "2026-04-14T09:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fed44fce842e",
+      "title": "XChat, la messagerie de X, débarque sur iOS : fonctionnalités, accès, tout savoir",
+      "description": "L'application, dont le lancement sur l'App Store est fixé au 17 avril, inclut la possibilité d'envoyer des messages éphémères ou de bloquer les captures d'écran.",
+      "link": "https://www.blogdumoderateur.com/xchat-messagerie-x-ios/",
+      "pubDate": "2026-04-14T08:46:59.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/xchat-lancement-ios-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "d6992e56873d",
+      "title": "Google va sanctionner les sites qui détournent le bouton retour du navigateur",
+      "description": "La pratique consistant à détourner le bouton retour du navigateur est désormais une violation explicite des règles de Google. Les propriétaires de sites ont deux mois pour agir.",
+      "link": "https://www.blogdumoderateur.com/google-sanctionner-sites-detournent-bouton-retour-navigateur/",
+      "pubDate": "2026-04-14T08:38:29.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Google-Back-Button-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ed8ac76fbebf",
+      "title": "EROOM, Decathlon et la Duck Conf",
+      "description": "Il y a quelques jours, dans le cadre de la conférence Duck Conf’, organisée par mon employeur, OCTO, où Decathlon, par la voix de son global CTO, a annoncé déployé EROOM auprès de leur 2000 développeurs. Cela a donné plusieurs articles : CIO-Online : Développement : Decathlon dans la course au…",
+      "link": "https://standblog.org/blog/post/2026/04/14/EROOM-Decathlon-et-la-Duck-Conf",
+      "pubDate": "2026-04-14T08:21:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/Romain_et_Tristan.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2811b9b971bd",
+      "title": "IA : les meilleurs modèles pour le code et le développement web en avril 2026",
+      "description": "Anthropic conserve cinq des six premières places de la WebDev Arena en avril 2026, mais Z.ai s'invite sur le podium avec GLM-5.1, premier modèle open source à atteindre le top 3.",
+      "link": "https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-avril-2026/",
+      "pubDate": "2026-04-14T08:13:12.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/WebDev-Arena-Code-IA-Overall-294x170.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "adb6eb36df6c",
+      "title": "LinkedIn : 12 idées de publications pour booster la visibilité de votre entreprise",
+      "description": "LinkedIn est le réseau de référence pour les entreprises B2B, mais la régularité des publications est souvent le premier obstacle. Auguste propose un calendrier éditorial personnalisé pour y remédier, avec 12 thématiques prêtes à l'emploi.",
+      "link": "https://www.blogdumoderateur.com/linkedin-12-idees-publications-virales-entreprises/",
+      "pubDate": "2026-04-14T07:38:59.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Auguste-LinkedIn-Calendrier-294x160.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b4cf761859b0",
+      "title": "Ember 1.1: Le dashboard FrankenPHP devient encore meilleur",
+      "description": "Quand j’ai sorti Ember 1.0, la mission était claire : offrir aux utilisateurs de Caddy et FrankenPHP un monitoring temps réel, sans configuration, directement depuis le terminal. Les retours de la communauté ont été incroyables, et cela m’a poussé à aller plus loin. Aujourd’hui, nous sommes heureux…",
+      "link": "https://les-tilleuls.coop/blog/ember-1-1-le-dashboard-frankenphp-devient-encore-meilleur",
+      "pubDate": "2026-04-14T06:00:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-1-1-1024x568.webp",
+      "type": "blog"
+    },
+    {
       "id": "6e56ba45fdb5",
       "title": "Faut-il publier régulièrement pour rester visible sur Google ?",
       "description": "Publier régulièrement est-il vraiment indispensable pour rester visible sur Google ? Deux experts nous présentent leur point de vue.",
