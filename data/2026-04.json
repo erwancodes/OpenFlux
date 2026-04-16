@@ -2,6 +2,487 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "45fdfe41994f",
+      "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
+      "description": "Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.",
+      "link": "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/",
+      "pubDate": "2026-04-15T22:44:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8780853670b9",
+      "title": "Ford EV and tech chief leaving automaker",
+      "description": "Doug Field had stints at Apple and Tesla before joining Ford in 2021.",
+      "link": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
+      "pubDate": "2026-04-15T21:52:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "42c9d2cbfef5",
+      "title": "Wait, could they still actually break up Live Nation?",
+      "description": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
+      "link": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
+      "pubDate": "2026-04-15T21:38:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6cce5b1481a5",
+      "title": "Monarch Tractor’s collapse ends with an acquisition by Caterpillar",
+      "description": "The startup had faced mounting pressure from dealers, farmers, and a co-founder who complained that Monarch's tech didn't work properly.",
+      "link": "https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/",
+      "pubDate": "2026-04-15T21:05:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8fe3d07bb04d",
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "pubDate": "2026-04-15T19:28:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a763eae9c71",
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "description": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+      "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "pubDate": "2026-04-15T18:55:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d7b57f44c3f8",
+      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+      "description": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
+      "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "pubDate": "2026-04-15T18:51:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c32a548ea46f",
+      "title": "Feds will require data centers to show their power bills",
+      "description": "In a first, the U.S. Energy Information Agency said it will require data centers to disclose details of their energy use.",
+      "link": "https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/",
+      "pubDate": "2026-04-15T18:50:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a116dfe2d52c",
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "description": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "pubDate": "2026-04-15T18:38:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "59d5d529179b",
+      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "description": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+      "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+      "pubDate": "2026-04-15T18:33:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b565cee1368e",
+      "title": "Google rolls out a native Gemini app for Mac",
+      "description": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+      "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "pubDate": "2026-04-15T18:22:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b08b366e1300",
+      "title": "This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more",
+      "description": "Glydways is in talks to raise another $250 million as it prepares to launch three pilot programs.",
+      "link": "https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/",
+      "pubDate": "2026-04-15T17:46:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3660b35fc67f",
+      "title": "Accel raises $5B to back late-stage bets",
+      "description": "Accel announced on Tuesday that it raised $5 billion in fresh capital to back late-stage companies building AI.",
+      "link": "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/",
+      "pubDate": "2026-04-15T17:37:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "165342337ce0",
+      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      "description": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
+      "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+      "pubDate": "2026-04-15T17:24:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "43de0b2c65eb",
+      "title": "Anthropic shrugs off VC funding offers valuing it at $800B+, for now",
+      "description": "VCs are frothing at the mouth to write more checks to Anthropic at a valuation that matches or beats OpenAI's.",
+      "link": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
+      "pubDate": "2026-04-15T16:21:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9e51b8b455f6",
+      "title": "Motorola sues social platforms and creators over posts, raising speech concerns in India",
+      "description": "Motorola has sought a permanent injunction restraining the defendants from publishing or sharing what it describes as false or defamatory content about its products, including reviews, videos, comments, and boycott campaigns.",
+      "link": "https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/",
+      "pubDate": "2026-04-15T16:00:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89c513e86005",
+      "title": "Airwallex is about to take on Stripe and the rest of the payments industry — in the physical world",
+      "description": "Airwallex, valued at $8 billion, is launching a point-of-sale product that lets businesses accept in-person payments in multiple countries via a single platform.",
+      "link": "https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/",
+      "pubDate": "2026-04-15T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e28f2988887",
+      "title": "OpenClaw, Claude Cowork : le CERT-FR met en garde contre les agents IA autonomes",
+      "description": "Compromission, fuite de données, perte de contrôle... Le CERT-FR dresse un inventaire des risques posés par les agents IA autonomes sur les postes de travail.",
+      "link": "https://www.blogdumoderateur.com/openclaw-claude-cowork-cert-fr-agents-ia-autonomes/",
+      "pubDate": "2026-04-15T14:53:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/cert-fr-proscrire-agents-ia-production-294x147.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "f9e95751d464",
+      "title": "After sale of its shoe business, Allbirds pivots to AI",
+      "description": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+      "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+      "pubDate": "2026-04-15T14:24:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d639c54dd85",
+      "title": "Sweden blames Russian hackers for attempting ‘destructive’ cyberattack on thermal plant",
+      "description": "Sweden's minister for civil defense said Russian hackers are \"now attempting destructive cyber attacks against organizations in Europe.\"",
+      "link": "https://techcrunch.com/2026/04/15/sweden-blames-russian-hackers-for-attempting-destructive-cyberattack-on-thermal-plant/",
+      "pubDate": "2026-04-15T14:21:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "19db77a5ae9a",
+      "title": "Aloe Blacc’s fame means nothing in biotech (and that’s the point)",
+      "description": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a check in biotech. Regulators require a commercialization plan, and philanthropy doesn’t move science…",
+      "link": "https://techcrunch.com/video/aloe-blaccs-fame-means-nothing-in-biotech-and-thats-the-point/",
+      "pubDate": "2026-04-15T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "217ed5b75ead",
+      "title": "Les 50 marques françaises les plus puissantes en 2026 : le classement complet",
+      "description": "Hermès s'impose pour la première fois en tête du classement BrandZ France de Kantar, tandis que Mistral AI fait son entrée directement à la 29e place.",
+      "link": "https://www.blogdumoderateur.com/50-marques-francaises-puissantes-2026-classement/",
+      "pubDate": "2026-04-15T13:59:35.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/kantar-brandz-france-2026-294x317.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "234924228087",
+      "title": "Firefly AI Assistant, l’agent IA unifié d’Adobe qui orchestre toute la chaîne créative",
+      "description": "Adobe lance un agent IA centralisé qui orchestre Photoshop, Premiere, Lightroom et les autres logiciels du Creative Cloud à partir de simples descriptions en langage naturel.",
+      "link": "https://www.blogdumoderateur.com/firefly-ai-assistant-agent-ia-unifie-adobe/",
+      "pubDate": "2026-04-15T13:00:52.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Adobe-Firefly-Innovations-Visual-Asset-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "2f72f174507f",
+      "title": "Adobe lance Color Mode dans Premiere Pro, une expérience d’étalonnage repensée",
+      "description": "Le logiciel de montage phare d'Adobe se dote d'un tout nouveau panel, réunissant la totalité des outils colorimétriques professionnels dans une nouvelle interface intuitive.",
+      "link": "https://www.blogdumoderateur.com/adobe-lance-color-mode-premiere-pro/",
+      "pubDate": "2026-04-15T13:00:26.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Color-Mode-Teaser-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "bfde26595c17",
+      "title": "Ce que le AWS Summit 2026 nous apprend sur le futur du DevOps",
+      "description": "Retour sur l’AWS Summit 2026 : IA agentique, Amazon EKS, DevOps, souveraineté et innovations cloud qui transforment les architectures modernes.",
+      "link": "https://blog.ippon.fr/2026/04/15/ce-que-le-aws-summit-2026-nous-apprend-sur-le-futur-du-devops/",
+      "pubDate": "2026-04-15T11:38:51.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/Capture-d---e--cran-2026-04-01-a---13.59.56.png",
+      "type": "blog"
+    },
+    {
+      "id": "9709c24ae3db",
+      "title": "Avec les routines, Claude Code peut exécuter des tâches en permanence sur votre ordinateur",
+      "description": "Anthropic déploie les routines dans Claude Code. Configurées une première fois, elles s'exécutent de façon autonome sur l'infrastructure cloud sans que l'ordinateur soit allumé.",
+      "link": "https://www.blogdumoderateur.com/claude-code-routines/",
+      "pubDate": "2026-04-15T09:13:08.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/claude-code-routines-anthropic-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "54a7520001c4",
+      "title": "OpenAI lance GPT-5.4-Cyber, un modèle d’IA dédié à la cyberdéfense",
+      "description": "Une semaine après Claude Mythos d'Anthropic, OpenAI entre dans la course à l'IA pour la cyberdéfense. La firme dévoile GPT-5.4-Cyber, un modèle plus permissif réservé aux professionnels vérifiés.",
+      "link": "https://www.blogdumoderateur.com/openai-gpt-5-4-cyber/",
+      "pubDate": "2026-04-15T09:10:45.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/OpenAI-cybersecurite-gpt-5-4-cyber-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f9b5ecc376f2",
+      "title": "Après Excel et PowerPoint, Claude arrive dans Word",
+      "description": "Anthropic déploie Claude for Word en bêta. Il s'installe dans le panneau latéral de Word et permet de réécrire, réviser et structurer des documents via le suivi des modifications natif.",
+      "link": "https://www.blogdumoderateur.com/apres-excel-powerpoint-claude-arrive-word/",
+      "pubDate": "2026-04-15T09:07:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Claude-Dans-Word-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fbfdc703a453",
+      "title": "La CNIL encadre les pixels de suivi dans les emails : ce qui change pour les entreprises",
+      "description": "Indétectable, le pixel de suivi permet de tracer l'ouverture d'un email à l'insu du destinataire. La CNIL vient de fixer le cadre qui s'applique désormais à cette pratique et accorde un délai de trois mois pour s'y conformer.",
+      "link": "https://www.blogdumoderateur.com/cnil-encadre-pixels-suivi-emails/",
+      "pubDate": "2026-04-15T09:07:08.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/pixel-suivi-cnil-recommandations-294x196.png",
+      "type": "blog"
+    },
+    {
+      "id": "7d13faad722f",
+      "title": "Comment les agents IA transforment le SEO : 5 exemples concrets",
+      "description": "Produire, optimiser, analyser, netlinkter, indexer : les agents IA transforment chacun de ces leviers SEO en processus autonome et continu. Le point avec Quentin Thomine, cofondateur de Sedestral.",
+      "link": "https://www.blogdumoderateur.com/comment-agents-ia-transforment-seo-5-exemples-concrets/",
+      "pubDate": "2026-04-15T08:53:12.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/SEO-agent-IA-Sedestral-294x154.jpg",
+      "type": "blog"
+    },
+    {
       "id": "43e402719b33",
       "title": "Liens Tech - Avril 2026",
       "description": "La sélection d'avril : notes Markdown, gestion Docker, Kanban, des sauvegardes Restic, LLM local et un éditeur visuel pour Home Assistant.",
@@ -64,6 +545,23 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "899557651d48",
+      "title": "9 devs, 3 équipes, 2 heures : on a fait un hackathon 100% Vibes Coding",
+      "description": "Pour clôturer deux jours de formation sur Claude Code en séminaire, on a organisé une soirée hackathon avec des thèmes absurdes, des contraintes tirées au sort et une seule consigne : Vibes Coding. 9 devs, des pizzas, et un Deliveroo pour écureuils. Retour d'expérience sur un format à reproduire…",
+      "link": "https://yoandev.co/hackathon-vibes-coding",
+      "pubDate": "2026-04-15T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/20260319.BgUMilYe_8wdWs.webp",
       "type": "blog"
     },
     {
@@ -523,6 +1021,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "307cfa2442b8",
+      "title": "Pensée parasite",
+      "description": "Je marchais dans la rue, longeant des maisons, pour récupérer mon fils chez un ami. Un pas, puis l’autre, les maisons, alignées sur le côté, et soudain, un éclair dans ma tête : cette maison, là-bas, celle avec les volets bleus, elle n’est plus qu’un tas de pierres, qu’un nuage de poussière, qu’un…",
+      "link": "https://boris.schapira.dev/notes/2026-04-pensee-parasite/\n",
+      "pubDate": "2026-04-13T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -1006,6 +1519,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d6a645b8c338",
+      "title": "Craft",
+      "description": "– Maman, c’est cool en vrai que tu écoutes tout le temps de la musique quand tu couds… moi, plus tard, j’espère que mes enfants aimeront écouter de la musique aussi. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-04-craft/\n",
+      "pubDate": "2026-04-11T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
