@@ -2,6 +2,551 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "c75c627bb7be",
+      "title": "Anthropic : la croissance la plus rapide de l’histoire de la tech ?",
+      "description": "Avec 30 milliards de dollars de chiffre d’affaires annualisé en 2026, Anthropic s'impose comme la startup technologique à la croissance la plus rapide jamais observée. La preuve par les données.",
+      "link": "https://www.blogdumoderateur.com/anthropic-croissance-plus-rapide-histoire-tech/",
+      "pubDate": "2026-04-17T06:00:19.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/anthropic-croissance-plus-rapide-histoire-tech-294x187.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f9dfa5f04ddf",
+      "title": "Connaissez-vous bien le vocabulaire des startups ?",
+      "description": "Une définition, trois propositions, une seule bonne réponse. Saurez-vous décoder le jargon startup mieux qu'un pitch deck relu à 3 heures du matin ?",
+      "link": "https://www.blogdumoderateur.com/quiz-vocabulaire-startups/",
+      "pubDate": "2026-04-17T05:00:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/QUIZ-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "2676b1e4cf8c",
+      "title": "#305.exe - Apprendre en codant: Être ou ne pas être D.E.V. par Antonio Goncalves",
+      "description": "Pour l'épisode #305 je recevais Alex Delivet. On en débrief avec Antonio. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast.…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-305-0a9b77dec356",
+      "pubDate": "2026-04-17T03:00:25.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/1200296f-42ba-409b-a145-0a9b77dec356.mp3?_=1776348325",
+      "duration": "18:09"
+    },
+    {
+      "id": "959435b17543",
+      "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets",
+      "description": "The fundraise is the first major capital raise under Sequoia's new leadership, with Alfred Lin and Pat Grady now serving as co-stewards of the 54-year-old firm.",
+      "link": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
+      "pubDate": "2026-04-17T02:55:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "298523b2500f",
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "description": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+      "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+      "pubDate": "2026-04-16T22:55:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d385f5137d92",
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "description": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+      "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+      "pubDate": "2026-04-16T21:58:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a330f88ad60a",
+      "title": "Netflix co-founder and chair Reed Hastings to leave board",
+      "description": "Hastings helped to transform the video rental industry — first with physical, then digital, delivery.",
+      "link": "https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/",
+      "pubDate": "2026-04-16T21:22:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e199069a4a4d",
+      "title": "Upscale AI in talks to raise at $2B valuation, says report",
+      "description": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+      "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+      "pubDate": "2026-04-16T20:41:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6c39c8eba803",
+      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+      "description": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+      "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "pubDate": "2026-04-16T20:26:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e8c3b8a4dc5a",
+      "title": "From the Startup Battlefield stage to the International Space Station: geCKo Materials built a sticky product",
+      "description": "This week on Build Mode, Isabelle Johannessen speaks with Capella Kerst, founder and CEO of geCKo Materials.",
+      "link": "https://techcrunch.com/2026/04/16/from-the-startup-battlefield-stage-to-the-international-space-station-gecko-materials-built-a-sticky-product/",
+      "pubDate": "2026-04-16T19:50:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "84ee62ea6ff2",
+      "title": "Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation",
+      "description": "Five years later the founders, now 24 years old, say their startup has achieved $300 million in annualized revenue.",
+      "link": "https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/",
+      "pubDate": "2026-04-16T19:20:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b928c5b64b79",
+      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+      "description": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+      "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "pubDate": "2026-04-16T19:18:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2187d9c5a4d3",
+      "title": "European police email 75,000 people asking them to stop DDoS attacks",
+      "description": "Europol coordinated an operation against for-hire distributed denial-of-service (DDoS) services, including the arrest of four people and the takedown of 53 domains.",
+      "link": "https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/",
+      "pubDate": "2026-04-16T18:53:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d0bdb5a81735",
+      "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
+      "description": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year.",
+      "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+      "pubDate": "2026-04-16T18:28:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2db1aefc12b7",
+      "title": "It’s not just you — Bluesky is (sorta) down",
+      "description": "Bluesky has been experiencing ongoing service disruptions since just before 3 a.m. ET.",
+      "link": "https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/",
+      "pubDate": "2026-04-16T17:11:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89e42586c1d2",
+      "title": "Everything we like is a psyop",
+      "description": "If culture is shaped by TikTok's algorithmic feed, then it's time for us to decide where we draw the line between necessary marketing and inauthentic growth hacking.",
+      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "pubDate": "2026-04-16T17:03:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2ec6ebd86b69",
+      "title": "Google now lets you explore the web side-by-side with AI Mode",
+      "description": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
+      "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+      "pubDate": "2026-04-16T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9070a7197b76",
+      "title": "Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme",
+      "description": "The U.S. Department of Justice announced that two Americans were sentenced to years in prison for helping the North Korean government place fake IT workers in U.S. companies.",
+      "link": "https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/",
+      "pubDate": "2026-04-16T16:16:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7782629f00fc",
+      "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+      "description": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.",
+      "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+      "pubDate": "2026-04-16T16:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5413da9db8f1",
+      "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
+      "description": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
+      "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+      "pubDate": "2026-04-16T16:14:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "63f38585fbf1",
+      "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+      "description": "The new tools are designed to help creators throughout the entire development process.",
+      "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+      "pubDate": "2026-04-16T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "91f2e7f4196e",
+      "title": "Google adds Nano Banana-powered image generation to Gemini’s Personal Intelligence",
+      "description": "That means its AI images can be created using Gemini's understanding of your likes and interests, without those having to be explicitly noted in the prompt.",
+      "link": "https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/",
+      "pubDate": "2026-04-16T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "35e04336949c",
+      "title": "Anthropic déploie Claude Opus 4.7 : ce qui change par rapport au précédent modèle",
+      "description": "Deux mois après Opus 4.6, Anthropic pousse un nouveau modèle qui améliore la vision, le suivi d'instructions et les protections en cybersécurité.",
+      "link": "https://www.blogdumoderateur.com/anthropic-claude-opus-4-7/",
+      "pubDate": "2026-04-16T15:28:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Claude-Opus-4-7-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f21417febbe9",
+      "title": "Google is now targeting bad ads over bad actors",
+      "description": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
+      "link": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
+      "pubDate": "2026-04-16T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "923bb13bcc5a",
+      "title": "Le tiret cadratin est mort — vive le tiret cadratin",
+      "description": "Pour bien écrire, les humains ont utilisé le tiret cadratin — pendant six siècles. Pour reproduire une écriture de qualité, ChatGPT a fait de même. Désormais : ceux qui écrivent n’osent plus l’utiliser, et ceux qui en lisent y voient une preuve irréfutable d’un texte généré par IA.",
+      "link": "https://www.blogdumoderateur.com/tiret-cadratin-mort-vive-tiret-cadratin/",
+      "pubDate": "2026-04-16T14:47:30.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/machine-ecrire-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "81a3b1c4bb38",
+      "title": "Introducing Koog Integration for Spring AI: Smarter Orchestration for Your Agents",
+      "description": "Spring AI is the application-facing integration layer you may already use. Koog is the next layer up when you need agent orchestration. Spring AI already covers the chat model API, chat memory, and vector storage for RAG, and it provides Spring Boot starters with auto-configuration. Koog’s role is…",
+      "link": "https://blog.jetbrains.com/ai/2026/04/introducing-koog-integration-for-spring-ai-smarter-orchestration-for-your-agents/",
+      "pubDate": "2026-04-16T14:01:57.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/04/image-37.png",
+      "type": "blog"
+    },
+    {
+      "id": "c6cdf0a7b24c",
+      "title": "Comment désactiver les Shorts sur YouTube",
+      "description": "YouTube permet désormais à tous ses utilisateurs de limiter leur temps de visionnage des Shorts, voire de bloquer presque entièrement le flux en fixant la limite à 0 minute.",
+      "link": "https://www.blogdumoderateur.com/desactiver-shorts-youtube/",
+      "pubDate": "2026-04-16T13:11:04.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/youtube-desactivation-shorts-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "8c00da46a6c6",
+      "title": "L’IA de Canva profite d’une refonte majeure : mémoire, tâches en arrière-plan, intégrations…",
+      "description": "Lancée en avril 2025, l'IA de Canva profite d'une refonte intégrale, lui permettant désormais de mémoriser vos préférences, d'effectuer des modifications ciblées ou de se connecter à vos outils du quotidien.",
+      "link": "https://www.blogdumoderateur.com/ia-canva-profite-refonte-majeure/",
+      "pubDate": "2026-04-16T13:00:06.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/canva-ia-nouveautes-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3c25176af280",
+      "title": "Android Makers 2026 - Conférences marquantes",
+      "description": "La Practice Mobile a de nouveau répondu à l'appel des conférences d’Android Makers édition 2026. Et comme toujours, on ne repart pas les mains vides, pour vous on a fait chauffer nos stylos (ou nos claviers) pour vous proposer une compilation des talks qui nous ont marqués.",
+      "link": "https://blog.ippon.fr/2026/04/16/android-makers-2026/",
+      "pubDate": "2026-04-16T12:30:34.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/image1-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a205c44626d9",
+      "title": "Midjourney répond aux critiques avec une v8.1 plus proche des attentes",
+      "description": "Un mois après le lancement critiqué de sa v8, Midjourney déploie une version 8.1 censée corriger le tir sur l'esthétique, les performances et les tarifs.",
+      "link": "https://www.blogdumoderateur.com/midjourney-repond-critiques-avec-v8-1/",
+      "pubDate": "2026-04-16T12:20:33.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/midjourney-v8-1-294x147.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "6047f9bdbb79",
+      "title": "Le vrai défi de la robotique n’est pas technique",
+      "description": "Tribune de Dominique Carricart le 16 avril 2026 Dans un contexte d’accélération de la robotisation industrielle et d’émergence des robots humanoïdes, les entreprises se concentrent souvent sur la performance technologique. Pourtant, comme le rappelle Dominique Carricart, expert du terrain, le…",
+      "link": "https://www.robot-magazine.fr/le-vrai-defi-de-la-robotique-nest-pas-technique/?utm_source=rss&utm_medium=rss&utm_campaign=le-vrai-defi-de-la-robotique-nest-pas-technique",
+      "pubDate": "2026-04-16T11:52:46.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/11/Christophe-Carle-Louis-Robot-Magazine-Fr.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "aaa7ecdaf05e",
+      "title": "Google lance une application Gemini pour macOS : accès, fonctionnalités, tout savoir",
+      "description": "L'application, qui requiert la version macOS Sequoia ou ultérieure, permet d'invoquer Gemini dans une mini-fenêtre à tout moment.",
+      "link": "https://www.blogdumoderateur.com/google-lance-application-gemini-macos/",
+      "pubDate": "2026-04-16T08:49:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/google-gemini-macos-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "79cddf3eb1d1",
+      "title": "OpenAI renforce son SDK Agents pour sécuriser les agents IA en entreprise",
+      "description": "Le kit de développement d'agents IA d'OpenAI s'enrichit de deux nouvelles briques : un environnement d'exécution isolé et un système d'orchestration natif pour les tâches complexes.",
+      "link": "https://www.blogdumoderateur.com/openai-renforce-sdk-agents-securiser-ia-entreprise/",
+      "pubDate": "2026-04-16T08:36:47.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/OpenAI-Agents-SDK-294x168.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2370db161a0c",
+      "title": "Gemini CLI peut désormais déléguer ses tâches complexes à des agents spécialisés",
+      "description": "Google enrichit son outil de développement en ligne de commande avec un système de subagents. Chaque agent spécialisé opère dans son propre contexte isolé et rend compte à l'agent principal une fois sa mission accomplie.",
+      "link": "https://www.blogdumoderateur.com/gemini-cli-peut-deleguer-taches-complexes-agents-specialises/",
+      "pubDate": "2026-04-16T08:36:17.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Sous-agents-Cemini-CLI-294x171.jpg",
+      "type": "blog"
+    },
+    {
       "id": "45fdfe41994f",
       "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
       "description": "Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.",
