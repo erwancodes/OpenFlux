@@ -2,6 +2,358 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "415ced89d9b4",
+      "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
+      "description": "For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing.",
+      "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
+      "pubDate": "2026-04-18T05:20:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "668e20f799ab",
+      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+      "description": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "pubDate": "2026-04-17T22:34:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5ecfa690f328",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "pubDate": "2026-04-17T20:38:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a2812abaed76",
+      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+      "description": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
+      "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+      "pubDate": "2026-04-17T20:16:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d0bf030f9d6",
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "description": "Returning backers a16z and Thrive are expected to lead the round.",
+      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "pubDate": "2026-04-17T19:17:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67f342ebd637",
+      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+      "description": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+      "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "pubDate": "2026-04-17T18:42:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b8edab5f7d3",
+      "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
+      "description": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulnerabilities in real-life attacks, according to a cybersecurity firm.",
+      "link": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
+      "pubDate": "2026-04-17T17:48:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dfdbc21ad9dd",
+      "title": "Zoom teams up with World to verify humans in meetings",
+      "description": "Meeting platform Zoom has announced a partnership with World, Sam Altman's human ID verification company, to ensure that the people attending meetings are actually human and not AI-generated imposters. Zoom will show a badge on verified participants' tile.",
+      "link": "https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/",
+      "pubDate": "2026-04-17T17:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "493b9d2bc721",
+      "title": "Gigs turns your concert history into a personal live music archive",
+      "description": "New iPhone app Gigs uses AI to turn old tickets, screenshots, and emails into a personal concert archive with stats, memories, and more.",
+      "link": "https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/",
+      "pubDate": "2026-04-17T16:55:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c8a26d77c2e1",
+      "title": "Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why",
+      "description": "The company, which deploys AI-guided robot arms for food production, says it is looking to expand its services to provide for a broader array of customers.",
+      "link": "https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/",
+      "pubDate": "2026-04-17T16:15:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6d0b235c612",
+      "title": "Uber will now pick up your returns from your doorstep",
+      "description": "The new returns feature is the company's latest effort to become an everything app. There are limitations to the new service, and there is, of course, a courier fee.",
+      "link": "https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-doorstep/",
+      "pubDate": "2026-04-17T15:02:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eb53d01d4c3d",
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "description": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
+      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "pubDate": "2026-04-17T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "324ce55a653d",
+      "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
+      "description": "Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S. administrations. But even if the spy law known as Section 702 expires in April, the government's spy powers will not automatically lapse.",
+      "link": "https://techcrunch.com/2026/04/17/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
+      "pubDate": "2026-04-17T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ea0ea89bf6b",
+      "title": "Google’s AI Mode can now help you find products in stock nearby",
+      "description": "Although you can already track hotel prices at the city level, the new update lets you do so for a specific hotel that you're interested in.",
+      "link": "https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/",
+      "pubDate": "2026-04-17T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dc617323a7a3",
+      "title": "Bluesky confirms DDoS attack is cause of continued app outages",
+      "description": "Bluesky has been experiencing ongoing service disruptions since just before 3 a.m. ET on April 15.",
+      "link": "https://techcrunch.com/2026/04/17/its-not-just-you-bluesky-is-sorta-down/",
+      "pubDate": "2026-04-17T13:22:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d90d160e6874",
+      "title": "Netflix plans to add a vertical video feed, use AI for recommendations",
+      "description": "Netflix is going to launch a TikTok-like vertical video feed within its apps this month, and plans to use AI broadly for content creation and recommendations.",
+      "link": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
+      "pubDate": "2026-04-17T13:17:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "411bdf163580",
+      "title": "SaySo is a new short-form video app that aims to restore users’ trust in news",
+      "description": "Users are fed up with misinformation and AI slop cluttering their feeds. SaySo is a new short-form video app that delivers news from vetted creators and journalists.",
+      "link": "https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/",
+      "pubDate": "2026-04-17T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3289c152480",
+      "title": "Loop raises $95M to build supply chain AI that predicts disruptions",
+      "description": "The San Francisco startup closed a Series C funding round led by Antonio Gracias' firm Valor, which is a major backer of xAI.",
+      "link": "https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/",
+      "pubDate": "2026-04-17T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eef49c1f849d",
+      "title": "Are we tokenmaxxing our way to nowhere?",
+      "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic…",
+      "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+      "pubDate": "2026-04-17T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "14ddf67e6e09",
+      "title": "Perplexity lance Personal Computer, son agent IA qui prend le contrôle de votre Mac",
+      "description": "Perplexity ouvre Personal Computer à ses abonnés Max. L'agent IA, qui peut agir sur les fichiers locaux, les applications et le web depuis un Mac, était disponible sur liste d'attente depuis mi-mars.",
+      "link": "https://www.blogdumoderateur.com/perplexity-personal-computer-agent-ia-controle-mac/",
+      "pubDate": "2026-04-17T08:32:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/perpexlity-personal-computer-deploiement-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b0d3892c7dee",
+      "title": "Computer use, image, mémoire : OpenAI déploie sa mise à jour Codex la plus ambitieuse",
+      "description": "OpenAI annonce une mise à jour majeure de Codex. L'agent peut désormais opérer les applications de bureau sur macOS, générer des images et retenir des informations entre les sessions. Une offensive directe sur le terrain de Claude Code.",
+      "link": "https://www.blogdumoderateur.com/computer-use-image-memoire-codex/",
+      "pubDate": "2026-04-17T08:31:04.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Codex-computer-use.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "b33493d73f13",
+      "title": "Moins d'articles, plus de briques : mes nouveaux projets d'impression 3D",
+      "description": "Mais il est passé où, zwindler ? 🏴‍☠️ Vous avez peut-être remarqué que j’ai été (relativement aux mois derniers) un peu plus silencieux ces derniers temps sur le blog. Pas de panique, je ne suis pas (encore) parti ouvrir un foodtruck. Non, la raison est plus prosaïque : je suis retombé à fond dans…",
+      "link": "https://blog.zwindler.fr/2026/04/17/impression-3d-briques-labyrinthes-et-baseplates/",
+      "pubDate": "2026-04-17T07:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/piratecove.webp",
+      "type": "blog"
+    },
+    {
       "id": "c75c627bb7be",
       "title": "Anthropic : la croissance la plus rapide de l’histoire de la tech ?",
       "description": "Avec 30 milliards de dollars de chiffre d’affaires annualisé en 2026, Anthropic s'impose comme la startup technologique à la croissance la plus rapide jamais observée. La preuve par les données.",
@@ -65,6 +417,23 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d792c49bbee9",
+      "title": "Vivre libre ou mourir",
+      "description": "Cinq ans de YouTube, 368 vidéos, un modèle économique qui se fissure, un Patreon ouvert récemment : où j'en suis de mes questionnements sur la soutenabilité de la création de contenu indépendante, et ce que j'essaie pour continuer.",
+      "link": "https://yoandev.co/vivre-libre-ou-mourir",
+      "pubDate": "2026-04-17T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/vivre-libre-ou-mourir.webp",
       "type": "blog"
     },
     {
@@ -417,6 +786,23 @@
         "Programmation"
       ],
       "image": "https://blog.jetbrains.com/wp-content/uploads/2026/04/image-37.png",
+      "type": "blog"
+    },
+    {
+      "id": "f0a9e034b8be",
+      "title": "AWS Summit 2026 : Comment AWS veut simplifier la vie du DevOps",
+      "description": "AWS DevOps Agent révolutionne l'incident response avec l'IA. CloudWatch, observabilité, on-call automation : comment réduire votre MTTR.",
+      "link": "https://blog.ippon.fr/2026/04/16/aws-summit-2026-comment-aws-veut-simplifier-la-vie-du-devops/",
+      "pubDate": "2026-04-16T13:55:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/devops-agent.jpg",
       "type": "blog"
     },
     {
