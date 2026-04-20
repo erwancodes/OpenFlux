@@ -2,6 +2,148 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "b190f3d53f6a",
+      "title": "OpenAI’s existential questions",
+      "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "pubDate": "2026-04-19T21:24:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0611c46cc2eb",
+      "title": "The 12-month window",
+      "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "pubDate": "2026-04-19T19:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "57f975f526d3",
+      "title": "Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch",
+      "description": "The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration return to the Moon.",
+      "link": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
+      "pubDate": "2026-04-19T19:02:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e56a6820884",
+      "title": "Robots beat human records at Beijing half-marathon",
+      "description": "The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes.",
+      "link": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
+      "pubDate": "2026-04-19T18:44:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "153b7ea18950",
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "description": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "pubDate": "2026-04-19T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dc106413578c",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "pubDate": "2026-04-19T16:01:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "822fa6dfca72",
+      "title": "Les joies du vibecoding : quand l’IA libère !",
+      "description": "L'IA est souvent perçue négativement, mais elle peut aussi apporter du plaisir au travail. L'auteur partage son expérience positive avec le \"vibe coding\", une méthode qui ravive sa créativité et l'enthousiasme pour le travail. Malgré les défis du marché, l'IA offre des possibilités excitantes pour…",
+      "link": "https://oliviersauvage.com/2026/04/19/les-joies-du-vibecoding-quand-lia-libere/",
+      "pubDate": "2026-04-19T14:53:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7297a9be0597",
+      "title": "Cracks are starting to form on fusion energy’s funding boom",
+      "description": "Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably.",
+      "link": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
+      "pubDate": "2026-04-19T12:51:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d1b5138556c",
+      "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
+      "description": "It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market.",
+      "link": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
+      "pubDate": "2026-04-19T11:45:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d18e02283c0e",
       "title": "Tesla brings its robotaxi service to Dallas and Houston",
       "description": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
