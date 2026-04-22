@@ -2,6 +2,453 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "e42abe98582a",
+      "title": "À quoi ressemblera une recherche en ligne dans 5 ans ?",
+      "description": "Que restera-t-il de la recherche en ligne telle qu'on la connaît dans cinq ans ? Trois expertes SEO dessinent les contours d'un web où les LLM, la force de marque et la gouvernance institutionnelle redéfinissent les règles du jeu.",
+      "link": "https://www.blogdumoderateur.com/recherche-en-ligne-dans-5-ans/",
+      "pubDate": "2026-04-22T05:00:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Recherche-en-ligne-dans-5-ans-294x199.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "261995fdee7c",
+      "title": "#353.src - IA et Java: Le nouvel âge d'or de Java avec Julien Dubois",
+      "description": "\"Aujourd'hui, on peut obtenir un résultat extraordinaire à partir du moment où l'on a bien compris quelque chose et que l'on sait l'exprimer clairement. Et ce sont deux choses assez différentes.\" Le D.E.V. de la semaine est Julien Dubois, Java Developer Relations Lead chez Microsoft/GitHub. Julien…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-353-f195d6c36f38",
+      "pubDate": "2026-04-22T03:00:35.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/4c8d8684-b712-44d9-86ee-fcd67bdd1b1f.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/8f818c9f-25fd-4777-b6bf-f195d6c36f38.mp3?_=1776772895",
+      "duration": "57:32"
+    },
+    {
+      "id": "15ed93802971",
+      "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
+      "description": "The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch.",
+      "link": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+      "pubDate": "2026-04-22T00:37:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "329fbd156d8c",
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "description": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "pubDate": "2026-04-21T23:45:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9fd3007412f",
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "description": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "pubDate": "2026-04-21T23:26:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6a8a9a70779d",
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "description": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
+      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "pubDate": "2026-04-21T22:58:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6ee60ffe5b25",
+      "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
+      "description": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse.",
+      "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
+      "pubDate": "2026-04-21T21:09:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "35f9b7ed7246",
+      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+      "description": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+      "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "pubDate": "2026-04-21T20:23:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "949d161f526b",
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "description": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+      "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "pubDate": "2026-04-21T19:11:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "95c162d1493e",
+      "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
+      "description": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, manipulative tactics, and App Store rule violations.",
+      "link": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
+      "pubDate": "2026-04-21T19:09:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "25787ef2958c",
+      "title": "SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people",
+      "description": "When 60,000 attendees descend on Tokyo Big Sight April 27–29, the headline numbers are hard to ignore: 750 startup exhibitors, 151 sessions, city leaders from 49 countries. But the stat that tells you what kind of event this actually is? It's 10,000 facilitated business meetings — brokered, booked,…",
+      "link": "https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/",
+      "pubDate": "2026-04-21T19:02:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eb13d3f813a1",
+      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+      "description": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+      "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "pubDate": "2026-04-21T19:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4900a3855b50",
+      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+      "description": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
+      "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+      "pubDate": "2026-04-21T18:51:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "52877e5ca195",
+      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+      "description": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
+      "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+      "pubDate": "2026-04-21T17:11:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "816aede470f2",
+      "title": "Former Pinterest team redesigns email with Extra — and it’s actually good",
+      "description": "Extra, from a team of former Pinterest designers and engineers, reimagines email around your life instead of the traditional inbox.",
+      "link": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/",
+      "pubDate": "2026-04-21T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "19fb151b15a9",
+      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+      "description": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
+      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "pubDate": "2026-04-21T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1f633e4c5c67",
+      "title": "Ransomware negotiator pleads guilty to helping ransomware gang",
+      "description": "A former employee of a cybersecurity firm pleaded guilty to aiding ransomware criminals to maximize their profits, with the goal of taking a cut of the ransom.",
+      "link": "https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/",
+      "pubDate": "2026-04-21T15:56:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b95a1e4de585",
+      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+      "description": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
+      "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+      "pubDate": "2026-04-21T15:24:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60844ea392fe",
+      "title": "YouTube expands its AI likeness detection technology to celebrities",
+      "description": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+      "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+      "pubDate": "2026-04-21T15:02:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c5de3b92518a",
+      "title": "Amazon taps Sweden’s Einride for its electric big rigs",
+      "description": "The agreement comes just as Einride is finalizing a merger with blank-check company Legato Merger Corp. to go public.",
+      "link": "https://techcrunch.com/2026/04/21/amazon-taps-swedens-einride-for-its-electric-big-rigs/",
+      "pubDate": "2026-04-21T14:09:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cdc1753ff75d",
+      "title": "Revolut eyes valuation of up to $200B in eventual IPO",
+      "description": "Fintech giant Revolut, which secured a full banking license in the U.K. in March after years of waiting, was most recently valued at $75 billion in a secondary share sale.",
+      "link": "https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/",
+      "pubDate": "2026-04-21T13:41:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9193a96d7710",
+      "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
+      "description": "Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S. administrations. But even if the spy law known as Section 702 expires on April 30, the government's spy powers will not automatically lapse.",
+      "link": "https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
+      "pubDate": "2026-04-21T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d918341cb60d",
+      "title": "Cas client CNES : projet de robot mobile assistant astronaute",
+      "description": "Cas client CNES : projet de robot mobile assistant astronaute 21 avril 2026 Infos générales : Nom de l’organisation : CNES (Centre national d’études spatiales) Prénom, nom : Jean Bertrand Poste : Responsable Robot Assistant Astronaute Exploration et Vols Habités – Projet SpaceShip FR Secteur :…",
+      "link": "https://www.generationrobots.com/blog/fr/cas-client-cnes-projet-de-robot-mobile-assistant-astronaute/",
+      "pubDate": "2026-04-21T09:35:22.000Z",
+      "source": "Génération Robots",
+      "sourceUrl": "https://www.generationrobots.com/blog/fr/feed/",
+      "categories": [
+        "Robotique",
+        "Programmation"
+      ],
+      "image": "https://www.generationrobots.com/blog/wp-content/uploads/2026/04/mission-artemis-robot-assistant-astronaute-300x150.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "474a58720b28",
+      "title": "L’abonnement payant sur WhatsApp vaudra-t-il vraiment le coup ?",
+      "description": "Encore en test, WhatsApp Plus mise sur des options de personnalisation et des éléments cosmétiques pour justifier son tarif. Un pari loin d'être gagné ?",
+      "link": "https://www.blogdumoderateur.com/abonnement-payant-whatsapp-vaudra-vraiment-coup/",
+      "pubDate": "2026-04-21T09:12:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/whatsapp-plus-test-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "6be07d101fab",
+      "title": "Top 20 des modèles d’IA les plus performants en avril 2026 : le classement complet",
+      "description": "En avril 2026, les modèles d'Anthropic dominent plus que jamais. En tête dans le classement général, ils devancent également leurs concurrents dans la plupart des catégories.",
+      "link": "https://www.blogdumoderateur.com/top-20-modeles-ia-avril-2026-classement-complet/",
+      "pubDate": "2026-04-21T08:45:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Arena--294x172.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "350f80511566",
+      "title": "L’autre moyen d’attirer du trafic en B2B : les contenus interactifs",
+      "description": "L'article propose des dispositifs interactifs, tels que les quiz et infographies, comme moyens efficaces pour attirer et engager des prospects, tout en mémorisant la marque. Il insiste sur l'importance de l'originalité, de l'expérience utilisateur, et de l'utilité des contenus, qui doivent dépasser…",
+      "link": "https://oliviersauvage.com/2026/04/21/lautre-moyen-dattirer-du-trafic-en-b2b-les-contenus-interactifs/",
+      "pubDate": "2026-04-21T08:20:17.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2845a6829dd0",
+      "title": "Comment les PDF Spaces simplifient un workflow documentaire complet, de la recherche à la présentation",
+      "description": "Centraliser ses sources, en extraire des insights, produire un livrable et le partager à son équipe, le tout sans jongler entre plusieurs applications. Avec les PDF Spaces, Adobe réunit l'ensemble du cycle documentaire dans un seul écosystème.",
+      "link": "https://www.blogdumoderateur.com/pdf-spaces-simplifient-workflow-documentaire-complet-recherche-presentation/",
+      "pubDate": "2026-04-21T07:52:37.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Do-That-With-Acrobat-FR-Do-Everything-2.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "3a1851458992",
+      "title": "La taille des images sur LinkedIn en 2026",
+      "description": "Retrouvez toutes les dimensions des images publiées sur le réseau professionnel LinkedIn : photo de profil, image de couverture, visuels dans les publications...",
+      "link": "https://www.blogdumoderateur.com/taille-images-linkedin/",
+      "pubDate": "2026-04-21T06:00:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/taille-images-sur-linkedin-294x165.jpg",
+      "type": "blog"
+    },
+    {
       "id": "c34fc2acf5c2",
       "title": "Dockman, enfin un gestionnaire Docker Compose natif complet",
       "description": "Dockman : un gestionnaire Docker Compose qui laisse vos fichiers en place et couvre aussi les images, volumes et réseaux.",
