@@ -2,6 +2,470 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "ad00aee19fdc",
+      "title": "IA générative : Ludovic Salenne répond aux questions des lecteurs de BDM",
+      "description": "Ludovic Salenne, expert en intelligence artificielle, a répondu aux questions posées par nos lecteurs.",
+      "link": "https://www.blogdumoderateur.com/ia-generative-ludovic-salenne-repond-questions-lecteurs-bdm/",
+      "pubDate": "2026-04-23T05:00:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/boite-questions-ia-ludovic-salenne-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a4d91ffb5c8a",
+      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+      "description": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+      "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+      "pubDate": "2026-04-23T04:38:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "351bcdaebbf0",
+      "title": "Shade lands $14M to let creative teams search their video libraries in plain English",
+      "description": "Shade has its own filesystem that lets you \"stream\" files directly to your local drive",
+      "link": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/",
+      "pubDate": "2026-04-23T04:17:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dfe744616ce0",
+      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+      "description": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+      "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "pubDate": "2026-04-22T23:56:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e548df75260f",
+      "title": "Google updates Workspace to make AI your new office intern",
+      "description": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+      "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "pubDate": "2026-04-22T22:44:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd35c159defd",
+      "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
+      "description": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
+      "link": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+      "pubDate": "2026-04-22T22:39:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fb1a2a054659",
+      "title": "Hands on with X’s new AI-powered custom feeds",
+      "description": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+      "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "pubDate": "2026-04-22T22:25:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32998778d553",
+      "title": "LinkedIn’s CEO is moving on; please hold your tearful video tributes",
+      "description": "Ryan Roslansky has stepped down as LinkedIn's CEO after six years running the world's largest professional network. Dan Shapero, the company's COO, takes over immediately.",
+      "link": "https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/",
+      "pubDate": "2026-04-22T21:37:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "047eb7a6e03b",
+      "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
+      "description": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab.",
+      "link": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
+      "pubDate": "2026-04-22T20:57:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c22383d6f412",
+      "title": "NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale",
+      "description": "Observable Space and Quantum Opus teamed up to capture data beamed back from space.",
+      "link": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
+      "pubDate": "2026-04-22T20:09:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cdb791e266a7",
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "description": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+      "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+      "pubDate": "2026-04-22T19:51:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3006c9ee0c41",
+      "title": "CSS & rythme vertical pour le texte, les images et les tableaux",
+      "description": "Le rythme vertical structure les lignes selon un espacement régulier de haut en bas. Il permet de guider l’œil de manière fluide et prévisible. Grâce à l’unité CSS rlh, ce rythme est simple à mettre en place pour le texte1. Mais les illustrations et les tableaux peuvent perturber la mise en page.…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-css-rythme-vertical",
+      "pubDate": "2026-04-22T19:48:10.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/vertical-rhythm/text@1x.17b2e8512acd85.png",
+      "type": "blog"
+    },
+    {
+      "id": "ee7668742e71",
+      "title": "France confirms data breach at government agency that manages citizens’ IDs",
+      "description": "The French government agency that issues and manages national IDs, passports, and other documents announced that hackers stole the personal information of an unspecified number of citizens.",
+      "link": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+      "pubDate": "2026-04-22T19:34:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "39622c7937ad",
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "description": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
+      "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "pubDate": "2026-04-22T19:13:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a96e85a0fe04",
+      "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+      "description": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
+      "link": "https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+      "pubDate": "2026-04-22T18:42:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "35bd7087fd11",
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "description": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+      "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "pubDate": "2026-04-22T18:39:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6b812ac4f593",
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "description": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+      "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "pubDate": "2026-04-22T17:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c683ddffffc4",
+      "title": "Fusion power may not be sci-fi. Just ask the people who sunk $5B into it.",
+      "description": "Fusion energy has been “20 years away” for decades, but has the science finally caught up? Private investment in fusion companies surged from $10 billion to $15 billion in just months, and the money is coming from places you wouldn’t expect. Watch as Rebecca Bellan and guest host Tim De Chant sit…",
+      "link": "https://techcrunch.com/video/fusion-power-may-not-be-sci-fi-just-ask-the-people-who-sunk-5b-into-it/",
+      "pubDate": "2026-04-22T17:07:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "852a28bc6d14",
+      "title": "Threads is adding Live Chats to boost real-time engagement",
+      "description": "Users can send messages, photos, videos, links, and emoji reactions in Live Chats.",
+      "link": "https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/",
+      "pubDate": "2026-04-22T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a6caf900e365",
+      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+      "description": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+      "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "pubDate": "2026-04-22T16:58:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f04577d33c3e",
+      "title": "AI Overviews are coming to your Gmail at work",
+      "description": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+      "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+      "pubDate": "2026-04-22T16:46:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c5b0631755b5",
+      "title": "DevoxxFR 2026 - Récap du mercredi (jour 1)",
+      "description": "Les résumés des 3 jours de DevoxxFR 2026 DevoxxFR - Récap du mercredi (jour 1) TODO DevoxxFR - Récap du jeudi (jour 2) TODO DevoxxFR - Récap du vendredi (jour 3) Premier jour de DevoxxFR 2026 C’est reparti pour DevoxxFR, avec un mercredi bien dense, orienté IA le matin, puis des formats plus…",
+      "link": "https://blog.zwindler.fr/2026/04/22/devoxxfr-2026-recap-jour-1/",
+      "pubDate": "2026-04-22T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/devoxxfr-ouverture.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f2ae1b103a1c",
+      "title": "Rivian R2 production has started despite tornado damage to factory",
+      "description": "The company's all-important mass-market EV is just about ready to start heading to customers.",
+      "link": "https://techcrunch.com/2026/04/22/rivian-r2-production-has-started-despite-tornado-damage-to-factory/",
+      "pubDate": "2026-04-22T15:47:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5f4ebf70b6f",
+      "title": "Données, IA, personnalisation : la transformation digitale d’Amplifon vue de l’intérieur",
+      "description": "Fabrizio Barbieri, Digital Lead Generation Director d'Amplifon, revient sur la transformation digitale du leader mondial des solutions auditives, conduite sur 26 marchés avec Adobe Experience Cloud.",
+      "link": "https://www.blogdumoderateur.com/donnees-ia-personnalisation-transformation-digitale-amplifon/",
+      "pubDate": "2026-04-22T13:56:54.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/amplifon-interview-bdm-294x198.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "9c5ee261ed3e",
+      "title": "Give AI Something Worth Amplifying: Three Priorities for Technical Leaders",
+      "description": "Most organizations are asking what AI can do for their developers. A harder question is what are your developers bringing to AI? DORA’s 2025 AI Capabilities Model report argues that AI does not level teams out – it amplifies what is already there. Stronger, high-performing organizations get more…",
+      "link": "https://blog.jetbrains.com/ai/2026/04/give-ai-something-worth-amplifying-three-priorities-for-technical-leaders/",
+      "pubDate": "2026-04-22T13:52:40.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0413cb289961",
+      "title": "Comment Adobe industrialise la production de contenu sans sacrifier la qualité de marque",
+      "description": "De la content supply chain agentique à Brand Intelligence, Aaron Finegold (Adobe) décrit une industrialisation du contenu qui mise autant sur le déterministe que sur le génératif.",
+      "link": "https://www.blogdumoderateur.com/comment-adobe-industrialise-production-contenu-sans-sacrifier-qualite-marque/",
+      "pubDate": "2026-04-22T08:15:33.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/adobe-brand-intelligence-294x211.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "308687e1b289",
+      "title": "Personnalisation IA en e-commerce : de la segmentation classique à l’expérience adaptative en temps réel",
+      "description": "En e-commerce, la personnalisation a longtemps reposé sur des segments figés. L'IA prédictive change la donne en adaptant le parcours de chaque visiteur, même anonyme, en temps réel.",
+      "link": "https://www.blogdumoderateur.com/personnalisation-ia-e-commerce-experience-adaptative-temps-reel/",
+      "pubDate": "2026-04-22T08:00:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/AdaptiveCX-AB-Tasty-294x172.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "168233fd318b",
+      "title": "ChatGPT Images 2.0, le nouveau modèle de génération d’images d’OpenAI",
+      "description": "Mode Thinking, génération de plusieurs images, formats flexibles et texte amélioré : ChatGPT Images 2.0 embarque plusieurs nouveautés pour contrer Nano Banana 2.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-images-2-0-nouveau-modele-openai/",
+      "pubDate": "2026-04-22T06:21:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/chatgpt-image-2-294x197.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "473170d9cdfd",
+      "title": "10 formations pour devenir manager dans le digital",
+      "description": "Manager une équipe ne s’improvise pas et nécessite des compétences propres à l’écosystème numérique. Voici 10 formations, du MBA au module ciblé, pour accéder à des fonctions managériales ou renforcer vos compétences dans le digital.",
+      "link": "https://www.blogdumoderateur.com/formations-devenir-manager-digital/",
+      "pubDate": "2026-04-22T06:00:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/formations-devenir-manager-digital-294x165.jpg",
+      "type": "blog"
+    },
+    {
       "id": "e42abe98582a",
       "title": "À quoi ressemblera une recherche en ligne dans 5 ans ?",
       "description": "Que restera-t-il de la recherche en ligne telle qu'on la connaît dans cinq ans ? Trois expertes SEO dessinent les contours d'un web où les LLM, la force de marque et la gouvernance institutionnelle redéfinissent les règles du jeu.",
@@ -93,6 +557,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "12321c78f00a",
+      "title": "L'IA accélère la valeur et les erreurs",
+      "description": "L’IA permet de livrer plus vite, même parfois beaucoup plus vite. Mais livrer vite, ce n’est pas sans conséquences. Car si l’IA permet d’aller plus vite, elle accentue aussi les erreurs et les problèmes qui vont avec. Ce billet a été initialement publié sur LinkedIn Voir la publication originale…",
+      "link": "https://www.jdecool.fr/blog/2026/04/22/l-ia-accelere-la-valeur-et-les-erreurs.html",
+      "pubDate": "2026-04-21T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
