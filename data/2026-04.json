@@ -2,6 +2,437 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "85ef338b48c7",
+      "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+      "description": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
+      "link": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+      "pubDate": "2026-04-25T03:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7173b34b2b4b",
+      "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+      "description": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
+      "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+      "pubDate": "2026-04-24T23:32:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "43ba2ba1a5cb",
+      "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+      "description": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
+      "link": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+      "pubDate": "2026-04-24T21:53:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1aedaf1a06ca",
+      "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
+      "description": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments.",
+      "link": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+      "pubDate": "2026-04-24T21:35:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "07178b51485a",
+      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
+      "description": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech.",
+      "link": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
+      "pubDate": "2026-04-24T21:05:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6ea69d2a677c",
+      "title": "Meta’s loss is Thinking Machines’ gain",
+      "description": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "pubDate": "2026-04-24T20:52:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e32bfe9a668",
+      "title": "X-energy stock pops 27% on first day of trading following upsized IPO",
+      "description": "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq.",
+      "link": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
+      "pubDate": "2026-04-24T20:10:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff2b940026da",
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "description": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "pubDate": "2026-04-24T19:49:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7ff411f45966",
+      "title": "X launches stand-alone XChat app on iOS",
+      "description": "X's new app promises private chats, disappearing messages, audio and video calls, and more.",
+      "link": "https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/",
+      "pubDate": "2026-04-24T19:46:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "11dc9254567e",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "pubDate": "2026-04-24T18:00:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "817bbdde2cf3",
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+      "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+      "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+      "pubDate": "2026-04-24T16:42:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b41f31ef9a65",
+      "title": "Nuclear startup X-energy raises $1B in data center-driven IPO",
+      "description": "Amazon-backed X-energy was able to raise around 20% more money in its IPO as demand for nuclear power surges.",
+      "link": "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/",
+      "pubDate": "2026-04-24T15:06:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "70a9415529fc",
+      "title": "Claude peut désormais se connecter à des applications du quotidien, comme Spotify ou Uber",
+      "description": "Le catalogue de connecteurs de Claude vient de s'enrichir d'une quinzaine d'applications pour écouter de la musique, planifier une randonnée ou commander un taxi.",
+      "link": "https://www.blogdumoderateur.com/claude-peut-desormais-connecter-applications-quotidien-spotify-uber/",
+      "pubDate": "2026-04-24T14:23:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/claude-connecteurs-vie-quotidienne-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3278b3d7dce1",
+      "title": "Another spyware maker caught distributing fake Android snooping apps",
+      "description": "Researchers have found a new case where government authorities used a fake Android app to plant spyware on a target’s phone. The company that allegedly developed the spyware was not previously known to sell this type of software.",
+      "link": "https://techcrunch.com/2026/04/24/another-spyware-maker-caught-distributing-fake-android-snooping-apps/",
+      "pubDate": "2026-04-24T14:17:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0defadc5f04",
+      "title": "DevoxxFR 2026 - Récap du vendredi (jour 3)",
+      "description": "Les résumés des 3 jours de DevoxxFR 2026 DevoxxFR - Récap du mercredi (jour 1) DevoxxFR - Récap du jeudi (jour 2) DevoxxFR - Récap du vendredi (jour 3) Troisième jour de DevoxxFR 2026 Dernier jour, et surtout pour moi : c’était le créneau de notre talk. Entre le “petit” stress avant de monter sur…",
+      "link": "https://blog.zwindler.fr/2026/04/24/devoxxfr-2026-recap-jour-3/",
+      "pubDate": "2026-04-24T14:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/limits-requests.webp",
+      "type": "blog"
+    },
+    {
+      "id": "9619065af45e",
+      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+      "description": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss…",
+      "link": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+      "pubDate": "2026-04-24T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2466d2f44295",
+      "title": "Tim Cook is stepping down. What happens to Apple now?",
+      "description": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a very different ecosystemthan the one Cook spent decades shaping. The App Store’s 30% cut is…",
+      "link": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
+      "pubDate": "2026-04-24T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f7f6495adda6",
+      "title": "Nothing introduces an AI-powered dictation tool",
+      "description": "Nothing's new on-device dictation tool supports over 100 languages.",
+      "link": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+      "pubDate": "2026-04-24T13:41:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "180cc5597a27",
+      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+      "description": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
+      "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "pubDate": "2026-04-24T13:30:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "42ce5bcdd7ad",
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "description": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "pubDate": "2026-04-24T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e3e64a84adb6",
+      "title": "Microsoft déploie l’Agent Mode de Copilot dans Word, Excel et Powerpoint",
+      "description": "Sur les logiciels Microsoft 365, Copilot peut désormais agir directement sur les documents en réponse à des instructions en langage naturel, et être suivi ou redirigé en temps réel.",
+      "link": "https://www.blogdumoderateur.com/microsoft-deploie-agent-mode-copilot-word-excel-powerpoint/",
+      "pubDate": "2026-04-24T09:37:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/copilot-excel-word-powerpoint-294x165.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "34cdd292729c",
+      "title": "Avec sa V4, DeepSeek ambitionne de rivaliser avec Claude et ChatGPT",
+      "description": "La startup chinoise dévoile DeepSeek V4, une nouvelle génération de modèles disponible en open source et en pré-version, avec deux déclinaisons aux profils distincts. L'annonce intervient le même jour que le lancement de GPT-5.5 par OpenAI.",
+      "link": "https://www.blogdumoderateur.com/deepseek-v4/",
+      "pubDate": "2026-04-24T09:35:09.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Deepseek-benchmark-v4-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ab629a892eed",
+      "title": "OpenAI dévoile GPT-5.5, son modèle le plus avancé pour l’IA agentique",
+      "description": "Avec GPT-5.5, OpenAI entend améliorer la capacité de son modèle à planifier, utiliser des outils et mener à bien des tâches complexes sans supervision détaillée.",
+      "link": "https://www.blogdumoderateur.com/openai-devoile-gpt-5-5-modele-plus-avance-ia-agentique/",
+      "pubDate": "2026-04-24T08:33:21.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/chatgpt-5-5-294x176.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c90f1fd38dee",
+      "title": "Meta regroupe Facebook, Instagram et ses appareils sous un compte unique",
+      "description": "Meta lance une version améliorée de l'Accounts Center, rebaptisée Meta Account, pour centraliser la connexion et la gestion des paramètres sur l'ensemble de ses applications et appareils.",
+      "link": "https://www.blogdumoderateur.com/meta-regroupe-facebook-instagram-appareils-compte-unique/",
+      "pubDate": "2026-04-24T08:30:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/meta-account-294x164.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2a223d0f6aed",
+      "title": "Bitwarden CLI compromis : retour sur une attaque supply chain qui vise (encore) les développeurs",
+      "description": "Le 22 avril 2026, entre 17h57 et 19h30 (heure de l'Est) — soit une fenêtre d'un peu plus d'une heure et demie — une version piégée du paquet npm @bitwarden/cli@2026.4.0 a été distribuée sur le…",
+      "link": "https://yoandev.co/patreon/patreon-156413402-bitwarden-cli-compromis-retour-sur-une-attaque-supply-chain",
+      "pubDate": "2026-04-24T06:45:14.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e9d997d59624",
+      "title": "Que faire après un métier de graphiste ?",
+      "description": "Motion design, UX, direction artistique, intégration web… Après plusieurs années en tant que graphiste, les pistes d'évolution ne manquent pas. Tour d’horizon des opportunités à saisir ou à envisager.",
+      "link": "https://www.blogdumoderateur.com/que-faire-apres-metier-graphiste/",
+      "pubDate": "2026-04-24T06:30:40.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/que-faire-apres-metier-graphiste-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "610e6c3b4f2a",
+      "title": "Flipbook : vers un Web sans fin ni fond ?",
+      "description": "Flipbook.page présente un site web sans contenu prédéfini, où des images sont générées en temps réel par une IA. Bien que l'expérience soit visuellement captivante, elle soulève des questions sur le futur du Web, mettant en avant un accès à l'information réinventé, sans structure ni contenus…",
+      "link": "https://oliviersauvage.com/2026/04/24/flipbook-vers-un-web-sans-fin-ni-fond/",
+      "pubDate": "2026-04-24T06:26:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e12f49a40e40",
       "title": "Quiz : TikTok, Instagram, les deux ou aucun ?",
       "description": "À force de se copier, TikTok et Instagram finissent par se ressembler. Saurez-vous encore distinguer leurs points communs et leurs différences ? C'est le moment de le vérifier, sans aide extérieure.",
