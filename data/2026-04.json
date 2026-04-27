@@ -2,6 +2,150 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "8329b93e238a",
+      "title": "5 formations pour apprendre les techniques de la cybersécurité",
+      "description": "Une sélection de formations destinée à celles et ceux souhaitant s'orienter ou se reconvertir dans la cybersécurité.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-cybersecurite-299/",
+      "pubDate": "2026-04-27T06:00:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/selection-formation-cybersecurite-299-294x174.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "de6cd330a704",
+      "title": "World models : vers une IA qui comprend le monde ?",
+      "description": "Comprendre la gravité, anticiper une situation, agir dans le monde physique : les world models partent d'une logique différente des LLM. Emmanuelle Guyot, Head of Data Science chez Hellowork, décrypte les enjeux, les usages et les limites.",
+      "link": "https://www.blogdumoderateur.com/world-models-vers-ia-comprend-monde/",
+      "pubDate": "2026-04-27T05:00:08.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/World-models-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a1da2a906289",
+      "title": "Truecaller faces mounting pressures as its growth matures",
+      "description": "As growth slows, Truecaller is leaning on subscriptions, business services, and new features to sustain momentum beyond India.",
+      "link": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
+      "pubDate": "2026-04-27T03:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d9a4d90855c5",
+      "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder",
+      "description": "Can a book like this actually change anything? Or does the spotlight, as it always seems to, send more students racing to the place?",
+      "link": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
+      "pubDate": "2026-04-26T22:00:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a7b1ccdbd4e",
+      "title": "Amazon’s new podcast strategy: Monetize everything",
+      "description": "Amazon's podcasting business seems to have transformed over the past six months.",
+      "link": "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
+      "pubDate": "2026-04-26T21:38:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2ef66076703b",
+      "title": "What Tim Cook built",
+      "description": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing.",
+      "link": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
+      "pubDate": "2026-04-26T20:22:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5a7c2a822f73",
+      "title": "TechCrunch Mobility: Elon’s admission",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "link": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/",
+      "pubDate": "2026-04-26T16:03:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "303c6b7bb6ab",
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "description": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "pubDate": "2026-04-26T15:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "70696044cea3",
+      "title": "SpeakOn’s dictation device is a good idea marred by platform limitations",
+      "description": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps",
+      "link": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
+      "pubDate": "2026-04-26T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d7e79a9a094a",
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
