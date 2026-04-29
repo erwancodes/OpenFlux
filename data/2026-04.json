@@ -2,6 +2,468 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "baeb276524f9",
+      "title": "10 métiers du digital accessibles en moins de 6 mois de formation",
+      "description": "Reconversion, premier emploi ou nouvelle orientation… Le digital offre des formations courtes et concrètes pour accéder rapidement au marché du travail. Découvrez notre sélection de métiers accessibles en quelques mois.",
+      "link": "https://www.blogdumoderateur.com/metiers-digital-accessibles-moins-6-mois-formation/",
+      "pubDate": "2026-04-29T06:00:31.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/metiers-digital-accessibles-moins-6-mois-formation-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b4fbb0e53705",
+      "title": "Réussir ses webinaires en B2B : la meilleure recette",
+      "description": "Cet article met en avant les avantages des webinaires, soulignant leur coût accessible et leur impact en marketing. Il propose des conseils pratiques pour organiser des webinaires réussis, incluant la préparation, l'animation et l'interaction avec l'audience. Le webinaire est présenté comme un…",
+      "link": "https://oliviersauvage.com/2026/04/29/reussir-ses-webinaires-en-b2b-la-meilleure-recette/",
+      "pubDate": "2026-04-29T05:30:50.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2bf18a32fd49",
+      "title": "Social media : les conseils d’une experte Notion pour mieux structurer ses méthodes de travail",
+      "description": "Consultante Notion et créatrice de contenus, Lou Attal interviendra aux Swello Days 2026 sur l'organisation et les méthodes de travail. Elle répond à nos questions et partage ses conseils à destination des professionnels du social media.",
+      "link": "https://www.blogdumoderateur.com/social-media-conseils-experte-notion-mieux-structurer-methodes-travail/",
+      "pubDate": "2026-04-29T05:00:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/lou-attal-consultante-notion-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bfd417e37179",
+      "title": "#354.src - Self Hosting: Tout refaire pour être indépendant avec Loic Tosser",
+      "description": "\"La souveraineté c'est être capable d'aller chercher sa data et de l'exploiter comme on veut, quand on veut\" Le D.E.V. de la semaine est Loïc Tosser, CTO et cofounder de Kalvad. Pionnier du self-hosting dans un environnement hyper-régulé, il raconte comment la nécessité de souveraineté des données…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-354-147e055f4087",
+      "pubDate": "2026-04-29T03:00:03.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/4e605e24-4c4e-4a27-a7f5-fed1d9d79c66.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/96fa46c8-3640-4896-8f87-147e055f4087.mp3?_=1777377723",
+      "duration": "53:44"
+    },
+    {
+      "id": "78d0fbcfae86",
+      "title": "How one venture firm is investing in an increasingly fragmented world",
+      "description": "Geopolitical turmoil has made venture investing challenging, leading Kompas VC to carve out a niche in startups focused on the physical world.",
+      "link": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
+      "pubDate": "2026-04-29T03:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d0d08d02efc",
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "description": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "pubDate": "2026-04-29T00:40:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3df5560a2ece",
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "description": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "pubDate": "2026-04-28T19:48:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e42dbda14936",
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "description": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "pubDate": "2026-04-28T18:49:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b197e3c609d",
+      "title": "Match Group invests $100M in Sniffies, a cruising app for gay men",
+      "description": "The app is Match Group's newest attempt to get mobile users excited about online romance again.",
+      "link": "https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/",
+      "pubDate": "2026-04-28T18:16:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16fd727113f5",
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "description": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+      "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "pubDate": "2026-04-28T18:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a4de73bac217",
+      "title": "Paragon is not collaborating with Italian authorities probing spyware attacks, report says",
+      "description": "Despite promising to help determine what happened with the hacks targeting journalists and activists in Italy, Israeli American spyware maker Paragon has reportedly not responded to authorities’ requests for information.",
+      "link": "https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/",
+      "pubDate": "2026-04-28T17:46:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cb5a00a25f3b",
+      "title": "US Supreme Court appears split over controversial use of ‘geofence’ search warrants",
+      "description": "The U.S. top court is expected to rule on whether to allow police to identify criminal suspects by dragnet searching the databases of tech giants.",
+      "link": "https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/",
+      "pubDate": "2026-04-28T16:18:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ccac91eafe65",
+      "title": "Australia forces Big Tech firms to pay for news or face a 2.25% tax",
+      "description": "The more deals platforms make with media outlets, the less they pay. If enough agreements go through, that effective rate drops to 1.5%, which could generate between A$200 million and A$250 million back into Australian journalism.",
+      "link": "https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/",
+      "pubDate": "2026-04-28T16:13:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9230e6bdbbd8",
+      "title": "Lovable launches its vibe-coding app on iOS and Android",
+      "description": "The app allows developers to vibe code web apps and websites on the go.",
+      "link": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+      "pubDate": "2026-04-28T16:09:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c5dfb9483788",
+      "title": "Founder of Shark Tank-backed startup Scholly sues his acquirer Sallie Mae",
+      "description": "Chris Gray is suing his startup’s acquirer, Sallie Mae, for wrongful termination and alleging it's selling student data through a subsidiary. Sallie Mae denies the allegations and vows to fight.",
+      "link": "https://techcrunch.com/2026/04/28/founder-of-shark-tank-backed-startup-scholly-sues-his-acquirer-sallie-mae/",
+      "pubDate": "2026-04-28T15:33:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "572469b3d1b1",
+      "title": "Apple introduces a cheaper option for App Store subscriptions",
+      "description": "Apple is adding a new subscription option that lets app developers offer lower monthly pricing in exchange for a 12-month commitment.",
+      "link": "https://techcrunch.com/2026/04/28/apple-introduces-a-cheaper-option-for-app-store-subscriptions/",
+      "pubDate": "2026-04-28T14:46:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea73a15e741b",
+      "title": "Our 2026 Direction: AI and Classic Workflows in JetBrains IDEs",
+      "description": "Two valid ways of writing code. One place to own it. Quick version for AI-news-tired readers: press here There are two ways developers create code now: We don’t think one is better than the other. Our goal is to ensure both workflows can coexist inside JetBrains IDEs without hindering each other.…",
+      "link": "https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides/",
+      "pubDate": "2026-04-28T14:18:36.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0756f95fd484",
+      "title": "Snapchat brings AI-powered conversational advertising to its app",
+      "description": "Users will be able to chat with a brand's AI agent to do things like ask questions and get recommendations.",
+      "link": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
+      "pubDate": "2026-04-28T13:57:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2507f60abb86",
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "description": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+      "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "pubDate": "2026-04-28T13:54:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0752360b7fde",
+      "title": "Claude Code, Cursor, Symfony/AI, Vercel AI SDK : 3 formations pour garder la main",
+      "description": "Trois formations IA sont disponibles dès maintenant sur JoliCampus, avec des sessions ouvertes à l'inscription. Elles sont construites sur ce qu'on pratique chez JoliCode et Premier Octet : des projets clients qui tournent en production avec des agents de code IA, des outils qu'on utilise tous les…",
+      "link": "https://jolicode.com/blog/claude-code-cursor-symfony-ai-vercel-ai-sdk-3-formations-pour-garder-la-main",
+      "pubDate": "2026-04-28T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/formation-ia-article/1.png",
+      "type": "blog"
+    },
+    {
+      "id": "acf2f2cf7ad2",
+      "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+      "description": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+      "link": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+      "pubDate": "2026-04-28T13:19:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9512db3d7210",
+      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "description": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
+      "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "pubDate": "2026-04-28T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe533c57e20d",
+      "title": "Otter’s new feature lets users search across their enterprise tools",
+      "description": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
+      "link": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "pubDate": "2026-04-28T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "87bc8645531c",
+      "title": "Fibers PHP : anatomie d'une primitive mal aimée",
+      "description": "Fibers PHP: Découvrez cette primitive bas niveau essentielle aux bibliothèques asynchrones. Comprenez son mécanisme de stack switch coopératif et sa différence avec les generators.",
+      "link": "https://lecodeestdanslepre.fr/billets/fibers-php-anatomie-d-une-primitive-mal-aimee",
+      "pubDate": "2026-04-28T11:08:05.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6fa02c8e54c3",
+      "title": "Pourquoi l’IA gagne aux Olympiades de maths mais ne sait pas lire l’heure",
+      "description": "Une IA peut gagner une médaille d'or aux Olympiades de mathématiques, puis se tromper de plusieurs heures en lisant une horloge. Le rapport AI Index 2026 de Stanford documente ce paradoxe que les chercheurs nomment \"jagged intelligence\".",
+      "link": "https://www.blogdumoderateur.com/pourquoi-ia-gagne-olympiades-maths-sait-pas-lire-heure/",
+      "pubDate": "2026-04-28T08:29:36.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Ai-Index-Report-Standford-horloges-294x157.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b6b41881883b",
+      "title": "LLM en local : les bonnes pratiques pour une installation sécurisée",
+      "description": "Installer un LLM en local séduit de plus en plus de professionnels. Mais \"local\" ne signifie pas \"sécurisé\". Voici les réflexes à adopter et les pièges à éviter",
+      "link": "https://www.blogdumoderateur.com/llm-local-bonnes-pratiques-installation-securisee/",
+      "pubDate": "2026-04-28T08:00:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/LLM-local-securise-294x158.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "776c413be1c7",
+      "title": "UserNamespaces dans Kubernetes : la feature géniale qui sert (presque) à rien",
+      "description": "L’infographie qui m’a trigger Depuis quelques jours, les infographies se suivent (et se ressemblent) sur Linkedin. Kubernetes 1.36 est sorti et une des features qui fait le plus parler, c’est la sortie en GA des UserNamespaces. C’est un sujet que je suis depuis 2018 (talk The Route to rootless…",
+      "link": "https://blog.zwindler.fr/2026/04/28/kubernetes-usernamespaces/",
+      "pubDate": "2026-04-28T08:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/usernamespaces.webp",
+      "type": "blog"
+    },
+    {
+      "id": "23396a68950d",
+      "title": "Introducing the Skill Manager and Skill Repository",
+      "description": "Install trusted skills once, then use them across agents and projects. Two new features have just arrived in AI Assistant to address this issue: the skills manager and the skill repository. Together, they make skills easier to discover, trust, and reuse. Instead of keeping skills tied to one agent…",
+      "link": "https://blog.jetbrains.com/ai/2026/04/using-acp-deep-agents-to-demystify-modern-software-engineering-2/",
+      "pubDate": "2026-04-28T07:47:33.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7748d28e983",
+      "title": "Google : 8 outils IA à tester gratuitement",
+      "description": "Découvrez des outils IA pratiques et accessibles gratuitement pour vous assister dans la recherche documentaire, le design, le code ou encore la création de bandes sonores.",
+      "link": "https://www.blogdumoderateur.com/google-outils-ia-tester-gratuitement/",
+      "pubDate": "2026-04-28T07:40:24.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Atmospheric-Beats.mp3",
+      "type": "blog"
+    },
+    {
       "id": "1261a8ef672a",
       "title": "Shaker App : L’outil lillois qui veut enfin réconcilier Design et Business (et qui cartonne !)",
       "description": "User Shaker est une entreprise lilloise innovante dans le domaine du Product Design, récemment récompensée lors de Techinnov 2026. Son outil, Shaker App, facilite la création de spécifications actionnables à partir des User Stories. Grâce à leur expertise en Discovery, Design System et Product…",
@@ -4126,6 +4588,21 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/04/devops-agent.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "81ed66e729b7",
+      "title": "Formations accessibilité numérique : 3 nouveaux parcours pour engager votre démarche d’accessibilité numérique",
+      "description": "Plus de 20 ans après la loi de 2005, les chiffres sont sans appel : 96 % des sites commu­naux et 94 % des démarches admi­nis­tra­tives déma­té­ria­li­sées restent inac­ces­sibles.",
+      "link": "https://makina-corpus.com/accessibilite/formations-accessibilite-numerique-3-nouveaux-parcours-pour-engager-votre-demarche",
+      "pubDate": "2026-04-16T13:18:02.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
