@@ -2,6 +2,434 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "ae3237046930",
+      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+      "description": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
+      "link": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+      "pubDate": "2026-04-30T23:59:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d0f9ebcaddf3",
+      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
+      "description": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
+      "link": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
+      "pubDate": "2026-04-30T23:58:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac2fb0bf6b20",
+      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "description": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+      "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "pubDate": "2026-04-30T23:07:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "18bf6de80d5a",
+      "title": "Apple was surprised by AI-driven demand for Macs",
+      "description": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+      "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+      "pubDate": "2026-04-30T22:12:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89b86c5d3ed1",
+      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+      "description": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+      "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+      "pubDate": "2026-04-30T20:14:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dea96860bd2b",
+      "title": "Rivian downsizes DOE loan to $4.5B for Georgia factory",
+      "description": "Rivian has reworked its loan deal with the Department of Energy and now expects to borrow $4.5 billion to build its new factory in Georgia, down from the original amount of $6.6 billion.",
+      "link": "https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-of-georgia-factory/",
+      "pubDate": "2026-04-30T20:02:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "218c975d1297",
+      "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites",
+      "description": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months.",
+      "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
+      "pubDate": "2026-04-30T19:36:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ab8ad132c31",
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "description": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "pubDate": "2026-04-30T19:27:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "967d37069beb",
+      "title": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
+      "description": "The perpetually struggling EV company made the payments while being investigated by the SEC. That four-year probe was ultimately closed in March.",
+      "link": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
+      "pubDate": "2026-04-30T18:56:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4c70c291f694",
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "description": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+      "pubDate": "2026-04-30T18:20:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae3efb6bed1e",
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "description": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+      "pubDate": "2026-04-30T18:03:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c150a63d9d8",
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "description": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+      "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+      "pubDate": "2026-04-30T17:53:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5f2384ff754e",
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "description": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "pubDate": "2026-04-30T17:46:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3df9726831c",
+      "title": "TikTok’s new ‘Campus Hub’ features college group chats and feeds",
+      "description": "The new hub features dedicated college group chats and personalized feeds designed to help students stay connected with their campus communities, even while they’re away for the summer.",
+      "link": "https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/",
+      "pubDate": "2026-04-30T17:24:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "06089a85f376",
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "description": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+      "pubDate": "2026-04-30T17:15:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c687fe116e9d",
+      "title": "Salesforce is crowdsourcing its AI roadmap — with customers ",
+      "description": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+      "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+      "pubDate": "2026-04-30T16:06:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8d957908c8ea",
+      "title": "Uber taps Hertz to clean, charge, and fix its Lucid Motors robotaxis",
+      "description": "Hertz is creating a new affiliate company called \"Oro Mobility\" to provide fleet management solutions \"across a range of mobility segments.\"",
+      "link": "https://techcrunch.com/2026/04/30/uber-taps-hertz-to-clean-charge-and-fix-its-lucid-motors-robotaxis/",
+      "pubDate": "2026-04-30T15:55:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cb9a70628629",
+      "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
+      "description": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian.",
+      "link": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/",
+      "pubDate": "2026-04-30T15:29:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b2f68fee0681",
+      "title": "Dental practice software maker fixes bug that exposed patients’ medical records",
+      "description": "The security bug is now fixed, but the patient who found it said it was challenging to alert the software company about the issue.",
+      "link": "https://techcrunch.com/2026/04/30/dental-practice-software-maker-fixes-bug-that-exposed-patients-medical-records/",
+      "pubDate": "2026-04-30T15:15:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "01daa01c2d2e",
+      "title": "Le consultant : une lecture sociologique",
+      "description": "Je publie dans le dernier numéro de la Nouvelle revue du travail, consacré à « Ce que manager veut dire », une recension du roman de David Naïm, Le Consultant. J’y propose une lecture sociologique de ce récit acerbe sur Le consultant : une lecture sociologique first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/le-consultant-une-lecture-sociologique/",
+      "pubDate": "2026-04-30T11:17:14.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c747f6f0c1d",
+      "title": "Distribution.ai : la machine à recycler les contenus marketing",
+      "description": "Distribution.ai est une plateforme d'automatisation marketing qui transforme des contenus uniques en multiples publications sur divers réseaux sociaux. En exploitant l'IA, elle optimise le recyclage des articles, vidéos et podcasts, tout en assurant cohérence et personnalisation. Cela permet…",
+      "link": "https://oliviersauvage.com/2026/04/30/distribution-ai-la-machine-a-recycler-les-contenus-marketing/",
+      "pubDate": "2026-04-30T10:41:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "27d32d8839b1",
+      "title": "The IDE Is Already an AI Quality Variable. Is It on Your AI Agenda?",
+      "description": "Your developers’ AI tools are only as good as what they know going in. When those tools run through the right IDE, it can give them a head start – a picture of the codebase the tools would otherwise need to piece together themselves. That means your team’s IDE choices belong on your AI agenda […]",
+      "link": "https://blog.jetbrains.com/ai/2026/04/the-ide-is-already-an-ai-quality-variable-is-it-on-your-ai-agenda/",
+      "pubDate": "2026-04-30T10:01:38.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a8bbb3f14d31",
+      "title": "YouTube : le mode Picture-in-picture devient gratuit pour tous",
+      "description": "YouTube étend le mode PiP (picture-in-picture) aux utilisateurs gratuits sur Android et iOS. La fonctionnalité était jusqu'ici réservée aux abonnés Premium et aux Étasuniens.",
+      "link": "https://www.blogdumoderateur.com/youtube-mode-picture-in-picture-gratuit/",
+      "pubDate": "2026-04-30T08:46:59.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/YouTube-picture-in-picture-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6d5aa4a3aa7d",
+      "title": "Gemini peut (enfin) générer des PDF, des feuilles de calcul ou des présentations",
+      "description": "La fonctionnalité, que Claude propose déjà, est actuellement déployée à l'échelle mondiale sur toutes les versions de Gemini.",
+      "link": "https://www.blogdumoderateur.com/gemini-pdf-feuilles-calcul-presentation/",
+      "pubDate": "2026-04-30T08:46:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/gemini-creation-fichiers-294x164.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "c6155dc1a4b8",
+      "title": "En vrac d'avril 2026",
+      "description": "En Vrac Je découvre la fonctionnalité about:keyboard dans Firefox, qui affiche tous les raccourcis claviers et permet de les modifier. C’est encore expérimental mais c’est génial ! (Si vous n’utilisez pas les raccourcis claviers quand vous utilisez Firefox — ou tout autre application — sachez que…",
+      "link": "https://standblog.org/blog/post/2026/04/30/En-vrac-d-avril-2026",
+      "pubDate": "2026-04-30T07:48:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/blog/?pf=smile.svg",
+      "type": "blog"
+    },
+    {
+      "id": "71d1856f8410",
+      "title": "Avez-vous bien suivi l’actualité digitale du mois d’avril 2026 ?",
+      "description": "OpenAI, Instagram, Canva… Avez-vous suivi les actualités marquantes du mois d'avril ? C'est le moment de le vérifier.",
+      "link": "https://www.blogdumoderateur.com/quiz-actualite-avril-2026/",
+      "pubDate": "2026-04-30T07:00:13.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/quiz-actu-avril-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3e47bc663e25",
+      "title": "IA, social media, vidéo : 5 nouveaux outils à découvrir sur Product Hunt en avril 2026",
+      "description": "Une solution qui génère un site web à partir d'avis Google, un outil qui transforme des réunions en Reels ou Shorts... Voici cinq produits qui montent sur Product Hunt ces dernières semaines.",
+      "link": "https://www.blogdumoderateur.com/nouveaux-outils-product-hunt-avril-2026/",
+      "pubDate": "2026-04-30T06:30:08.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/product-hunt-classement-avril-2026-294x181.jpg",
+      "type": "blog"
+    },
+    {
       "id": "567459b17bbe",
       "title": "7 événements à ne pas manquer en mai 2026",
       "description": "Retrouvez dans cette sélection : deux webinars pour développer vos compétences en marketing digital à l’ère de l’IA, Zendesk Relate, Google I/O, Google Marketing Live, zero to one Lyon et Swello Days.",
@@ -271,6 +699,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba84b93bc3ba",
+      "title": "C'est parti pour installer EasyAdmin",
+      "description": "Installez EasyAdmin sur Symfony en quelques minutes pour un back-office efficace. Découvrez pourquoi ce bundle est la solution idéale pour administrer vos entités Doctrine. Guide complet.",
+      "link": "https://lecodeestdanslepre.fr/billets/c-est-parti-pour-installer-easyadmin",
+      "pubDate": "2026-04-29T15:59:05.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
@@ -927,6 +1370,22 @@
       "title": "Introducing the Skill Manager and Skill Repository",
       "description": "Install trusted skills once, then use them across agents and projects. Two new features have just arrived in AI Assistant to address this issue: the skills manager and the skill repository. Together, they make skills easier to discover, trust, and reuse. Instead of keeping skills tied to one agent…",
       "link": "https://blog.jetbrains.com/ai/2026/04/using-acp-deep-agents-to-demystify-modern-software-engineering-2/",
+      "pubDate": "2026-04-28T07:47:33.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5046ff3a4b85",
+      "title": "Introducing the Skill Manager and Skill Repository",
+      "description": "Install trusted skills once, then use them across agents and projects. Two new features have just arrived in AI Assistant to address this issue: the skills manager and the skill repository. Together, they make skills easier to discover, trust, and reuse. Instead of keeping skills tied to one agent…",
+      "link": "https://blog.jetbrains.com/ai/2026/04/skill-manager-and-skill-repository/",
       "pubDate": "2026-04-28T07:47:33.000Z",
       "source": "JetBrains AI Blog",
       "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
