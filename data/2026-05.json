@@ -2,6 +2,118 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "bf8285d638b3",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "description": "Bad news for Tilly Norwood.",
+      "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "pubDate": "2026-05-02T21:54:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1282d192a333",
+      "title": "Farewell, Jeeves: Ask.com shuts down",
+      "description": "Owner IAC says it's discontinuing its search business.",
+      "link": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+      "pubDate": "2026-05-02T21:11:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6afb063b4aa1",
+      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
+      "description": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
+      "link": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+      "pubDate": "2026-05-02T17:05:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60fc0d13a5f5",
+      "title": "The best AI dictation apps, tested and ranked",
+      "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "pubDate": "2026-05-02T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "23674f583607",
+      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+      "description": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
+      "link": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+      "pubDate": "2026-05-02T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6438ee1fd87a",
+      "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "description": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
+      "link": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "pubDate": "2026-05-02T06:36:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6af86d0ee557",
+      "title": "Kloak : injection de secrets en kernel-space via eBPF sur Kubernetes",
+      "description": "Comment Kloak intercepte le trafic TLS de vos pods au niveau kernel avec des uprobes eBPF pour injecter vos secrets de façon transparente, sans modifier vos applications ni déployer de sidecar.",
+      "link": "https://une-tasse-de.cafe/blog/kloak/",
+      "pubDate": "2026-05-02T06:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3b7dc8991bdc",
       "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
       "description": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is…",
@@ -43,6 +155,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9570f7103132",
+      "title": "Se former à un nouveau langage à l'ère de l'IA",
+      "description": "C’est une habitude que j’ai depuis longtemps, je m’intéresse de manière plus ou moins assidue, chaque année à un langage de programmation autre que mon langage principal que j’utilise professionnellement. Ruby, Elixir, Rust, Go, Python ou encore Typescript. Cette année, ça sera C#. Mais à une…",
+      "link": "https://www.jdecool.fr/blog/2026/05/02/se-former-a-un-nouveau-langage-a-l-ere-de-l-ia.html",
+      "pubDate": "2026-05-01T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
