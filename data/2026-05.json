@@ -2,6 +2,120 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "ef19d0212d5c",
+      "title": "5 formations en ligne pour créer et piloter une boutique en ligne",
+      "description": "Notre sélection de formations de la semaine est dédiée à celles et ceux qui souhaitent se lancer dans l'e-commerce, en créant leur boutique en ligne et en développant leurs ventes.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-boutique-ligne-300/",
+      "pubDate": "2026-05-04T06:00:47.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/selection-formation-boutique-ligne-300-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fde31b1a0ea7",
+      "title": "#204.diff - Dev bas niveau: Voyage au centre de l'application. avec Christophe Le Douarec",
+      "description": "Il y a 3 ans, dans l'épisode #204 je recevais Christophe Le Douarec. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-204-d0e3406e7010",
+      "pubDate": "2026-05-04T03:00:50.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/ae0811c7-af8b-49c7-8de3-d0e3406e7010.mp3?_=1777809650",
+      "duration": "57:09"
+    },
+    {
+      "id": "b469e1a57277",
+      "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+      "description": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
+      "link": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+      "pubDate": "2026-05-04T02:02:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "792b98e230bb",
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "description": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "pubDate": "2026-05-03T20:16:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26e4ee5c1fe5",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "pubDate": "2026-05-03T18:00:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6493eb6de827",
+      "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "link": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+      "pubDate": "2026-05-03T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6bc73edada89",
+      "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
+      "description": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.",
+      "link": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
+      "pubDate": "2026-05-03T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bf8285d638b3",
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
       "description": "Bad news for Tilly Norwood.",
