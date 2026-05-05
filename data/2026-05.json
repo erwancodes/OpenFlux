@@ -2,6 +2,451 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "d9815f646b17",
+      "title": "Face à l’explosion de la musique IA, Qobuz prône la « curation humaine »",
+      "description": "Face à l'explosion des titres IA, Qobuz revendique une curation 100 % humaine et une tolérance zéro. Son directeur musique, Marc Zisman, détaille cette stratégie à BDM.",
+      "link": "https://www.blogdumoderateur.com/face-a-lexplosion-de-la-musique-ia-qobuz-prone-la-curation-humaine/",
+      "pubDate": "2026-05-05T06:00:04.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/musique-ia-qobuz-294x169.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "3be8df34e9d9",
+      "title": "Mais au fait, c’est quoi le Web Model Context Protocol (WebMCP) ?",
+      "description": "Développé par Google et Microsoft, le WebMCP permet aux sites web d'exposer des actions structurées aux agents IA. Décryptage.",
+      "link": "https://www.blogdumoderateur.com/web-model-context-protocol-webmcp/",
+      "pubDate": "2026-05-05T05:00:57.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/WebMCP-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "abfc2dfb928e",
+      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "description": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "pubDate": "2026-05-05T03:31:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9da83b8860a0",
+      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+      "description": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.",
+      "link": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+      "pubDate": "2026-05-05T00:13:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8c28a34c3481",
+      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+      "description": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+      "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+      "pubDate": "2026-05-04T22:21:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ed31e138352c",
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "description": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "pubDate": "2026-05-04T21:53:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d27a1d538a5a",
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "description": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+      "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "pubDate": "2026-05-04T19:12:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3f035d0c1b76",
+      "title": "Katie Haun raises $1B for new venture funds",
+      "description": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.",
+      "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+      "pubDate": "2026-05-04T19:12:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d6677107ff7a",
+      "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+      "description": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.",
+      "link": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
+      "pubDate": "2026-05-04T18:02:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33624f2dc5a0",
+      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "description": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+      "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "pubDate": "2026-05-04T16:57:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aabee4c70a5c",
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "description": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+      "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "pubDate": "2026-05-04T16:45:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e0bc8581536b",
+      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+      "description": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+      "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+      "pubDate": "2026-05-04T16:36:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1b68e2f716a1",
+      "title": "Meet the Finalists: JetBrains x Codex Hackathon",
+      "description": "Put a capable coding model inside a developer’s primary workspace, and the IDE stops being a place where you write code. It becomes a place where you direct an agent, watch how it reasons, manage what it pays attention to, and decide when its output is worth shipping. That was the defining theme of…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/meet-the-finalists-jetbrains-codex-hackathon/",
+      "pubDate": "2026-05-04T16:12:53.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ebcd967acf0b",
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "description": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+      "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "pubDate": "2026-05-04T15:59:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "92d30a3d97fb",
+      "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
+      "description": "Acorn lets organizations build and run their own online communities using decentralized tech, with custom feeds, moderation, and analytics tools.",
+      "link": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
+      "pubDate": "2026-05-04T15:33:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "af29a471749b",
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "description": "Virginia and Washington, D.C. paused the data collection and sharing, after Bloomberg's investigation found their health insurance marketplaces were sharing users' information with advertisers.",
+      "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "pubDate": "2026-05-04T14:30:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b276060649b8",
+      "title": "Amazon opens up its global logistics network to all businesses",
+      "description": "The new service, called Amazon Supply Chain Services, pits the e-commerce giant directly against UPS and FedEx.",
+      "link": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/",
+      "pubDate": "2026-05-04T14:13:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9e720b1178c7",
+      "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "description": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
+      "link": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "pubDate": "2026-05-04T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21ac53b50b51",
+      "title": "We Gave Agents IDE-Native Search Tools. They Got Faster and Cheaper.",
+      "description": "We ran the same coding tasks with and without prebundled tooling, across multiple models and languages. Here’s what changed. Eval-driven development IDE-native search reduced latency, cost, and budget overruns. The comparison below uses paired task-level deltas. Aggregate medians and totals are…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/what-happens-when-you-give-agents-ide-native-seach-tools/",
+      "pubDate": "2026-05-04T13:01:16.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "887a26f3752b",
+      "title": "Barocal can cool your food and drink by squeezing a hunk of plastic crystals",
+      "description": "Barocal might have discovered a cheap, nonpolluting material that could dethrone today's refrigeration technology.",
+      "link": "https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/",
+      "pubDate": "2026-05-04T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "56513f9e9ba4",
+      "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+      "description": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+      "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+      "pubDate": "2026-05-04T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "00ac297993ad",
+      "title": "Novabricks : la plateforme No-Code « à la française » pour réconcilier les métiers et la DSI",
+      "description": "Novabricks est une plateforme \"aPaaS\" qui facilite la création d'applications métiers sans codage grâce au No-Code et Low-Code. Elle répond aux besoins numériques croissants des entreprises, aidant à surmonter les limitations des solutions traditionnelles. Novabricks permet ainsi une rapidité,…",
+      "link": "https://oliviersauvage.com/2026/05/04/novabricks-la-plateforme-no-code-a-la-francaise-pour-reconcilier-les-metiers-et-la-dsi/",
+      "pubDate": "2026-05-04T12:45:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0cc207dc2b08",
+      "title": "Symfony AI Mate : un troisième port d'entrée pour votre app Symfony",
+      "description": "Découvrez Symfony AI Mate, la solution innovante qui ouvre votre application Symfony aux agents via JSON-RPC sur stdio. Exposez vos services à des IDE ou chatbots en toute sécurité, sans port TCP ouvert. Simplifiez le développement avec cette approche unique.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-ai-mate-un-troisieme-port-d-entree-pour-votre-app-symfony",
+      "pubDate": "2026-05-04T11:22:16.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e39df34e8de4",
+      "title": "Ouster’s new color lidar is coming to replace cameras",
+      "description": "A sensor that can simultaneously capture depth and image data has long been a \"holy grail,\" Ouster CEO Angus Pacala told TechCrunch.",
+      "link": "https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/",
+      "pubDate": "2026-05-04T10:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d873138c005d",
+      "title": "GPT-5.5-Cyber, le nouveau modèle d’OpenAI qui rivalise avec Mythos",
+      "description": "Capable de détecter des vulnérabilités, d'analyser des malwares ou d'effectuer des pentests, GPT-5.5-Cyber s'annonce comme le pendant d'OpenAI à Mythos. Son déploiement restera, lui aussi, très encadré.",
+      "link": "https://www.blogdumoderateur.com/gpt-5-5-cyber-nouveau-modele-openai-rivalise-mythos/",
+      "pubDate": "2026-05-04T09:12:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/openai-gpt-5-5-modele-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "e932afad8cab",
+      "title": "Claude : 10 astuces pour économiser ses tokens",
+      "description": "Ces derniers mois, de nombreux utilisateurs se retrouvent bloqués avant la fin de leur session Claude, sans vraiment comprendre pourquoi. Voici quelques astuces pour optimiser vos tokens !",
+      "link": "https://www.blogdumoderateur.com/claude-astuces-economiser-tokens/",
+      "pubDate": "2026-05-04T08:55:07.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/anthropic-optimiser-credits-294x221.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "92e7e135d862",
+      "title": "Comment sécuriser votre compte ChatGPT",
+      "description": "OpenAI dévoile Advanced Account Security, un ensemble de protections renforcées pour les comptes ChatGPT, avec un partenariat inédit avec Yubico pour l'authentification par clé physique.",
+      "link": "https://www.blogdumoderateur.com/comment-securiser-compte-chatgpt/",
+      "pubDate": "2026-05-04T08:53:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/securite-avancee-chatgpt-294x172.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "26b173311087",
+      "title": "Nicolas Sauvage is betting on the boring parts of AI",
+      "description": "The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year.",
+      "link": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
+      "pubDate": "2026-05-04T07:10:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ef19d0212d5c",
       "title": "5 formations en ligne pour créer et piloter une boutique en ligne",
       "description": "Notre sélection de formations de la semaine est dédiée à celles et ceux qui souhaitent se lancer dans l'e-commerce, en créant leur boutique en ligne et en développant leurs ventes.",
@@ -15,6 +460,22 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/04/selection-formation-boutique-ligne-300-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8b3c2712a7db",
+      "title": "Deux ans après son lancement, Le Chat rivalise-t-il avec ChatGPT ?",
+      "description": "Lancé en février 2024, Le Chat a suscité un certain enthousiasme en France, s'imposant comme une alternative crédible aux solutions américaines. Mais a-t-il, deux ans après, rattrapé une partie de son retard sur ChatGPT ? BDM a testé.",
+      "link": "https://www.blogdumoderateur.com/le-chat-rivalise-chatgpt-deux-ans-apres/",
+      "pubDate": "2026-05-04T05:00:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/le-chat-chatgpt-comparatif-2026-294x196.jpeg",
       "type": "blog"
     },
     {
@@ -402,6 +863,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c1b8657ecbf4",
+      "title": "Jour 181 : Ce que j'ai appris avec un skill Claude pour du SEO",
+      "description": "Comment utiliser Claude-SEO pour auditer son site ? Test complet sur Writizzy : du JSON-LD aux headers de sécurité. Analyse des conseils de l'IA pour booster le trafic et résoudre les problèmes d'indexation.",
+      "link": "https://eventuallycoding.com/p/jour-181-ce-que-j-ai-appris-avec-un-skill-claude-pour-du-seo",
+      "pubDate": "2026-05-01T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1777635362166-iw90sjp.png",
       "type": "blog"
     }
   ]
