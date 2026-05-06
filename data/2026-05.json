@@ -2,6 +2,452 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "03061c539fb7",
+      "title": "Stratégie de contenu B2B en 2026 : comment choisir les bons canaux ?",
+      "description": "Face à la multiplication des formats et des plateformes, Nordahl Ballingall, Head of marketing chez Hellowork, nous partage ses clés pour construire une présence B2B cohérente et performante en 2026.",
+      "link": "https://www.blogdumoderateur.com/strategie-contenu-b2b-2026-comment-choisir-bons-canaux/",
+      "pubDate": "2026-05-06T06:00:09.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/nordahl-ballingall-interview-contenu-b2B-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "19b35f829a9b",
+      "title": "Comment réussir un quiz marketing B2B qui accroche et génère des leads ?",
+      "description": "Les quiz sont des outils puissants et sous-estimés en marketing pour engager les audiences, récolter des informations et renforcer la mémorisation de la marque. En combinant interactivité, simplicité et pédagogie, ils transforment l'expérience utilisateur. Des exemples de réussite, comme la…",
+      "link": "https://oliviersauvage.com/2026/05/06/comment-reussir-un-quiz-marketing-b2b-qui-accroche-et-genere-des-leads/",
+      "pubDate": "2026-05-06T05:32:59.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bd17ec68be73",
+      "title": "Comment optimiser votre contenu LinkedIn pour les LLM",
+      "description": "Avec l'essor des réponses générées par IA, les règles de la visibilité changent. LinkedIn partage ses apprentissages pour apparaître dans les résultats des LLM.",
+      "link": "https://www.blogdumoderateur.com/comment-optimiser-contenu-linkedin-llm/",
+      "pubDate": "2026-05-06T05:00:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/02/linkedin-optimisation-IA-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "23aa6e2f08d4",
+      "title": "#355.src - SRE et DevOps: La prod relax : désacraliser la tension dans l'ère SRE avec Kevin Davin",
+      "description": "\"Pour moi, la prod, ça doit être un sujet qui est relaxant\" Le D.E.V. de la semaine est Kevin Davin, Google Developer Expert Cloud et Kotlin, SRE chez Gradle. Dans cet épisode, on clarifie la frontière (parfois floue) entre SRE et DevOps, et comment la philosophie DevOps s'oppose au métier concret…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-355-9f21f7fcd7ff",
+      "pubDate": "2026-05-06T03:00:38.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/583b328b-9353-4cf0-adf8-7bd0996391b0.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/40db127b-5ccd-4c82-97fd-9f21f7fcd7ff.mp3?_=1777982558",
+      "duration": "52:47"
+    },
+    {
+      "id": "85af9973e06e",
+      "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+      "description": "The Silicon Valley AV startup has not started driverless testing yet.",
+      "link": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+      "pubDate": "2026-05-06T00:07:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae0ecff8b336",
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "pubDate": "2026-05-05T23:50:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f321f04b77bb",
+      "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
+      "description": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users to meet in real life.",
+      "link": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
+      "pubDate": "2026-05-05T23:05:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6c2620207b45",
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "description": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
+      "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "pubDate": "2026-05-05T22:57:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "243d4c72e0ce",
+      "title": "Lucid Motors doesn’t know how many EVs it will build this year",
+      "description": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure.",
+      "link": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
+      "pubDate": "2026-05-05T22:31:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f414b9ec58d2",
+      "title": "As crypto cools, a16z crypto raises a $2.2B fund",
+      "description": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.",
+      "link": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
+      "pubDate": "2026-05-05T21:15:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7287a41d76bc",
+      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+      "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "pubDate": "2026-05-05T20:56:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0044cad7f537",
+      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+      "description": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was…",
+      "link": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "pubDate": "2026-05-05T20:06:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3d019514d2b",
+      "title": "Volkswagen becomes Rivian’s top shareholder, displacing Amazon",
+      "description": "VW Group's stake will continue to grow under the $5.8 billion joint venture with Rivian.",
+      "link": "https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/",
+      "pubDate": "2026-05-05T19:58:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3a709c6a34b3",
+      "title": "Threads finally brings messaging to the web",
+      "description": "By bringing messaging to the web, Threads is aligning its desktop experience more closely with competitors like X and Bluesky.",
+      "link": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
+      "pubDate": "2026-05-05T18:34:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "686e9cd3165b",
+      "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
+      "description": "Arnell joins Gebbia’s National Design Studio under Trump to unify UX across 27,000 federal sites and streamline how Americans use government services.",
+      "link": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
+      "pubDate": "2026-05-05T18:09:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6cf81f91cdf3",
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+      "description": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+      "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "pubDate": "2026-05-05T17:46:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "83bff641dea2",
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "description": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "pubDate": "2026-05-05T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "272fbc847d9f",
+      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+      "description": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+      "pubDate": "2026-05-05T15:49:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "601412db9bdc",
+      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+      "description": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
+      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "pubDate": "2026-05-05T15:31:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da091321aeae",
+      "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
+      "description": "The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows software.",
+      "link": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
+      "pubDate": "2026-05-05T15:20:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f14e3ed273a",
+      "title": "Hackers steal students’ data during breach at education tech giant Instructure",
+      "description": "The data breach at education tech giant Instructure includes students' private data, according to a sample of the allegedly stolen data seen by TechCrunch.",
+      "link": "https://techcrunch.com/2026/05/05/hackers-steal-students-data-during-breach-at-education-tech-giant-instructure/",
+      "pubDate": "2026-05-05T14:31:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b44bfc938055",
+      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+      "description": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
+      "link": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+      "pubDate": "2026-05-05T14:27:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf42f08ae9a2",
+      "title": "Yeah Pa ! : réinventer le lien social en entreprise par la « JOIE » en 2026",
+      "description": "Yeah Pa ! est une entreprise lilloise qui vise à recréer du lien humain en milieu professionnel à travers le jeu. Proposant des événements variés et des solutions ludiques, elle transforme l’expérience de travail en favorisant la cohésion d'équipe, brisant les hiérarchies et améliorant la qualité…",
+      "link": "https://oliviersauvage.com/2026/05/05/yeah-pa-reinventer-le-lien-social-en-entreprise-par-la-joie-en-2026/",
+      "pubDate": "2026-05-05T14:22:28.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d29c249bf43",
+      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+      "description": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
+      "link": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+      "pubDate": "2026-05-05T14:20:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e926c68a30a",
+      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+      "description": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+      "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+      "pubDate": "2026-05-05T14:07:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f9c1e3d3cf18",
+      "title": "Stop Sending IDE-Catchable AI Code Errors to Review",
+      "description": "AI coding tools might have handed your developers a productivity gain, but they’ve created a problem for your code review process. Pull request volume is up significantly, and the code arriving for review carries error patterns that weren’t common before generative AI. Yet it’s the same people with…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/stop-sending-ide-catchable-ai-code-errors-to-review/",
+      "pubDate": "2026-05-05T13:16:40.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ad22f9311f4d",
+      "title": "IA : les meilleurs modèles pour le code et le développement web en mai 2026",
+      "description": "Les modèles d'Anthropic conservent leur mainmise sur la WebDevArena, trustant six des dix premières positions.",
+      "link": "https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-mai-2026/",
+      "pubDate": "2026-05-05T08:38:52.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/classement-modeles-ia-developpement-web-mai-2026-294x156.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "eee21655a769",
+      "title": "PDF Spaces : le guide pour centraliser, analyser et partager vos documents avec l’IA",
+      "description": "La plateforme PDF Spaces d'Adobe réunit vos documents, liens et notes dans un espace unique, exploitable par une IA conversationnelle. Voici comment en tirer parti.",
+      "link": "https://www.blogdumoderateur.com/pdf-spaces-guide-centraliser-analyser-partager-documents-ia/",
+      "pubDate": "2026-05-05T08:08:22.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Guide-complet-PDF-Spaces-Adobe-294x144.jpg",
+      "type": "blog"
+    },
+    {
       "id": "d9815f646b17",
       "title": "Face à l’explosion de la musique IA, Qobuz prône la « curation humaine »",
       "description": "Face à l'explosion des titres IA, Qobuz revendique une curation 100 % humaine et une tolérance zéro. Son directeur musique, Marc Zisman, détaille cette stratégie à BDM.",
