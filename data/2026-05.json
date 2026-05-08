@@ -2,6 +2,421 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "8a5119a1f181",
+      "title": "Why you can never get your doctor to call you back",
+      "description": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried…",
+      "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+      "pubDate": "2026-05-08T04:42:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1d0018336ffd",
+      "title": "#330.exe - Souveraineté numérique: Sortir de l'ombre des GAFAM par Guillaume Lours",
+      "description": "Pour l'épisode #330 je recevais Damien Lecan. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-330-f4d95537c5b8",
+      "pubDate": "2026-05-08T03:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/e0a9ce25-0270-493a-a5e9-f4d95537c5b8.mp3?_=1778155353",
+      "duration": "12:45"
+    },
+    {
+      "id": "bc6e9b30c1fd",
+      "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
+      "description": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
+      "link": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
+      "pubDate": "2026-05-07T23:11:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cc645c3b82bb",
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "description": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "pubDate": "2026-05-07T22:24:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "35180778eb5a",
+      "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+      "description": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
+      "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+      "pubDate": "2026-05-07T21:49:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6448f0c0d84",
+      "title": "Disney looking to make a unified ‘super app,’ report says",
+      "description": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.",
+      "link": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/",
+      "pubDate": "2026-05-07T21:40:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eb8c38a4ec7f",
+      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+      "description": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "pubDate": "2026-05-07T21:02:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fa7e71b2d65d",
+      "title": "Hackers deface school login pages after claiming another Instructure hack",
+      "description": "The cybercrime group ShinyHunters claimed to have hacked Instructure again, defacing the login pages of several Instructure customer schools with an extortion message.",
+      "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+      "pubDate": "2026-05-07T20:59:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b5352007c8a3",
+      "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
+      "description": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.",
+      "link": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/",
+      "pubDate": "2026-05-07T20:41:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b2ba0b923b7c",
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+      "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "pubDate": "2026-05-07T20:20:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ac3c8d9dd90",
+      "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
+      "description": "The new benchmark rating applies to 2026 Tesla Model Y vehicles assembled on or after November 12, 2025.",
+      "link": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/",
+      "pubDate": "2026-05-07T20:10:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f7e402424aa6",
+      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+      "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "pubDate": "2026-05-07T19:57:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "286ecd221de7",
+      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "description": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "pubDate": "2026-05-07T19:21:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "63885f65ba0c",
+      "title": "Bumble is getting rid of the swipe, CEO says",
+      "description": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+      "pubDate": "2026-05-07T19:06:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a5218871cde5",
+      "title": "Tome, another Goodreads book-tracker rival, shuts down",
+      "description": "Built on the back of the sizable and influential BookTok community -- creators who discuss and review books on TikTok -- the app offered readers a place to chronicle and rate their books, get recommendations, and even add photos of things like favorite quotes or memes, or share playlists that match…",
+      "link": "https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/",
+      "pubDate": "2026-05-07T18:38:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ccdc3f2ca69a",
+      "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
+      "description": "Stockholm-based vibe-coding platform Lovable is offering employees an automatic 10% raise as a way to sidestep classic corporate politics.",
+      "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
+      "pubDate": "2026-05-07T18:36:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bd3f01c2b085",
+      "title": "Hackers hack victims hacked by other hackers",
+      "description": "An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the victims’ systems.",
+      "link": "https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/",
+      "pubDate": "2026-05-07T18:28:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fa9646c97c2d",
+      "title": "Kalshi doubles valuation in 5 months, hitting $22B",
+      "description": "Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue.",
+      "link": "https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/",
+      "pubDate": "2026-05-07T18:02:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c866b0cceaf2",
+      "title": "Jeff Bezos rep leaves Slate Auto’s board",
+      "description": "Melinda Lewison's departure raises questions about Bezos' support and involvement with the startup at a time when the Amazon founder is now apparently focused on robotics at his new startup, Project Prometheus.",
+      "link": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
+      "pubDate": "2026-05-07T17:54:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4bc22ffbce5d",
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "description": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+      "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "pubDate": "2026-05-07T16:05:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a43c4347802d",
+      "title": "Google’s $9.99-per-month AI health coach launches May 19",
+      "description": "The Gemini-powered health coach will act as a combination fitness coach, sleep expert, and health and wellness advisor.",
+      "link": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
+      "pubDate": "2026-05-07T15:35:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "58333f89db3a",
+      "title": "Reddit : le nouvel eldorado du marketing digital ?",
+      "description": "Reddit émerge comme une plateforme incontournable pour le marketing digital et les entreprises, grâce à sa richesse en contenu humain, expert et actuel. Les LLM apprécient ce lac de données, redéfinissant ainsi le paysage du SEO. Pour réussir, il est crucial d’adopter une approche authentique tout…",
+      "link": "https://oliviersauvage.com/2026/05/07/reddit-le-nouvel-eldorado-du-marketing-digital/",
+      "pubDate": "2026-05-07T11:18:29.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ee6faac6034",
+      "title": "ChatGPT s’installe dans Excel et Google Sheets : comment ça marche",
+      "description": "OpenAI sort de bêta ses add-ins ChatGPT pour Excel et Google Sheets. La fonctionnalité, propulsée par GPT-5.5, est désormais accessible à tous les plans.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-excel-google-sheets/",
+      "pubDate": "2026-05-07T08:44:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Excel-ChatGPT-Google-Sheets-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a6191f32cbf1",
+      "title": "Sortie de Mercure 0.23.5 : un Helm chart blindé pour vos clusters Kubernetes",
+      "description": "Mercure v0.23.5 vient de sortir, et le sujet central de cette release est le Helm chart. Si vous faites tourner des hubs sur Kubernetes, cette version durcit les configurations par défaut et intègre des templates de politiques (policies) qui nécessitaient auparavant de patcher le chart ou de les…",
+      "link": "https://les-tilleuls.coop/blog/mercure-0-23-5-helm-chart-kubernetes",
+      "pubDate": "2026-05-07T08:38:12.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/Mercure-hardened-Helm-chart-for-Kubernetes-2048x1143-1-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "c5c09497bd4a",
+      "title": "Pourquoi les études qui prévoient la fin de l’emploi « à cause » de l’IA se plantent-elles toujours ?",
+      "description": "Pourquoi les études qui prévoient la fin de tel ou tel emploi « à cause » de l’IA finissent-elles toujours par se planter ? Alors que les prédictions catastrophistes sur l’emploi circulent comme autant de rumeurs médiatiquement séduisantes, ce papier de Thomas Pourquoi les études qui prévoient la…",
+      "link": "https://maisouvaleweb.fr/pourquoi-les-etudes-qui-prevoient-la-de-lemploi-a-cause-de-lia-se-plantent-elles-toujours/",
+      "pubDate": "2026-05-07T07:53:32.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "053659d09e27",
+      "title": "Qu’est-ce qu’un ADR (Architecture Decision Record) ?",
+      "description": "Découvrez ce qu’est un ADR (Architecture Decision Record), pourquoi il est utile dans un projet logiciel et comment documenter vos décisions techniques simplement.",
+      "link": "https://code-garage.com/blog/qu-est-ce-qu-un-adr-architecture-decision-record",
+      "pubDate": "2026-05-07T07:37:03.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b89229909b85",
       "title": "Anthropic augmente enfin les limites d’usage de Claude Code",
       "description": "Les capacités d'une session de 5h sont doublées, le principe d'heure de pointe est supprimé pour certains abonnés et les limites de l'API sont largement repoussées.",
@@ -94,6 +509,22 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/04/5-strategies-google-adoption-ia-entreprise-294x166.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d995f51c0b9f",
+      "title": "🤖 Découverte d&#39;ADK Java de Google",
+      "description": "There is no spoon. ©The Oracle",
+      "link": "https://philippart-s.github.io/blog/2026-05-07-adk-java/",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
