@@ -2,6 +2,196 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "029e83e5aafe",
+      "title": "Étude LinkedIn : qu’est-ce qui marche encore en 2026 ?",
+      "description": "Une étude de Social Insider analyse 1,3 million de posts LinkedIn et révèle que l'engagement global augmente, surtout via les documents natifs. Pourtant, les vues de vidéos chutent de 36 %, et la croissance des abonnés ralentit, car les utilisateurs se tournent vers d'autres plateformes pour…",
+      "link": "https://oliviersauvage.com/2026/05/11/etude-linkedin-quest-ce-qui-marche-encore-en-2026/",
+      "pubDate": "2026-05-11T07:37:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a43f4bfd86b",
+      "title": "Devoxx 2026",
+      "description": "L'édition 2026 du Devoxx décrypte les avancées majeures de l'IA sur l'ingénierie logicielle, des architectures multi-agents à l'informatique quantique et aux stratégies pour maintenir la qualité du code.",
+      "link": "https://blog.ippon.fr/2026/05/11/devoxx-2026/",
+      "pubDate": "2026-05-11T07:00:31.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/devoxx_2026.png",
+      "type": "blog"
+    },
+    {
+      "id": "35b634af32fd",
+      "title": "Quelle personnalité de la tech se cache derrière cette citation ou anecdote ?",
+      "description": "Depuis plusieurs décennies, ils ont façonné les appareils, le web et les usages. Mais parviendrez-vous à les identifier grâce à des anecdotes ou des petites phrases ?",
+      "link": "https://www.blogdumoderateur.com/quiz-personnalite-tech/",
+      "pubDate": "2026-05-11T06:30:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/quiz-figures-tech-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "7d71f315cf8d",
+      "title": "5 formations pour se perfectionner en montage vidéo",
+      "description": "Besoin de développer vos compétences en montage vidéo ? Voici une sélection de formations pour vous spécialiser dans les outils et les techniques avancées de la création vidéo.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-montage-video-301/",
+      "pubDate": "2026-05-11T06:00:54.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/selection-formation-montage-video-301-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "805029f09d36",
+      "title": "IA : la France peut-elle encore jouer dans la cour des grands ?",
+      "description": "Startups en plein essor, mais retard structurel persistant : où en est vraiment la France sur l'IA ? Gilles Babinet, expert du numérique et intervenant lors de l'événement 2036 dont BDM est partenaire, nous répond sans détour.",
+      "link": "https://www.blogdumoderateur.com/ia-france-peut-elle-encore-jouer-cour-grands/",
+      "pubDate": "2026-05-11T05:00:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Gilles-Babinet-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "070e43d1e6ee",
+      "title": "Get ready for the whisper-filled office of the future",
+      "description": "How will work setups change if we spend more and more time talking to our computers?",
+      "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "pubDate": "2026-05-10T21:15:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3d2b2c788665",
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "description": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "pubDate": "2026-05-10T20:40:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd4f88d4c8c4",
+      "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
+      "description": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.",
+      "link": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
+      "pubDate": "2026-05-10T18:08:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b2b51374975d",
+      "title": "Un widget Tui custom : trois bugs et un chat dégoûté",
+      "description": "Créez un widget personnalisé Tui pour afficher un GIF dans le terminal avec Symfony Terminal. Découvrez les étapes pour étendre AbstractWidget, implémenter render(RenderContext): array et utiliser onAttach(WidgetContext) pour animer une image.",
+      "link": "https://lecodeestdanslepre.fr/billets/un-widget-tui-custom-trois-bugs-et-un-chat-degoute",
+      "pubDate": "2026-05-10T16:24:26.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "64459c7c2221",
+      "title": "TechCrunch Mobility: Lime’s IPO gamble",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "link": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
+      "pubDate": "2026-05-10T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7f8b2994fe8",
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "description": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "pubDate": "2026-05-10T15:34:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3f082feb75b",
+      "title": "The hottest place for startups to strike a deal? The F1 paddock",
+      "description": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
+      "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+      "pubDate": "2026-05-10T15:13:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "217ab83ac677",
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
@@ -15,6 +205,39 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea5e41198d90",
+      "title": "Le mirage de la productivité IA : et si on en faisait moins ?",
+      "description": "L'IA t'a fait gagner trois heures aujourd'hui. T'en as fait quoi ? Probablement codé trois heures de plus. Pourquoi le temps gagné par l'IA n'est jamais à nous, et comment le reprendre.",
+      "link": "https://yoandev.co/mirage-productivite-ia",
+      "pubDate": "2026-05-10T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/mirage-productivite-ia.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3cd1780a2e15",
+      "title": "Construire des Golden Images avec Packer sur Scaleway",
+      "description": "Pour mes expérimentations sur Tangled, je souhaitais tester l’auto-hébergement des knot et spindles dans des machines virtuelles (les explications arrivent dans un futur article). C’était donc l’occasion de rejouer un peu sur Scaleway, et avec Packer.",
+      "link": "https://codeka.io/2026/05/10/packer-scaleway/",
+      "pubDate": "2026-05-10T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/10/packer-scaleway/cover_hu_bfba8d5cff808896.webp",
       "type": "blog"
     },
     {
