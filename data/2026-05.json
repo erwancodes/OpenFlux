@@ -2,6 +2,405 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a8a13d866377",
+      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+      "description": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+      "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+      "pubDate": "2026-05-14T06:05:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5fe8b20d818",
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+      "description": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "pubDate": "2026-05-14T05:24:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c76472bc1a13",
+      "title": "Notion just turned its workspace into a hub for AI agents",
+      "description": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "pubDate": "2026-05-13T21:45:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "606a29386b38",
+      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+      "description": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+      "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+      "pubDate": "2026-05-13T19:49:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9527abe61353",
+      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "description": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+      "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "pubDate": "2026-05-13T19:28:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "208e81ec36aa",
+      "title": "This is what some of the world’s largest banks of malware look like stacked as hard drives",
+      "description": "What would some of the world's largest repositories of malware look like if they were stacked as hard drives, one on top of the other?",
+      "link": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
+      "pubDate": "2026-05-13T18:12:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "790dc1741c35",
+      "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
+      "description": "Fervo Energy's IPO was upsized several times after potential investors asked why the enhanced geothermal startup wasn't raising more money.",
+      "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
+      "pubDate": "2026-05-13T17:42:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6cf0fb50771a",
+      "title": "X launches a History tab for bookmarks, likes, videos, and articles",
+      "description": "X’s new History tab combines bookmarks, likes, watched videos, and read articles into a single place, expanding the app’s role as a save-it-for-later tool.",
+      "link": "https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/",
+      "pubDate": "2026-05-13T17:16:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "102574e32256",
+      "title": "Instagram’s new ‘Instants’ feature combines elements from Snapchat and BeReal",
+      "description": "The feature lets users share disappearing photos with their close friends or mutual followers that can be viewed only once and remain available for 24 hours.",
+      "link": "https://techcrunch.com/2026/05/13/instagrams-new-instants-feature-combines-elements-from-snapchat-and-bereal/",
+      "pubDate": "2026-05-13T16:57:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "010ef88a216e",
+      "title": "Rivian spinoff Mind Robotics raises another $400M",
+      "description": "Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.",
+      "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
+      "pubDate": "2026-05-13T16:34:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d07e4644cfa1",
+      "title": "Who trusts Sam Altman?",
+      "description": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court.",
+      "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "pubDate": "2026-05-13T16:31:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f8c164cac858",
+      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+      "description": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+      "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+      "pubDate": "2026-05-13T16:22:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "760b5a5fea2e",
+      "title": "Anthropic courts a new kind of customer: small business owners",
+      "description": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
+      "link": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "pubDate": "2026-05-13T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "549c76f39e8a",
+      "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
+      "description": "A ransomware group has claimed responsibility for hacking the electronics manufacturing giant Foxconn and is attempting to extort the company.",
+      "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
+      "pubDate": "2026-05-13T15:39:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2591b4c3cb17",
+      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+ ",
+      "description": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
+      "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+      "pubDate": "2026-05-13T14:59:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "61bd97d6fa0e",
+      "title": "Anduril raises $5B, doubles valuation to $61B",
+      "description": "After achieving $2.2 billion in revenue in 2025, the defense tech startup has raised another massive round, led by Thrive and a16z, it says.",
+      "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
+      "pubDate": "2026-05-13T14:44:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aa376f466aac",
+      "title": "r/WallStreetBets really hates the SEC’s proposal to weaken quarterly reporting",
+      "description": "The retail trading subreddit submitted the sharpest criticism yet of the financial regulator's idea of letting companies report twice per year.",
+      "link": "https://techcrunch.com/2026/05/13/r-wallstreetbets-really-hates-the-secs-proposal-to-weaken-quarterly-reporting/",
+      "pubDate": "2026-05-13T14:42:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4543303b1e1",
+      "title": "US lawmakers demand answers from Instructure after Canvas data breaches",
+      "description": "U.S. House lawmakers want to know how hackers broke into education tech giant Instructure twice and stole reams of data from students who use the company's flagship student data software Canvas.",
+      "link": "https://techcrunch.com/2026/05/13/us-lawmakers-demand-answers-from-instructure-after-canvas-data-breaches/",
+      "pubDate": "2026-05-13T14:32:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "289554b25ff9",
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "description": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
+      "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "pubDate": "2026-05-13T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0e3c73305fab",
+      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+      "description": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
+      "link": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+      "pubDate": "2026-05-13T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c9927a1b690c",
+      "title": "De l'orchestrateur labyrinthe au facilitateur de projet : Retour sur le meetup Airflow 3.2",
+      "description": "Retour sur le meetup Apache Airflow 3.2 organisé par Astronomer et Ippon Technologies à Paris : Partition Keys pour propager le contexte entre DAGs, Async @task pour paralléliser les micro-tâches, et un REX concret sur l'industrialisation d'Airflow à grande échelle.",
+      "link": "https://blog.ippon.fr/2026/05/13/meetup-apache-airflow-3-2-nouveautes-rex/",
+      "pubDate": "2026-05-13T13:08:35.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Airflow-image.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0916ab351bff",
+      "title": "Mise en forme SEO : comment structurer vos contenus pour maximiser la lecture",
+      "description": "Un article efficace combine contenu de qualité et mise en forme soignée pour captiver les lecteurs. Les pratiques de présentation, comme l'utilisation de titres clairs, de listes et d'espaces suffisants, améliorent la lisibilité et soutiennent le référencement. Ainsi, une bonne forme maximise…",
+      "link": "https://oliviersauvage.com/2026/05/13/mise-en-forme-seo-comment-structurer-vos-contenus-pour-maximiser-la-lecture/",
+      "pubDate": "2026-05-13T09:06:17.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "92a15965f210",
+      "title": "Gemini transforme des notes manuscrites en fiches de révision",
+      "description": "L'agent conversationnel de Google peut numériser des dizaines de pages, puis les convertir en fiches de révisions ou en flashcards.",
+      "link": "https://www.blogdumoderateur.com/gemini-transforme-notes-manuscrites-fiches-revision/",
+      "pubDate": "2026-05-13T08:46:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Gemini-study-guide.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "a8e97a4b8864",
+      "title": "Google dévoile 5 nouvelles fonctionnalités pour Android : Emoji 3D, Gemini, compatibilité AirDrop…",
+      "description": "Google a tenu son Android Show : I/O Edition 2026 ce mardi 12 mai. Au programme : Gemini Intelligence, des emojis redessinés en 3D, une dictée vocale améliorée et même un nouveau PC portable.",
+      "link": "https://www.blogdumoderateur.com/google-devoile-5-fonctionnalites-android-emoji-3d-gemini-airdrop/",
+      "pubDate": "2026-05-13T08:46:07.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Final-5.5-GI-_Gen_UI_Widget_v02-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "a42fdd14ead0",
+      "title": "Profils hybrides, power skills, cybersécurité : l’ESGI adapte sa pédagogie aux besoins des entreprises",
+      "description": "Comment former les experts informatiques à l'ère de l'IA et de la cybersécurité ? Nous avons interrogé Kamal Hennou, directeur de l'ESGI, sur l'adaptation de la pédagogie aux nouveaux enjeux du secteur.",
+      "link": "https://www.blogdumoderateur.com/profils-hybrides-power-skills-cybersecurite-esgi-adapte-pedagogie-besoins-entreprises/",
+      "pubDate": "2026-05-13T07:36:42.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/profils-hybrides-power-skills-cybersecurite-esgi-adapte-pedagogie-besoins-entreprises-294x154.jpg",
+      "type": "blog"
+    },
+    {
       "id": "4f1ebda3d4ea",
       "title": "Quelles études et formations suivre pour devenir community manager ?",
       "description": "Diplôme académique ou certification courte, les voies pour exercer le métier de community manager sont nombreuses. Tour d'horizon des formations à privilégier selon son profil et ses objectifs.",
