@@ -2,6 +2,359 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "dbae762bb568",
+      "title": "Quiz : reconnaissez-vous ces sites qui ont marqué les années 2000 ?",
+      "description": "MySpace, Skyblog… Ces sites ont marqué des millions d'internautes. Mais les reconnaîtrez-vous au premier coup d'œil ?",
+      "link": "https://www.blogdumoderateur.com/quiz-sites-marquants-annees-2000/",
+      "pubDate": "2026-05-15T05:00:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/quiz-interfaces-mythiques-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b2261206a8e5",
+      "title": "#340.exe - De l’idée à une entreprise avec Flutter: Quitter la stabilité pour l'impact par Guillaume Laforge",
+      "description": "Pour l'épisode #340 je recevais Nicolas Guillot. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-340-a6eb0ca89ce1",
+      "pubDate": "2026-05-15T03:00:08.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/ce3ee159-9758-4960-af2e-a6eb0ca89ce1.mp3?_=1778760128",
+      "duration": "12:32"
+    },
+    {
+      "id": "d114c357f862",
+      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "description": "Here's what the biggest tech court case of the year is all about.",
+      "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "pubDate": "2026-05-14T22:47:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "afa27375bb3c",
+      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "description": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "pubDate": "2026-05-14T21:30:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ad2ef5506e1f",
+      "title": "OpenAI says Codex is coming to your phone",
+      "description": "The update gives users enhanced flexibility over how they can manage their workflows.",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "pubDate": "2026-05-14T20:58:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e278a8821936",
+      "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+      "description": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
+      "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+      "pubDate": "2026-05-14T20:43:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b3f71f8e336e",
+      "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+      "description": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet 10 years ago before agreeing to hear Cerebras' pitch.",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+      "pubDate": "2026-05-14T20:23:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26c6cd205440",
+      "title": "What happens when AI starts building itself?",
+      "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "pubDate": "2026-05-14T19:57:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dd85aab1a359",
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "description": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "pubDate": "2026-05-14T19:12:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "24e2911629d9",
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "description": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "pubDate": "2026-05-14T19:05:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cb5b996ffc7d",
+      "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
+      "description": "Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen.",
+      "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
+      "pubDate": "2026-05-14T18:56:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f81f5010f4ac",
+      "title": "EasyAdmin : son premier CrudController",
+      "description": "Découvrez comment bien utiliser le CrudController d'EasyAdmin pour gérer vos entités Symfony de manière propre et efficace. Apprenez à générer un CrudController adapté à votre entité RedirectRule, tout en évitant les pièges liés au mélange de configuration et de logique métier.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-son-premier-crudcontroller",
+      "pubDate": "2026-05-14T18:41:22.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c7ad877297bf",
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "description": "A year ago, it looked like this day would never happen for Cerebras.",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "pubDate": "2026-05-14T16:30:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "31888c756b63",
+      "title": "OpenAI says hackers stole some data after latest code security issue",
+      "description": "OpenAI said the damage was limited to the employees’ devices and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+      "pubDate": "2026-05-14T16:25:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "97190ae7ad12",
+      "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
+      "description": "Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple’s HLS streaming technology, without changing their existing workflows.",
+      "link": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
+      "pubDate": "2026-05-14T15:42:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "64ec27553832",
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+      "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+      "pubDate": "2026-05-14T15:20:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89cf3af26ffa",
+      "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared",
+      "description": "While the Meta-owned social network billed Instants as a new format to share real-life moments as they’re happening, many users are looking for a way to turn off the feature, especially those who have accidentally sent images to others, not fully understanding how the feature works.",
+      "link": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
+      "pubDate": "2026-05-14T15:06:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "044879378cb8",
+      "title": "A spyware investigator exposed Russian government hackers trying to hijack Signal accounts",
+      "description": "A group of likely Russian government hackers tried to hack a security researcher who investigates spyware attacks. He was then able to turn the tables on the hackers and reveal details of their espionage campaign.",
+      "link": "https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/",
+      "pubDate": "2026-05-14T14:07:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "43ff8b6f10ea",
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+      "description": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+      "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "pubDate": "2026-05-14T14:01:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "543298b38988",
+      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+      "description": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
+      "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "pubDate": "2026-05-14T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b9a686d25b3",
+      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+      "description": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+      "link": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+      "pubDate": "2026-05-14T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e979f1b0d9b4",
+      "title": "Uber to open 2 campuses in India to support product development, operations",
+      "description": "The expansion comes as Uber seeks new growth areas beyond ride-hailing and invests more heavily in AI, automation, and autonomous vehicle technologies.",
+      "link": "https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/",
+      "pubDate": "2026-05-14T13:43:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a8a13d866377",
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
       "description": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
@@ -31,6 +384,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f899158c787a",
+      "title": "Ma stack IA pour développer des produits sans me ruiner",
+      "description": "Est-ce qu'on peut bâtir une app avec l'IA pour 20€/mois ? Voici un retour terrain pour optimiser ces usages : optimisation de tokens, specs et workflow agentique.",
+      "link": "https://eventuallycoding.com/p/ma-stack-ia-pour-developper-des-produits-sans-me-ruiner",
+      "pubDate": "2026-05-14T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1778777417711-qfyj55a.jpg",
       "type": "blog"
     },
     {
@@ -472,6 +840,21 @@
       "description": "Découvrez comment CrowdSec protège votre serveur en apprenant des attaques détectées par la communauté et en appliquant des bans instantanément.",
       "link": "https://lecodeestdanslepre.fr/billets/crowdsec-la-defense-reseau-communautaire-expliquee",
       "pubDate": "2026-05-12T20:12:34.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a515f04fdd83",
+      "title": "PHP 8.6 : ce qui est acté, ce qui se joue encore",
+      "description": "Découvrez l'état d'avancement de PHP 8.6 à mi-parcours vers sa GA fin 2026. Sept RFCs implémentées, cinq acceptées, et des sujets clés comme les generics au centre des discussions.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-6-ce-qui-est-dans-le-pot-ce-qui-se-joue-encore",
+      "pubDate": "2026-05-12T19:05:12.000Z",
       "source": "Le Code est dans le Pré",
       "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
       "categories": [
