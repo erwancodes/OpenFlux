@@ -2,6 +2,262 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "5408af74156d",
+      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+      "description": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
+      "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+      "pubDate": "2026-05-15T20:30:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9a1f9fc4d660",
+      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
+      "description": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
+      "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
+      "pubDate": "2026-05-15T20:25:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1b749d9d083c",
+      "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
+      "description": "The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.",
+      "link": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
+      "pubDate": "2026-05-15T18:51:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1bad708b9cd0",
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "description": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "pubDate": "2026-05-15T18:14:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9457877a0468",
+      "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
+      "description": "Newly unredacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
+      "link": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
+      "pubDate": "2026-05-15T17:13:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "15bdfa1f329f",
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "description": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "pubDate": "2026-05-15T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4463a761ba8c",
+      "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
+      "description": "The price spike is a reminder of a deeper problem: The U.S. power grid was not designed for the electricity demands of an AI-driven economy, and the gap between what the grid can deliver and what the industry needs is widening.",
+      "link": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
+      "pubDate": "2026-05-15T15:45:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c3e74aaddfe",
+      "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
+      "description": "While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities.",
+      "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+      "pubDate": "2026-05-15T15:42:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "64e915d96e03",
+      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+      "description": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "pubDate": "2026-05-15T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ec8b09162b3",
+      "title": "Even GoPro is pivoting to defense",
+      "description": "The action camera maker, like so many other companies these days, is looking to defense applications as it evaluates a possible sale.",
+      "link": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/",
+      "pubDate": "2026-05-15T13:14:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8fc9fe7ce787",
+      "title": "Meridian Ventures launched a $35M fund with a focus on MBA-deferred founders",
+      "description": "This new fund will back founders building enterprise technology in the United States. Meridian is agnostic, co-founder Devon Gethers said, noting that the firm has already invested in companies in fintech, logistics, healthcare, and of course, AI.",
+      "link": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
+      "pubDate": "2026-05-15T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1e81d0d37de",
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "description": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+      "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "pubDate": "2026-05-15T12:19:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5598aba11396",
+      "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
+      "description": "Rapido has driven its growth by enabling ride-hailing for lower-cost and more flexible modes of transport such as motorbikes and auto-rickshaws.",
+      "link": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+      "pubDate": "2026-05-15T11:24:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7f6af07bc77",
+      "title": "Jeux marketing : quelles sont les campagnes qui engagent vraiment ?",
+      "description": "Adictiz a passé au crible 3 516 campagnes et 60 millions de sessions sur trois ans. Quels sont les profils des participants, les mécaniques qui performent et les comportements selon les temps forts ? Réponse ci-dessous !",
+      "link": "https://www.blogdumoderateur.com/jeux-marketing-quelles-campagnes-engagent-vraiment/",
+      "pubDate": "2026-05-15T10:06:35.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Jeu-concours-Adictiz-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f7c9e0de20b8",
+      "title": "Codex s’invite dans l’application ChatGPT sur iOS et Android",
+      "description": "À l'instar de Claude Code, l'agent de codage d'OpenAI peut désormais être piloté depuis un smartphone.",
+      "link": "https://www.blogdumoderateur.com/codex-chatgpt-ios-android/",
+      "pubDate": "2026-05-15T10:02:48.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/codex-integration-chatgpt-ios-android-294x157.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "da59d5373951",
+      "title": "Instagram lance Instants, des photos éphémères qui disparaissent après consultation",
+      "description": "Déployée dans la messagerie privée, la fonctionnalité permet d'envoyer des clichés pris sur le vif, sans filtre ni retouche. Un format qui rappelle BeReal.",
+      "link": "https://www.blogdumoderateur.com/instagram-instants/",
+      "pubDate": "2026-05-15T08:31:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/instagram-instants-294x154.png",
+      "type": "blog"
+    },
+    {
       "id": "dbae762bb568",
       "title": "Quiz : reconnaissez-vous ces sites qui ont marqué les années 2000 ?",
       "description": "MySpace, Skyblog… Ces sites ont marqué des millions d'internautes. Mais les reconnaîtrez-vous au premier coup d'œil ?",
