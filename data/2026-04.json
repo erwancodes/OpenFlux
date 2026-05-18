@@ -351,6 +351,22 @@
       "type": "blog"
     },
     {
+      "id": "b1f15ed6fec2",
+      "title": "The IDE Is Already an AI Quality Variable. Is It on Your AI Agenda?",
+      "description": "Your developers’ AI tools are only as good as what they know going in. When those tools run through the right IDE, it can give them a head start – a picture of the codebase the tools would otherwise need to piece together themselves. That means your team’s IDE choices belong on your AI agenda […]",
+      "link": "https://blog.jetbrains.com/ai/2026/04/the-ide-is-already-an-ai-quality-variable-is-it-on-your-ai-agenda",
+      "pubDate": "2026-04-30T10:01:38.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a8bbb3f14d31",
       "title": "YouTube : le mode Picture-in-picture devient gratuit pour tous",
       "description": "YouTube étend le mode PiP (picture-in-picture) aux utilisateurs gratuits sur Android et iOS. La fonctionnalité était jusqu'ici réservée aux abonnés Premium et aux Étasuniens.",
@@ -797,6 +813,22 @@
       "type": "blog"
     },
     {
+      "id": "f22723b2fe48",
+      "title": "Building the Future of IDEs: Inside the First JetBrains Codex Hackathon",
+      "description": "39 projects, 6 finalists, and a weekend of IDE-native AI in San Francisco. Earlier this month, we brought developers together in San Francisco for the inaugural JetBrains x Codex Hackathon. Over the course of one weekend, teams built 39 IDE-native AI projects, from which six finalists emerged. The…",
+      "link": "https://blog.jetbrains.com/ai/2026/04/building-the-future-of-ides-inside-the-first-jetbrains-codex-hackathon",
+      "pubDate": "2026-04-29T13:33:13.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-24-2026-10_49_14-AM-2.png",
+      "type": "blog"
+    },
+    {
       "id": "6e1e004d28ef",
       "title": "Gemini : la fonctionnalité Mémoire et l’import depuis ChatGPT disponibles en France",
       "description": "Gemini active sa mémoire automatique en France et propose désormais d'importer historique et préférences issus de ChatGPT, Claude ou d'autres assistants.",
@@ -1225,6 +1257,22 @@
       "type": "blog"
     },
     {
+      "id": "c2e3ead7548f",
+      "title": "Our 2026 Direction: AI and Classic Workflows in JetBrains IDEs",
+      "description": "Two valid ways of writing code. One place to own it. Quick version for AI-news-tired readers: press here There are two ways developers create code now: We don’t think one is better than the other. Our goal is to ensure both workflows can coexist inside JetBrains IDEs without hindering each other.…",
+      "link": "https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides",
+      "pubDate": "2026-04-28T14:18:36.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0756f95fd484",
       "title": "Snapchat brings AI-powered conversational advertising to its app",
       "description": "Users will be able to chat with a brand's AI agent to do things like ask questions and get recommendations.",
@@ -1403,6 +1451,22 @@
       "title": "Introducing the Skill Manager and Skill Repository",
       "description": "Install trusted skills once, then use them across agents and projects. Two new features have just arrived in AI Assistant to address this issue: the skills manager and the skill repository. Together, they make skills easier to discover, trust, and reuse. Instead of keeping skills tied to one agent…",
       "link": "https://blog.jetbrains.com/ai/2026/04/skill-manager-and-skill-repository/",
+      "pubDate": "2026-04-28T07:47:33.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ade6620304be",
+      "title": "Introducing the Skill Manager and Skill Repository",
+      "description": "Install trusted skills once, then use them across agents and projects. Two new features have just arrived in AI Assistant to address this issue: the skills manager and the skill repository. Together, they make skills easier to discover, trust, and reuse. Instead of keeping skills tied to one agent…",
+      "link": "https://blog.jetbrains.com/ai/2026/04/skill-manager-and-skill-repository",
       "pubDate": "2026-04-28T07:47:33.000Z",
       "source": "JetBrains AI Blog",
       "sourceUrl": "https://blog.jetbrains.com/ai/feed/",

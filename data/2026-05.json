@@ -2,6 +2,193 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a9867d5cb534",
+      "title": "IA : 5 formations pour se perfectionner dans le prompt engineering",
+      "description": "Notre sélection de formations de la semaine est destinée à celles et ceux souhaitant développer leurs compétences dans les outils d'IA et l'art du prompt.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-ia-prompt-engineering-302/",
+      "pubDate": "2026-05-18T06:00:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/selection-formation-ia-prompt-engineering-302-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "af4da8f23fac",
+      "title": "Liens Tech - Mai 2026",
+      "description": "Mai : gestion Docker, traces GPS, nettoyage macOS, notes IA en local, sauvegardes de bases de données et un audit HAProxy qui rassure.",
+      "link": "https://domopi.eu/liens-tech-mai-2026/",
+      "pubDate": "2026-05-18T05:45:34.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "264f66e64532",
+      "title": "SEO : faut-il copier les pages du top 10 pour se positionner sur un mot clé concurrentiel ?",
+      "description": "Observer les pages bien classées pour reproduire leur structure et leur longueur est un réflexe courant en SEO. Deux experts expliquent jusqu'où cette logique tient.",
+      "link": "https://www.blogdumoderateur.com/seo-copier-top-10-mot-cle-concurrentiel/",
+      "pubDate": "2026-05-18T05:00:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/SEO-differencier-294x172.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dc92fc4324ad",
+      "title": "Utiliser PHP avec Airflow",
+      "description": "Je travaille actuellement sur un projet orienté BI pour lequel des scripts d’analyse et de visualisation de données sont écrits en Python et sont orchestrés par Apache Airflow. Airflow est un outil Python, initialement conçu et pensé pour l’écosystème Python. Mais travaillant essentiellement en…",
+      "link": "https://www.jdecool.fr/blog/2026/05/18/utiliser-php-avec-airflow.html",
+      "pubDate": "2026-05-17T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fb58d72832af",
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "pubDate": "2026-05-17T20:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e24248a8b10",
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "description": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "pubDate": "2026-05-17T19:46:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f1ee0692d166",
+      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "description": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+      "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "pubDate": "2026-05-17T16:32:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b18b03322ba0",
+      "title": "Utiliser npm link pour tester un module localement",
+      "description": "Découvrez comment utiliser la commande npm link pour développer et tester un module NPM localement sans avoir à le publier à chaque modification.",
+      "link": "https://code-garage.com/blog/utiliser-npm-link-pour-tester-un-module-localement",
+      "pubDate": "2026-05-17T16:18:20.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d5a7d0eb2bbd",
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "pubDate": "2026-05-17T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ab112a1783c",
+      "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
+      "description": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
+      "link": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+      "pubDate": "2026-05-17T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dd591ca783af",
+      "title": "Symfony 8.1 : vos Commands passent en mode Controller",
+      "description": "Découvrez comment Symfony 8.1 modernise les Commandes Console avec les value resolvers Doctrine côté console, comme #[MapEntity], pour plus de confort et de performances.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-vos-commands-passent-en-mode-controller",
+      "pubDate": "2026-05-17T13:22:09.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3421b21cc412",
+      "title": "Donner une conference tech : les coulisses ",
+      "description": "",
+      "link": "https://smaine-milianni.medium.com/donner-une-conference-tech-les-coulisses-03139ca832ae?source=rss-c730ddf97658------2",
+      "pubDate": "2026-05-17T10:54:28.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*YhHB7FViZrJK7btucTiuaw.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "302020456d99",
       "title": "The haves and have nots of the AI gold rush",
       "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
@@ -111,6 +298,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8cbba0ec633d",
+      "title": "FrankenPHP en prod : un binaire, quatre sous-domaines, un seul worker",
+      "description": "Découvrez FrankenPHP, le binaire qui remplace Nginx et PHP-FPM tout en servant plusieurs sous-domaines depuis un seul process. Avec Caddy et Symfony en tant que reverse proxy et application respectively.",
+      "link": "https://lecodeestdanslepre.fr/billets/frankenphp-en-prod-un-binaire-quatre-sous-domaines-un-seul-worker",
+      "pubDate": "2026-05-16T13:14:47.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
@@ -1090,6 +1292,22 @@
       "type": "blog"
     },
     {
+      "id": "3c7d04a60055",
+      "title": "2026 年の方針: JetBrains IDE における AI と従来のワークフロー",
+      "description": "有効なコードの作成方法は 2 つありますが、 コードを管理する場所は 1 つしかありません。 AI 関連のニュースを読み飽きた方のための簡易版: ここをクリック 現在、開発者がコードを作成する方法には以下の 2 つがあります。 従来の方法: 入力、リファクタリング、デバッグを行いながら 1 行ずつ意図を形成することによって作成する。 新しい方法: AI との協働作業を通して作成する。自動補完を使用したり、まとまった量の成果物を下書きできるエージェントを使用したりする。 当社はどちらか一方が優れているとは考えていません。 両方のワークフローが妨げ合うことなく JetBrains IDE…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides",
+      "pubDate": "2026-05-13T10:14:09.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2025/10/IMG_6963-e1759851102680-200x200.jpg",
+      "type": "blog"
+    },
+    {
       "id": "0916ab351bff",
       "title": "Mise en forme SEO : comment structurer vos contenus pour maximiser la lecture",
       "description": "Un article efficace combine contenu de qualité et mise en forme soignée pour captiver les lecteurs. Les pratiques de présentation, comme l'utilisation de titres clairs, de listes et d'espaces suffisants, améliorent la lisibilité et soutiennent le référencement. Ainsi, une bonne forme maximise…",
@@ -1520,6 +1738,22 @@
       "type": "blog"
     },
     {
+      "id": "8daf0908a48f",
+      "title": "Donner à l’IA quelque chose qui mérite d’être amplifié : trois priorités pour les responsables techniques",
+      "description": "La plupart des organisations demandent ce que l’IA peut faire pour leurs développeurs. Une question plus complexe est : qu’est-ce que vos développeurs apportent à l’IA ? Le rapport 2025 sur le modèle des capacités de l’IA de DORA soutient que l’IA ne nivelle pas les équipes ; elle amplifie ce…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/donner-a-l-ia-quelque-chose-qui-merite-d-etre-amplifie-trois-priorites-pour-les-responsables-techniques",
+      "pubDate": "2026-05-12T15:16:02.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://secure.gravatar.com/avatar/e130eebba8ce28a1fd9e1b685b4218db?s=200&#038;r=g",
+      "type": "blog"
+    },
+    {
       "id": "67b4c4af5e88",
       "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
       "description": "As bad actors weaponize AI to exploit software vulnerabilities at unprecedented speed, companies are increasingly recognizing the need to bolster their cybersecurity defenses. The round valued the three-year-old startup at $725 million.",
@@ -1916,6 +2150,22 @@
       "type": "blog"
     },
     {
+      "id": "8b3c4fbfc762",
+      "title": "The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio",
+      "description": "We’re excited to announce that the Early Access Program (EAP) for ReSharper and .NET Tools 2026.2 is now underway! While our EAP announcements usually cover a wide range of new features, performance updates, and bug fixes, this release is different. We are dedicating this first preview entirely to…",
+      "link": "https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio",
+      "pubDate": "2026-05-11T13:16:35.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a44a3559ed6b",
       "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
       "description": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
@@ -1991,6 +2241,22 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bc361873b6c0",
+      "title": "Notre orientation pour 2026 : workflows d’IA et workflows classiques dans les JetBrains IDEs",
+      "description": "Deux manières valides d’écrire du code. Un même endroit pour le faire. Version rapide pour les lecteurs fatigués par les actualités sur l’IA : cliquez ici Les développeurs peuvent maintenant créer du code de deux façons : Nous ne considérons pas que l'une est meilleure que l'autre. Notre objectif…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/notre-orientation-pour-2026-workflows-d-ia-et-workflows-classiques-dans-les-jetbrains-ides",
+      "pubDate": "2026-05-11T09:13:17.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2025/10/IMG_6963-e1759851102680-200x200.jpg",
       "type": "blog"
     },
     {
@@ -4162,6 +4428,22 @@
       "type": "blog"
     },
     {
+      "id": "3eb6629250d8",
+      "title": "Stop Sending IDE-Catchable AI Code Errors to Review",
+      "description": "AI coding tools might have handed your developers a productivity gain, but they’ve created a problem for your code review process. Pull request volume is up significantly, and the code arriving for review carries error patterns that weren’t common before generative AI. Yet it’s the same people with…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/stop-sending-ide-catchable-ai-code-errors-to-review",
+      "pubDate": "2026-05-05T13:16:40.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ad22f9311f4d",
       "title": "IA : les meilleurs modèles pour le code et le développement web en mai 2026",
       "description": "Les modèles d'Anthropic conservent leur mainmise sur la WebDevArena, trustant six des dix premières positions.",
@@ -4402,6 +4684,22 @@
       "type": "blog"
     },
     {
+      "id": "01f5fa2873e4",
+      "title": "Meet the Finalists: JetBrains x Codex Hackathon",
+      "description": "Put a capable coding model inside a developer’s primary workspace, and the IDE stops being a place where you write code. It becomes a place where you direct an agent, watch how it reasons, manage what it pays attention to, and decide when its output is worth shipping. That was the defining theme of…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/meet-the-finalists-jetbrains-codex-hackathon",
+      "pubDate": "2026-05-04T16:12:53.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/05/hyperreasoning.png",
+      "type": "blog"
+    },
+    {
       "id": "ebcd967acf0b",
       "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
       "description": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
@@ -4486,6 +4784,22 @@
       "title": "We Gave Agents IDE-Native Search Tools. They Got Faster and Cheaper.",
       "description": "We ran the same coding tasks with and without prebundled tooling, across multiple models and languages. Here’s what changed. Eval-driven development IDE-native search reduced latency, cost, and budget overruns. The comparison below uses paired task-level deltas. Aggregate medians and totals are…",
       "link": "https://blog.jetbrains.com/ai/2026/05/what-happens-when-you-give-agents-ide-native-seach-tools/",
+      "pubDate": "2026-05-04T13:01:16.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ffd264a03b06",
+      "title": "We Gave Agents IDE-Native Search Tools. They Got Faster and Cheaper.",
+      "description": "We ran the same coding tasks with and without prebundled tooling, across multiple models and languages. Here’s what changed. Eval-driven development IDE-native search reduced latency, cost, and budget overruns. The comparison below uses paired task-level deltas. Aggregate medians and totals are…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/what-happens-when-you-give-agents-ide-native-seach-tools",
       "pubDate": "2026-05-04T13:01:16.000Z",
       "source": "JetBrains AI Blog",
       "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
