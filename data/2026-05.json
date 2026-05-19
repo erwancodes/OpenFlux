@@ -2,6 +2,274 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e300872f4ffe",
+      "title": "GEO vs SEO en 2026 : Google remet les points sur les i.",
+      "description": "Beaucoup d'entreprises se posent la question de savoir comment être visible dans les moteurs de recherche IA. Cet article est destiné à faire le point sur l'état des lieux dans ce domaine et est fait pour démystifier certaines recommandations qui courent sur le web. L’article GEO vs SEO en 2026 :…",
+      "link": "https://oliviersauvage.com/2026/05/19/geo-vs-seo-en-2026-google-remet-les-points-sur-les-i/",
+      "pubDate": "2026-05-19T06:53:38.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0fa85d2a0e8d",
+      "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
+      "description": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
+      "link": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
+      "pubDate": "2026-05-19T05:50:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "62156d4e1d41",
+      "title": "Transformation IA en agence créative : ce qui fonctionne pour les petites structures",
+      "description": "Les agences créatives de 10 à 100 personnes n'ont pas de DSI, pas de budget R&D, pas de \"Head of AI\". Pourtant certaines sont plus avancées dans leur adoption IA que des entreprises dix fois plus grandes. Comment font-elles ?",
+      "link": "https://www.blogdumoderateur.com/transformation-ia-agence-creative-petites-structures/",
+      "pubDate": "2026-05-19T05:00:54.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Marie-Robin-Interview-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6558391b2183",
+      "title": "OSHA probing worker death at SpaceX’s Starbase site",
+      "description": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
+      "link": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+      "pubDate": "2026-05-18T21:55:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8c9612000f0a",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "description": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "pubDate": "2026-05-18T21:29:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8fbea5f2bbba",
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "description": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "pubDate": "2026-05-18T19:27:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac84b4fce694",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "description": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "pubDate": "2026-05-18T17:34:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3a91c51c174",
+      "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+      "description": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
+      "link": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
+      "pubDate": "2026-05-18T16:32:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8d62859ec507",
+      "title": "Technostress et IA générative : le remplacement n’est pas le cœur du problème",
+      "description": "« Je pense effectivement que le secteur va un peu changer. Mais ce n’est pas comme si vous pouviez être remplacé. » Sortis des ronces des études économiques qui prétendent que le travail sera automatisé, il suffit d’une quinzaine d’entretiens Technostress et IA générative : le remplacement n’est…",
+      "link": "https://maisouvaleweb.fr/technostress-et-ia-generative-le-remplacement-nest-pas-le-coeur-du-probleme/",
+      "pubDate": "2026-05-18T15:45:02.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ed88ccbd105c",
+      "title": "Kin Health raises $9M to build an AI notetaker for patients",
+      "description": "The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
+      "link": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+      "pubDate": "2026-05-18T15:26:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f88675530687",
+      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+      "description": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "pubDate": "2026-05-18T14:56:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2a1315c597cd",
+      "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
+      "description": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
+      "link": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
+      "pubDate": "2026-05-18T13:42:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "55633f0b6e93",
+      "title": "South Korea’s LetinAR is building optics behind AI glasses",
+      "description": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+      "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "pubDate": "2026-05-18T11:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3396b938f745",
+      "title": "Computer Vision et Rugby : retour d’expérience sur la construction d’un pipeline d’analyse vidéo avec YOLO et DeepFace",
+      "description": "L’IA dans le sport, tout le monde en parle. Le player tracking en NBA, les analyses xG en football, les capteurs GPS dans les maillots… Mais, quand on creuse un peu, on se rend compte que certains sports restent les grands oubliés de cette r&",
+      "link": "https://blog.ippon.fr/2026/05/18/computer-vision-et-rugby-retour-dexperience-sur-la-construction-dun-pipeline-danalyse-video-avec-yolo-et-deepface/",
+      "pubDate": "2026-05-18T09:52:36.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Gemini_Generated_Image_ei981uei981uei98.png",
+      "type": "blog"
+    },
+    {
+      "id": "1a8a58d1254d",
+      "title": "ChatGPT intègre une fonctionnalité pour gérer ses finances personnelles",
+      "description": "D'abord déployée aux États-Unis, cette fonctionnalité connecte ChatGPT aux comptes bancaires des utilisateurs pour analyser leurs dépenses et les aider à planifier leurs objectifs.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-fonctionnalite-gerer-finances-personnelles/",
+      "pubDate": "2026-05-18T09:05:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/chatgpt-fonctionnalite-gestion-finances-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "44cf8afd50fc",
+      "title": "SEO : Google publie son guide officiel sur l’IA",
+      "description": "Google vient de publier un guide officiel dédié à l'optimisation pour ses fonctionnalités de recherche IA, comme les AI Overviews et l'AI Mode. Voici ce qu'il faut retenir.",
+      "link": "https://www.blogdumoderateur.com/seo-google-guide-officiel-ia/",
+      "pubDate": "2026-05-18T09:02:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Google-IA-recommandations-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "18d5b0451523",
+      "title": "IA générative et retail : 5 conseils d’expert pour réussir l’intégration et garantir le ROI",
+      "description": "Yann Puslecki, consultant en e-commerce et data, discute de l'intégration de l'IA générative dans les entreprises de retail. Avec 25 ans d'expérience, il souligne l'importance d'aligner la stratégie IA sur la vision globale, de prioriser les initiatives, de redéfinir le rôle humain et de mesurer la…",
+      "link": "https://oliviersauvage.com/2026/05/18/ia-generative-et-retail-5-conseils-dexpert-pour-reussir-lintegration-et-garantir-le-roi/",
+      "pubDate": "2026-05-18T08:37:27.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a9867d5cb534",
       "title": "IA : 5 formations pour se perfectionner dans le prompt engineering",
       "description": "Notre sélection de formations de la semaine est destinée à celles et ceux souhaitant développer leurs compétences dans les outils d'IA et l'art du prompt.",
@@ -47,6 +315,23 @@
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/04/SEO-differencier-294x172.jpg",
       "type": "blog"
+    },
+    {
+      "id": "25b17a738962",
+      "title": "Qu'est-ce qu'un token JWT ?",
+      "description": "Est-ce que le contenu d'un JWT est chiffré ? Est-ce qu'il est public ? Comment est-il sécurisé ? On répond à toutes vos questions dans cet épisode ! Notes de l'épisode : SecretPDF : https://www.secretpdf.io/",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Quest-ce-quun-token-JWT-e3jg9gg",
+      "pubDate": "2026-05-18T05:00:00.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/120120272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-17%2F40dc8338-7bd3-d3bc-7b88-8a2333cd4bc3.mp3",
+      "duration": "00:10:50"
     },
     {
       "id": "dc92fc4324ad",
@@ -234,6 +519,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3aaea3375e37",
+      "title": "jakzal/phpqa : sortir la QA Symfony de son vendor/",
+      "description": "Découvrez jakzal/phpqa, une image Docker pour exécuter des outils de qualité de code en PHP sans les installer dans votre projet. Finis les conflits de dépendances et les paquets inutiles en production.",
+      "link": "https://lecodeestdanslepre.fr/billets/jakzal-phpqa-sortir-la-qa-symfony-de-son-vendor",
+      "pubDate": "2026-05-16T17:56:11.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
