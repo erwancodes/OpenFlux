@@ -449,6 +449,23 @@
       "type": "blog"
     },
     {
+      "id": "4879afc6f2be",
+      "title": "Retour sur la LaraconEU 2026",
+      "description": "Pour la troisième année consécutive, notre coopérative a pris part à la LaraconEU. Avec près de 1 000 participants au Passenger Terminal Amsterdam, cette édition record fut un concentré d’innovations techniques et d’échanges architecturaux. Voici notre récapitulatif de ces deux jours intensifs.…",
+      "link": "https://les-tilleuls.coop/Blog/retour-sur-la-laraconeu-2026",
+      "pubDate": "2026-03-31T08:01:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/03/30951-1024x768.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "8966b18cd82e",
       "title": "Ton lockfile t'a peut-être sauvé la vie cette nuit",
       "description": "Cette nuit, axios , plus de 100 millions de téléchargements npm par semaine, a été compromis. Un attaquant a pris le contrôle du compte npm du mainteneur principal et a publié deux versions vérolées…",
@@ -886,6 +903,23 @@
       "title": "Ember : Le monitoring temps réel pour Caddy et FrankenPHP est disponible",
       "description": "Nous sommes ravis de vous annoncer la sortie de Ember dans sa première version, un outil d’observabilité taillé pour FrankenPHP et Caddy. En tant que mainteneurs de ces différents projets open-source, nous souhaitons proposer à tous la meilleure expérience de monitoring et la plus intégrée possible…",
       "link": "https://les-tilleuls.coop/blog/ember-le-monitoring-temps-reel-pour-caddy-et-frankenphp-est-disponible",
+      "pubDate": "2026-03-30T08:31:09.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ec-1f1e7.png",
+      "type": "blog"
+    },
+    {
+      "id": "81a530e5b85a",
+      "title": "Ember : Le monitoring temps réel pour Caddy et FrankenPHP est disponible",
+      "description": "Nous sommes ravis de vous annoncer la sortie de Ember dans sa première version, un outil d’observabilité taillé pour FrankenPHP et Caddy. En tant que mainteneurs de ces différents projets open-source, nous souhaitons proposer à tous la meilleure expérience de monitoring et la plus intégrée possible…",
+      "link": "https://les-tilleuls.coop/Blog/ember-le-monitoring-temps-reel-pour-caddy-et-frankenphp-est-disponible",
       "pubDate": "2026-03-30T08:31:09.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",
@@ -6874,6 +6908,23 @@
       "title": "Sortie d’API Platform 4.3 : rencontre avec l’IA",
       "description": "Nous sommes ravis d’annoncer la sortie d’API Platform 4.3 ! Cette version introduit une fonctionnalité majeure : le support natif du Model Context Protocol (MCP), permettant à vos ressources d’être directement consommées par des agents IA. Au-delà du MCP, cette version apporte des capacités de…",
       "link": "https://les-tilleuls.coop/blog/sortie-dapi-platform-4-3-rencontre-avec-lia",
+      "pubDate": "2026-03-13T15:46:32.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/03/Gemini_Generated_Image_wgyyxbwgyyxbwgyy-1-1024x512.png",
+      "type": "blog"
+    },
+    {
+      "id": "f0e9e4b25355",
+      "title": "Sortie d’API Platform 4.3 : rencontre avec l’IA",
+      "description": "Nous sommes ravis d’annoncer la sortie d’API Platform 4.3 ! Cette version introduit une fonctionnalité majeure : le support natif du Model Context Protocol (MCP), permettant à vos ressources d’être directement consommées par des agents IA. Au-delà du MCP, cette version apporte des capacités de…",
+      "link": "https://les-tilleuls.coop/Blog/sortie-dapi-platform-4-3-rencontre-avec-lia",
       "pubDate": "2026-03-13T15:46:32.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",

@@ -1526,6 +1526,23 @@
       "type": "blog"
     },
     {
+      "id": "110d67bbdd46",
+      "title": "Ember 1.2 / 1.3 : logs, plugins et une plateforme qui grandit avec vous",
+      "description": "Il y a quelques semaines, nous avons sorti Ember 1.1 et transformé un simple moniteur Caddy en quelque chose qui ressemblait davantage à un panneau de contrôle : un onglet Config, une vue Certificates, des graphiques waterfall, le support des sockets Unix. Les retours ont été excellents : issues,…",
+      "link": "https://les-tilleuls.coop/Blog/ember-1-2-1-3-highlight-des-nouvelles-features",
+      "pubDate": "2026-04-28T06:00:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-release-1024x569.webp",
+      "type": "blog"
+    },
+    {
       "id": "0d276a4b6595",
       "title": "Sauvegarder votre Raspberry Pi avec rpi-clone et rsync",
       "description": "Une mise à jour qui se passe mal, une coupure de courant : la carte SD n'y survit pas toujours. rsync + rpi-clone pour ne plus tout reconfigurer depuis zéro.",
@@ -1787,6 +1804,23 @@
       "title": "47,5 % d’économie Cloud : retour d’expérience sur l’optimisation de la plateforme Mercure.rocks",
       "description": "Fournir un service managé haute performance et temps réel comme Mercure.rocks exige une infrastructure robuste. Face à la croissance rapide de notre base d’utilisateurs, nous avons souhaité reprendre le contrôle sur notre consommation de ressources Cloud : nous avons donc passé notre infra au…",
       "link": "https://les-tilleuls.coop/blog/economie-cloud-retour-dexperience-sur-loptimisation-de-la-plateforme-mercure-rocks",
+      "pubDate": "2026-04-27T13:07:20.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/cloud-1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "6c5ba2dff181",
+      "title": "47,5 % d’économie Cloud : retour d’expérience sur l’optimisation de la plateforme Mercure.rocks",
+      "description": "Fournir un service managé haute performance et temps réel comme Mercure.rocks exige une infrastructure robuste. Face à la croissance rapide de notre base d’utilisateurs, nous avons souhaité reprendre le contrôle sur notre consommation de ressources Cloud : nous avons donc passé notre infra au…",
+      "link": "https://les-tilleuls.coop/Blog/economie-cloud-retour-dexperience-sur-loptimisation-de-la-plateforme-mercure-rocks",
       "pubDate": "2026-04-27T13:07:20.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",
@@ -6756,6 +6790,23 @@
       "type": "blog"
     },
     {
+      "id": "4417142dbd5a",
+      "title": "Ember 1.1: Le dashboard FrankenPHP devient encore meilleur",
+      "description": "Quand j’ai sorti Ember 1.0, la mission était claire : offrir aux utilisateurs de Caddy et FrankenPHP un monitoring temps réel, sans configuration, directement depuis le terminal. Les retours de la communauté ont été incroyables, et cela m’a poussé à aller plus loin. Aujourd’hui, nous sommes heureux…",
+      "link": "https://les-tilleuls.coop/Blog/ember-1-1-le-dashboard-frankenphp-devient-encore-meilleur",
+      "pubDate": "2026-04-14T06:00:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-1-1-1024x568.webp",
+      "type": "blog"
+    },
+    {
       "id": "6e56ba45fdb5",
       "title": "Faut-il publier régulièrement pour rester visible sur Google ?",
       "description": "Publier régulièrement est-il vraiment indispensable pour rester visible sur Google ? Deux experts nous présentent leur point de vue.",
@@ -8072,6 +8123,23 @@
       "title": "SymfonyLive Paris 2026 : TUI, Base de données et FrankenPHP",
       "description": "La SymfonyLive Paris 2026 s’est tenu fin mars, comme chaque année. Pas de blabla conceptuel à l’horizon : on a eu droit à des évolutions pragmatiques et puissantes, avec un focus très net sur la CLI, l’infrastructure et l’intégration de l’IA. Tour d’horizon condensé des annonces principales de ce…",
       "link": "https://les-tilleuls.coop/blog/symfonylive-paris-2026-tui-base-de-donnees-et-frankenphp",
+      "pubDate": "2026-04-09T13:07:15.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/image-1024x768.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "8d701378e50a",
+      "title": "SymfonyLive Paris 2026 : TUI, Base de données et FrankenPHP",
+      "description": "La SymfonyLive Paris 2026 s’est tenu fin mars, comme chaque année. Pas de blabla conceptuel à l’horizon : on a eu droit à des évolutions pragmatiques et puissantes, avec un focus très net sur la CLI, l’infrastructure et l’intégration de l’IA. Tour d’horizon condensé des annonces principales de ce…",
+      "link": "https://les-tilleuls.coop/Blog/symfonylive-paris-2026-tui-base-de-donnees-et-frankenphp",
       "pubDate": "2026-04-09T13:07:15.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",
@@ -10706,6 +10774,23 @@
       "title": "Programmer à la vitesse de la pensée : la nouvelle ère de Symfony Docker",
       "description": "Parler de l’expérience développeur (DX) en 2026, c’est indéniablement parler de feedback instantané et d’agents de code. Lors du SymfonyLive Paris 2026, Kévin Dunglas a présenté « Coding at the Speed of Thought: Symfony DX in 2026 », une conférence où il a détaillé les fonctionnalités de pointe que…",
       "link": "https://les-tilleuls.coop/blog/symfony-docker-dx",
+      "pubDate": "2026-04-01T13:27:42.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/Capture-decran-2026-04-01-a-15.06.40-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "c1381082a405",
+      "title": "Programmer à la vitesse de la pensée : la nouvelle ère de Symfony Docker",
+      "description": "Parler de l’expérience développeur (DX) en 2026, c’est indéniablement parler de feedback instantané et d’agents de code. Lors du SymfonyLive Paris 2026, Kévin Dunglas a présenté « Coding at the Speed of Thought: Symfony DX in 2026 », une conférence où il a détaillé les fonctionnalités de pointe que…",
+      "link": "https://les-tilleuls.coop/Blog/symfony-docker-dx",
       "pubDate": "2026-04-01T13:27:42.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",
