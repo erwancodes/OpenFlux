@@ -2,6 +2,453 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e268754aaa10",
+      "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
+      "description": "The company said its plans will range from 1 GB over 7 days to 20 GB over 30 days. Initially, the launch will make the eSIM product available in 29 countries.",
+      "link": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
+      "pubDate": "2026-05-21T06:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ed8672ce5e97",
+      "title": "General Catalyst just led a $63M bet on India’s travel payments market",
+      "description": "Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation.",
+      "link": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
+      "pubDate": "2026-05-21T05:52:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a462885791ef",
+      "title": "Refonte complète de mon infrastructure DNS avec Technitium et AdGuard Home en haute disponibilité",
+      "description": "Un setup DNS sans redondance ni zone locale, c'est un SPOF qui s'ignore. Découvrez comment refondre son infrastructure DNS en haute disponibilité avec Technitium, AdGuard Home et Proxmox HA.",
+      "link": "https://domopi.eu/refonte-complete-de-mon-infrastructure-dns-avec-technitium-et-adguard-home-en-haute-disponibilite/",
+      "pubDate": "2026-05-21T05:45:17.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/05/article_dns.webp",
+      "type": "blog"
+    },
+    {
+      "id": "821177c112b6",
+      "title": "WordPress 7.0 vu par Alex Borto : ce que cette version apporte vraiment aux professionnels du web",
+      "description": "Connecteurs IA, nouvelle API, refonte de l'interface d'administration, gestion des révisions... Alex Borto, fondateur de WPMarmite, passe en revue les nouveautés de la version 7.0 du CMS et nous livre ses conseils pour bien préparer la migration.",
+      "link": "https://www.blogdumoderateur.com/wordpress-7-0-alex-borto-version-apporte-vraiment-professionnels-web/",
+      "pubDate": "2026-05-21T05:00:22.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/alex-borto-wpmarmite-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9020c7f70cf7",
+      "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+      "description": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
+      "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+      "pubDate": "2026-05-21T04:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7d348541d3a3",
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "pubDate": "2026-05-21T00:28:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9da0e246b9a9",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "pubDate": "2026-05-21T00:21:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "02ef6516e070",
+      "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+      "description": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board.",
+      "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+      "pubDate": "2026-05-20T23:03:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c8b520e4dc18",
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "description": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "pubDate": "2026-05-20T22:30:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f85607338daf",
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "description": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "pubDate": "2026-05-20T22:26:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e1e25bd6eee4",
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "description": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "pubDate": "2026-05-20T22:03:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ef622ed86c0c",
+      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+      "description": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "pubDate": "2026-05-20T21:55:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ef16b68dd61",
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "pubDate": "2026-05-20T21:29:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "19f9642c54ab",
+      "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+      "description": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
+      "link": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+      "pubDate": "2026-05-20T21:23:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "caab5f4258b9",
+      "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it. ",
+      "description": "Slapping “AI” on your startup’s pitch deck is basically table stakes right now. When a founder raised $20 million from Cathie Wood’s ARK Invest for an eSports gamification loyalty startup without those two letters in the spotlight, it got us wondering how the conversation even started — especially…",
+      "link": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
+      "pubDate": "2026-05-20T21:21:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "65a9a27a2031",
+      "title": "Microsoft’s carbon-removal plans aren’t dead after all",
+      "description": "Microsoft is responsible for over 90% of the carbon-removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fears of CDR startups.",
+      "link": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
+      "pubDate": "2026-05-20T20:30:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7932795805a6",
+      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+      "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "pubDate": "2026-05-20T20:28:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "27e38315ab03",
+      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "description": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
+      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "pubDate": "2026-05-20T19:47:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a74d0a3221a2",
+      "title": "Tesla’s Full Self-Driving software is creeping into Europe",
+      "description": "First came the Netherlands, now it's Lithuania. And more European countries appear to be in the queue for Tesla's driver-assistance system.",
+      "link": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
+      "pubDate": "2026-05-20T18:32:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ecb734987d39",
+      "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
+      "description": "Airbnb will soon let you book luggage storage and car rental services on its app.",
+      "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
+      "pubDate": "2026-05-20T18:14:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89eca6df1726",
+      "title": "Global EV market goes K-shaped as the US gets left behind",
+      "description": "EV sales have surged worldwide in every region but the U.S., posing risks for legacy and startup automakers.",
+      "link": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
+      "pubDate": "2026-05-20T17:34:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a41f9318676d",
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "description": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "pubDate": "2026-05-20T17:24:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bda6d2dc643c",
+      "title": "Du Bronx au C-level : le parcours de Shana Simmons, Chief Legal Officer de Zendesk",
+      "description": "Pour BDM, la Chief Legal Officer de Zendesk revient sur son parcours, sa pratique du droit à l'ère agentique et sa lecture de la responsabilité juridique des agents IA.",
+      "link": "https://www.blogdumoderateur.com/bronx-c-level-shana-simmons-chief-legal-officer-zendesk/",
+      "pubDate": "2026-05-20T15:00:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Shana-Simmons-zendesk-CLO-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "3e4efffc1690",
+      "title": "OpenAI lance un outil pour identifier les images créées par ChatGPT",
+      "description": "OpenAI met en ligne un outil pour détecter si une image provient de ses modèles, en croisant les métadonnées C2PA et le filigrane invisible SynthID de Google. Voici comment y accéder, et l'utiliser.",
+      "link": "https://www.blogdumoderateur.com/openai-outil-identifier-images-chatgpt/",
+      "pubDate": "2026-05-20T09:48:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/outil-verification-images-ia-openai-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "fec6e4121937",
+      "title": "Google présente Gemini Spark, un agent autonome qui gère vos tâches en arrière-plan",
+      "description": "Proche, dans son concept, d'agents IA comme OpenClaw ou Perplexity Computer, Gemini Spark a l'avantage d'être hébergé dans le cloud et directement relié à l'environnement Google Workspace.",
+      "link": "https://www.blogdumoderateur.com/google-gemini-spark/",
+      "pubDate": "2026-05-20T09:36:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/gemini-spark.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "08866ad68790",
+      "title": "Google Search dévoile sa « plus grande refonte en plus de 25 ans »",
+      "description": "Lors du Google I/O 2026, l'entreprise a dévoilé une refonte majeure de son moteur de recherche, avec des capacités agentiques, une interface générative et une personnalisation inédite.",
+      "link": "https://www.blogdumoderateur.com/google-search-refonte-25-ans/",
+      "pubDate": "2026-05-20T09:33:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/barre-recherche-google.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "b716bcea35cd",
+      "title": "5 nouveautés dans l’application Gemini : nouvelle interface, vidéo IA, briefing personnalisé…",
+      "description": "Google a profité de sa conférence annuelle pour retravailler en profondeur l'application Gemini. Tour d'horizon des cinq nouveautés présentées ce 19 mai 2026.",
+      "link": "https://www.blogdumoderateur.com/5-nouveautes-application-gemini-interface-video-ia-briefing-personnalise/",
+      "pubDate": "2026-05-20T09:31:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/SimpleUI_UI_Gemini_Daily_Brief_v60_1_B5QMIn7-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "f4493aa1a520",
+      "title": "Réforme de la facturation électronique : ce que les TPE/PME ont à y gagner",
+      "description": "Calendrier, formats, plateformes agréées : les grandes lignes de la réforme sont connues. Ce que les TPE et PME sous-estiment encore, c'est la profondeur des changements qu'elle implique, au-delà de la mise en conformité.",
+      "link": "https://www.blogdumoderateur.com/reforme-facturation-electronique-tpe-pme/",
+      "pubDate": "2026-05-20T09:26:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/facturation-electronique-expert-macompta-294x172.jpg",
+      "type": "blog"
+    },
+    {
       "id": "096e5c9c631c",
       "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
       "description": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
@@ -493,6 +940,21 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Marie-Robin-Interview-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b7b96e3bef72",
+      "title": "Lectures complémentaires sur la fatigue liée à l'IA",
+      "description": "En février dernier, j’écrivais sur productivité et qualité : la délégation mal pensée, la charge cognitive des validateurs, l’érosion silencieuse des compétences collectives. Un texte construit depuis une perspective organisationnelle à partir de mes discussions avec mes confrères et consoeurs…",
+      "link": "https://boris.schapira.dev/notes/2026-05-lectures-fatigue-ia/",
+      "pubDate": "2026-05-18T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -2582,6 +3044,23 @@
       "type": "blog"
     },
     {
+      "id": "96d738a1c140",
+      "title": "API Platform Conference 2026 : les thématiques à ne pas manquer cette année",
+      "description": "Le programme de l’API Platform Conference est en ligne depuis ce matin, et cette sixième édition s’annonce ambitieuse. Entre l’explosion de l’IA, la maturité de FrankenPHP appliquée à des projets en production et les enjeux de résilience, le contenu est particulièrement dense. Que vous soyez là…",
+      "link": "https://les-tilleuls.coop/blog/api-platform-conference-2026-les-thematiques-a-ne-pas-manquer-cette-annee",
+      "pubDate": "2026-05-12T09:45:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/announcement1-1024x569.png",
+      "type": "blog"
+    },
+    {
       "id": "0c8a3eaa87b4",
       "title": "Cybersécurité : qu’est-ce que Daybreak, la nouvelle initiative d’OpenAI ?",
       "description": "OpenAI dévoile Daybreak, une plateforme qui associe ses modèles GPT-5.5, l'agent Codex Security et un réseau de partenaires pour intégrer la sécurité logicielle dès la phase de développement.",
@@ -3470,6 +3949,21 @@
       "type": "blog"
     },
     {
+      "id": "1912a4ddb009",
+      "title": "Le message",
+      "description": "Je suis en train de conduire donc c’est Rocky qui décroche. C’est sa mère : – Rocky, j’ai besoin que tu dises quelque chose à Papa. Entre-temps, j’avais eu le temps de me garer pour prendre l’appel, parce que je ne comprenais rien ! rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-05-le-message/",
+      "pubDate": "2026-05-08T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4b3f35abf448",
       "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
       "description": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
@@ -4322,6 +4816,21 @@
       "title": "Pas le temps",
       "description": "Non mais vas-y, c’est une dinguerie ! Maman m’a dit hier soir que je pouvais ne pas prendre ma douche hier soir et la prendre “plus tard”. Mais, wesh, gros, si tu décales mon réveil à 7h30 parce que je commence à 9h, tu me demandes pas de prendre ma douche le matin en fait ! Là il est 7h58, et j’ai…",
       "link": "https://boris.schapira.dev/notes/2026-05-pas-le-temps/\n",
+      "pubDate": "2026-05-06T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "496af77a6ad3",
+      "title": "Pas le temps",
+      "description": "Non mais vas-y, c’est une dinguerie ! Maman m’a dit hier soir que je pouvais ne pas prendre ma douche hier soir et la prendre “plus tard”. Mais, wesh, gros, si tu décales mon réveil à 7h30 parce que je commence à 9h, tu me demandes pas de prendre ma douche le matin en fait ! Là il est 7h58, et j’ai…",
+      "link": "https://boris.schapira.dev/notes/2026-05-pas-le-temps/",
       "pubDate": "2026-05-06T22:00:00.000Z",
       "source": "Boris Schapira",
       "sourceUrl": "https://boris.schapira.dev/feed.xml",
