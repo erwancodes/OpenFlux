@@ -2,6 +2,532 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "270683e66f81",
+      "title": "SEO : Google déploie une mise à jour majeure de ses algorithmes (May 2026 Core Update)",
+      "description": "Les modifications apportées au système de classement peuvent affecter la visibilité organique de votre site dans les résultats de recherche.",
+      "link": "https://www.blogdumoderateur.com/google-may-2026-core-update/",
+      "pubDate": "2026-05-22T07:27:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/google-may-core-update-2026-294x146.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "09f6ef213c3d",
+      "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+      "description": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
+      "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "pubDate": "2026-05-22T06:41:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "08533b91ac1c",
+      "title": "MACI #159 - Claude Agent, PGbackrest, sécurité et NPM - Avec Antoine Blondeau et Gilles Biannic",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on démarre avec des outils open source créés pour piloter des applications Clever Cloud, avant de parler de Claude Agent View et de ce que ces interfaces changent dans la manière de suivre le travail des agents IA. Et puis, comme souvent…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-159-claude-agent-open-source-et-securite-npm-avec-antoine-blondeau",
+      "pubDate": "2026-05-22T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/4FThA3NDCgNvOA5FdzKIQlMgQ4NSgetkfLnWz1ET_1400x1400.jpeg?t=1779287547",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/b2GmKTYXGqAe.mp3?t=1779282611",
+      "duration": "55:38"
+    },
+    {
+      "id": "01e5cfc7f120",
+      "title": "À quelle fréquence publier sur les réseaux sociaux pour rester visible ?",
+      "description": "Faut-il publier énormément pour espérer être plus visible ? Trois professionnels du social media partagent leur vision sur ce vaste sujet.",
+      "link": "https://www.blogdumoderateur.com/a-quelle-frequence-publier-reseaux-sociaux-rester-visible/",
+      "pubDate": "2026-05-22T05:00:20.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/social-media-frequence-publication-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "ad985d1acb6b",
+      "title": "#343.exe - Sensome: La miniaturisation jusqu'à l'extrême par Yacine Hmito",
+      "description": "Pour l'épisode #343 je recevais Gor Lebedev. On en débrief avec Yacine. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-343-af95e900dbc0",
+      "pubDate": "2026-05-22T03:00:36.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/2635543b-67a0-4ef3-ae65-af95e900dbc0.mp3?_=1779364896",
+      "duration": "10:26"
+    },
+    {
+      "id": "0ea644fcb1e4",
+      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+      "description": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+      "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+      "pubDate": "2026-05-22T00:37:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16949caec16c",
+      "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+      "description": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
+      "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+      "pubDate": "2026-05-22T00:07:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2b7943304f72",
+      "title": "🎤 Talks donnés à DevOpsdays Genève 🎤",
+      "description": "Liste de talks donnés lors de la conférence DevOpsdays Genève",
+      "link": "https://philippart-s.github.io/blog/talks/devoxx-geneva-2026/",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cb8ace6d124f",
+      "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+      "description": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
+      "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+      "pubDate": "2026-05-21T21:39:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b3960d95087d",
+      "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
+      "description": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
+      "link": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
+      "pubDate": "2026-05-21T21:13:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "51ac43b2629a",
+      "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+      "description": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
+      "link": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
+      "pubDate": "2026-05-21T21:00:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "76ffe809c4eb",
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "description": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "pubDate": "2026-05-21T19:45:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "221648b4f504",
+      "title": "How Elon Musk will increase his power through the SpaceX IPO",
+      "description": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
+      "link": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
+      "pubDate": "2026-05-21T19:35:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d6f7837d8970",
+      "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
+      "description": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now been identified.",
+      "link": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
+      "pubDate": "2026-05-21T19:33:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "45a3c7b11299",
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "description": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "pubDate": "2026-05-21T19:19:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1fa4b75cdb5b",
+      "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+      "description": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
+      "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+      "pubDate": "2026-05-21T17:41:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dea9fb3822d1",
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+      "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+      "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "pubDate": "2026-05-21T17:30:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eb3560bb4ccf",
+      "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
+      "description": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
+      "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
+      "pubDate": "2026-05-21T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9fe3e2941f05",
+      "title": "Spotify takes on Google’s NotebookLM with its new app",
+      "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+      "link": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+      "pubDate": "2026-05-21T15:27:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "02f7a7c14318",
+      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+      "description": "Spotify will let you generate daily or weekly briefs based on your prompts",
+      "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "pubDate": "2026-05-21T15:27:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bbb09848c759",
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "description": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+      "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "pubDate": "2026-05-21T15:27:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "120c96dd84c1",
+      "title": "Spotify will reserve tickets for top fans of an artists in a bid to drum up engagement",
+      "description": "Spotify said that it will monitor activity like streams and shares to determine who is a top fan",
+      "link": "https://techcrunch.com/2026/05/21/spotify-will-reserve-tickets-for-top-fans-of-an-artists-in-a-bid-to-drum-up-engagement/",
+      "pubDate": "2026-05-21T15:26:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "144de4753569",
+      "title": "Andre Heller Pérache (IRC Signpost) : le service client appliqué à l’humanitaire",
+      "description": "Des zones de crise à la direction du programme Signpost (IRC), Andre Heller Pérache explique le fonctionnement d'un service client humanitaire, à l'heure où l'IA agentique entre en jeu.",
+      "link": "https://www.blogdumoderateur.com/irc-signpost-service-client-applique-humanitaire/",
+      "pubDate": "2026-05-21T15:00:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Andre-heller-IRC-BDM-294x195.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "16d653c1aea3",
+      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "description": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+      "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "pubDate": "2026-05-21T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "353546c00a15",
+      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+      "description": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
+      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "pubDate": "2026-05-21T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "74ec5b60ab9a",
+      "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
+      "description": "Maka Kids is building a streaming app for children ages zero to six featuring content designed for healthy development. The startup has now raised $3 million in seed funding to scale its platform.",
+      "link": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
+      "pubDate": "2026-05-21T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dae999ce27b8",
+      "title": "Google publie son guide d’optimisation pour l’IA : spoiler, arrêtez le bullshit SEO !",
+      "description": "Cet article présente les récentes recommandations de Google pour optimiser le contenu à l'ère de l'IA. Google insiste sur l'importance de l'expérience utilisateur, de contenu authentique et structuré, ainsi que de médias de qualité. Les pratiques à éviter incluent la suroptimisation et…",
+      "link": "https://oliviersauvage.com/2026/05/21/google-publie-son-guide-doptimisation-pour-lia-spoiler-arretez-le-bullshit-seo/",
+      "pubDate": "2026-05-21T11:05:00.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d7047260eae7",
+      "title": "Le guide provisoire du GEO pour le B2B en 2026",
+      "description": "Ce guide du GEO, destiné aux professionnels du B2B, présente les meilleures pratiques pour optimiser la visibilité dans les moteurs d'IA, face à la montée des LLM. Il souligne l'importance d'être cité par ces outils, tout en continuant à valoriser le SEO traditionnel. Le GEO complète le SEO sans le…",
+      "link": "https://oliviersauvage.com/2026/05/21/le-guide-provisoire-du-geo-pour-le-b2b-en-2026/",
+      "pubDate": "2026-05-21T10:25:51.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "28ea97b36a1b",
+      "title": "Pourquoi Tesla mise des milliards sur Optimus ?",
+      "description": "SpaceX pourrait bientôt faire de l’ombre à Tesla en Bourse Pendant longtemps, Tesla a été perçue comme la société qui allait révolutionner l’automobile. L’entreprise d’Elon Musk a bouleversé l’industrie des véhicules électriques, forcé les constructeurs historiques à accélérer leur transition…",
+      "link": "https://www.robot-magazine.fr/pourquoi-tesla-mise-des-milliards-sur-optimus/?utm_source=rss&utm_medium=rss&utm_campaign=pourquoi-tesla-mise-des-milliards-sur-optimus",
+      "pubDate": "2026-05-21T09:27:26.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "9ea0060d8290",
+      "title": "Figma intègre un agent IA à son espace de travail collaboratif",
+      "description": "Figma déploie un agent IA natif dans Figma Design, capable de générer des calques, d'explorer des directions créatives et d'automatiser les tâches répétitives, directement sur le canevas collaboratif.",
+      "link": "https://www.blogdumoderateur.com/figma-integre-agent-ia-espace-travail-collaboratif/",
+      "pubDate": "2026-05-21T09:00:04.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/agent-ia-figma-demo.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "afb2c80ec2be",
+      "title": "LinkedIn va enfin pénaliser les publications générées par IA",
+      "description": "La plateforme déploie un système de détection capable d'identifier les publications générées par IA sans réelle valeur ajoutée. Les posts concernés ne seront pas supprimés, mais exclus des recommandations.",
+      "link": "https://www.blogdumoderateur.com/linkedin-penaliser-publications-generees-ia/",
+      "pubDate": "2026-05-21T08:57:31.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/LinekdIn-lutte-IA-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dd3bda4f6216",
+      "title": "WordPress 7.0 est disponible : voici la liste des nouveautés",
+      "description": "Déployée ce mercredi, cette première mise à jour majeure de l'année \"marque le début d'une nouvelle ère et pose les fondations de l'IA au sein de l'expérience\" WordPress.",
+      "link": "https://www.blogdumoderateur.com/wordpress-7-0-disponible-liste-nouveautes/",
+      "pubDate": "2026-05-21T08:53:17.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/wordpress-7-0-lancement-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b19e4b859818",
+      "title": "Création IA dans le marketing : les chiffres que personne ne partage",
+      "description": "L'IA générative tient-elle ses promesses en production créative et en paid media ? Charlotte Cohen, Head of studio chez datashake et ambassadrice du programme \"Osez l'IA\", partage les chiffres observés après un an d'intégration au sein de son studio.",
+      "link": "https://www.blogdumoderateur.com/creation-ia-marketing-chiffres-personne-partage/",
+      "pubDate": "2026-05-21T08:51:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/charlotte-cohen-datashake-1-294x154.jpg",
+      "type": "blog"
+    },
+    {
       "id": "e268754aaa10",
       "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
       "description": "The company said its plans will range from 1 GB over 7 days to 20 GB over 30 days. Initially, the launch will make the eSIM product available in 29 countries.",
@@ -108,6 +634,22 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ad87566f2504",
+      "title": "🖥️ Construire une TUI en Java avec TamboUI",
+      "description": "Tout le monde peut cuisiner ! ©Gusteau",
+      "link": "https://philippart-s.github.io/blog/2026-05-21-tamboui-tui/",
+      "pubDate": "2026-05-21T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
       ],
       "image": null,
       "type": "blog"
@@ -366,6 +908,21 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Shana-Simmons-zendesk-CLO-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "0f02b490657f",
+      "title": "FrankenPHP en dev : un worker chaud, trois --watch empilés, et un cert qui ne demande rien",
+      "description": "Découvrez FrankenPHP en développement : un worker chaud, trois mécanismes de hot reload empilés et un certificat automatique. Comprenez comment FrankenPHP fonctionne et ce que ses fonctionnalités offrent côté développement.",
+      "link": "https://lecodeestdanslepre.fr/billets/frankenphp-en-dev-un-worker-chaud-trois-watch-empiles-et-un-cert-qui-ne-demande-rien",
+      "pubDate": "2026-05-20T11:05:26.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
