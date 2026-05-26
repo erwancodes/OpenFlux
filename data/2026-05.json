@@ -2,6 +2,130 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "30885e31d6e1",
+      "title": "L’IA physique : le prochain marché que surveille déjà Wall Street",
+      "description": "Pendant que le monde entier reste fasciné par ChatGPT, les agents IA et l’intelligence artificielle générative, une autre révolution est discrètement en train de prendre forme dans les laboratoires des géants technologiques, des industriels et des fonds d’investissement. Son nom : la “Physical AI”,…",
+      "link": "https://www.robot-magazine.fr/lia-physique-le-prochain-marche-que-surveille-deja-wall-street/?utm_source=rss&utm_medium=rss&utm_campaign=lia-physique-le-prochain-marche-que-surveille-deja-wall-street",
+      "pubDate": "2026-05-26T07:41:19.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2026/05/Physical-AI-Data-Robot-Magazine.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dc13b4dd94d0",
+      "title": "Cristina Fonseca : faire de la tech à Lisbonne plutôt qu’à San Francisco",
+      "description": "Talkdesk à 23 ans, Cleverly à 29, VP Product chez Zendesk : Cristina Fonseca livre à BDM son parcours d'entrepreneuse, entre tech américaine et ancrage européen.",
+      "link": "https://www.blogdumoderateur.com/cristina-fonseca-faire-tech-lisbonne-plutot-san-francisco/",
+      "pubDate": "2026-05-26T07:35:26.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Cristina-Fonseca-Zendesk-2-294x172.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "03d8bd6f562e",
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "description": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "pubDate": "2026-05-25T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3b08dd038e43",
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "description": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "pubDate": "2026-05-25T15:09:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4b980fc66f4",
+      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+      "description": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
+      "link": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+      "pubDate": "2026-05-25T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "660a70788e84",
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "description": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "pubDate": "2026-05-25T14:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eeb75bf07a22",
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "description": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+      "link": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "pubDate": "2026-05-25T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a32ff8fc0390",
+      "title": "Le point sur l’inbound marketing en B2B",
+      "description": "Les LLMs, malgré leur popularité croissante, n'apportent pas encore de trafic significatif en France, où Google demeure le principal moteur de recherche. Le marketing doit s'adapter à des comportements en évolution, privilégiant la création de contenu original et pertinent pour construire une…",
+      "link": "https://oliviersauvage.com/2026/05/25/le-point-sur-linbound-marketing-en-b2b/",
+      "pubDate": "2026-05-25T08:23:07.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "23b31478a720",
       "title": "#290.exe - Dev interne: L'ombre de la tech par Alexandre Gerlic",
       "description": "Pour l'épisode #290 je recevais Jean-Baptiste Ronssin. On en débrief avec Alexandre. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et…",
@@ -18,6 +142,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/786afae6-2d40-42e5-a042-8491fa5d8907.mp3?_=1779624039",
       "duration": "12:04"
+    },
+    {
+      "id": "20b5e62abad5",
+      "title": "Transcript de ma conférence « Des structures de données qui vont vous étonner »",
+      "description": "En 2024-2025, j’ai présenté plusieurs fois ma conférence « Des structures de données qui vont vous étonner », où je parle de quelques structures de données, pour attirer l’attention des développeurs et développeuses sur le fait qu’il en existe beaucoup, qu’il est intéressant de savoir les choisir –…",
+      "link": "https://blog.pascal-martin.fr/post/transcript-conference-structures-de-donnees-qui-vont-vous-etonner/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/transcript-conference-structures-de-donnees-qui-vont-vous-etonner/",
+      "pubDate": "2026-05-25T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "bd8c1793d553",
