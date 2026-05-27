@@ -2,6 +2,468 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "10d1ef7e1514",
+      "title": "Sarah El Haïry (Haute-commissaire à l’enfance) : “Ce n’est pas à l’enfant de se protéger de la technologie”",
+      "description": "Sarah El Haïry, Haute-commissaire à l'Enfance, revient pour BDM sur les chantiers ouverts depuis un an et leurs enjeux.",
+      "link": "https://www.blogdumoderateur.com/sarah-el-hairy-enfant-proteger-technologie/",
+      "pubDate": "2026-05-27T05:00:26.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/sarah-el-hairy-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dd7ac9019d5a",
+      "title": "#358.src - DevSecOps: Pourquoi l'automatisation ne sauvera pas (toute seule) la sécu avec Tugdual Grall",
+      "description": "\"La plupart des développeurs ne sont pas des experts en sécurité. On nous demande de développer de plus en plus de choses.\" Le D.E.V. de la semaine est Tugdual Grall, Copilot Specialist chez GitHub. Dans cet épisode, Tug revient sur la façon dont l'IA et l'automatisation bouleversent notre rapport…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-358-15f4f5b20d70",
+      "pubDate": "2026-05-27T03:00:17.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/4a09f082-a3d9-4761-85a5-edfc507af6c1.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/a1f6ef9d-c10f-41c6-986d-15f4f5b20d70.mp3?_=1779796937",
+      "duration": "56:15"
+    },
+    {
+      "id": "ce750d098587",
+      "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
+      "description": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
+      "link": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "pubDate": "2026-05-26T23:49:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "74ed47901876",
+      "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+      "description": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+      "link": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+      "pubDate": "2026-05-26T22:55:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "75a8d5cf2d0f",
+      "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+      "description": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.",
+      "link": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+      "pubDate": "2026-05-26T22:55:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3f56303d1c24",
+      "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+      "description": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
+      "link": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+      "pubDate": "2026-05-26T22:37:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d33737cdb87d",
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "description": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "pubDate": "2026-05-26T22:32:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2023b54f70fd",
+      "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+      "description": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its critics.",
+      "link": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
+      "pubDate": "2026-05-26T21:03:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6126a5184e86",
+      "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+      "description": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
+      "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+      "pubDate": "2026-05-26T18:48:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eefdc8683bfb",
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "description": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "pubDate": "2026-05-26T18:33:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c45b180c0f2d",
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "description": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "pubDate": "2026-05-26T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0aa49dbd5dbc",
+      "title": "Où va Google ? Interview intégrale de Sundar Pichai, CEO de Google – Mai 2026",
+      "description": "Cet article présente une interview de Sundar Pichai, CEO de Google, qui aborde l'impact croissant de l'IA dans les entreprises et son évolution. Pichai souligne les préoccupations autour de l'acceptation de l'IA, la nécessité d'une réglementation, et l'accélération du codage assisté par IA. Les…",
+      "link": "https://oliviersauvage.com/2026/05/26/ou-va-google-interview-integrale-de-sundar-pichai-ceo-de-google/",
+      "pubDate": "2026-05-26T15:54:33.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "924c80f02039",
+      "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
+      "description": "The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology.",
+      "link": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
+      "pubDate": "2026-05-26T15:44:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "51d49d7931a6",
+      "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
+      "description": "A shadowy group that stole and dumped the NSA’s most powerful hacking tools still has implications for how companies think about digital risk today.",
+      "link": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
+      "pubDate": "2026-05-26T15:27:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "460cedaf7e12",
+      "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
+      "description": "An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches after the start of the war in Iran.",
+      "link": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
+      "pubDate": "2026-05-26T15:26:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca1011378b8f",
+      "title": "Ferrari’s first EV is not for you",
+      "description": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV.",
+      "link": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
+      "pubDate": "2026-05-26T15:16:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c5e94c75ffd3",
+      "title": "Découvrir VueUse : la boîte à outils indispensable pour Vue.js",
+      "description": "Découvrez VueUse, une collection de composables ultra pratiques pour Vue.js. Géolocalisation, presse-papiers, gamepads, état du réseau… gagnez du temps avec useClipboard, useGeolocation, useNetwork et useGamepad.",
+      "link": "https://code-garage.com/blog/decouvrir-vueuse-la-boite-a-outils-indispensable-pour-vuejs",
+      "pubDate": "2026-05-26T15:15:39.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e943a6c740f2",
+      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "description": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
+      "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "pubDate": "2026-05-26T14:55:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ba6fb332e9a",
+      "title": "Spotify now lets you stream narrated magazine articles, too",
+      "description": "The streaming service said that, starting today, there will be over 650 long-form magazine articles (available in English only) from publications like Rolling Stone, The Atlantic, Vogue, Variety, Billboard, Vibe, GQ, Wired, Vanity Fair, and Pitchfork.",
+      "link": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
+      "pubDate": "2026-05-26T14:38:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "65d06b38c184",
+      "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
+      "description": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
+      "link": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+      "pubDate": "2026-05-26T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3feb13ddf0ac",
+      "title": "AFUP Day 2026 Paris, retour sur une journée dans l'écosystème PHP",
+      "description": "Ce vendredi 22 mai 2026, l'équipe JoliCode était présente à l'AFUP Day 2026 Paris à l'ESGI Paris pour une journée de conférences. L'ambiance était conviviale et studieuse, avec un programme axé sur l'IA, l'architecture et la productivité. Nous avons eu l'honneur de présenter deux sujets, Loïck…",
+      "link": "https://jolicode.com/blog/afup-day-2026-paris-retour-sur-une-journee-dans-l-ecosysteme-php",
+      "pubDate": "2026-05-26T13:30:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/afup-day/salle-conference.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5902466fe408",
+      "title": "7-Eleven data breach affects over 185,000 people’s personal data",
+      "description": "The data breach included names, dates of birth, postal addresses, and Social Security numbers, according to a state government listing.",
+      "link": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/",
+      "pubDate": "2026-05-26T13:04:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f969abc7c772",
+      "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+      "description": "Stord offers a network of physical warehouses and inventory management software for e-commerce. It bills itself as a sort of anti-Amazon, giving brands \"the speed to compete\" while still owning their customer relationships.",
+      "link": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+      "pubDate": "2026-05-26T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ab74f1d47fb1",
+      "title": "Meta lance Forum, une application dédiée aux groupes Facebook",
+      "description": "Meta a discrètement lancé Forum, une application autonome pour les groupes Facebook qui s'inspire de Reddit, avec une petite touche d'IA supplémentaire.",
+      "link": "https://www.blogdumoderateur.com/meta-lance-forum-application-dediee-groupes-facebook/",
+      "pubDate": "2026-05-26T09:04:45.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/meta-forum-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "dddaf99a53c4",
+      "title": "Instagram introduit une nouvelle option pour personnaliser son algorithme",
+      "description": "La plateforme a discrètement introduit une option baptisée \"Votre algorithme\", permettant aux utilisateurs d'indiquer leurs centres d'intérêt pour affiner les contenus recommandés.",
+      "link": "https://www.blogdumoderateur.com/instagram-introduit-option-personnaliser-algorithme/",
+      "pubDate": "2026-05-26T08:53:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/instagram-votre-algorithme-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "f290ee4cb9d4",
+      "title": "ChatGPT arrive dans PowerPoint pour automatiser la création de slides",
+      "description": "OpenAI lance ChatGPT for PowerPoint en bêta mondiale. Intégré directement au logiciel via un panneau latéral, l'outil prend en charge la création, l'édition et l'analyse de vos présentations à partir de n'importe quelle source.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-powerpoint-automatiser-creation-slides/",
+      "pubDate": "2026-05-26T08:50:12.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/chatgpt-power-point-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e3eafd2d30df",
+      "title": "Expert SEO : 8 formations pour approfondir ses compétences",
+      "description": "Algorithmes, GEO, pilotage de la performance : le référencement naturel évolue vite et les experts SEO doivent se former en continu pour rester dans la course. Tour d'horizon des formations pour gagner en expertise.",
+      "link": "https://www.blogdumoderateur.com/expert-seo-formations-approfondir-competences/",
+      "pubDate": "2026-05-26T08:45:33.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/expert-seo-formations-approfondir-competences-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "554fcb9b76be",
+      "title": "Signature mail : 5 façons de l’activer comme un canal marketing qui cartonne",
+      "description": "La signature mail est présente dans chaque échange professionnel. Pourtant, seules 7 % des entreprises l'exploitent à des fins marketing. Letsignit identifie cinq méthodes concrètes pour en faire un vrai canal de performance.",
+      "link": "https://www.blogdumoderateur.com/signature-mail-5-facons-activer-canal-cartonne/",
+      "pubDate": "2026-05-26T08:15:40.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/letsignit-conseils-signature-mail-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "ae21d32ee096",
+      "title": "How Four Teams Stopped Postponing the Refactoring They Knew They Needed",
+      "description": "As an engineering leader, you don’t need to be told your codebase needs attention. The issue isn’t awareness – it’s the rational risk calculation that follows. For four teams, that calculation kept producing the same answer: defer. They found a way out not by avoiding the calculation, but by…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/how-four-teams-stopped-postponing-the-refactoring-they-knew-they-needed/",
+      "pubDate": "2026-05-26T07:50:15.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/05/wiz-logo.webp",
+      "type": "blog"
+    },
+    {
       "id": "30885e31d6e1",
       "title": "L’IA physique : le prochain marché que surveille déjà Wall Street",
       "description": "Pendant que le monde entier reste fasciné par ChatGPT, les agents IA et l’intelligence artificielle générative, une autre révolution est discrètement en train de prendre forme dans les laboratoires des géants technologiques, des industriels et des fonds d’investissement. Son nom : la “Physical AI”,…",
