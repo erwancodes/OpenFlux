@@ -2,6 +2,482 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "27c18ebc52a0",
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "description": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "pubDate": "2026-05-28T07:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ebacd74a6a02",
+      "title": "Où va le SEO en 2026 en France ? Entretien avec Aurélien Bardon, fondateur de ASEOX",
+      "description": "Aurélien Bardon, expert en SEO, partage ses réflexions sur l'évolution du GEO en France. Bien qu'il n'y ait pas d'expert reconnu dans ce domaine émergent, il souligne l'importance d'une approche honnête et proactive face aux technologies LLM. Bardon préconise de se concentrer sur la notoriété et…",
+      "link": "https://oliviersauvage.com/2026/05/28/ou-va-le-seo-en-2026-en-france-entretien-avec-aurelien-bardon-fondateur-de-aseox/",
+      "pubDate": "2026-05-28T06:50:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da9a3fd883ca",
+      "title": "12 événements à ne pas manquer en juin 2026",
+      "description": "Retrouvez dans cette sélection : des webinars sur l'IA-réputation, la gouvernance de l'IA, le marketing d'influence, les compétences à maîtriser en marketing digital à l'ère de l'IA, les piliers pour performer sur Meta Ads, l'événement 2036, Intelligence Marketing Day, VivaTech, mais aussi Apple…",
+      "link": "https://www.blogdumoderateur.com/evenements-digital-juin-2026/",
+      "pubDate": "2026-05-28T06:30:47.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/evenements-digital-juin-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e59e100ec3c0",
+      "title": "Se former à l’IA : comment choisir la formation qui correspond vraiment à son métier et à son profil ?",
+      "description": "Alors que l’IA redessine de nombreux métiers du digital, suivre une formation dans ce domaine n’est plus une option. Mais comment choisir une formation adaptée à son niveau et à ses objectifs ?",
+      "link": "https://www.blogdumoderateur.com/se-former-ia-comment-choisir-formation-correspond-vraiment-metier-profil/",
+      "pubDate": "2026-05-28T06:00:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/se-former-ia-comment-choisir-formation-metier-profil-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ece516b563e7",
+      "title": "La startup qui veut mettre un humanoïde dans chaque usine et peut-être dans chaque maison",
+      "description": "Il y a trois ans, personne ne connaissait Figure AI. Aujourd’hui, la startup vaut officiellement 39 milliards de dollars soit davantage que bien des constructeurs automobiles cotés en Bourse, et davantage que n’importe quel autre fabricant de robots humanoïdes au monde. Cette valorisation, atteinte…",
+      "link": "https://www.robot-magazine.fr/la-startup-qui-veut-mettre-un-humanoide-dans-chaque-usine-et-peut-etre-dans-chaque-maison/?utm_source=rss&utm_medium=rss&utm_campaign=la-startup-qui-veut-mettre-un-humanoide-dans-chaque-usine-et-peut-etre-dans-chaque-maison",
+      "pubDate": "2026-05-28T06:00:03.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2026/05/Brett-Adcock.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a9e284168d72",
+      "title": "Avez-vous bien suivi l’actualité digitale du mois de mai 2026 ?",
+      "description": "LinkedIn traque certains contenus, Instagram dévoile une nouvelle fonctionnalité, Google repense un élément emblématique de son moteur de recherche... Avez-vous bien suivi l'actualité, entre deux jours fériés ?",
+      "link": "https://www.blogdumoderateur.com/quiz-actualite-mai-2026/",
+      "pubDate": "2026-05-28T05:00:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/quiz-actu-digitale-mai-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2604269880ce",
+      "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+      "description": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
+      "link": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
+      "pubDate": "2026-05-28T00:45:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5e8c5bd85bae",
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "description": "Google is embarrassing itself, again.",
+      "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "pubDate": "2026-05-28T00:17:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8fb0f6bdc658",
+      "title": "Rivian will deliver the first R2 SUVs on June 9",
+      "description": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
+      "link": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
+      "pubDate": "2026-05-27T21:15:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "540c1a063807",
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "description": "The Series B round was led by Battery Ventures.",
+      "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+      "pubDate": "2026-05-27T21:11:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6c8689e32617",
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "description": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+      "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "pubDate": "2026-05-27T20:10:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "770362fc8f12",
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "description": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+      "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "pubDate": "2026-05-27T19:39:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca2cf842046b",
+      "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
+      "description": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the website sent attorneys.",
+      "link": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "pubDate": "2026-05-27T18:25:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3de9a29ec1fd",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "description": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "pubDate": "2026-05-27T18:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ef19de4f05a",
+      "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
+      "description": "Thea Energy's pixel-inspired magnets could give its power plant plans a boost. The fusion startup hopes to get a commercial reactor working by 2034.",
+      "link": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
+      "pubDate": "2026-05-27T17:54:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4998661e3046",
+      "title": "CrowdStrike and Google take down botnet used by hackers to target open source software developers",
+      "description": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.",
+      "link": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
+      "pubDate": "2026-05-27T16:59:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7d89f6e73a6",
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "description": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "pubDate": "2026-05-27T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f791098dd3dd",
+      "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
+      "description": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
+      "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+      "pubDate": "2026-05-27T15:20:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a352703a1eec",
+      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
+      "description": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the TechCrunch Disrupt…",
+      "link": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
+      "pubDate": "2026-05-27T14:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fdb4b11c5efa",
+      "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
+      "description": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
+      "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+      "pubDate": "2026-05-27T14:14:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c185d5fde54f",
+      "title": "Spotify now lets you ‘clip’ moments from your favorite podcast",
+      "description": "With the new scissors icon, you can clip favorite moments from podcasts and share them with your audience.",
+      "link": "https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/",
+      "pubDate": "2026-05-27T14:05:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d8f2f6d7fc08",
+      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
+      "description": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
+      "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "pubDate": "2026-05-27T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ee97d2614e41",
+      "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
+      "description": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you plan to attend one of the most influential gatherings in tech this year, now is the time to lock in…",
+      "link": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
+      "pubDate": "2026-05-27T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f0d8ce2738c",
+      "title": "Google just broke SEO. Here’s what replaces it.",
+      "description": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant…",
+      "link": "https://techcrunch.com/video/google-just-broke-seo-heres-what-replaces-it/",
+      "pubDate": "2026-05-27T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8a50fad29c11",
+      "title": "China is increasingly keeping its best AI talent to itself",
+      "description": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
+      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "pubDate": "2026-05-27T13:48:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7979bc1d803f",
+      "title": "AFUP Day Lille 2026 : notre retour sur la conférence",
+      "description": "Cette année encore, nous étions présents à l’AFUP Day, l’événement printanier incontournable organisé par l’Association Française des Utilisateurs de PHP. Bien que nous ayons été présent·es dans trois villes sur quatre, voici le retour d’Alex sur l’édition lilloise, qui a accueilli près d’une…",
+      "link": "https://les-tilleuls.coop/blog/afup-day-lille-2026-notre-retour-sur-la-conference",
+      "pubDate": "2026-05-27T13:22:31.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/AFUPDAYLILLE-05322-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8620f24e1db5",
+      "title": "Koog 1.0 Is Out: Stable Core, Better Interop, and Multiplatform Observability",
+      "description": "Last week at the KotlinConf 2026 keynote (watch the recording here), we announced Koog 1.0. Koog is JetBrains’ open-source framework for building AI agents in Kotlin and Java. It provides the core building blocks for agentic applications: tools, workflows, persistence, memory, observability, and…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/koog-1-0-is-out-stable-core-better-interop-and-multiplatform-observability/",
+      "pubDate": "2026-05-27T08:53:10.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ab1e6057ff1d",
+      "title": "Comment utiliser les Calques magiques de Canva",
+      "description": "Annoncés en bêta en mars dernier sous le nom Magic Layers, les Calques magiques de Canva sont désormais officiellement disponibles en français.",
+      "link": "https://www.blogdumoderateur.com/comment-utiliser-calques-magiques-canva/",
+      "pubDate": "2026-05-27T08:23:30.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Canva-Calques-magiques-294x174.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4b18ea48e201",
+      "title": "IA : les 10 générateurs d’images les plus performants en mai 2026",
+      "description": "Les modèles d'OpenAI restent les plus performants du marché et conservent une belle marge sur ceux développés par Google. Dans leur sillage, plusieurs acteurs se disputent les places d'honneur.",
+      "link": "https://www.blogdumoderateur.com/ia-10-generateurs-images-performants-mai-2026/",
+      "pubDate": "2026-05-27T08:22:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/classement-generateurs-images-mai-2026-294x132.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e57c1bbd9687",
+      "title": "Geotrek 2025–2026 : nouvelles fonctionnalités et grands chantiers à venir",
+      "description": "Les années 2025 et 2026 ont été parti­cu­liè­re­ment riches en évolu­tions pour l’éco­sys­tème Geotrek.",
+      "link": "https://makina-corpus.com/logiciel-libre/geotrek-2025-2026-nouvelles-fonctionnalites-et-grands-chantiers-venir",
+      "pubDate": "2026-05-27T07:42:59.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "10d1ef7e1514",
       "title": "Sarah El Haïry (Haute-commissaire à l’enfance) : “Ce n’est pas à l’enfant de se protéger de la technologie”",
       "description": "Sarah El Haïry, Haute-commissaire à l'Enfance, revient pour BDM sur les chantiers ouverts depuis un an et leurs enjeux.",
@@ -109,6 +585,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d902cf302505",
+      "title": "L'IA accélère l'écriture du code, pas sa criticité",
+      "description": "L’une des phrases que j’entends le plus ces derniers temps est: « code is cheap », à savoir que le code ne coûte plus grand-chose à produire et qu’il n’a plus de valeur. Je ne suis que partiellement d’accord avec ça. On fait également beaucoup l’analogie du prompt qui génère du code, tout comme le…",
+      "link": "https://www.jdecool.fr/blog/2026/05/27/l-ia-accelere-l-ecriture-du-code-pas-sa-criticite.html",
+      "pubDate": "2026-05-26T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
