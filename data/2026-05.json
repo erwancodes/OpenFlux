@@ -2,6 +2,260 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c376e4ab7cc4",
+      "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+      "description": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.",
+      "link": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
+      "pubDate": "2026-05-30T02:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2276e9c03d45",
+      "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
+      "description": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
+      "link": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+      "pubDate": "2026-05-30T00:39:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "762ef744d166",
+      "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+      "description": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
+      "link": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+      "pubDate": "2026-05-29T22:21:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a4984aea1596",
+      "title": "Coders are refusing to work without AI — and that could come back to bite them ",
+      "description": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "pubDate": "2026-05-29T22:14:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4dab1520b9c2",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "pubDate": "2026-05-29T18:49:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "be16dbbb1785",
+      "title": "What happens when companies become too AI-pilled?",
+      "description": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in…",
+      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "pubDate": "2026-05-29T17:57:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21138531ce7f",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "description": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "pubDate": "2026-05-29T17:27:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4e2f69c1c78d",
+      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
+      "description": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
+      "link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+      "pubDate": "2026-05-29T17:03:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3e28aed62a28",
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "description": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "pubDate": "2026-05-29T16:13:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "808100862796",
+      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+      "description": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+      "link": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-05-29T14:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "110352bc4c32",
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "description": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+      "link": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "pubDate": "2026-05-29T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5c8f6ba1620",
+      "title": "How We Use AlphaEvolve to Make Complex IDE Algorithms Faster",
+      "description": "AlphaEvolve is a Google DeepMind algorithm-discovery system that uses Gemini to generate, test, and refine possible algorithm improvements. Its job is not to answer questions; it searches for faster ways to solve complex algorithmic problems. We tried it on a narrow but important part of…",
+      "link": "https://blog.jetbrains.com/ai/2026/05/how-we-use-alphaevolve-to-make-complex-ide-algorithms-faster/",
+      "pubDate": "2026-05-29T13:46:30.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8392d21f4ac5",
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "description": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "pubDate": "2026-05-29T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fce77064b0aa",
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "description": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+      "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "pubDate": "2026-05-29T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "006fee57c6f8",
+      "title": "AI Now Summit 2026 : le Chat Mistral va-t-il devenir un tigre ?",
+      "description": "Le 29 mai 2026, Mistral a dévoilé lors de sa première présentation en France de nouvelles offres en intelligence artificielle, visant les grandes entreprises. Bien qu'encore petit face aux géants, Mistral propose des outils similaires à ceux de ses concurrents américains, tout en veillant à la…",
+      "link": "https://oliviersauvage.com/2026/05/29/ai-now-summit-2026-le-chat-mistral-va-t-il-devenir-un-tigre/",
+      "pubDate": "2026-05-29T09:00:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "737e51244388",
+      "title": "Anthropic lance Claude Opus 4.8 et une fonctionnalité pour mieux gérer ses tokens",
+      "description": "Cette mise à jour du modèle phare d'Anthropic s'accompagne d'une fonctionnalité permettant de réguler le niveau de réflexion du modèle, et ainsi de mieux gérer sa consommation de tokens.",
+      "link": "https://www.blogdumoderateur.com/anthropic-lance-claude-opus-4-8-fonctionnalite-mieux-gerer-tokens/",
+      "pubDate": "2026-05-29T08:52:09.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/claude-opus-4-8-294x165.jpg",
+      "type": "blog"
+    },
+    {
       "id": "e072814280d8",
       "title": "Ce qu’on a lu, vu, aimé et entendu en mai 2026 : les recos de la rédaction",
       "description": "Au programme : une chaîne YouTube qui réinvente le reportage de terrain, un jeu vidéo loufoque à l'ère du web des années 90, une vidéo sur les dérives des paris sportifs au tennis, une déclaration de Sam Altman et un musée dédié à l'art génératif.",
@@ -81,6 +335,22 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "519690cd10d7",
+      "title": "La veille de Wittouck - Fin mai 2026",
+      "description": "Entre deux matchs de Roland Garros, et pour prendre un peu l’air, pourquoi ne pas en profiter pour lire quelques articles intéressants (enfin, que J’AI trouvés intéressants 😅). Ce mois-ci dans “La Veille de Wittouck”, plusieurs sujets autours de l’AT Protocol (je m’y intéresse depuis quelques…",
+      "link": "https://codeka.io/2026/05/29/la-veille-de-wittouck-fin-mai-2026/",
+      "pubDate": "2026-05-29T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/29/la-veille-de-wittouck-fin-mai-2026/cover_hu_70ad207e097a0706.webp",
       "type": "blog"
     },
     {
