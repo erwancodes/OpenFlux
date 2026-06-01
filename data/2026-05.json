@@ -2,6 +2,133 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "fe2ec096bd3b",
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "description": "Environmental activist Erin Brockovich has a new mission.",
+      "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "pubDate": "2026-05-31T21:05:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0392e323f517",
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "description": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+      "link": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "pubDate": "2026-05-31T18:34:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e16372767dc",
+      "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+      "description": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
+      "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+      "pubDate": "2026-05-31T18:28:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca6c4605c38c",
+      "title": "En vrac de Mai 2026",
+      "description": "En Vrac Je découvre avec plaisir la notion de Hopepunk, “un sous-genre des littératures de l’imaginaire, qui est conçu comme l’opposé des dystopies des sous-genres grimdarket cyberpunk. Les œuvres de ce sous-genre traitent de personnages qui luttent pour un changement positif, en coopérant avec une…",
+      "link": "https://standblog.org/blog/post/2026/05/31/En-vrac-de-Mai-2026",
+      "pubDate": "2026-05-31T18:22:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "61fed0318222",
+      "title": "TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "link": "https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/",
+      "pubDate": "2026-05-31T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4f2f22e71374",
+      "title": "Making sense of the debate over AI psychosis",
+      "description": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "pubDate": "2026-05-31T15:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "763a03442515",
+      "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
+      "description": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions.\"",
+      "link": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
+      "pubDate": "2026-05-31T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48a43ac10486",
+      "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
+      "description": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
+      "link": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+      "pubDate": "2026-05-31T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d87bbb85d4ff",
       "title": "SoftBank says it will invest up to €75 billion to build French data centers",
       "description": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",

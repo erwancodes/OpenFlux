@@ -1,0 +1,85 @@
+{
+  "month": "2026-06",
+  "articles": [
+    {
+      "id": "934f2dde120c",
+      "title": "IA : les meilleurs modèles pour le code et le développement web en juin 2026",
+      "description": "Toujours dominée par Anthropic, la WebDevArena voit Alibaba revenir en force avec Qwen3.7-max, tandis qu'OpenAI disparaît du top 10.",
+      "link": "https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-juin-2026/",
+      "pubDate": "2026-06-01T08:30:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Classement-webdevarena-juin-2026-294x141.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1230e217c41e",
+      "title": "Instagram intègre un prompteur pour les Reels : comment ça marche",
+      "description": "La fonctionnalité avait été déployée en juin 2025 sur Edits. Elle fait son apparition directement dans l'outil de création d'Instagram.",
+      "link": "https://www.blogdumoderateur.com/instagram-integre-prompteur-reels/",
+      "pubDate": "2026-06-01T08:13:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Instagram-prompteur-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3b8ad7db5c23",
+      "title": "Sarbacane devient Positive User : la plateforme d’emailing change de nom et d’ambition",
+      "description": "Après vingt-cinq ans d'existence sous la marque Sarbacane, la plateforme française de marketing digital change de nom et annonce une ambition européenne plus marquée. Le nouveau nom, Positive User, est entré en vigueur fin mai 2026.",
+      "link": "https://www.blogdumoderateur.com/sarbacane-devient-positive-user/",
+      "pubDate": "2026-06-01T07:27:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Sarbacane-Positive-2026-294x147.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a035f7ebefc1",
+      "title": "5 formations pour apprendre à analyser les données",
+      "description": "Une sélection de formations destinée à celles et ceux souhaitant s'orienter ou se reconvertir dans la data analyse.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-data-analyse-303/",
+      "pubDate": "2026-06-01T06:00:07.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/selection-formation-data-analyse-303-294x155.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8f9cad2b3c33",
+      "title": "Facebook a-t-il encore sa place dans une stratégie social media ?",
+      "description": "Ringard, vieillissant, dépassé... Facebook cumule les clichés. Mais les données et les retours terrain racontent une autre histoire. 5 experts nous partagent leur vision !",
+      "link": "https://www.blogdumoderateur.com/facebook-encore-place-strategie-social-media/",
+      "pubDate": "2026-06-01T05:00:30.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/serie-social-media-facebook-294x154.png",
+      "type": "blog"
+    }
+  ]
+}
