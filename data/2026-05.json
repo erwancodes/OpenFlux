@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "def9876f7ff7",
+      "title": "Profilez vos tests PHPUnit avec OpenTelemetry",
+      "description": "Un projet de développement informatique qui grossit, c’est une base de code qui grossit par la même occasion et la batterie de tests qui évolue en conséquence. On ajoute des tests semaine après semaine, les temps d’exécution s’allongent. Et puis, à un moment, la CI s’arrête net: Allowed memory size…",
+      "link": "https://www.jdecool.fr/blog/2026/06/01/profilez-vos-tests-phpunit-avec-opentelemetry.html",
+      "pubDate": "2026-05-31T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/blog/20260601-profilez-vos-tests-phpunit-avec-opentelemetry/phpunit-otel-overview.png",
+      "type": "blog"
+    },
+    {
       "id": "fe2ec096bd3b",
       "title": "Erin Brockovich takes aim at data center secrecy",
       "description": "Environmental activist Erin Brockovich has a new mission.",
