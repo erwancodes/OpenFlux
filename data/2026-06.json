@@ -2,6 +2,503 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "088c6b448b4c",
+      "title": "La vaste blague du macronisme crypto-spatial",
+      "description": "Deux semaines en orbite pour deux astronautes français, Thomas Pesquet et Arnaud Prost. Voilà ce qu’a négocié le Mozart de la finance : un plan annoncé en grande pompe au sommet Choose France, ce 1er juin, sur fond de souveraineté industrielle et La vaste blague du macronisme crypto-spatial first…",
+      "link": "https://maisouvaleweb.fr/la-vaste-blague-du-macronisme-crypto-spatial/",
+      "pubDate": "2026-06-03T08:21:22.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7e8fe3ed7fb",
+      "title": "Le monde merveilleux des ADR !",
+      "description": "Les \"Architecture Decision Record\" font partie de la documentation de votre projet, et peuvent vous sauver la vie ! Notes de l'épisode : Le bus factor : https://code-garage.com/podcast/classic/episode-53",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Le-monde-merveilleux-des-ADR-e3k96p4",
+      "pubDate": "2026-06-03T07:48:10.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/120936676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-3%2Ff7120720-2788-d500-1b9c-f92f6e16de0a.mp3",
+      "duration": "00:05:23"
+    },
+    {
+      "id": "2d4be9dbe760",
+      "title": "PDF Spaces : comment un freelance peut structurer son activité marketing et commerciale",
+      "description": "Quand on travaille seul(e), chaque minute compte. Préparation de pitch client, centralisation de la veille, partage d'un dossier structuré avec un prospect... Voici comment PDF Spaces peut devenir le hub central d'un ou une auto-entrepreneur.",
+      "link": "https://www.blogdumoderateur.com/pdf-spaces-comment-freelance-peut-structurer-activite-marketing-commerciale/",
+      "pubDate": "2026-06-03T07:42:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/PDF-Spaces-Use-Case-294x160.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ff6fb0eae21e",
+      "title": "Tout sur Symfony 8.1",
+      "description": "Symfony 8.1 vient de sortir, et fidèle à sa promesse, le framework garantit une rétrocompatibilité totale, permettant une mise à jour transparente. Cette release apporte également des changements de paradigme majeurs : elle pousse encore plus loin l’utilisation des Attributs PHP, simplifie…",
+      "link": "https://les-tilleuls.coop/blog/tout-sur-symfony-8-1",
+      "pubDate": "2026-06-03T07:30:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/06/symfony-8.1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "403d121860c5",
+      "title": "Que faire après un métier de technicien systèmes et réseaux ?",
+      "description": "Cybersécurité, cloud computing, DevOps, gestion de projet IT... Après plusieurs années en tant que technicien systèmes et réseaux, les pistes d'évolution sont nombreuses. Tour d'horizon des opportunités à saisir ou à envisager.",
+      "link": "https://www.blogdumoderateur.com/que-faire-apres-metier-technicien-systemes-reseaux/",
+      "pubDate": "2026-06-03T07:09:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/que-faire-apres-metier-technicien-systemes-reseaux-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a19568a4f753",
+      "title": "La vision de Microsoft sur le rôle des équipes marketing et l’IA dans la création publicitaire",
+      "description": "Product Liaison chez Microsoft Advertising, Navah Hopkins détaille sa vision du rôle des équipes face aux systèmes d'IA dans la chaîne de création publicitaire. Elle interviendra à Intelligence Marketing Day, un événement en partenariat avec BDM.",
+      "link": "https://www.blogdumoderateur.com/vision-microsoft-role-equipe-marketing-ia-creation-publicitaire/",
+      "pubDate": "2026-06-03T05:00:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Navah-Hopkins-Microsoft-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "90674bb16372",
+      "title": "#359.src - Devenir tech lead: Ne rien lâcher avec Houleymatou Baldé",
+      "description": "\"J'ai toujours su, quand je veux quelque chose, aller le chercher, mais surtout argumenter\" Le D.E.V. de la semaine est Houleymatou Baldé, ex-Tech Lead et fondatrice de Yeeso. Venue en France sans prérequis informatiques, Houleymatou raconte comment elle est devenue tech lead après un parcours semé…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-359-cb22f11ffcad",
+      "pubDate": "2026-06-03T03:00:09.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/e59c7556-bb9c-47ff-9b38-e8592e0567aa.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/657127aa-456a-4ded-9438-cb22f11ffcad.mp3?_=1780401669",
+      "duration": "01:14:51"
+    },
+    {
+      "id": "627313cd40d3",
+      "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
+      "description": "Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
+      "link": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
+      "pubDate": "2026-06-02T23:25:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "64d8adb255d1",
+      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+      "description": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+      "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "pubDate": "2026-06-02T22:50:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9df576980999",
+      "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
+      "description": "Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purse computers.",
+      "link": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
+      "pubDate": "2026-06-02T20:20:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bb77990eea4c",
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "description": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+      "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "pubDate": "2026-06-02T19:11:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "83a7ccda34f9",
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "description": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+      "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "pubDate": "2026-06-02T19:02:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "57b0f5646982",
+      "title": "A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon",
+      "description": "A new reading subscription from Everand offers access to both e-books and audiobooks, and Fable's book club community.",
+      "link": "https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/",
+      "pubDate": "2026-06-02T18:31:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "05452a663c47",
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "description": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+      "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "pubDate": "2026-06-02T18:16:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "799e29949be7",
+      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+      "description": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "pubDate": "2026-06-02T18:02:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "af0d337dd23b",
+      "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
+      "description": "Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.",
+      "link": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+      "pubDate": "2026-06-02T18:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "77925e65fdb8",
+      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "description": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
+      "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "pubDate": "2026-06-02T18:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "600bc7437caa",
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "description": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "pubDate": "2026-06-02T18:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0a83c14f7e0",
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+      "description": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
+      "link": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+      "pubDate": "2026-06-02T17:47:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ed892ce0ab79",
+      "title": "Focused Energy raises whopping $240M Series A for laser-powered fusion tech",
+      "description": "Another fusion startup has raised another a massive round to make this type of power a reality.",
+      "link": "https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/",
+      "pubDate": "2026-06-02T17:01:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "341982e0fef3",
+      "title": "Trump signs narrower executive order on AI oversight after industry objections ",
+      "description": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
+      "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "pubDate": "2026-06-02T16:23:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5b71a1c6e07c",
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "description": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to…",
+      "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "pubDate": "2026-06-02T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "978f66e1b6bc",
+      "title": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands",
+      "description": "Board, the startup building what it calls \"together tech\" designed to bring people into the same room, has closed a Series A led by Union Square Ventures.",
+      "link": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
+      "pubDate": "2026-06-02T15:56:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "20c4419869e9",
+      "title": "Password manager Dashlane says hackers stole some customers’ password vaults",
+      "description": "The password manager giant said hackers were able to \"brute-force\" its two-factor system, allowing them to access customer accounts and download their password vaults.",
+      "link": "https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/",
+      "pubDate": "2026-06-02T15:40:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "76c7e38204a9",
+      "title": "Why VivaTech 2026 is the place to see Europe’s AI strategy take shape",
+      "description": "TechCrunch is partnering with VivaTech 2026 to spotlight some of the most important conversations shaping the future of artificial intelligence. Join us in Paris June 17-20!",
+      "link": "https://techcrunch.com/2026/06/02/why-vivatech-2026-is-the-place-to-see-europes-ai-strategy-take-shape/",
+      "pubDate": "2026-06-02T15:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b57b8bb2ce47",
+      "title": "Meta tests ‘Series’ for episodic Reels on Instagram and Facebook",
+      "description": "Meta told TechCrunch that it's considering ways to monetize the new feature, but didn't share specifics on what that could look like.",
+      "link": "https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/",
+      "pubDate": "2026-06-02T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e565fab7a32",
+      "title": "X caters to creators with new ‘React with Video’ feature",
+      "description": "X will now let you 'react with video' to posts.",
+      "link": "https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/",
+      "pubDate": "2026-06-02T14:46:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "666bcb3aa732",
+      "title": "Les 100 principaux cas d’usage de l’IA en 2026",
+      "description": "Entre un usage professionnel aux gains modestes et un usage personnel toujours plus intime, l'IA décline ses usages dans toutes les sphères du quotidien.",
+      "link": "https://www.blogdumoderateur.com/100-principaux-cas-usage-ia-2026/",
+      "pubDate": "2026-06-02T14:08:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Usage-IA-etude-harvard-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c3949bf5e025",
+      "title": "We Are Digital Producers : qu’est-ce qu’un collectif digital efficace et créatif ?",
+      "description": "À quoi correspond un collectif de digital producers, à quels besoins du marché répond-il, pour quels types de missions ? Cet article fait suite à un entretien avec l’équipe de We Are Digital Producers et fait le point sur ce qu’un collectif d’experts digitaux peut apporter et dans quel contexte.…",
+      "link": "https://oliviersauvage.com/2026/06/02/we-are-digital-producers-quest-ce-quun-collectif-digital-efficace-et-creatif/",
+      "pubDate": "2026-06-02T10:50:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "896d23438697",
+      "title": "ChatGPT : comment régler le niveau d’effort pour préserver ses limites d’usage",
+      "description": "OpenAI ajoute à ChatGPT un geste \"caché\" pour choisir le niveau de réflexion de chaque message, entre Instant, Thinking et Extended.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-comment-regler-niveau-effort-preserver-usage/",
+      "pubDate": "2026-06-02T09:00:36.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/ChatGPT-reglage-effort-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "64a4fc2d799d",
+      "title": "GitHub Copilot bascule sur une facturation à l’usage : ce qui change pour les développeurs",
+      "description": "GitHub adopte un modèle de facturation basé sur la consommation réelle pour tous ses plans Copilot. Les crédits remplacent les requêtes premium, avec de nouveaux outils de contrôle des dépenses à la clé.",
+      "link": "https://www.blogdumoderateur.com/github-copilot-bascule-facturation-usage/",
+      "pubDate": "2026-06-02T08:49:52.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Copilot-tarification-294x165.jpg",
+      "type": "blog"
+    },
+    {
       "id": "155862e4e7d8",
       "title": "Le luxe à l’heure de l’IA : face à la standardisation algorithmique, le pari de l’excellence humaine",
       "description": "Depuis 2023, le luxe ne souffre pas d'une crise de marché, mais d'une crise de désirabilité. À l’occasion de la sortie de Luxe Renaissance, Éric Briones (Journal du Luxe) et Vincent Montet (EFAP) décryptent ce que le secteur doit préserver pour renaître.",
@@ -29,6 +526,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "193ad2eea0cc",
+      "title": "Tech For Industry : l’industrie 4.0 s’invite à Paris les 23 et 24 juin",
+      "description": "Les 23 et 24 juin prochains, Paris Expo – Porte de Versailles accueillera dans son hall 5.2 un nouveau rendez-vous professionnel entièrement dédié aux technologies de l’industrie 4.0 : le Tech For Industry Show. Un événement que Robot-Magazine.fr suit en tant que partenaire officiel, et qui…",
+      "link": "https://www.robot-magazine.fr/tech-for-industry-lindustrie-4-0-sinvite-a-paris-les-23-et-24-juin/?utm_source=rss&utm_medium=rss&utm_campaign=tech-for-industry-lindustrie-4-0-sinvite-a-paris-les-23-et-24-juin",
+      "pubDate": "2026-06-02T06:24:40.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/11/Christophe-Carle-Louis-Robot-Magazine-Fr.jpg",
       "type": "blog"
     },
     {
