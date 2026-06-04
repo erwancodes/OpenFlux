@@ -144,6 +144,23 @@
       "type": "blog"
     },
     {
+      "id": "633eb0993e4e",
+      "title": "Les news du mois de mai 2026",
+      "description": "Photo prise à Athènes en mai 2026, vue sur l'Acropole. Le mois de mai est passé à une vitesse affolante, il faut dire qu’avec les différents ponts que nous avons, eu les semaines étaient courtes. Et j’ai eu l’occasion d’aller assister à la conférence Tech-X organisée par l’association Gaia-X à…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/05/news-mai/",
+      "pubDate": "2026-05-31T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/05/news-mai/banner.avif",
+      "type": "blog"
+    },
+    {
       "id": "d87bbb85d4ff",
       "title": "SoftBank says it will invest up to €75 billion to build French data centers",
       "description": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
