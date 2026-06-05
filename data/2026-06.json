@@ -2,6 +2,424 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "1771139a0a45",
+      "title": "SEO : pourquoi Google ne retient pas toujours l’URL canonique déclarée",
+      "description": "John Mueller, Search Advocate chez Google, a profité d'un échange sur Reddit pour expliquer comment le moteur de recherche choisit l'URL canonique parmi plusieurs pages au contenu identique ou proche.",
+      "link": "https://www.blogdumoderateur.com/pourquoi-google-retient-pas-url-canonique-declaree/",
+      "pubDate": "2026-06-05T07:25:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Google-URL-canonique-294x176.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "a5e7bda1bdec",
+      "title": "IA, relations presse, réseaux sociaux : les tendances médias à connaître en 2026",
+      "description": "Près de 1 800 journalistes ont répondu à l’enquête annuelle de Cision. Voici les tendances médias, IA et RP à retenir pour 2026.",
+      "link": "https://www.blogdumoderateur.com/ia-relations-presse-reseaux-sociaux-tendances-medias-connaitre-2025/",
+      "pubDate": "2026-06-05T06:00:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/State-of-media-2026-reseaux-sociaux-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "eddeb4938620",
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "description": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+      "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "pubDate": "2026-06-05T05:06:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1d7567b83de0",
+      "title": "Reconnaissez-vous ces mèmes qui ont marqué Internet ?",
+      "description": "Ils ont envahi les fils d'actualité, les forums et les groupes de discussions. Mais saurez-vous nommer ces mèmes ? Testez votre culture web avec notre quiz.",
+      "link": "https://www.blogdumoderateur.com/quiz-memes/",
+      "pubDate": "2026-06-05T05:00:40.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/quiz-memes-cultes-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "161b9ceb75f5",
+      "title": "#344.exe - Cloud du coeur: Pas de cloud sans casserole, bricoler pour 35 000 utilisateurs par Tugdual Grall",
+      "description": "Pour l'épisode #344 je recevais Julien Briault. On en débrief avec Tugdual. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-344-e015963107fd",
+      "pubDate": "2026-06-05T03:00:04.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/e51413b8-e044-4cda-ae64-e015963107fd.mp3?_=1780574464",
+      "duration": "10:03"
+    },
+    {
+      "id": "0334d29ddd1f",
+      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+      "description": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
+      "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+      "pubDate": "2026-06-05T00:06:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "69e393a89c3b",
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "pubDate": "2026-06-04T22:43:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "87a2c71e1715",
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "description": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "pubDate": "2026-06-04T22:29:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "898a5035c8b5",
+      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+      "description": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
+      "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+      "pubDate": "2026-06-04T21:44:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c92cbd284d95",
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "description": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure…",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "pubDate": "2026-06-04T21:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2c827d2147e4",
+      "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
+      "description": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
+      "link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+      "pubDate": "2026-06-04T20:55:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d4929215a92",
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "description": "Meta may have found one way to slash its massive data center bill: tents.",
+      "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "pubDate": "2026-06-04T19:33:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "15755989363b",
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "description": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+      "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "pubDate": "2026-06-04T19:20:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2a9f3ddc7fa0",
+      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+      "description": "Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that.",
+      "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "pubDate": "2026-06-04T18:54:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d4c82d95efa9",
+      "title": "Meta’s Oversight Board says account bans lack due process, transparency",
+      "description": "Meta's board cites \"due process\" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations.",
+      "link": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
+      "pubDate": "2026-06-04T16:47:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1db1ec4b6c4b",
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "description": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "pubDate": "2026-06-04T16:32:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac3d20966a8f",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "description": "Apple's WWDC nears: Here's what you can look forward to.",
+      "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "pubDate": "2026-06-04T16:31:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "98005d77616f",
+      "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
+      "description": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis.",
+      "link": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
+      "pubDate": "2026-06-04T16:16:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "266cc056fead",
+      "title": "Cash App launches a wand for tap-and-pay",
+      "description": "Digital wallet app Cash App is launching a new gadget on Thursday, seemingly inspired by the social media trend that involves paying for items in the real world with a tap of a homemade magic wand, which hides a tap-and-pay credit card.",
+      "link": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
+      "pubDate": "2026-06-04T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b5ba46ea8c34",
+      "title": "Waymo’s spent robotaxi batteries will be used as grid storage",
+      "description": "The company announced a deal with B2U Storage Solutions to repurpose the battery packs as Waymo pulls them off the road.",
+      "link": "https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/",
+      "pubDate": "2026-06-04T15:48:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3e8f60f25bfc",
+      "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+      "description": "Ramp has nearly tripled its valuation over the past year as investors scramble to grab a part of the fast-growing startup.",
+      "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+      "pubDate": "2026-06-04T15:08:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "987da7df565c",
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "description": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+      "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "pubDate": "2026-06-04T15:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fcd02bb4548c",
+      "title": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information",
+      "description": "The advisory warns that Chinese spies are using public job search platforms to recruit people with access to non-public information.",
+      "link": "https://techcrunch.com/2026/06/04/chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing-sensitive-information/",
+      "pubDate": "2026-06-04T14:57:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3b50fea43187",
+      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+      "description": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+      "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+      "pubDate": "2026-06-04T14:05:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "81ebfe5cd0d3",
+      "title": "Meta lance l’agent Business, son IA pour répondre aux clients sur WhatsApp, Messenger et Instagram",
+      "description": "Meta généralise l'agent Business, son IA capable de répondre aux clients sur WhatsApp, Messenger et Instagram. Gratuit pour débuter, il sera intégré à des offres payantes dans les mois à venir.",
+      "link": "https://www.blogdumoderateur.com/meta-agent-business-ia-clients-whatsapp-messenger-instagram/",
+      "pubDate": "2026-06-04T08:56:59.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/meta-agent-business-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dc03f6fdcd1c",
+      "title": "Meta veut permettre aux créateurs de regrouper les Reels en séries sur Instagram et Facebook",
+      "description": "Meta teste « Series », une fonctionnalité qui permet aux créateurs de regrouper leurs Reels en collections épisodiques. Un test qui s'inscrit dans le virage assumé de la plateforme vers les formats longs.",
+      "link": "https://www.blogdumoderateur.com/meta-reels-series-instagram-facebook/",
+      "pubDate": "2026-06-04T08:55:06.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Instagram-Reels-Series--294x154.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5c72ae02d100",
       "title": "Jeu concours : tentez de remporter vos places pour le VivaTech Festival",
       "description": "VivaTech fête ses 10 ans avec une journée de festival ouverte au grand public le 20 juin à Paris. BDM met 40 places en jeu sur Instagram !",
