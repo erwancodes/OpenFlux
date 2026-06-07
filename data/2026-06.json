@@ -2,6 +2,86 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "303cab70ee0e",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "description": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "pubDate": "2026-06-06T20:32:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c810b309cf73",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "description": "Apple's WWDC nears: Here's what you can look forward to.",
+      "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "pubDate": "2026-06-06T18:13:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe2b0eda6550",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "description": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "pubDate": "2026-06-06T17:42:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c97cc39055e2",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "description": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "pubDate": "2026-06-06T16:17:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "be8ea7c07210",
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
+      "description": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community.",
+      "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "pubDate": "2026-06-06T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b73459dad5fd",
       "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
       "description": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
@@ -11,6 +91,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "503a446838ae",
+      "title": "Qu'est-ce qu'un « bon code » à l'ère de l'IA ?",
+      "description": "La semaine dernière, je faisais référence au mantra “code is cheap”. Depuis, j’ai trouvé le projet “Agentic Engineering Patterns” de Simon Willison qui documente les patterns pratiques pour travailler et obtenir les meilleurs résultats possibles avec l’IA. On y retrouve une section “Writing code is…",
+      "link": "https://www.jdecool.fr/blog/2026/06/06/qu-est-ce-qu-un-bon-code-a-l-ere-de-l-ia.html",
+      "pubDate": "2026-06-05T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
@@ -337,6 +432,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4dde60665677",
+      "title": "Le pattern Transactional Outbox avec Postgresql et Rabbitmq",
+      "description": "Comment sécuriser vos écritures entre Postgresql et RabbitMQ sans pénaliser vos performances ? Découvrez le pattern Transactional Outbox",
+      "link": "https://eventuallycoding.com/p/le-pattern-transactional-outbox-avec-postgresql-et-rabbitmq",
+      "pubDate": "2026-06-05T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1780731744816-woxokv4.png?width=400",
       "type": "blog"
     },
     {
