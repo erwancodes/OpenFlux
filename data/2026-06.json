@@ -2,6 +2,134 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "d50b865bea58",
+      "title": "Les 20 langages informatiques les plus populaires en juin 2026",
+      "description": "Python caracole toujours en tête de l'index TIOBE, mais ce sont Rust et Swift qui signent les progressions les plus notables du mois.",
+      "link": "https://www.blogdumoderateur.com/20-langages-informatiques-populaires-juin-2026/",
+      "pubDate": "2026-06-08T08:17:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/classement-tiobe-langage-programmation-juin-2026-294x195.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "03fdab8b2b82",
+      "title": "5 formations pour maîtriser les outils de la suite Adobe à l’ère de l’IA",
+      "description": "Notre sélection de formations de la suite est destinée à celles et ceux souhaitant développer leurs compétences sur les logiciels Photoshop, Illustrator et InDesign de la suite Adobe tout en maîtrisant l'IA.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-suite-adobe-304/",
+      "pubDate": "2026-06-08T06:00:29.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/selection-formation-suite-adobe-304-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0b4321142ea1",
+      "title": "X a-t-il tué le microblogging ?",
+      "description": "Il y a deux ans, le déclin de X a suscité les convoitises de nombreux concurrents. Mastodon, Bluesky et Threads ont tous ambitionné de récupérer un public désabusé sur le terrain du microblogging. Mais avec un succès mitigé.",
+      "link": "https://www.blogdumoderateur.com/x-tue-microblogging/",
+      "pubDate": "2026-06-08T05:00:07.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Microblogging-mort-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b5389d552732",
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "description": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "pubDate": "2026-06-07T20:26:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "04e254181c28",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "description": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "pubDate": "2026-06-07T17:56:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3ecafaa8446",
+      "title": "OpenAI is still working on that ‘super app’",
+      "description": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "pubDate": "2026-06-07T16:23:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f114f1d554e0",
+      "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "link": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
+      "pubDate": "2026-06-07T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d020d7e1c06",
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "link": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "pubDate": "2026-06-07T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "303cab70ee0e",
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
       "description": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
@@ -140,6 +268,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5ddde255d59",
+      "title": "Staff42: où en sont sept entreprises tech françaises avec l'IA générative ?",
+      "description": "Imaginez : 7 slides et dix minutes pour raconter l'adoption des agents de développement comme Claude Code dans votre entreprise. Comment cela se passe-t-il ? Quels sont vos succès ? Qu'est-ce qui marche moins bien ? Back Market a réuni plusieurs entreprises à Paris, pour partager leur retour…",
+      "link": "https://www.touilleur-express.fr/2026/06/05/sept-entreprises-tech-francaises-et-l-ia-generative",
+      "pubDate": "2026-06-05T20:28:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"
