@@ -2,6 +2,384 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "cb8f8de9e731",
+      "title": "Automatisation centre d’usinage : guide complet du changeur de palettes CNC",
+      "description": "L’industrie manufacturière fait face à une pression croissante : produire plus, plus vite, avec moins d’aléas humains. Face à ce défi, l’automatisation des centres d’usinage s’impose comme une réponse concrète et documentée. Au cœur de cette transformation : le changeur de palettes automatique et…",
+      "link": "https://www.robot-magazine.fr/automatisation-centre-dusinage-guide-complet-du-changeur-de-palettes-cnc/?utm_source=rss&utm_medium=rss&utm_campaign=automatisation-centre-dusinage-guide-complet-du-changeur-de-palettes-cnc",
+      "pubDate": "2026-06-09T06:44:25.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5c2002a25ac5",
+      "title": "Etat du ecommerce B2B en 2026",
+      "description": "Le rapport de Commerce B2B et Novatize sur le e-commerce B2B révèle que 71% des entreprises génèrent une part significative de leur chiffre d’affaires en ligne, mais 78% critiquent leur technologie actuelle. Les défis incluent la personnalisation, l'intégration des systèmes et le manque de…",
+      "link": "https://oliviersauvage.com/2026/06/09/etat-du-ecommerce-b2b-en-2026/",
+      "pubDate": "2026-06-09T06:14:16.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7786b06430f0",
+      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+      "description": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
+      "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+      "pubDate": "2026-06-09T05:07:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ec43f2f40a4",
+      "title": "Pourquoi Anthropic et OpenAI font la course pour entrer en Bourse ?",
+      "description": "Pourquoi ces géants de l'IA veulent-ils entrer en Bourse en même temps, et qu'est-ce que ça va réellement changer ? Décryptage avec Jérôme Marin, fondateur de la newsletter Cafétech.",
+      "link": "https://www.blogdumoderateur.com/pourquoi-anthropic-openai-font-course-entrer-bourse/",
+      "pubDate": "2026-06-09T05:00:57.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/openai-anthropic-ipo-bourse-294x175.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "6520acae7849",
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "description": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "pubDate": "2026-06-09T01:56:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3742b7a2aa59",
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+      "description": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+      "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "pubDate": "2026-06-09T00:45:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dd2fc5523c04",
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "description": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "pubDate": "2026-06-08T22:41:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7633b5453d95",
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "description": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "pubDate": "2026-06-08T22:39:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c2831406be60",
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "description": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "pubDate": "2026-06-08T21:29:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8a82f8eef17b",
+      "title": "Apple plays catch-up at WWDC",
+      "description": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+      "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "pubDate": "2026-06-08T21:15:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32d361154dc1",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "description": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "pubDate": "2026-06-08T20:53:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3c040ef57ea",
+      "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
+      "description": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Maricopa County.",
+      "link": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
+      "pubDate": "2026-06-08T20:50:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d407c457b74",
+      "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+      "description": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
+      "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "pubDate": "2026-06-08T20:03:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1bce3dd67d51",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "description": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "pubDate": "2026-06-08T19:41:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0e7cf5015dd9",
+      "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
+      "description": "The Trump administration released the updated version of the list four months ago and then quickly pulled it without explaining why",
+      "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
+      "pubDate": "2026-06-08T18:57:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "27ab7eba1d5e",
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+      "description": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+      "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "pubDate": "2026-06-08T18:48:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dc03db910349",
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "description": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+      "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "pubDate": "2026-06-08T18:45:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca6e94bdf2b8",
+      "title": "Apple’s Image Playground doesn’t suck anymore",
+      "description": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+      "link": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+      "pubDate": "2026-06-08T18:38:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "908e1bb348c1",
+      "title": "Apple’s Photos app is getting new AI editing features",
+      "description": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+      "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+      "pubDate": "2026-06-08T18:36:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6b7df31ac19",
+      "title": "Apple gives Siri its own dedicated app",
+      "description": "Siri is finally getting its own app.",
+      "link": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+      "pubDate": "2026-06-08T18:33:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8f195fd7cbd2",
+      "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+      "description": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
+      "link": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+      "pubDate": "2026-06-08T18:23:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6c0fa8c7c93",
+      "title": "Apple puts parents back in control of kids’ iPhone use",
+      "description": "Apple is putting control back into the hands of parents with more granular screen time features.",
+      "link": "https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/",
+      "pubDate": "2026-06-08T18:07:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c03ba28dd35d",
+      "title": "Apple’s Health app can now tell you if you’re in perimenopause",
+      "description": "Cycle tracker will now notify women when their cycle patterns are suggestive of perimenopause.",
+      "link": "https://techcrunch.com/2026/06/08/apples-health-app-can-now-tell-you-if-youre-in-perimenopause/",
+      "pubDate": "2026-06-08T18:03:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a31b7001c006",
+      "title": "Refonte de site en B2B : pourquoi se faire accompagner par un expert du numérique ?",
+      "description": "Engager un consultant pour la refonte de site web assure sécurité et expertise. Grâce à sa connaissance technique et son expérience, il guide efficacement la rédaction des cahiers des charges et facilite les échanges entre prestataires. Cette collaboration réduit les coûts et les risques,…",
+      "link": "https://oliviersauvage.com/2026/06/08/refonte-de-site-en-b2b-pourquoi-se-faire-accompagner-par-un-expert-du-numerique/",
+      "pubDate": "2026-06-08T14:03:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d50b865bea58",
       "title": "Les 20 langages informatiques les plus populaires en juin 2026",
       "description": "Python caracole toujours en tête de l'index TIOBE, mais ce sont Rust et Swift qui signent les progressions les plus notables du mois.",
