@@ -2,6 +2,424 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "00ef61babc41",
+      "title": "Pourquoi moins de trafic renvoyé par Google n’est pas une mauvaise nouvelle",
+      "description": "Depuis dix ans, Google réduit le trafic vers les sites web pour garder les utilisateurs sur ses services. Cette tendance, accentuée par l'IA, modifie les stratégies de communication et de SEO. Les entreprises doivent offrir des services en ligne et produire un contenu unique pour attirer un trafic…",
+      "link": "https://oliviersauvage.com/2026/06/12/pourquoi-moins-de-trafic-renvoye-par-google-nest-pas-une-mauvaise-nouvelle/",
+      "pubDate": "2026-06-12T08:01:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e337bbdbfec",
+      "title": "Twitch : le CPO Mike Minton fait le point sur la monétisation, le split et la publicité",
+      "description": "Nouveaux seuils d'affiliation, fonctionnalités communautaires, publicité : Mike Minton, Chief Product Officer de Twitch, fait le point sur les récentes évolutions de la plateforme.",
+      "link": "https://www.blogdumoderateur.com/twitch-cpo-mike-minton/",
+      "pubDate": "2026-06-12T07:28:02.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/twitch-mike-minton-294x165.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "97d6c493ce32",
+      "title": "MACI #160 - Asynconf, Nostr et open source - Avec Graven",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on accueille Lorenzo Cacciato, alias Graven, pour parler d’Asynconf, de création de contenu tech, de transmission et de ce que signifie organiser une conférence pour développeurs aujourd’hui. L’occasion de revenir sur son parcours, sur la…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-160-asynconf-nostr-et-open-source-avec-graven",
+      "pubDate": "2026-06-12T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/7JyRStZqLR7tTQ9MFodxvTpWyTN0BtysmdCOLQAq_1400x1400.jpeg?t=1780930047",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/blL81uqxE6qb.mp3?t=1780929321",
+      "duration": "1:05:55"
+    },
+    {
+      "id": "22bbdd9e8a53",
+      "title": "Test de personnalité : êtes-vous plutôt Mac ou PC ?",
+      "description": "Plutôt Steve Jobs ou Bill Gates ?",
+      "link": "https://www.blogdumoderateur.com/test-personnalite-mac-pc/",
+      "pubDate": "2026-06-12T05:00:09.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/test-personnalite-mac-pc-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "551d15dff70d",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "pubDate": "2026-06-12T04:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "acb85761f792",
+      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+      "description": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
+      "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+      "pubDate": "2026-06-12T04:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0cfc04bf5d19",
+      "title": "#311.exe - IA Agentique: IAutonomie numérique par Thomas Pierrain",
+      "description": "Pour l'épisode #311 je recevais Samy Lastmann. On en débrief avec Thomas. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-311-d17e66dbd229",
+      "pubDate": "2026-06-12T03:00:24.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/311ca887-218b-47c9-a68b-d17e66dbd229.mp3?_=1781179284",
+      "duration": "13:21"
+    },
+    {
+      "id": "8ab494d6b198",
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "pubDate": "2026-06-12T01:48:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2ef95d5029c3",
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "pubDate": "2026-06-12T01:04:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a32c77e372b",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "pubDate": "2026-06-11T20:33:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3357912640b3",
+      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+      "description": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
+      "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+      "pubDate": "2026-06-11T20:27:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "369c479051c0",
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
+      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "pubDate": "2026-06-11T19:58:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ab580781f1ba",
+      "title": "Bluesky launches group chats, as company shifts focus to community features",
+      "description": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.",
+      "link": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
+      "pubDate": "2026-06-11T19:41:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5eea8666a30c",
+      "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+      "description": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.",
+      "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+      "pubDate": "2026-06-11T17:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "72a5ab3c2f4b",
+      "title": "Coinbase’s new tool can help agents trade and pay for premium research",
+      "description": "Coinbase's agent can use x402 protocol to get access to data and APIs.",
+      "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "pubDate": "2026-06-11T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2c74b9338da9",
+      "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
+      "description": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
+      "link": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
+      "pubDate": "2026-06-11T16:59:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a5c55bcf0af3",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "pubDate": "2026-06-11T16:36:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16af1a6ab956",
+      "title": "These are the countries moving to ban social media for children",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "link": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
+      "pubDate": "2026-06-11T16:17:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a4c9aa7417a9",
+      "title": "Waymo launches a loyalty program with 10% cash back and free cancellations",
+      "description": "Members of the program, called \"Waymo Premier,\" will have to pony up $29.99 per month.",
+      "link": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
+      "pubDate": "2026-06-11T16:00:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "54305d1346e7",
+      "title": "Pool’s new app turns your screenshots into something useful",
+      "description": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+      "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "pubDate": "2026-06-11T15:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6f5a274b278",
+      "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
+      "description": "Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures.",
+      "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+      "pubDate": "2026-06-11T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d486753df4a",
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "description": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+      "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "pubDate": "2026-06-11T14:23:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b38fe8837288",
+      "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+      "description": "SpaceX alumni Andrew Redd is betting the ocean has vast amounts of untapped geothermal energy.",
+      "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+      "pubDate": "2026-06-11T14:00:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6fea29314682",
+      "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
+      "description": "South Korean authorities issued the record-breaking fine following a data breach that affected over 30 million customers.",
+      "link": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/",
+      "pubDate": "2026-06-11T13:18:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1c5afcc7fc63",
+      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+      "description": "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.",
+      "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "pubDate": "2026-06-11T11:48:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7744b55d66a0",
+      "title": "Coupe du monde 2026 : 5 outils et applis du web pour suivre la compétition",
+      "description": "La Coupe du monde 2026 s'ouvre ce 11 juin aux États-Unis, au Canada et au Mexique. Entre jeux viraux, applications de pronostics et outils de données, voici de quoi vous accompagner pendant la compétition.",
+      "link": "https://www.blogdumoderateur.com/coupe-du-monde-2026-5-outils-applis-web-suivre-competition/",
+      "pubDate": "2026-06-11T11:00:15.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Mondial-2026-jeux-apps-294x196.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "1fc5f14e46f5",
       "title": "Entretien avec Yann Gourvennec : comment l’ABM concilie commerce et marketing pour les PME en B2B",
       "description": "Le marketing B2B est confronté à un besoin urgent de réévaluation. Yann Gourvennec souligne que l'ancien modèle de l'entonnoir de vente est obsolète et que l'Account-Based Marketing (ABM) est indispensable. L'accent doit être mis sur la qualité des leads et le développement de relations…",
