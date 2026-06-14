@@ -2,6 +2,118 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "61ae2308d52a",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "description": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "pubDate": "2026-06-14T03:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cbdd28ce6875",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "description": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "pubDate": "2026-06-14T00:03:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d5a71d336caf",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "description": "Once again, AI proves to be an unreliable source of information about AI.",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "pubDate": "2026-06-13T20:42:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fdd8b9377618",
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "description": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "pubDate": "2026-06-13T19:11:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e3bfdb856d94",
+      "title": "OpenAI faces investigation from state attorneys general",
+      "description": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "pubDate": "2026-06-13T16:47:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "10e3d336b2ea",
+      "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+      "description": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud…",
+      "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+      "pubDate": "2026-06-13T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "27a63b634ecc",
+      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "description": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
+      "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+      "pubDate": "2026-06-13T11:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ef03b32d571d",
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "description": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
@@ -31,6 +143,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d0e2a071f47",
+      "title": "Comment je fais du design en tant que dev backend ?",
+      "description": "De Bootstrap en 2011 à Claude Design en 2026, retour sur 15 ans d’évolution du design web et des design systems, vus à travers les yeux d'un dev backend.",
+      "link": "https://eventuallycoding.com/p/comment-je-fais-du-design-en-tant-que-dev-backend",
+      "pubDate": "2026-06-13T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1781337106330-t7giy22.png",
       "type": "blog"
     },
     {
