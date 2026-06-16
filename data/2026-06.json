@@ -2,6 +2,354 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "5cb2e5c17b66",
+      "title": "Premiere, Photoshop, Lightroom… Les dernières nouveautés annoncées par Adobe",
+      "description": "Adobe annonce de nouvelles fonctionnalités pour cinq de ses logiciels créatifs. La plupart visent à accélérer les tâches répétitives du workflow, du tri des photos à la composition vidéo, grâce à l'IA.",
+      "link": "https://www.blogdumoderateur.com/premiere-photoshop-lightroom-dernieres-nouveautes-annonces-adobe/",
+      "pubDate": "2026-06-16T08:41:36.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Photo-to-Video-desktop.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "6bc1599aba35",
+      "title": "Avec AI Mode, Meta intègre une option de recherche conversationnelle à Facebook",
+      "description": "Le groupe californien déploie une nouvelle fonctionnalité de recherche sur Facebook, alimentée par les publications publiques de ses utilisateurs.",
+      "link": "https://www.blogdumoderateur.com/ai-mode-meta-recherche-conversationnelle-facebook/",
+      "pubDate": "2026-06-16T08:40:55.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/facebook-collage-ia.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "07bb6bfd4486",
+      "title": "Devenir expert en cybersécurité : les compétences que les recruteurs recherchent vraiment en 2026",
+      "description": "Alors que les menaces cyber se complexifient et les périmètres à protéger s'élargissent, Etienne Sellan, intervenant à l'école Ynov Campus et créateur des cyber war rooms, nous présente les contours du métier et ce que les entreprises recherchent vraiment.",
+      "link": "https://www.blogdumoderateur.com/devenir-expert-cybersecurite-competences-recruteurs-recherchent-vraiment-2026/",
+      "pubDate": "2026-06-16T07:18:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/devenir-expert-cybersecurite-competences-recruteurs-recherchent-vraiment-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dc9555a53b46",
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "description": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "pubDate": "2026-06-16T06:59:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9b25b76e2622",
+      "title": "L'usine à clous soviétique ou l'échec des KPI",
+      "description": "En 2008, j’ai décroché mon second emploi, dans l’équipe réseau d’, la division derrière les sites web et le moteur de recherche de l’opérateur télécom français Orange. Tout y fonctionnait comme sur des roulettes : un environnement technique complet, une équipe dédiée pour chaque pan de l’activité…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-kpi-goodhart",
+      "pubDate": "2026-06-16T06:26:27.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/orange-impacts.03b883aacf07da.svg",
+      "type": "blog"
+    },
+    {
+      "id": "2680692cd5cb",
+      "title": "« Toi, Facebook, tu as détruit notre rêve » : au Myanmar, les Rohingyas voulaient « mener la même vie que les autres »",
+      "description": "En 2017, plus de 700 000 personnes fuyaient le Myanmar pour le Bangladesh. Victimes d'une campagne de nettoyage ethnique, les Rohingyas ont vu Facebook jouer un rôle majeur dans le déferlement de haine et de violences qu'ils ont subi.",
+      "link": "https://www.blogdumoderateur.com/toi-facebook-tu-as-detruit-notre-reve-au-myanmar-les-rohingyas-voulaient-mener-la-meme-vie-que-les-autres/",
+      "pubDate": "2026-06-16T05:00:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/04/Myanmar-et-Facebook-5-294x154.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "7211c57adc8c",
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "description": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "pubDate": "2026-06-15T23:51:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c01857f6a351",
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "pubDate": "2026-06-15T21:50:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5cef4596cb84",
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "description": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "pubDate": "2026-06-15T18:30:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9e1b9d0f3cb5",
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "pubDate": "2026-06-15T18:30:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3a0110d2c63e",
+      "title": "These are the countries moving to ban social media for children",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+      "pubDate": "2026-06-15T17:41:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "365cbd6cf971",
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "pubDate": "2026-06-15T15:29:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0cea49bd6080",
+      "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
+      "description": "SpaceX's IPO underwriters maxed out their share purchases, adding to an already historic amount of money raised.",
+      "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
+      "pubDate": "2026-06-15T14:45:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e747cf224dd5",
+      "title": "UK unveils sweeping social media ban for users under 16",
+      "description": "The ban would apply to a range of social media platforms, including Snapchat, TikTok, YouTube, Instagram, Facebook, and X.",
+      "link": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
+      "pubDate": "2026-06-15T14:36:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bd9bf27f1c67",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "description": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "pubDate": "2026-06-15T14:34:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d2aefcbddbc0",
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "description": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "pubDate": "2026-06-15T13:46:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "83e61b355d43",
+      "title": "Fox to acquire Roku in $22B deal",
+      "description": "Fox says the deal will create the third-largest television company in the United States.",
+      "link": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/",
+      "pubDate": "2026-06-15T13:43:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "55cb6182b54c",
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "pubDate": "2026-06-15T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "634222ea9658",
+      "title": "Thomas Cambou (Leclerc Pont-l’Abbé) : « On va à contre-courant de ce qu’on nous a appris en communication »",
+      "description": "Responsable marketing digital du Leclerc de Pont-l'Abbé depuis 2015, Thomas Cambou décrypte une stratégie de communication bien plus large que les vidéos virales qui ont fait sa réputation.",
+      "link": "https://www.blogdumoderateur.com/thomas-cambou-leclerc-pont-labbe-contre-courant-appris-communication/",
+      "pubDate": "2026-06-15T12:28:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Leclerc-Pont-LAbbe-IMD-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9bd887a4bbe7",
+      "title": "Sensefuel : la solution d’IA qui personnalise la recherche et la découverte produits pour l’e-commerce",
+      "description": "Sensefuel est une plateforme d'intelligence artificielle qui aide les e-commerçants à offrir une expérience d'achat personnalisée et efficace. Elle améliore la recherche, la conversation et les recommandations de produits, augmentant ainsi les taux de conversion. Adaptée à toutes les tailles…",
+      "link": "https://oliviersauvage.com/2026/06/15/sensefuel-la-solution-dia-qui-personnalise-la-recherche-et-la-decouverte-produits-pour-le-commerce/",
+      "pubDate": "2026-06-15T12:02:58.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "56800be7ab95",
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "description": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "pubDate": "2026-06-15T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6610ac1f0747",
+      "title": "Jumeaux numériques : La transformation des usines du futur",
+      "description": "Alors que les projecteurs médiatiques sont braqués sur les robots humanoïdes et l’intelligence artificielle générative, une autretechnologie est en train de bouleverser silencieusement l’industrie mondiale. Moins spectaculaire qu’un robot capable de marcher ou de manipuler des objets, mais…",
+      "link": "https://www.robot-magazine.fr/jumeaux-numeriques-la-transformation-des-usines-du-futur/?utm_source=rss&utm_medium=rss&utm_campaign=jumeaux-numeriques-la-transformation-des-usines-du-futur",
+      "pubDate": "2026-06-15T11:15:08.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
       "id": "7523b458e312",
       "title": "Le gouvernement des États-Unis force Anthropic à couper l’accès à Fable 5 et Mythos 5",
       "description": "Le gouvernement américain a ordonné à Anthropic de suspendre l'accès à ses deux modèles les plus puissants pour tout ressortissant étranger. La firme s'exécute, mais conteste publiquement la légitimité de la mesure.",
