@@ -2,6 +2,182 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "776c5348a7a1",
+      "title": "IA : les 10 générateurs d’images les plus performants en juin 2026",
+      "description": "OpenAI conserve ses deux premières places au classement d'Artificial Analysis. HiDream, NVIDIA et Krea enregistrent une forte progression.",
+      "link": "https://www.blogdumoderateur.com/ia-10-generateurs-images-performants-juin-2026/",
+      "pubDate": "2026-06-22T08:24:20.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Meilleurs-generateurs-image-juin-2026-294x159.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "548d926c3984",
+      "title": "Logistique e-commerce : pourquoi le choix du prestataire est une décision stratégique",
+      "description": "Choisir son logisticien uniquement sur le prix au démarrage revient à se condamner à un plafond de croissance. Redouane Lerond, directeur général adjoint de Futurlog, identifie les critères que les e-commerçants sous-estiment au moment de signer.",
+      "link": "https://www.blogdumoderateur.com/logistique-e-commerce-pourquoi-prestataire-decision-strategique/",
+      "pubDate": "2026-06-22T07:31:28.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Logistique-criteres-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "530b2bc87e31",
+      "title": "5 formations pour maîtriser les outils IA en entreprise",
+      "description": "Besoin de développer vos compétences dans les outils IA pour maîtriser ChatGPT, Claude ou Gemini ? Cette sélection de formations est faite pour vous !",
+      "link": "https://www.blogdumoderateur.com/selection-formation-ia-entreprise-306/",
+      "pubDate": "2026-06-22T07:00:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/selection-formation-ia-entreprise-306-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b1323a48c8d7",
+      "title": "ChatGPT en 2026 : la fin d’un quasi-monopole qui profite à Claude",
+      "description": "ChatGPT, Claude, Gemini... Les alternatives se sont installées dans le quotidien des pros du numérique. Le 2e volet de notre enquête IA dresse le portrait d'un usage qui se partage.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-2026-fin-quasi-monopole-profite-claude/",
+      "pubDate": "2026-06-22T06:00:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/focus-chatgpt-une-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "531b5265b31f",
+      "title": "Ethan Thornton is trying to do everything all at once",
+      "description": "Mach's approach differs sharply from some of its peers.",
+      "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+      "pubDate": "2026-06-22T05:31:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9289af95894f",
+      "title": "IA : les 35 outils les plus utilisés par les pros du numérique en 2026",
+      "description": "Si ChatGPT garde sa place de favori, notre 3e enquête sur l'IA révèle un marché qui se diversifie fortement.",
+      "link": "https://www.blogdumoderateur.com/ia-outils-plus-utilises-2026/",
+      "pubDate": "2026-06-22T05:00:54.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/panorama-outils-1-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "f8cc0a4fce02",
+      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+      "description": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
+      "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+      "pubDate": "2026-06-21T18:34:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d98a2d9292af",
+      "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+      "description": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
+      "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "pubDate": "2026-06-21T16:35:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "66a353d87fb5",
+      "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+      "pubDate": "2026-06-21T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a0065c4a2f8d",
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "description": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "pubDate": "2026-06-21T15:28:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7f055dff129a",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "description": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "pubDate": "2026-06-21T14:40:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "20bfeecb69d7",
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
       "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
