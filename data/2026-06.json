@@ -2,6 +2,327 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "2222eae58344",
+      "title": "How to invest when everything is moving too fast",
+      "description": "TechCrunch's StrictlyVC evening in Los Angeles late last week brought together two of the more straight-talking investors working in AI right now. They were as entertaining as they were illuminating.",
+      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+      "pubDate": "2026-06-24T06:26:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "449da7b42da6",
+      "title": "Comment les développeurs codent avec l’IA en 2026 ?",
+      "description": "L'usage de l'IA a également bouleversé le quotidien des professionnels du développement web. Mais comment intègrent-ils réellement ces outils en 2026 ?",
+      "link": "https://www.blogdumoderateur.com/comment-developpeurs-codent-ia-2026/",
+      "pubDate": "2026-06-24T06:00:19.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/ia-developpeurs-1-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "f401d75c54a4",
+      "title": "OpenAI Academy : comment se former gratuitement à l’IA et à ChatGPT",
+      "description": "OpenAI Academy est la plateforme de formation gratuite et officielle d'OpenAI. Cours progressifs, ressources complémentaires, certifications… Nous avons exploré la plateforme de l'intérieur. On fait le point.",
+      "link": "https://www.blogdumoderateur.com/openai-academy-former-gratuitement-ia-chatgpt/",
+      "pubDate": "2026-06-24T05:00:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/OpenAI-Academy-294x175.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5f3747d5ea9e",
+      "title": "#362.src - Le LEAN à l'ère de l'IA: Réapprendre à produire du code (vraiment) Lean avec l'IA avec Yacine Hmito",
+      "description": "\"Les meilleures personnes pour résoudre un problème sont celles qui le voient, qui le palpent, voire qui le causent.\" Le D.E.V. de la semaine est Yacine Hmito, VP of Technology chez Fabriq. Ensemble, on explore comment le Lean, conçu à l'origine pour les usines automobiles, nous offre les clés pour…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-362-9c6fd0a77b77",
+      "pubDate": "2026-06-24T03:00:23.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/38cf2ebd-96b7-498d-9097-9b72351cabd6.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/61e55340-6c5b-451d-b8d4-9c6fd0a77b77.mp3?_=1782216083",
+      "duration": "58:02"
+    },
+    {
+      "id": "d6ce5ce85729",
+      "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+      "description": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.",
+      "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+      "pubDate": "2026-06-24T00:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ccbe4d356160",
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "description": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+      "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "pubDate": "2026-06-23T23:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da4336b3c580",
+      "title": "Superhuman acquires AI detection startup GPTZero",
+      "description": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.",
+      "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "pubDate": "2026-06-23T21:48:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "405c2d62cb4b",
+      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+      "description": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.",
+      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+      "pubDate": "2026-06-23T19:49:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b63aef28948",
+      "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
+      "description": "It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing customers' data.",
+      "link": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
+      "pubDate": "2026-06-23T19:43:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b76d32c8a2f",
+      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+      "description": "The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app.",
+      "link": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
+      "pubDate": "2026-06-23T19:19:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4b83b4a74b9",
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "description": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "pubDate": "2026-06-23T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d0f0600dc33",
+      "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
+      "description": "This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached.",
+      "link": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+      "pubDate": "2026-06-23T15:12:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a7afd6dd9cff",
+      "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+      "description": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists.",
+      "link": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+      "pubDate": "2026-06-23T15:09:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4f47b4b85a93",
+      "title": "Meta debuts new, cheaper smart glasses under its own brand",
+      "description": "The smart glasses are available in several countries starting today in a variety of color and lens combinations.",
+      "link": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
+      "pubDate": "2026-06-23T14:11:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d1b6a1ecab0",
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "description": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "pubDate": "2026-06-23T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e4c60ff21c5",
+      "title": "Ribbie turns real-time baseball stats into arcade-like, pixel-art broadcasts",
+      "description": "Ribbie lets you follow along live with MLB games with a delightful, arcade-inspired interface.",
+      "link": "https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/",
+      "pubDate": "2026-06-23T13:58:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3def70594b29",
+      "title": "Comment utilisez-vous BDM ? Participez à notre enquête !",
+      "description": "Nous lançons une enquête utilisateur pour comprendre vos besoins et mieux y répondre sur BDM.",
+      "link": "https://www.blogdumoderateur.com/enquete-utilisateur-bdm-2026/",
+      "pubDate": "2026-06-23T13:01:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/BDM-Enquete2026-BDM-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "bbcba71ce335",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "description": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "pubDate": "2026-06-23T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3eb6d16ee2ea",
+      "title": "LinkedIn lance les posts collaboratifs : comment ça marche",
+      "description": "L'option, d'abord testée par un groupe restreint de marques et de créateurs, devrait être déployée plus largement \"dans les prochains mois\".",
+      "link": "https://www.blogdumoderateur.com/linkedin-lance-posts-collaboratifs/",
+      "pubDate": "2026-06-23T08:32:09.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/linkedin-posts-collaboratifs-294x163.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "c01f04b2c2b0",
+      "title": "Générer un App Password pour utiliser Gmail en IMAP/SMTP ",
+      "description": "Découvrez comment utiliser une adresse Gmail avec IMAP et SMTP grâce aux App Passwords de Google. Une solution simple pour connecter Gmail à vos applications, serveurs et outils d'envoi d'emails.",
+      "link": "https://code-garage.com/blog/generer-un-app-password-pour-utiliser-gmail-en-imap-smtp",
+      "pubDate": "2026-06-23T08:29:07.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f406659c1e2d",
       "title": "Réforme 2026 : pourquoi une TPE peut gérer la facturation électronique depuis un seul outil",
       "description": "Réforme de la facturation électronique : et si les indépendants n'avaient pas deux chantiers à mener de front, mais un seul à bien choisir ?",
