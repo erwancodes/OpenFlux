@@ -2,6 +2,528 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "90f64153ac86",
+      "title": "NVIDIA Halos for Robotics : la sécurité des robots industriels entre dans une nouvelle ère",
+      "description": "L’intelligence artificielle physique franchit un nouveau cap Depuis plusieurs années, la robotique industrielle connaît une accélération sans précédent. L’intelligence artificielle ne se limite plus à analyser des données ou à générer du texte : elle pilote désormais des machines capables de…",
+      "link": "https://www.robot-magazine.fr/nvidia-halos-for-robotics-la-securite-des-robots-industriels-entre-dans-une-nouvelle-ere/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-halos-for-robotics-la-securite-des-robots-industriels-entre-dans-une-nouvelle-ere",
+      "pubDate": "2026-06-25T07:05:54.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "c132accc3679",
+      "title": "4 événements à ne pas manquer en juin 2026",
+      "description": "Retrouvez dans cette sélection : All for Content, AI DAYS, RAISE Summit et le West Web Festival.",
+      "link": "https://www.blogdumoderateur.com/evenements-digital-juillet-2026/",
+      "pubDate": "2026-06-25T06:30:12.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/evenements-digital-juillet-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "197b92f63397",
+      "title": "La détection des textes générés par l’IA, une bataille perdue d’avance ?",
+      "description": "Plus de trois ans après l'émergence de ChatGPT, il n'est toujours pas possible de déterminer avec certitude si un contenu a été généré par une IA. Entre attentisme des acteurs et limites techniques, le dossier s'enlise.",
+      "link": "https://www.blogdumoderateur.com/detection-textes-generes-ia-bataille-perdue/",
+      "pubDate": "2026-06-25T06:00:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/synthid-product-ui.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "6095e4e75cc1",
+      "title": "IA : la perte d’esprit critique, première inquiétude des professionnels",
+      "description": "Esprit critique, données personnelles, emplois menacés : les professionnels du digital cernent mieux les risques de l'IA, et sont de moins en moins convaincus qu'elle leur sera favorable.",
+      "link": "https://www.blogdumoderateur.com/ia-perte-esprit-critique-premiere-inquietude-professionnels/",
+      "pubDate": "2026-06-25T05:00:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/classement-risques-IA-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "dfabaa4dd4d0",
+      "title": "Europe is pushing back on Washington’s chip war",
+      "description": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
+      "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "pubDate": "2026-06-25T00:08:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "017119b4a5b9",
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "description": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "pubDate": "2026-06-24T23:26:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48004581cf83",
+      "title": "Elon suffers another day short of trillionaire status",
+      "description": "Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
+      "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+      "pubDate": "2026-06-24T23:09:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "935096bdef6e",
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "description": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "pubDate": "2026-06-24T22:41:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c955e39d506d",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "description": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "pubDate": "2026-06-24T21:56:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a536d55463d3",
+      "title": "AI researchers continue to leave Google for its rivals",
+      "description": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "pubDate": "2026-06-24T21:42:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "268cd451c527",
+      "title": "The memory chip crunch is paying off for this US company",
+      "description": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+      "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "pubDate": "2026-06-24T21:30:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce985984bade",
+      "title": "New website names and shames companies that still don’t offer passkeys to users",
+      "description": "According to a new site, 24% of the most popular websites in the world don't offer support for passkeys, which are considered the most secure way to log in to apps and services.",
+      "link": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
+      "pubDate": "2026-06-24T21:04:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2476e53a8912",
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "description": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "pubDate": "2026-06-24T20:09:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c576889ba787",
+      "title": "Here’s why Slate changed the battery in its cheap EV truck",
+      "description": "While there was probably a moment when Slate’s leadership had to green-light the switch from one battery type to another, the momentum toward that decision had been building for years.",
+      "link": "https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/",
+      "pubDate": "2026-06-24T19:27:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f2abcef457a2",
+      "title": "Claviers ASUS ROG et Linux : fuyez ! (ou bricolez dur)",
+      "description": "Il y a plusieurs années maintenant, j’ai craqué pour un gros clavier gamer avec triple connexion : USB-C, Bluetooth, Dongle 2.4GHz. L’objectif : pouvoir basculer [...]",
+      "link": "https://blog.seboss666.info/2026/06/claviers-asus-rog-et-linux-fuyez-ou-bricolez-dur/",
+      "pubDate": "2026-06-24T17:28:40.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2018/05/computer-madness.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4a09296732a3",
+      "title": "Facebook rolls out an AI companion app for creators",
+      "description": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "pubDate": "2026-06-24T17:16:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3d6d1a7b7d8f",
+      "title": "Deezer says its new feature lets fans remix songs with artist consent",
+      "description": "Global music streaming service Deezer is taking a contrarian approach to AI, even as it adds a feature that lets fans remix songs.",
+      "link": "https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/",
+      "pubDate": "2026-06-24T17:14:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "04d9a803269f",
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "description": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+      "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "pubDate": "2026-06-24T16:48:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "95b769a7573d",
+      "title": "NTSB launches probe into fatal Texas Tesla crash",
+      "description": "The safety board, known for its thorough investigations, is probing the crash alongside the National Highway Traffic Safety Administration.",
+      "link": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/",
+      "pubDate": "2026-06-24T16:39:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5c1ecd73074",
+      "title": "SEO : Google déploie une mise à jour de ses algorithmes (June 2026 spam update)",
+      "description": "Google a lancé le déploiement de la June 2026 Spam Update, sa deuxième mise à jour antispam de l'année. L'opération devrait s'étaler sur quelques jours.",
+      "link": "https://www.blogdumoderateur.com/seo-google-june-2026-spam-update/",
+      "pubDate": "2026-06-24T16:30:03.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Google-june-2026-spam-update-294x157.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "38dcbf12013e",
+      "title": "Figma réunit désormais design, code et agents IA sur un même canvas",
+      "description": "À l'occasion de Config 2026, Figma repense son canvas collaboratif comme un espace de création fullstack. Code natif, Motion, Shaders et workflows Weave rejoignent l'outil, aux côtés d'agents plus autonomes.",
+      "link": "https://www.blogdumoderateur.com/figma-reunit-design-code-agents-ia-meme-canvas/",
+      "pubDate": "2026-06-24T16:15:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Figma-Motion_video.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "b6a13b5e4f48",
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "description": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "pubDate": "2026-06-24T16:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "80ac2e9daa29",
+      "title": "Zoox upgrades its robotaxi as it prepares for commercial service",
+      "description": "The new Zoox robotaxi has more cushioning, lighter colors, and a better microphone and speaker for communicating with Zoox Support.",
+      "link": "https://techcrunch.com/2026/06/24/zoox-upgrades-its-robotaxi-as-it-prepares-for-commercial-service/",
+      "pubDate": "2026-06-24T15:01:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47eb3a04732c",
+      "title": "This new tracking label could help solve cargo theft",
+      "description": "The Samsara Tracking Label hides a BLE system that can offer real-time location in a disposable package.",
+      "link": "https://techcrunch.com/2026/06/24/this-new-tracking-label-could-help-solve-cargo-theft/",
+      "pubDate": "2026-06-24T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d6bb4be6138d",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "pubDate": "2026-06-24T14:54:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e860e469a5c2",
+      "title": "The Dark Side of AI : Épisode 1",
+      "description": "Derrière l'euphorie de l'IA générative : des travailleurs invisibles à 1€ de l'heure, des chatbots qui nous flattent plutôt que de nous informer, et une bulle que ses propres artisans n'osent plus nier.",
+      "link": "https://blog.ippon.fr/2026/06/24/the-dark-side-of-ai-episode-1/",
+      "pubDate": "2026-06-24T14:21:27.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/illustration.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "e2c0f254fd96",
+      "title": "If you want to cut your screen time, just get a Brick",
+      "description": "After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic.",
+      "link": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
+      "pubDate": "2026-06-24T14:01:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "49711f4f6cd0",
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "description": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "pubDate": "2026-06-24T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "430533b76b19",
+      "title": "Micro-perforation laser avec caméra : quand la vision industrielle fiabilise les films d’emballage",
+      "description": "Dans l’industrie contemporaine des emballages flexibles, la quête de l’excellence n’est pas seulement une question d’esthétique, mais une exigence fonctionnelle critique. L’optimisation de la perméabilité est devenue le pilier fondamental de la conservation des produits frais, où chaque détail…",
+      "link": "https://www.robot-magazine.fr/micro-perforation-laser-avec-camera-quand-la-vision-industrielle-fiabilise-les-films-demballage/?utm_source=rss&utm_medium=rss&utm_campaign=micro-perforation-laser-avec-camera-quand-la-vision-industrielle-fiabilise-les-films-demballage",
+      "pubDate": "2026-06-24T12:58:52.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2026/06/Acquisition-ultra-rapide-28-diagnostics-par-seconde-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a3a96f0e67a7",
+      "title": "Tech for Industry Show : les technologies qui transforment l’industrie",
+      "description": "Les 23 et 24 juin 2026, le salon Tech for Industry a réuni à Paris un écosystème industriel en pleine transformation. À l’heure où les entreprises cherchent à gagner en compétitivité, à automatiser leurs opérations et à accélérer leur transition numérique, cet événement a démontré que l’industrie…",
+      "link": "https://www.robot-magazine.fr/tech-for-industry-show-les-technologies-qui-transforment-lindustrie/?utm_source=rss&utm_medium=rss&utm_campaign=tech-for-industry-show-les-technologies-qui-transforment-lindustrie",
+      "pubDate": "2026-06-24T11:25:47.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "1a07cce4a124",
+      "title": "UX Days 2026 : Design, IA et conscience, ce que cette journée nous a appris sur notre métier",
+      "description": "L'intelligence artificielle redessine nos métiers. C'est le constat que partagent aujourd'hui designers, développeurs et product managers. Les UX Days 2026 n'ont pas échappé à cette réalité. Parmi les nombreuses conférences de la journée, six nous ont particulièrement marqués et partageaient un fil…",
+      "link": "https://jolicode.com/blog/ux-days-2026-design-ia-et-conscience-ce-que-cette-journee-nous-a-appris-sur-notre-metier",
+      "pubDate": "2026-06-24T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/ux-days-2026/uxdays01.png",
+      "type": "blog"
+    },
+    {
+      "id": "1e0f433381b2",
+      "title": "Avec Claude Tag, Anthropic installe un agent IA proactif dans Slack",
+      "description": "Anthropic lance Claude Tag en bêta sur Slack. La fonctionnalité remplacera l'app Claude in Slack, qui disparaîtra le 3 août pour les clients Enterprise et Team.",
+      "link": "https://www.blogdumoderateur.com/claude-tag-anthropic-agent-ia-proactif-slack/",
+      "pubDate": "2026-06-24T08:31:28.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Claude-Tag-Slack-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c1e990b74869",
+      "title": "Mais au fait, c’est quoi l’Open Knowledge Format (OKF) ?",
+      "description": "Présenté par Google, l'Open Knowledge Format (OKF) est un standard ouvert qui structure les connaissances d'une entreprise pour les rendre exploitables par les agents IA. Décryptage.",
+      "link": "https://www.blogdumoderateur.com/open-knowledge-format-okf/",
+      "pubDate": "2026-06-24T07:56:48.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Open-Knowledge-Format-294x154.jpg",
+      "type": "blog"
+    },
+    {
       "id": "2222eae58344",
       "title": "How to invest when everything is moving too fast",
       "description": "TechCrunch's StrictlyVC evening in Los Angeles late last week brought together two of the more straight-talking investors working in AI right now. They were as entertaining as they were illuminating.",
