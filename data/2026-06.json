@@ -2,6 +2,472 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "6dda144182bc",
+      "title": "Pourquoi choisir Payload plutôt que WordPress ou PrestaShop ?",
+      "description": "Spécialisée dans la conception de projets web, l'agence ID Interactive a fait de Payload une pièce maîtresse de sa stack. Eric Doyen, son fondateur, nous explique pourquoi.",
+      "link": "https://www.blogdumoderateur.com/pourquoi-choisir-payload-wordpress-prestashop/",
+      "pubDate": "2026-06-26T07:16:36.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/05/payload-interface-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "f7354fc9501e",
+      "title": "Quiz : ChatGPT, Claude, les deux ou aucun ?",
+      "description": "À l'image des plateformes sociales, les acteurs de l'IA ne cessent de se copier, jusqu'à se ressembler de plus en plus. Saurez-vous encore démêler les points communs et les différences entre Claude et ChatGPT ? Notre quiz vous permet de le vérifier.",
+      "link": "https://www.blogdumoderateur.com/quiz-chatgpt-claude-les-deux-aucun/",
+      "pubDate": "2026-06-26T06:30:08.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/quiz-chatgpt-claude-les-deux-aucun-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "ee64a52808c5",
+      "title": "IA et productivité : 5 outils recommandés par la rédaction",
+      "description": "La rédaction de BDM partage ses outils IA du moment. Quatre solutions gratuites ou presque, et un petit bonus pour clôturer cette semaine dédiée à l'IA.",
+      "link": "https://www.blogdumoderateur.com/outils-ia-recommandes-redaction/",
+      "pubDate": "2026-06-26T06:00:52.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/outils-ia-productivite-294x165.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "a07936e67883",
+      "title": "IA : 10 chiffres pour comprendre 2 ans de grands bouleversements",
+      "description": "Pour conclure la 3e édition de notre enquête IA, nous nous sommes penchés sur les principales évolutions concernant l’usage de l’IA par les pros du digital ces deux dernières années.",
+      "link": "https://www.blogdumoderateur.com/ia-10-chiffres-comprendre-2-ans-grands-bouleversements/",
+      "pubDate": "2026-06-26T05:00:02.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/bilan-enquete-ia-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "96aa53a971fc",
+      "title": "#317.exe - SQL: Turing complete et toujours incompris par Léa Buendé",
+      "description": "Pour l'épisode #317 je recevais Cédric Miachon. On en débrief avec Léa. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-317-a2f165b9b8ab",
+      "pubDate": "2026-06-26T03:00:17.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/248e3b11-3514-45c3-a17f-a2f165b9b8ab.mp3?_=1782388877",
+      "duration": "11:08"
+    },
+    {
+      "id": "3d73062a8920",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "pubDate": "2026-06-25T23:34:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "44efdc06c4d0",
+      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+      "description": "YouTube Shorts is getting a makeover.",
+      "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+      "pubDate": "2026-06-25T22:02:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9fde553deecd",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "pubDate": "2026-06-25T20:19:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68b5c59243b4",
+      "title": "Polymarket says hackers stole users’ funds",
+      "description": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
+      "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+      "pubDate": "2026-06-25T19:58:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8eba515e66e4",
+      "title": "Xbox follows Apple with price increases ",
+      "description": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
+      "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+      "pubDate": "2026-06-25T19:39:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5fa761beca9a",
+      "title": "Notion Mail shuts down amid agent takeover",
+      "description": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
+      "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+      "pubDate": "2026-06-25T19:14:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b68050417bb2",
+      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+      "description": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.",
+      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+      "pubDate": "2026-06-25T17:52:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e24e12ef9468",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "pubDate": "2026-06-25T17:38:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d8d06740c33a",
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "pubDate": "2026-06-25T16:55:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "79e477154ce1",
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "description": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "pubDate": "2026-06-25T16:48:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "552a678b8e58",
+      "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
+      "description": "Market research company Klue told customers that it believes the hacking group that stole their data is now deleting it. The company, however, warned about a second group of hackers wanting ransom.",
+      "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
+      "pubDate": "2026-06-25T16:40:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a38a0f79d824",
+      "title": "Rippling now wants to be your entire data stack",
+      "description": "\"There were employees doing things like, 'Claude is so helpful for me — it analyzes my calendar and my email and puts together a plan for me,'\" he says. \"That person was spending at a run rate of $30,000 a year for this.\"",
+      "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+      "pubDate": "2026-06-25T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b2d68dc4771f",
+      "title": "Google Finance gets a dedicated app for Android",
+      "description": "Users will be able to access their watchlists, real-time market data, live financial news, and Google's AI-powered \"Key Moments\" feature, which explains why stocks moved.",
+      "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+      "pubDate": "2026-06-25T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "903521fa9a8e",
+      "title": "Introducing a Recommended Agent in AI Chat, With Codex as the Current Default",
+      "description": "JetBrains AI supports multiple coding agents, including Junie, Codex, Claude Agent, and any ACP-compatible agent you bring yourself. Previously, AI users in JetBrains IDEs started in Chat mode and had to choose an agent themselves. As models became more advanced, agents became more capable and…",
+      "link": "https://blog.jetbrains.com/ai/2026/06/codex-is-now-the-recommended-agent-in-jetbrains-ai/",
+      "pubDate": "2026-06-25T14:57:31.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "edf2a473ca48",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "pubDate": "2026-06-25T14:55:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "40da14dda642",
+      "title": "Trump administration bars Polestar from selling its new EVs in the US",
+      "description": "The Department of Commerce declined to give the Chinese-owned automaker a special authorization to keep selling EVs in the U.S.",
+      "link": "https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/",
+      "pubDate": "2026-06-25T14:55:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "91042c7a0ac7",
+      "title": "Apple raises Mac and iPad prices, spares iPhone for now",
+      "description": "Apple raises prices of MacBook Air and Pro along with iPad Air and Pro.",
+      "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
+      "pubDate": "2026-06-25T14:52:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "37f29e4b88ca",
+      "title": "Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now.",
+      "description": "Here’s a case worth pondering: your app freezes for ten seconds, and you ask an AI agent what’s wrong. What does it actually do? For a long time the honest answer was: it rummages through your code and takes a wild guess. A snapshot taken by a profiler tool is runtime evidence. It knows exactly […]",
+      "link": "https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/",
+      "pubDate": "2026-06-25T14:17:40.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21f448065e3f",
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "description": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
+      "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "pubDate": "2026-06-25T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ee5e4dcecee",
+      "title": "Trump administration proposes axing brake-pedal requirement for AVs in a boost for Tesla",
+      "description": "The Department of Transportation wants to remove the brake-pedal requirement for vehicles \"designed to be driven exclusively by automated driving systems.\"",
+      "link": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/",
+      "pubDate": "2026-06-25T13:58:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e428fd8c6c7",
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "description": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+      "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "pubDate": "2026-06-25T13:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4e2ef248849a",
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "description": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+      "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "pubDate": "2026-06-25T12:00:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2e9fbd141286",
+      "title": "Étude : comment l’IA redistribue les rôles entre designers et développeurs",
+      "description": "Selon le dernier rapport AI and Design de Figma, 57 % des professionnels jugent le design plus important qu’avant. Chez les développeurs, la proportion bondit de 44 % à 65 % en un an.",
+      "link": "https://www.blogdumoderateur.com/etude-comment-ia-redistribue-roles-designers-developpeurs/",
+      "pubDate": "2026-06-25T07:57:07.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Figma-ai-and-design2-copie-294x186.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b770dccde9b4",
+      "title": "Tribune : l’IA ne va pas vous remplacer, elle va exposer ce que vous faisiez vraiment",
+      "description": "Dans cette tribune, Robin Coulet, directeur associé de Sociaty.io, explique à BDM pourquoi l'IA ne remplacera pas les métiers de la communication, mais révélera leur vraie valeur.",
+      "link": "https://www.blogdumoderateur.com/ia-pas-remplacer-exposer-ce-que-vous-faisiez-vraiment/",
+      "pubDate": "2026-06-25T07:41:36.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/tribune-sociaty-ia-294x196.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "90f64153ac86",
       "title": "NVIDIA Halos for Robotics : la sécurité des robots industriels entre dans une nouvelle ère",
       "description": "L’intelligence artificielle physique franchit un nouveau cap Depuis plusieurs années, la robotique industrielle connaît une accélération sans précédent. L’intelligence artificielle ne se limite plus à analyser des données ou à générer du texte : elle pilote désormais des machines capables de…",
