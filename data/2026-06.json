@@ -2,6 +2,166 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "6c5d4be0188b",
+      "title": "5 formations pour se former aux métiers de la cybersécurité",
+      "description": "Notre sélection de formations de la semaine vous apprend les compétences nécessaires à acquérir pour exercer un poste dans le domaine de la cybersécurité.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-cybersecurite-307/",
+      "pubDate": "2026-06-29T08:05:20.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/selection-formation-cybersecurite-307-294x155.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f7b8dbacdadc",
+      "title": "Comment la data transforme la relation entre les clubs sportifs et leurs fans",
+      "description": "Nous avons échangé avec Baptiste Jourdan, CRO d'EVENTORI. Il nous décrypte les enjeux de la billetterie, qui est devenue un actif stratégique pour les clubs sportifs professionnels.",
+      "link": "https://www.blogdumoderateur.com/comment-data-transforme-relation-clubs-sportifs-fans/",
+      "pubDate": "2026-06-29T07:53:12.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Baptiste-Jourdan-EVENTORI-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e08e1d9eae11",
+      "title": "Le marché du dev en 2026 : catastrophe ou illusion ?",
+      "description": "On entend partout que le marché de l'emploi pour les devs est en train de mourir. Pourtant les offres d'emplois sont en hausse de 15%. Alors quoi croire ? Notes de l'épisode : WorkMachine : https://www.workmachine.io/fr",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Le-march-du-dev-en-2026--catastrophe-ou-illusion-e3lcr5f",
+      "pubDate": "2026-06-29T05:00:00.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/122104431/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F2b3c924d-99cc-6908-4474-3cdc22fa70e0.mp3",
+      "duration": "00:07:45"
+    },
+    {
+      "id": "b61da45c1c61",
+      "title": "California law targeting loud streaming ads takes effect on July 1",
+      "description": "Streaming ads might be getting a lot quieter.",
+      "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+      "pubDate": "2026-06-28T21:34:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1b13fe6ad15a",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "description": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "pubDate": "2026-06-28T19:05:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "91405da515d2",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
+      "description": "Has Silicon Valley been building the wrong things?",
+      "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+      "pubDate": "2026-06-28T17:03:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2ecad164504c",
+      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "pubDate": "2026-06-28T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "485f7258b0f9",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "description": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "pubDate": "2026-06-28T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7cb1e51bb259",
+      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "description": "For some people, the ice in a beverage is almost as important as the drink itself. That’s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro. This $500 premium smart home gadget is aimed at those who crave what’s called “the good ice,” the…",
+      "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "pubDate": "2026-06-28T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3e16cf6e7aff",
+      "title": "Symfony 8.1 HTTP-less : pour un projet neuf, pas pour un worker existant",
+      "description": "Le kernel HTTP-less de Symfony 8.1 sert un projet neuf, pas à alléger un worker existant. ServicesBundle, ConsoleBundle, RequiredBundle : pour quel cas.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-http-less-pour-un-projet-neuf-pas-pour-un-worker-existant",
+      "pubDate": "2026-06-28T10:02:57.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "74b0f904cc3f",
       "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
       "description": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
@@ -172,6 +332,23 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1dd2c53abcb1",
+      "title": "Retours sur le Breizhcamp 2026",
+      "description": "Logo officiel du Breizhcamp — La conférence à l'Ouest Retours sur le Breizhcamp 2026 Depuis plusieurs années, le Breizhcamp est une conférence incontournable pour la communauté technologique rennaise. Cette année, j’ai pu y présenter un talk qui me tient à cœur à savoir « Comment je fais ma veille…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/06/breizhcamp-2026/",
+      "pubDate": "2026-06-27T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/06/breizhcamp-2026/banner.avif",
       "type": "blog"
     },
     {
