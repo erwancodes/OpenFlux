@@ -1,0 +1,103 @@
+{
+  "month": "2026-07",
+  "articles": [
+    {
+      "id": "c85a772b45a8",
+      "title": "Se former au webdesign : comment choisir la formation qui correspond vraiment à votre profil ?",
+      "description": "Des formations courtes d'initiation aux cursus diplômants spécialisés, l'offre en webdesign est vaste. Voici quelques repères pour vous aider à cibler la formation qui correspond vraiment à votre niveau et à vos objectifs.",
+      "link": "https://www.blogdumoderateur.com/se-former-webdesign-comment-choisir-formation-correspond-profil/",
+      "pubDate": "2026-07-01T06:00:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/formation-webdesign-294x180.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "883791284156",
+      "title": "Peut-on encore exister sur les réseaux sociaux sans budget social ads ?",
+      "description": "Faut-il payer pour exister sur les réseaux sociaux ? Quatre professionnels partagent leur lecture du rapport entre organique et paid, et leurs conseils pour un budget limité.",
+      "link": "https://www.blogdumoderateur.com/exister-reseaux-sociaux-sans-budget-social-ads/",
+      "pubDate": "2026-07-01T05:00:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/budget-social-media-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "0cd73acc9fba",
+      "title": "The ‘Father of the Internet’ is finally retiring",
+      "description": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "pubDate": "2026-07-01T03:15:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fd1394b6fe25",
+      "title": "#363.src - Kestra: Comment orchestrer sans usiner à gaz ? avec Loïc Mathieu",
+      "description": "\"On va essayer d'être présent un peu partout, tu vois, comme on est universel.\" Le D.E.V. de la semaine est Loïc Mathieu, Lead Software Engineer chez Kestra Technologies qui vient de lever $25M dans une série A menée par RTP Global. Avec plus de vingt ans de dev derrière lui, Loïc raconte comment…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-363-9972a29a43ff",
+      "pubDate": "2026-07-01T03:00:49.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/cd40b1aa-7269-42a5-a787-85ca8b4b3442.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/515f3062-15e6-4cd0-b9c4-9972a29a43ff.mp3?_=1782820909",
+      "duration": "50:36"
+    },
+    {
+      "id": "5926ae6482dd",
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "description": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "pubDate": "2026-07-01T02:16:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ef51c8cf54be",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "description": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "pubDate": "2026-07-01T02:04:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}
