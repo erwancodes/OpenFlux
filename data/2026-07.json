@@ -2,6 +2,372 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "122379e5267c",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "pubDate": "2026-07-02T05:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ab78a4a2e201",
+      "title": "IA, productivité, social media : 5 nouveaux outils à découvrir sur Product Hunt en juin 2026",
+      "description": "Une application qui retrace toute votre journée de travail, un outil de veille capable de débusquer les vrais avis clients… Découvrez cinq outils particulièrement plébiscités sur Product Hunt en juin 2026.",
+      "link": "https://www.blogdumoderateur.com/nouveaux-outils-product-hunt-juin-2026/",
+      "pubDate": "2026-07-02T05:00:40.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/classement-product-hunt-juin-2026-294x175.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "da0d723a8b22",
+      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+      "description": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.",
+      "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+      "pubDate": "2026-07-01T23:57:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73935aed8c33",
+      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+      "description": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
+      "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+      "pubDate": "2026-07-01T22:47:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da8fd48c8a2a",
+      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+      "description": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
+      "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+      "pubDate": "2026-07-01T22:28:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2f563fff889f",
+      "title": "WhatsApp usernames are already raising impersonation red flags",
+      "description": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
+      "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+      "pubDate": "2026-07-01T22:02:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d08e6e53c405",
+      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+      "description": "Research appears to reveal a bug that could render the feature effectively useless.",
+      "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+      "pubDate": "2026-07-01T19:18:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "372624dec7e9",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "description": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "pubDate": "2026-07-01T18:54:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3846c59276e8",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "description": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "pubDate": "2026-07-01T18:47:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6f0f12fb121f",
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "description": "The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.",
+      "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "pubDate": "2026-07-01T18:29:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1d6f4053810",
+      "title": "Lime begins life as a public company after years of uncertainty",
+      "description": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
+      "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+      "pubDate": "2026-07-01T18:24:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1d209c558179",
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "description": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "pubDate": "2026-07-01T17:48:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7760959df0d1",
+      "title": "Even Honda is pivoting to data centers",
+      "description": "Honda wants in on the lucrative energy storage market. This week it began producing batteries destined for data centers, not driveways.",
+      "link": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
+      "pubDate": "2026-07-01T17:13:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "719ed3ba5bdc",
+      "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
+      "description": "The autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle. Travis Kalanick is back building a robotics company, and the talent wars and capital are heating up the same way they did the first time around. The money’s flowing back, and it’s the people who lived through…",
+      "link": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+      "pubDate": "2026-07-01T16:48:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f19429bab881",
+      "title": "AI Overviews arrive en France : faut-il vraiment optimiser ?",
+      "description": "Google AI Overviews arrive en France. Faut-il optimiser votre stratégie SEO pour être cité ? Décryptage des enjeux et des réglages techniques.",
+      "link": "https://lecodeestdanslepre.fr/billets/optimiser-pour-les-ia-qui-repondent",
+      "pubDate": "2026-07-01T15:32:15.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f9391c7e278f",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "description": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "pubDate": "2026-07-01T14:25:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "84ff4d52cf27",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "description": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "pubDate": "2026-07-01T14:20:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "04d4eca63acf",
+      "title": "Sony to end physical PlayStation game disc production in 2028",
+      "description": "Sony will stop producing physical discs for all new PlayStation games beginning in 2028, as the company embraces an all-digital future.",
+      "link": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/",
+      "pubDate": "2026-07-01T14:16:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d0eb1acc3176",
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "description": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
+      "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-07-01T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6fcb01f9e95e",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "description": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "pubDate": "2026-07-01T13:43:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7502017f2b4d",
+      "title": "Google lance Nano Banana 2 Lite et ouvre Gemini Omni Flash aux développeurs",
+      "description": "La firme complète sa gamme Nano Banana avec une version rapide et économique, tout en élargissant le déploiement de son modèle de génération de vidéos.",
+      "link": "https://www.blogdumoderateur.com/google-lance-nano-banana-2-lite-ouvre-gemini-omni-flash/",
+      "pubDate": "2026-07-01T09:02:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/google-nano-banana-lite-2-gemini-omni-flash-294x166.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "29264ca62088",
+      "title": "Anthropic dévoile Sonnet 5 et rétablit l’accès à Fable et Mythos",
+      "description": "Anthropic lance Claude Sonnet 5, son nouveau modèle centré sur l'agentique. Dans le même temps, la firme annonce le retour de Fable 5 et Mythos 5, débloqués par le gouvernement américain.",
+      "link": "https://www.blogdumoderateur.com/anthropic-claude-sonnet-5-acces-fable-mythos/",
+      "pubDate": "2026-07-01T08:53:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Claude-Sonnet-5-294x159.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "94545e2f7a0a",
+      "title": "Améliorer l’accessibilité d’un site existant : retour d’expérience chez JoliCode",
+      "description": "Malgré des avancées réglementaires importantes, l’accessibilité numérique reste largement sous-estimée dans de nombreux projets web. Depuis le 28 juin 2025, l’European Accessibility Act (EAA) étend les obligations d’accessibilité à de nombreux services numériques privés. Pourtant, la réalité est…",
+      "link": "https://jolicode.com/blog/ameliorer-l-accessibilite-d-un-site-existant-retour-d-experience-chez-jolicode",
+      "pubDate": "2026-07-01T07:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/a11y-jolisite/before-after-secondary.png",
+      "type": "blog"
+    },
+    {
       "id": "c85a772b45a8",
       "title": "Se former au webdesign : comment choisir la formation qui correspond vraiment à votre profil ?",
       "description": "Des formations courtes d'initiation aux cursus diplômants spécialisés, l'offre en webdesign est vaste. Voici quelques repères pour vous aider à cibler la formation qui correspond vraiment à votre niveau et à vos objectifs.",
@@ -98,6 +464,23 @@
       ],
       "image": null,
       "type": "blog"
+    },
+    {
+      "id": "e6b495db5460",
+      "title": "News Juillet 2026, TypeScript 7 RC, Astro 7 et des pièges pour agents IA",
+      "description": "Nous évoquons TypeScript 7.0 RC jusqu'à 10 fois plus rapide, Astro 7.0 avec Sätteri et Rolldown, l'astuce de Mitchell Hashimoto pour piéger les PR sans review de code, Cursor sur iOS, Docker sur Vercel, Deno Desktop, Babel 8, le framework d'agents Eve, les modèles IA Fugu et Ornith, le nouveau…",
+      "link": "https://double-slash.dev/podcasts/news-jul26/",
+      "pubDate": "2026-07-01T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1782901023/ART_135_m3vbav.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_135_news-jul26.mp3",
+      "duration": "3169"
     }
   ]
 }
