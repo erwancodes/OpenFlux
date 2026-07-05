@@ -2,6 +2,100 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "42e4e3d1812d",
+      "title": "EasyAdmin : sécuriser un admin sans toucher à setPermission()",
+      "description": "Sécurisez votre back-office EasyAdmin sans setPermission(). Combinez access_control, #[IsGranted] et gardes custom pour une sécurité robuste et efficace.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-securiser-un-admin-sans-toucher-a-setpermission",
+      "pubDate": "2026-07-05T05:40:18.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/easyadmin-securiser-un-admin-sans-toucher-a-setpermission.png?v=5746c43661cf45ac",
+      "type": "blog"
+    },
+    {
+      "id": "c150e3bb29aa",
+      "title": "EasyAdmin : écrire un filtre custom du FilterInterface au FilterType",
+      "description": "Apprenez à créer un filtre custom EasyAdmin Symfony, de FilterInterface à FilterType. Idéal pour des besoins spécifiques au-delà des filtres natifs.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-ecrire-un-filtre-custom-du-filterinterface-au-filtertype",
+      "pubDate": "2026-07-05T05:38:38.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/easyadmin-ecrire-un-filtre-custom-du-filterinterface-au-filtertype.png?v=003c7a298b89b66f",
+      "type": "blog"
+    },
+    {
+      "id": "8148c8e03297",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "pubDate": "2026-07-04T20:55:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "85afafbbb341",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "pubDate": "2026-07-04T18:00:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e9f49d0f5a9d",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "pubDate": "2026-07-04T16:32:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "337eef6fefd0",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "pubDate": "2026-07-04T15:51:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3e4ac5636d69",
       "title": "The only AI glossary you’ll need this year",
       "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
