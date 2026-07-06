@@ -2,6 +2,196 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "9a53abb57f7a",
+      "title": "Community managers : participez à notre enquête 2026",
+      "description": "Réseaux sociaux préférés, outils, salaires, usages de l'IA : notre enquête annuelle sur les community managers est de retour pour sa 16e édition !",
+      "link": "https://www.blogdumoderateur.com/enquete-community-managers-2026/",
+      "pubDate": "2026-07-06T07:00:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/BDM_Enquete2026-CM-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "afdf60f0b3ae",
+      "title": "5 formations pour maîtriser le RGPD",
+      "description": "Cette sélection de formations vous apprend à appliquer le RGPD dans vos pratiques professionnelles et à acquérir les compétences nécessaires pour devenir délégué à la protection des données.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-rgpd-308/",
+      "pubDate": "2026-07-06T06:30:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/selection-formation-rgpd-308-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f9bcda2f30b3",
+      "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+      "description": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.",
+      "link": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+      "pubDate": "2026-07-06T06:05:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2282bdfef1f8",
+      "title": "Image de marque sur les réseaux sociaux : faut-il vraiment tout contrôler ?",
+      "description": "Sur les réseaux sociaux, les marques n'ont plus le monopole de leur propre image. Jusqu'où peut-on accepter de lâcher du lest ? Trois experts du social media présentent leur point de vue à BDM.",
+      "link": "https://www.blogdumoderateur.com/image-marque-reseaux-sociaux-vraiment-tout-controler/",
+      "pubDate": "2026-07-06T06:00:14.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Controle-Image-Reseaux-Sociaux-294x168.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8b1b8b25f973",
+      "title": "Sojasun, KitKat, Leroy Merlin : les campagnes social media qui ont marqué le début d’année 2026",
+      "description": "Ce premier semestre 2026 a livré son lot de campagnes social media marquantes. Retour sur celles qui ont le plus fait parler !",
+      "link": "https://www.blogdumoderateur.com/campagnes-social-media-debut-2026/",
+      "pubDate": "2026-07-06T05:00:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/campagnes-social-media-s1-2026-294x147.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "2340dcfaf3bf",
+      "title": "Qu’est-ce qu’un AMR ?",
+      "description": "Pourquoi ces robots mobiles autonomes s’imposent dans les usines et les entrepôts ? Pendant des années, les robots industriels sont restés cantonnés à leur cellule de production, derrière des barrières de sécurité. Aujourd’hui, une autre catégorie de machines attire l’attention des industriels :…",
+      "link": "https://www.robot-magazine.fr/quest-ce-quun-amr/?utm_source=rss&utm_medium=rss&utm_campaign=quest-ce-quun-amr",
+      "pubDate": "2026-07-06T04:47:54.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e64345228683",
+      "title": "Uber’s European expansion plans may have hit a speed bump",
+      "description": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+      "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+      "pubDate": "2026-07-05T21:35:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "125b84978135",
+      "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+      "description": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
+      "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+      "pubDate": "2026-07-05T20:29:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d1a423c64910",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "description": "These may be the last days of Amazon’s Mechanical Turk.",
+      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "pubDate": "2026-07-05T17:43:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba435bff8b0c",
+      "title": "5 desk gadgets that can make your workday better",
+      "description": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.",
+      "link": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+      "pubDate": "2026-07-05T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0eff700ab9ef",
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+      "description": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+      "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "pubDate": "2026-07-05T13:33:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b683fbfc9b26",
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "description": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+      "link": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "pubDate": "2026-07-05T12:47:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "42e4e3d1812d",
       "title": "EasyAdmin : sécuriser un admin sans toucher à setPermission()",
       "description": "Sécurisez votre back-office EasyAdmin sans setPermission(). Combinez access_control, #[IsGranted] et gardes custom pour une sécurité robuste et efficace.",
@@ -29,6 +219,23 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/og/billets/easyadmin-ecrire-un-filtre-custom-du-filterinterface-au-filtertype.png?v=003c7a298b89b66f",
+      "type": "blog"
+    },
+    {
+      "id": "fcebac50334e",
+      "title": "Pourquoi je fais du DevRel et pourquoi je compte continuer",
+      "description": "Thierry s'est demandé, publiquement, si le métier de DevRel était encore une bonne situation. Je me pose la même question, par intermittence, depuis 2018. J'ai lu aussi le billet de Salma Alam-Naylor, celui où elle annonce qu'elle quitte le DevRel et la vie publique, pour de bon, probablement. Le…",
+      "link": "https://lostinbrittany.dev/fr/pourquoi-je-fais-du-devrel-et-pourquoi-je-compte-continuer/",
+      "pubDate": "2026-07-05T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-07-05-why-i-do-devrel-and-why-i-intend-to-keep-doing-it-social.jpg",
       "type": "blog"
     },
     {
