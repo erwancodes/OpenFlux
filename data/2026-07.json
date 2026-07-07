@@ -2,6 +2,309 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "d4ae75e58279",
+      "title": "Du format court à la vidéo longue : le pari du Média Positif sur YouTube",
+      "description": "Le Média Positif lance le Studio Positif, une société de production dédiée aux formats longs sur YouTube. Hugues de Rosny, son fondateur, explique les raisons de ce choix et la stratégie derrière ce pivot vers la vidéo longue.",
+      "link": "https://www.blogdumoderateur.com/format-court-video-longue-pari-media-positif-youtube/",
+      "pubDate": "2026-07-07T05:00:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Hugues-de-Rosny-fondateur-Le-Media-Positif-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "74b206184cde",
+      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+      "description": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
+      "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+      "pubDate": "2026-07-07T00:47:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce297b0dfa3d",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last…",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "pubDate": "2026-07-06T23:56:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e8e07f37467",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "description": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "pubDate": "2026-07-06T23:21:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "394931127984",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "description": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "pubDate": "2026-07-06T19:49:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "960c1e075cae",
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "description": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "pubDate": "2026-07-06T19:01:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a5c7910fdd93",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "pubDate": "2026-07-06T18:35:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6de4bb9c061",
+      "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
+      "description": "Bookship.org seemed to delay this anticipated partnership again, but tells TechCrunch that it has settled business terms and is working on integration.",
+      "link": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
+      "pubDate": "2026-07-06T18:12:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "553315ec957f",
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "description": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "pubDate": "2026-07-06T17:04:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "765bb00ed506",
+      "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
+      "description": "Apple has started a phased rollout of card payments for Apple Account purchases in India after adapting to the country's payments framework.",
+      "link": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
+      "pubDate": "2026-07-06T16:21:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "432c3ecf1f6e",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "description": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "pubDate": "2026-07-06T15:32:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d021bea7ae74",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "description": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "pubDate": "2026-07-06T15:22:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c72223e0874e",
+      "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
+      "description": "The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the country and its top allies.",
+      "link": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
+      "pubDate": "2026-07-06T14:43:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cf1d492ac75a",
+      "title": "How to reserve and change your WhatsApp username",
+      "description": "WhatsApp now lets users reserve usernames ahead of the feature’s full rollout, making it possible to connect without sharing a phone number once usernames go live.",
+      "link": "https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/",
+      "pubDate": "2026-07-06T14:15:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9cde332f81ea",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "description": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "pubDate": "2026-07-06T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eb635cfc00ce",
+      "title": "Le backup de Schrödinger : rejouer son pg_dump avant d'en avoir besoin",
+      "description": "Testez vos sauvegardes PostgreSQL ! Apprenez à rejouer vos pg_dump quotidiens et mesurez votre RTO avant le sinistre.",
+      "link": "https://lecodeestdanslepre.fr/billets/backup-schrodinger-restaurer-pg-dump",
+      "pubDate": "2026-07-06T10:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/backup-schrodinger-restaurer-pg-dump.png?v=78994141a907d6a6",
+      "type": "blog"
+    },
+    {
+      "id": "597973889839",
+      "title": "Does Speaking to Agents Like Cavemen Really Save 65% of Tokens? We Test",
+      "description": "A paired A/B benchmark of the token-compression skill Caveman on Claude Code, run on SkillsBench: does it actually save tokens, and does it degrade AI agent output quality? Advertised saving: 65%. Measured saving: 8.5%. Output-token saving on real agentic tasks, with the skill forcibly activated.…",
+      "link": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
+      "pubDate": "2026-07-06T10:01:12.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5382b7beae0a",
+      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+      "description": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150 million from Meituan and Tencent at a $1 billion valuation.",
+      "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "pubDate": "2026-07-06T09:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a592c4a41bf7",
+      "title": "Les 20 langages informatiques les plus populaires en juillet 2026",
+      "description": "Après avoir atteint son meilleur classement historique en juin, Rust poursuit sa progression et intègre pour la première fois le top 10 de l'index TIOBE.",
+      "link": "https://www.blogdumoderateur.com/20-langages-informatiques-populaires-juillet-2026/",
+      "pubDate": "2026-07-06T08:26:55.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/langages-informatiques-populaires-juillet-2026-294x197.jpg",
+      "type": "blog"
+    },
+    {
       "id": "9a53abb57f7a",
       "title": "Community managers : participez à notre enquête 2026",
       "description": "Réseaux sociaux préférés, outils, salaires, usages de l'IA : notre enquête annuelle sur les community managers est de retour pour sa 16e édition !",
