@@ -2,6 +2,438 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "9b97618b3ec9",
+      "title": "Que faire après un métier de community manager ?",
+      "description": "Social media manager, content manager, growth hacking, gestion de projet marketing… Après plusieurs années en tant que community manager, les pistes d'évolution ne manquent pas. Tour d'horizon des opportunités à saisir ou à envisager.",
+      "link": "https://www.blogdumoderateur.com/que-faire-apres-metier-community-manager/",
+      "pubDate": "2026-07-08T06:00:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/que-faire-apres-metier-community-manager-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a2ca24a389e9",
+      "title": "Messagerie instantanée : un canal encore sous-exploité par les marques en France",
+      "description": "Alors que les Français utilisent largement la messagerie instantanée avec leurs proches, une étude du Boston Consulting Group et Meta montre qu'ils sont aussi prêts à l'utiliser avec les marques, bien plus que les entreprises ne l'imaginent.",
+      "link": "https://www.blogdumoderateur.com/messagerie-instantanee-canal-encore-sous-exploite-marques-france/",
+      "pubDate": "2026-07-08T05:00:20.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/messagerie-instantanee-canal-encore-sous-exploite-marques-france-294x153.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9b98dcfeebb2",
+      "title": "#364.src - Strapi: Du JavaScript partout au content agent, la mutation continue avec Pierre Burgy",
+      "description": "\"Strapi est sûrement le CMS le plus personnalisable\" Le D.E.V. de la semaine est Pierre Burgy, CEO chez Strapi. Pierre revient sur l'évolution de Strapi, né à l'époque où les devs rêvaient de tout faire en JavaScript, jusqu'à son passage à l'échelle dans l'ère de l'AI et des coding agents. Il…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-364-b0831d7d02ea",
+      "pubDate": "2026-07-08T03:00:50.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/56b2bc8b-71f2-49b2-a7ff-a6b32cff17ef.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/7706ffa5-4576-4764-9db5-b0831d7d02ea.mp3?_=1783425710",
+      "duration": "57:21"
+    },
+    {
+      "id": "1d9638971ee4",
+      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+      "description": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
+      "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+      "pubDate": "2026-07-07T22:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0433a25f95c5",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "description": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "pubDate": "2026-07-07T22:18:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d8d8ef485f43",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "description": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "pubDate": "2026-07-07T20:04:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "566599dd56a0",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "description": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "pubDate": "2026-07-07T19:58:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1456e1678db7",
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "description": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "pubDate": "2026-07-07T19:28:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9060011c94ba",
+      "title": "Google’s Pixel event is set for August 12",
+      "description": "Google's upcoming event in August will introduce new Pixel devices.",
+      "link": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/",
+      "pubDate": "2026-07-07T18:38:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f2d26e3460e5",
+      "title": "Figma acquires team behind a vibe-coding app",
+      "description": "The Y Combinator-backed company started a vibe-coding platform and later built an agent-creation product.",
+      "link": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+      "pubDate": "2026-07-07T18:37:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "39633613ae46",
+      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
+      "description": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
+      "link": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
+      "pubDate": "2026-07-07T17:24:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "96e9d1c24f89",
+      "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
+      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "link": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "pubDate": "2026-07-07T16:45:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae9e772be900",
+      "title": "Claude Cowork expands to mobile and web",
+      "description": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "pubDate": "2026-07-07T16:27:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d6a05f100607",
+      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+      "description": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools.",
+      "link": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
+      "pubDate": "2026-07-07T15:19:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "35156bfed524",
+      "title": "VC firm Chemistry is raising $500M for its second fund",
+      "description": "Chemistry Ventures, the VC firm launched by Bessemer, Index Ventures, and Andreessen Horowitz alums, is raising $500M for its second fund.",
+      "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+      "pubDate": "2026-07-07T15:02:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0e20c323bcc5",
+      "title": "Newsletter juillet 2026 : Comment devenir une entreprise incontournable ?",
+      "description": "Les entreprises incontournables seront celles qui maîtriseront les moteurs de recherche IA Être une entreprise incontournable, c’est quoi ? C’est être celle à laquelle tout le monde pense quand on a un besoin en tête. Dans le B2C, ce sont les marques connues. Dans le B2B, c’est un peu différent.…",
+      "link": "https://oliviersauvage.com/2026/07/07/newsletter-juillet-2026-comment-devenir-une-entreprise-incontournable/",
+      "pubDate": "2026-07-07T14:45:12.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ec121b03e3f",
+      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+      "description": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
+      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "pubDate": "2026-07-07T14:35:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0d22ebbb8874",
+      "title": "This startup pits dealerships against each other to bid on your used car",
+      "description": "Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
+      "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+      "pubDate": "2026-07-07T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ab9ca5aabef",
+      "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
+      "description": "The U.S. Army has fixed two of its websites that were hacked to display messages calling President Trump a \"pedophile\" and a \"thief.\"",
+      "link": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
+      "pubDate": "2026-07-07T13:10:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c22b2eff2b5",
+      "title": "JetBrains AI for Teams and Organizations: From Fragmented AI Usage to Coordinated Software Development",
+      "description": "We’re about to start rolling out a new set of AI capabilities that provide shared context, reusable agentic workflows, organization-level governance, and cost control for software production. Developers use different AI tools depending on the task – from JetBrains IDEs to terminal-based agents such…",
+      "link": "https://blog.jetbrains.com/blog/2026/07/07/jetbrains-ai-for-teams-and-organizations-from-fragmented-ai-usage-to-coordinated-software-development/",
+      "pubDate": "2026-07-07T12:03:20.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/07/Blog_850-2x.png",
+      "type": "blog"
+    },
+    {
+      "id": "90a74ce7768b",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "pubDate": "2026-07-07T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd8f9f44d79d",
+      "title": "Salaires dans l’informatique et le digital : les rémunérations en 2026",
+      "description": "Le cabinet Silkhom publie son nouveau baromètre des salaires dans l'informatique, le digital et l'électronique. Voici les niveaux de rémunération à connaître pour 2026.",
+      "link": "https://www.blogdumoderateur.com/salaires-informatique-digital-remunerations-2026/",
+      "pubDate": "2026-07-07T09:16:36.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Salaires-2026-Silkhom-294x189.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8e62fb1cf161",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "description": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
+      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "pubDate": "2026-07-07T09:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "54bf1fa04aad",
+      "title": "Fable, Mythos, GPT-5.6 : l’Europe à la merci d’un kill switch américain ?",
+      "description": "Fable coupée aux Européens, GPT-5.6 réservé à des partenaires validés par Washington : les États-Unis entendent bien démontrer leur emprise sur l'IA mondiale. Analyse avec Bernard Benhamou, expert de la souveraineté numérique.",
+      "link": "https://www.blogdumoderateur.com/fable-mythos-gpt-5-6-europe-kill-switch-americain/",
+      "pubDate": "2026-07-07T07:58:31.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Fable-5-souverainete-294x157.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8ca5595a886f",
+      "title": "Maintenance technique : quand l’outil généraliste cède la place au logiciel métier",
+      "description": "La GMAO se verticalise. Dans le génie climatique, elle relie terrain, objets connectés et données énergétiques au sein d'un même outil.",
+      "link": "https://www.blogdumoderateur.com/maintenance-technique-quand-outil-generaliste-cede-place-logiciel-metier/",
+      "pubDate": "2026-07-07T07:55:31.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Twimm-by-Twipi-Group-couverture-BDM-1-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c5ee6921230b",
+      "title": "Adobe et LinkedIn proposent une formation IA gratuite pour les marketeurs",
+      "description": "AI Essentials for Marketers, la nouvelle initiative conjointe d'Adobe et de LinkedIn, propose des parcours courts et gratuits pour aider les marketeurs à développer des compétences en IA directement applicables à leur métier.",
+      "link": "https://www.blogdumoderateur.com/adobe-linkedin-formation-ia-gratuite-marketeurs/",
+      "pubDate": "2026-07-07T07:54:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/AI-Essentials-for-Marketers-Adobe-x-LinkedIn-294x164.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b372efe8d30c",
+      "title": "Conversation hacking : comment les marques s’invitent dans les commentaires des créateurs",
+      "description": "Certaines marques commentent désormais les contenus de créateurs, sans jamais afficher d'intention commerciale. Nolwenn Roux, de l'agence Conversationnel, explique à BDM comment utiliser le conversation hacking.",
+      "link": "https://www.blogdumoderateur.com/conversation-hacking-comment-marques-invitent-commentaires-createurs/",
+      "pubDate": "2026-07-07T07:42:24.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Conversation-Hacking-Ceetadel-294x178.jpg",
+      "type": "blog"
+    },
+    {
       "id": "d4ae75e58279",
       "title": "Du format court à la vidéo longue : le pari du Média Positif sur YouTube",
       "description": "Le Média Positif lance le Studio Positif, une société de production dédiée aux formats longs sur YouTube. Hugues de Rosny, son fondateur, explique les raisons de ce choix et la stratégie derrière ce pivot vers la vidéo longue.",
@@ -29,6 +461,22 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc5f773586f2",
+      "title": "🎤 Talks donnés à Riviera Dev 🎤",
+      "description": "Liste de talks donnés lors de la conférence Riviera Dev",
+      "link": "https://philippart-s.github.io/blog/talks/riviera-2026/",
+      "pubDate": "2026-07-07T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
       ],
       "image": null,
       "type": "blog"
