@@ -4337,6 +4337,22 @@
       "type": "blog"
     },
     {
+      "id": "eb858f3baff3",
+      "title": "Talk - Pimp My Shell",
+      "description": "Travailler dans un shell n’a pas besoin d’être ennuyeux, ni moche. Ce qui constitue une stack shell moderne : un émulateur de terminal, une nerd-font pleine d’icônes, un joli prompt starship et un outillage fou : mise pour gérer vos outils, tâches et alias, fnox pour les secrets et chezmoi pour une…",
+      "link": "https://codeka.io/talks/talk-pimp-my-shell/",
+      "pubDate": "2026-06-18T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d9aa3dc13c5a",
       "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
       "description": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",

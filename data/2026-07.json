@@ -2,6 +2,441 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "6522cd61326a",
+      "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
+      "description": "Vivo's joint venture could become a template for Chinese smartphone makers in India.",
+      "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
+      "pubDate": "2026-07-10T04:36:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5fd293b4b075",
+      "title": "#335.exe - Figma: From tech debt to AI, all through collaboration. The real life of a VP of Engineering par Jeremy Cohen",
+      "description": "Pour l'épisode #335 je recevais Marcel Weekes. On en débrief avec Jeremy. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-335-79e43969a8f8",
+      "pubDate": "2026-07-10T03:00:48.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/c95e3498-e1e5-49a2-b113-79e43969a8f8.mp3?_=1783598508",
+      "duration": "16:11"
+    },
+    {
+      "id": "5390181be54f",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "pubDate": "2026-07-10T00:16:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f0ae191e1a49",
+      "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
+      "description": "The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
+      "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
+      "pubDate": "2026-07-10T00:13:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cf980a9dfc71",
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "description": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "pubDate": "2026-07-09T23:38:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "40c4cf9177d5",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "pubDate": "2026-07-09T22:24:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8f28981d61e4",
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "pubDate": "2026-07-09T22:08:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "12becd26729c",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "pubDate": "2026-07-09T22:03:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "77b374bee427",
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "description": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "pubDate": "2026-07-09T21:57:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "de6be066eb87",
+      "title": "Can AI answer the $3 trillion question?",
+      "description": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "pubDate": "2026-07-09T21:47:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9683c84e437b",
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "pubDate": "2026-07-09T19:40:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1b43a2296ff8",
+      "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
+      "description": "In this week’s episode of Build Mode, Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders should avoid in order to get funded.",
+      "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
+      "pubDate": "2026-07-09T19:26:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fb09c8d68fa6",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "pubDate": "2026-07-09T19:05:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c89f03f19a0e",
+      "title": "Slate Auto teams up with Crayola to color its EV truck",
+      "description": "Slate has an answer for owners who have always want to drive a truck with bright crayon colors.",
+      "link": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/",
+      "pubDate": "2026-07-09T19:01:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "23ba9922c2b9",
+      "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
+      "description": "The video call highlights the murky relationship between professional athletes and gambling apps.",
+      "link": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/",
+      "pubDate": "2026-07-09T18:50:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d992aa1384f3",
+      "title": "Mercor is in talks for a $20B valuation",
+      "description": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October.",
+      "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
+      "pubDate": "2026-07-09T18:42:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "45abde51242c",
+      "title": "Google will now disclose which ads are made with AI",
+      "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "pubDate": "2026-07-09T18:40:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1c41e753863c",
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "description": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "pubDate": "2026-07-09T18:34:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "437c5d4ba0b1",
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "description": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "pubDate": "2026-07-09T18:22:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73e5ca389ac8",
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+      "description": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
+      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "pubDate": "2026-07-09T17:56:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5e747e3cd7b6",
+      "title": "Meta’s new AI chips will begin production in September",
+      "description": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
+      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "pubDate": "2026-07-09T17:17:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cb76e2ce1a4f",
+      "title": "Anthropic lance Reflect, une rétrospective de votre utilisation de Claude",
+      "description": "Claude propose désormais un tableau de bord récapitulant les sujets abordés, les pics d'activité et le type de tâches déléguées à l'assistant.",
+      "link": "https://www.blogdumoderateur.com/anthropic-reflect-retrospective-utilisation-claude/",
+      "pubDate": "2026-07-09T14:55:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Claude-reflect-1-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "668c388781f3",
+      "title": "La publicité digitale en France : les chiffres clés du 1er semestre 2026",
+      "description": "Selon la 36e édition de l'Observatoire de l'e-pub du SRI et de l'UDECAM, le marché de la publicité digitale progresse de 12 % au premier semestre 2026, porté par un Social qui se rapproche désormais du Search.",
+      "link": "https://www.blogdumoderateur.com/publicite-digitale-france-chiffres-cles-1er-semestre-2026/",
+      "pubDate": "2026-07-09T12:57:22.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/observatoire-e-pub-S1-2026-1-294x163.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3b9d97f77318",
+      "title": "Avec GPT-Live, le mode vocal de ChatGPT écoute mieux, répond plus finement et sait quand se taire",
+      "description": "Écouter et parler en même temps, temporiser, s'interrompre : avec le déploiement de GPT-Live, le mode vocal de ChatGPT calque un peu plus ses réflexes sur ceux d'un interlocuteur humain.",
+      "link": "https://www.blogdumoderateur.com/gpt-live-mode-vocal-chatgpt/",
+      "pubDate": "2026-07-09T09:02:01.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/gpt-live-mode-vocal-chatgpt-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7f168013d450",
+      "title": "IBM a-t'il vraiment inventé le papier bulle ?",
+      "description": "Une petite histoire qui montre encore à quel point des pans entiers de l'industrie ont été révolutionnés par la tech. WorkMachine : https://www.workmachine.io",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/IBM-a-til-vraiment-invent-le-papier-bulle-e3lrp61",
+      "pubDate": "2026-07-09T08:31:17.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/122593921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-9%2F570d9779-4efa-4746-c1ba-1857e3e72096.mp3",
+      "duration": "00:05:25"
+    },
+    {
+      "id": "561140daff82",
+      "title": "Comment convertir une présentation Google Slides en vidéo",
+      "description": "Transformer une slide en vidéo, script et voix off compris, sans quitter Workspace : Google Vids le proposait en anglais. Sept langues supplémentaires viennent d'être ajoutées, dont le français.",
+      "link": "https://www.blogdumoderateur.com/comment-convertir-presentation-google-slides-video/",
+      "pubDate": "2026-07-09T08:19:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Google-Slides-into-Video-Vids-294x186.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "daf3078da05c",
+      "title": "Tribune : « Arrêtez d’automatiser l’empathie »",
+      "description": "Dans une tribune pour BDM, Robin Coulet, directeur général de l'agence Conversationnel, pose une limite claire : l'IA absorbe la gestion de flux, jamais le flair ni le bon mot du community manager.",
+      "link": "https://www.blogdumoderateur.com/tribune-arretez-automatiser-empathie/",
+      "pubDate": "2026-07-09T07:48:58.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/tribune-automatisation-empathie-294x165.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "bbb69d573ab1",
       "title": "10 livres blancs à lire cet été : IA, e-commerce, social media, vidéo, cybersécurité…",
       "description": "Dans cette sélection de livres blancs à télécharger gratuitement, retrouvez des insights et des ressources pratiques pour aborder sereinement la rentrée 2026.",
@@ -1354,6 +1789,21 @@
         "Robotique"
       ],
       "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "872befec2152",
+      "title": "Colo",
+      "description": "Nous sommes en voiture. Je les amène au point de rendez-vous. Aujourd’hui, c’est le départ pour la colo. Je suis un peu stressé depuis quelques jours. Je ne sais pas comment ça va se passer pour eux et je ne sais pas si moi, je vais réussir à gérer la séparation. – Et toi, Papa, t’es jamais parti…",
+      "link": "https://boris.schapira.dev/notes/2026-07-colo/",
+      "pubDate": "2026-07-05T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
