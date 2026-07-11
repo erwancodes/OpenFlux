@@ -2,6 +2,340 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "73e0328c839a",
+      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+      "description": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
+      "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "pubDate": "2026-07-11T01:01:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a2602deab0f4",
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "description": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "pubDate": "2026-07-11T00:29:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5fdf7a2e04f4",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "pubDate": "2026-07-10T23:55:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "53d867e0de15",
+      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+      "description": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+      "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "pubDate": "2026-07-10T21:51:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3daaf068f42c",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "pubDate": "2026-07-10T21:00:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9070922ea5dd",
+      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "description": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+      "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "pubDate": "2026-07-10T17:42:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "215c84d847ed",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "pubDate": "2026-07-10T17:17:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b5e97f2173a0",
+      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "description": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
+      "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "pubDate": "2026-07-10T17:11:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4b1cac131c2",
+      "title": "China is catching up to Elon Musk’s reusable rockets",
+      "description": "China's state-owned space company recovered its first orbital rocket booster after launch.",
+      "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+      "pubDate": "2026-07-10T16:51:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bff9f0adb096",
+      "title": "Disney+ is considering a free streaming tier, report says",
+      "description": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
+      "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+      "pubDate": "2026-07-10T16:29:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d9023efc4f1",
+      "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
+      "description": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic.",
+      "link": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+      "pubDate": "2026-07-10T16:06:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5a51b792ad9",
+      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+      "description": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
+      "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+      "pubDate": "2026-07-10T15:00:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b20dc1d3d92",
+      "title": "Netflix could be planning ‘always-on’ live TV channels",
+      "description": "Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
+      "link": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
+      "pubDate": "2026-07-10T14:53:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe3280a0c5ef",
+      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+      "description": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
+      "link": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+      "pubDate": "2026-07-10T14:19:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "917d84c10136",
+      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+      "description": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
+      "link": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+      "pubDate": "2026-07-10T14:11:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9dcf2f165520",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out…",
+      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "pubDate": "2026-07-10T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b578e1a53063",
+      "title": "Créer des exécutables avec Node 25+",
+      "description": "Découvrez la nouvelle fonctionnalité de Node.js qui permet de créer des exécutables directement, sans utiliser de modules externes comme pkg ou nexe.",
+      "link": "https://code-garage.com/blog/creer-des-executables-avec-nodejs",
+      "pubDate": "2026-07-10T12:15:42.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e1119bc35ee2",
+      "title": "Google Search Console mesure désormais votre visibilité dans les réponses des IA",
+      "description": "Google déploie une nouvelle vue dans Search Console consacrée aux impressions générées par l'IA générative, sans données de clics ni de requêtes pour l'instant.",
+      "link": "https://www.blogdumoderateur.com/google-search-console-visibilite-ia/",
+      "pubDate": "2026-07-10T10:37:15.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/GSC-IA-Generative-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ce0ce48df1eb",
+      "title": "L'affiche avant le film : des images OG dessinées en PHP, sans Chromium",
+      "description": "Découvrez comment générer des images Open Graph personnalisées en PHP, en utilisant GD et Imagick, pour des aperçus de liens uniques sans Chromium.",
+      "link": "https://lecodeestdanslepre.fr/billets/images-og-dessinees-en-php",
+      "pubDate": "2026-07-10T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/images-og-dessinees-en-php.png?v=5a752ddc786ebcdc",
+      "type": "blog"
+    },
+    {
+      "id": "68683fd59f17",
+      "title": "ChatGPT Work : OpenAI lance un concurrent à Claude Cowork propulsé par GPT-5.6",
+      "description": "OpenAI dévoile ChatGPT Work, un agent propulsé par GPT-5.6 capable d'exécuter des tâches complexes dans les outils du quotidien. En parallèle, le modèle GPT-5.6 est désormais disponible partout dans le monde.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-work-openai-concurrent-claude-cowork-gpt-5-6/",
+      "pubDate": "2026-07-10T08:36:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/ChatGPT-Work-294x169.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f1f30252ef2c",
+      "title": "Meta dévoile Muse Spark 1.1, un modèle agentique désormais accessible via une API payante",
+      "description": "Trois mois après Muse Spark, Meta dévoile une version 1.1 axée sur les tâches agentiques et l'ouvre aux développeurs via sa première API payante.",
+      "link": "https://www.blogdumoderateur.com/meta-muse-spark-1-1-modele-agentique-accessible-api-payante/",
+      "pubDate": "2026-07-10T08:26:08.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/muse-spark-1-1-294x165.jpg",
+      "type": "blog"
+    },
+    {
       "id": "6522cd61326a",
       "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
       "description": "Vivo's joint venture could become a template for Chinese smartphone makers in India.",
@@ -63,6 +397,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d6fc668e802",
+      "title": "IA et écologie, fantasme ou bouc émissaire pratique ?",
+      "description": "Dur de parler d’IA en ce moment. J’ai rarement, voire jamais, vu un sujet aussi polarisé dans la tech.",
+      "link": "https://eventuallycoding.com/p/ia-et-ecologie-fantasme-ou-bouc-emissaire-pratique",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"
