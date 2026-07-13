@@ -2,6 +2,86 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "497bcdddacbc",
+      "title": "Pros du digital : 7 actions pour partir en vacances l’esprit tranquille",
+      "description": "Message d'absence, publications programmées, récap de reprise... Quelques réglages suffisent pour partir l'esprit tranquille quand on travaille dans le digital. Tour d'horizon de sept actions à boucler avant de couper pour les congés.",
+      "link": "https://www.blogdumoderateur.com/pros-digital-actions-pour-partir-vacances-esprit-tranquille/",
+      "pubDate": "2026-07-13T06:30:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/todo-list-vacances-ete-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "466a0bf7b48f",
+      "title": "5 formations pour concevoir et déployer une stratégie de communication",
+      "description": "Notre sélection de formations de la semaine vous apprend à bâtir une stratégie de communication cohérente, à la déployer sur l'ensemble de vos canaux et à en mesurer les résultats.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-communication-309/",
+      "pubDate": "2026-07-13T06:00:40.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/selection-formation-communication-309-294x169.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "92eeb58e52c1",
+      "title": "Cybersécurité : pourquoi les stagiaires et les saisonniers sont une cible idéale (et comment y remédier)",
+      "description": "Senior Systems Engineer EMEA chez Outpost24, Aymen Ben Aouicha explique à BDM pourquoi l'arrivée des stagiaires, alternants et saisonniers ouvre une fenêtre de vulnérabilité, et comment les entreprises peuvent s'en prémunir.",
+      "link": "https://www.blogdumoderateur.com/cybersecurite-pourquoi-stagiaires-saisonniers-cible-ideale/",
+      "pubDate": "2026-07-13T05:00:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Aymen-Ben-Aouicha-Outpost24-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "53d7e1ab3423",
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "pubDate": "2026-07-12T16:07:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "12acdc466b3b",
+      "title": "Karpenter + Cluster API",
+      "description": "Mon cheminement pour autoscaler un cluster OVH déployé via la Cluster API, en utilisant Karpenter et son provider cluster-api, avec MKS comme cluster de management.",
+      "link": "https://une-tasse-de.cafe/blog/karpenter-capi-ovh/",
+      "pubDate": "2026-07-12T01:18:18.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "61e1fe483d23",
       "title": "Reed Jobs would rather talk about curing cancer than his last name",
       "description": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same…",
