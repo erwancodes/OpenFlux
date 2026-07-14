@@ -2,6 +2,354 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "5ff9e4858ff1",
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "pubDate": "2026-07-14T02:46:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4bf0e96e2a8d",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "pubDate": "2026-07-14T00:45:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4efd27519b81",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "description": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "pubDate": "2026-07-14T00:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "24688b9c19c0",
+      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+      "description": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
+      "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+      "pubDate": "2026-07-13T23:58:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "965e2f380a4c",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "description": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "pubDate": "2026-07-13T23:31:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6fc155c9f761",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "description": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "pubDate": "2026-07-13T20:59:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3fb8e4c80ab1",
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "description": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
+      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "pubDate": "2026-07-13T20:00:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0c4f5217216f",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "description": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "pubDate": "2026-07-13T18:22:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f23f537c85d",
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "description": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "pubDate": "2026-07-13T17:28:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e8c434209a29",
+      "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
+      "description": "General Fusion started trading on the Nasdaq following a reverse merger that saw high redemptions.",
+      "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
+      "pubDate": "2026-07-13T17:03:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "577cc3a0cd7b",
+      "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+      "description": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+      "pubDate": "2026-07-13T17:00:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "735b5b3e2531",
+      "title": "Should AI help you get away with killing your spouse?",
+      "description": "What does a world of total user-aligned AI actually look like?",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "pubDate": "2026-07-13T16:31:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "96628705480a",
+      "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
+      "description": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
+      "link": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
+      "pubDate": "2026-07-13T15:49:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "58e07a4389e2",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "description": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "pubDate": "2026-07-13T15:34:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b1b83c51ab1",
+      "title": "SpaceX cleared to fly Starship again after booster failure in May",
+      "description": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
+      "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "pubDate": "2026-07-13T14:19:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "767ce2a3551a",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "description": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "pubDate": "2026-07-13T14:18:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a8d8fca88e3d",
+      "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
+      "description": "The LAPD, one of Flock's biggest government customers, is ending its contract with the company citing civil liberties concerns.",
+      "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "pubDate": "2026-07-13T14:13:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "65b41f5de831",
+      "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+      "description": "Washington, D.C. has become a battleground for Uber and Waymo's competing views.",
+      "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+      "pubDate": "2026-07-13T12:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a31ef7b3aedf",
+      "title": "Un RAG sur son propre blog : pour me relire, pas pour écrire",
+      "description": "Optimisez votre blog : découvrez le RAG pour retrouver vos infos sans jargon. Bénéfices pour les auteurs.",
+      "link": "https://lecodeestdanslepre.fr/billets/rag-editorial-relire-corpus",
+      "pubDate": "2026-07-13T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d951d46339a5",
+      "title": "Mistral AI lance Robostral Navigate",
+      "description": "La robotique autonome franchit une nouvelle étape avec l’annonce de Robostral Navigate, le premier modèle d’intelligence artificielle dédié à la navigation robotique développé par Mistral AI. Connue jusqu’à présent pour ses grands modèles de langage, la société française élargit désormais son champ…",
+      "link": "https://www.robot-magazine.fr/mistral-ai-lance-robostral-navigate/?utm_source=rss&utm_medium=rss&utm_campaign=mistral-ai-lance-robostral-navigate",
+      "pubDate": "2026-07-13T08:54:31.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "33927d9db05a",
+      "title": "Cyber Resilience Act : mainteneur, steward ou simple passant ?",
+      "description": "Le 11 septembre 2026, les obligations de signalement du CRA s'activent. Fabricant, steward ou hors champ : ce qui tombe (ou pas) sur un dev PHP.",
+      "link": "https://lecodeestdanslepre.fr/billets/cyber-resilience-act-mainteneur-steward-dev-php",
+      "pubDate": "2026-07-13T07:41:21.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8199ed84f355",
+      "title": "IA : les meilleurs modèles pour le code et le développement web en juillet 2026",
+      "description": "Fable 5 en tête, GPT-5.6 en embuscade, Grok et GLM 5.2 dans le top 5. La WebDev Arena de juillet 2026 n'a jamais été aussi disputée entre géants de l'IA.",
+      "link": "https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-juillet-2026/",
+      "pubDate": "2026-07-13T07:00:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/overall-294x138.jpg",
+      "type": "blog"
+    },
+    {
       "id": "497bcdddacbc",
       "title": "Pros du digital : 7 actions pour partir en vacances l’esprit tranquille",
       "description": "Message d'absence, publications programmées, récap de reprise... Quelques réglages suffisent pour partir l'esprit tranquille quand on travaille dans le digital. Tour d'horizon de sept actions à boucler avant de couper pour les congés.",
