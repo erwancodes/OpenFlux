@@ -2,6 +2,391 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "6f03c8e8991e",
+      "title": "Liens Tech - Juillet 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-juin-2026-2/",
+      "pubDate": "2026-07-15T05:45:13.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3e2cc773c3c4",
+      "title": "SEO : Google pénalise-t-il les contenus rédigés par IA ?",
+      "description": "ChatGPT, Gemini, Claude… Les outils d'IA sont désormais intégrés dans les workflows éditoriaux de nombreuses équipes. Mais publier du contenu généré par IA expose-t-il à un déclassement ? Deux experts SEO répondent.",
+      "link": "https://www.blogdumoderateur.com/seo-google-penalise-t-il-contenus-rediges-ia/",
+      "pubDate": "2026-07-15T05:00:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/Redaction-IA-SEO-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f36450808b6e",
+      "title": "#365.bin - Intelligence(s): Le QI: Le facteur g, la note de votre intelligence avec Nicolas Gauvrit",
+      "description": "\"L'intelligence humaine, ce n'est pas aussi compliqué et profond que ce qu'on imagine\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-365-b020aa6b6e15",
+      "pubDate": "2026-07-15T03:00:03.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/e0979d83-e26f-484d-a05b-9a78a447e469.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/2c9ab172-e6ab-4e07-8be0-b020aa6b6e15.mp3?_=1784030523",
+      "duration": "01:02:49"
+    },
+    {
+      "id": "06f6d22989a1",
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "description": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "pubDate": "2026-07-15T00:27:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4562ff52976",
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "description": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "pubDate": "2026-07-14T23:10:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "35994e21c94b",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "description": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "pubDate": "2026-07-14T22:22:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "954e9233d858",
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "description": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "pubDate": "2026-07-14T22:07:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f76f31d2847",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "description": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "pubDate": "2026-07-14T21:50:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f18b063ad9b0",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "description": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+      "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "pubDate": "2026-07-14T19:42:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e561ba630896",
+      "title": "Anthropic’s newest ad is creeping people out",
+      "description": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
+      "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "pubDate": "2026-07-14T19:41:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c9fd5fac8536",
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "description": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+      "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "pubDate": "2026-07-14T19:39:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "23d4d3f1dbbf",
+      "title": "Lucid Motors denies report it’s considering bankruptcy",
+      "description": "The company said the \"rumors are completely false\" after its stock sank more than 50% on a report that it was weighing the option.",
+      "link": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
+      "pubDate": "2026-07-14T18:47:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d77e9587a329",
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "description": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "pubDate": "2026-07-14T18:33:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e585d859a804",
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "description": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "pubDate": "2026-07-14T17:45:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fa254fdd4ca9",
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "description": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
+      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "pubDate": "2026-07-14T16:45:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "69ce0fd8251f",
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "pubDate": "2026-07-14T16:22:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8c3e3a116d2e",
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "description": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "pubDate": "2026-07-14T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "77dc192c6086",
+      "title": "New York State halts construction of all new data centers",
+      "description": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "pubDate": "2026-07-14T15:17:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a252c40be0d",
+      "title": "Iran abused mobile networks’ vulnerabilities to locate US military in the Middle East, report says",
+      "description": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
+      "link": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+      "pubDate": "2026-07-14T15:14:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "143adb58e51d",
+      "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
+      "description": "The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing.",
+      "link": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
+      "pubDate": "2026-07-14T14:45:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3b2520f0b86",
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "description": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "pubDate": "2026-07-14T14:37:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "66220a2e8887",
+      "title": "The real AI race may no longer be at the frontier",
+      "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "pubDate": "2026-07-14T14:24:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "93f12d85b214",
+      "title": "Telegram’s shortlink domain is back online after day-long suspension",
+      "description": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
+      "link": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+      "pubDate": "2026-07-14T14:10:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d69b03094deb",
+      "title": "Instagram étend sa traduction vocale par IA au français et 17 autres langues",
+      "description": "La fonctionnalité, disponible notamment pour les Reels, conserve le timbre et le ton de la voix. Elle prend désormais en charge 18 langues, dont le français, sur Instagram.",
+      "link": "https://www.blogdumoderateur.com/instagram-etend-traduction-vocale-ia-francais-17-autres-langues/",
+      "pubDate": "2026-07-14T13:00:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Instagram-traduction-IA-294x154.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5ff9e4858ff1",
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
@@ -75,6 +460,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3ecd37da202",
+      "title": "Pousser une fois, publier partout: le remote Git multi-cibles",
+      "description": "Bien que cela commence à changer, Github reste aujourd’hui la forge de référence pour l’hébergement de projet autour de Git. Néanmoins, dans une démarche d’autonomie numérique, je ne souhaite pas dépendre uniquement de cette plateforme. Pour réduire cette dépendance, j’ai décidé de dupliquer et…",
+      "link": "https://www.jdecool.fr/blog/2026/07/14/pousser-une-fois-publier-partout-le-remote-git-multi-cibles.html",
+      "pubDate": "2026-07-13T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
