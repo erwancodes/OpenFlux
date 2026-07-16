@@ -2,10 +2,502 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "02bbb8957a98",
+      "title": "« Le design vit une crise d’identité et une renaissance » : la vision de la CDO de Figma",
+      "description": "Pianiste devenue Chief Design Officer de Figma, Loredana Crisan porte un regard atypique sur un métier en pleine mutation. Entretien sur le design, le goût et la place de l'humain.",
+      "link": "https://www.blogdumoderateur.com/design-crise-identite-renaissance-vision-cdo-figma/",
+      "pubDate": "2026-07-16T06:00:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/loredana-crisan-cdo-figma-294x200.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "01d44d7a808e",
+      "title": "7 outils IA pour générer gratuitement des images : quotas, droits commerciaux, filigranes…",
+      "description": "Certains générateurs d'images par IA proposent un accès gratuit. Derrière la gratuité, les quotas, les filigranes et surtout les droits d'usage commercial varient fortement, avec des conséquences concrètes pour un usage professionnel.",
+      "link": "https://www.blogdumoderateur.com/7-outils-ia-generer-gratuitement-images/",
+      "pubDate": "2026-07-16T05:30:29.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/images-ia-generation-outils-294x164.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "7e7e3d203290",
+      "title": "Doit-on forcément faire de la vidéo sur les réseaux sociaux en 2026 ?",
+      "description": "Faut-il tout miser sur la vidéo ? 5 experts social media partagent leur analyse et leurs conseils.",
+      "link": "https://www.blogdumoderateur.com/video-reseaux-sociaux-2026/",
+      "pubDate": "2026-07-16T05:00:57.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/video-social-media-2026-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "d7c56480a7c3",
+      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+      "description": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+      "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "pubDate": "2026-07-16T04:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "faf51a22877b",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "description": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "pubDate": "2026-07-16T04:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "716922d12f44",
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "description": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
+      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "pubDate": "2026-07-16T00:20:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "82fd1b486f32",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "pubDate": "2026-07-15T23:59:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "45e0bc3302ba",
+      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+      "description": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+      "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "pubDate": "2026-07-15T20:22:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3581a245f48a",
+      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+      "description": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "pubDate": "2026-07-15T19:46:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe985779dfb7",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "pubDate": "2026-07-15T19:41:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cf99a2a2b055",
+      "title": "Microsoft patches bug in video game Age of Empires II",
+      "description": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "pubDate": "2026-07-15T18:47:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "accd79331fc7",
+      "title": "Apple bans home services from its upcoming Maps ads",
+      "description": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive…",
+      "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+      "pubDate": "2026-07-15T18:21:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e9d64ae09ee2",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "pubDate": "2026-07-15T18:06:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ec2b50b36620",
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "description": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "pubDate": "2026-07-15T18:04:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c496e6379667",
+      "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations",
+      "description": "OnePlus could also wind down its operations in India by 2027.",
+      "link": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+      "pubDate": "2026-07-15T17:53:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cdf88feeb614",
+      "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+      "description": "Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant.",
+      "link": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
+      "pubDate": "2026-07-15T17:39:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "29f4ab98d1ec",
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "description": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "pubDate": "2026-07-15T17:00:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "734a71b88305",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "description": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "pubDate": "2026-07-15T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9fe6b6cefcef",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "pubDate": "2026-07-15T16:20:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d2ccc9d41eb5",
+      "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
+      "description": "If completed, the acquisition would unite two of the biggest names in digital payments.",
+      "link": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
+      "pubDate": "2026-07-15T15:30:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d1ceca30ec93",
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "pubDate": "2026-07-15T15:29:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26501d81d864",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "description": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and others. On this episode…",
+      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "pubDate": "2026-07-15T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc0472359ff0",
+      "title": "Spotify expands parent-managed accounts to users on its free tier",
+      "description": "The feature was previously only available to paid subscribers.",
+      "link": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/",
+      "pubDate": "2026-07-15T14:42:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4a0f933d5b9",
+      "title": "Les macros Twig : des fonctions qui ne voient rien",
+      "description": "Maîtrisez les macros Twig : syntaxe, importations multiples, portée et quand les remplacer par des Twig Components pour optimiser vos templates Symfony.",
+      "link": "https://lecodeestdanslepre.fr/billets/macros-twig",
+      "pubDate": "2026-07-15T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "22bca019a014",
+      "title": "Comprendre l’authentification avec Github (OAuth) ",
+      "description": "Découvrez comment fonctionne la connexion avec GitHub grâce à OAuth et apprenez à implémenter simplement un bouton \"Se connecter avec GitHub\" dans votre application.",
+      "link": "https://code-garage.com/blog/comprendre-l-authentification-avec-github-oauth ",
+      "pubDate": "2026-07-15T09:44:13.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Capture_d_ecran_2026_07_15_105702_94b38518f3.png",
+      "type": "blog"
+    },
+    {
+      "id": "8271430ac25e",
+      "title": "Canva Code passe en version 2.0 et s’ouvre à tous les utilisateurs",
+      "description": "Un an après son lancement, Canva Code passe en version 2.0 et s'ouvre à l'ensemble des utilisateurs de la plateforme. Il intègre également de nombreuses nouveautés.",
+      "link": "https://www.blogdumoderateur.com/canva-code-passe-version-2-0/",
+      "pubDate": "2026-07-15T09:07:14.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/CANVA-CODE-2-interface-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9806cc8672b3",
+      "title": "Ce que les neurosciences nous apprennent vraiment sur les réseaux sociaux",
+      "description": "Thibaud Dumas, docteur en neurosciences cognitives et auteur de « J'arrête de scroller... ou presque », est l'invité du nouvel épisode du podcast vidéo produit par Swello, en partenariat avec BDM.",
+      "link": "https://www.blogdumoderateur.com/neurosciences-nous-apprennent-vraiment-reseaux-sociaux/",
+      "pubDate": "2026-07-15T08:19:46.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/thibaud-dumas-podcast-swello-bdm-2-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b68b1f8e5c6a",
+      "title": "Sécurité PHP : Alexandre Daubois rejoint la PHP Foundation pour renforcer le cœur du langage",
+      "description": "La sécurité des applications ne dépend pas uniquement du code spécifique développé pour un projet, mais également de la robustesse des briques technologiques fondamentales sur lesquelles il repose. Dans cette optique de sécurisation globale des infrastructures, notre coopérative Les-Tilleuls.coop…",
+      "link": "https://les-tilleuls.coop/blog/securite-php-alexandre-daubois-rejoint-la-php-foundation-pour-renforcer-le-coeur-du-langage",
+      "pubDate": "2026-07-15T07:46:48.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2023/02/vignette-blog-php-foundation-1024x614.png",
+      "type": "blog"
+    },
+    {
+      "id": "a3e413e7e830",
+      "title": "Social media : Auguste, l’assistant IA conversationnel qui gère votre communication",
+      "description": "Auguste se pilote via une interface conversationnelle : on lui parle, il planifie, crée et publie. L'outil propose notamment de tester l'assistant gratuitement, avec un mois de posts déjà prêts.",
+      "link": "https://www.blogdumoderateur.com/social-media-auguste-assistant-ia-conversationnel-gere-communication/",
+      "pubDate": "2026-07-15T07:38:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/interface-chat88-294x163.png",
+      "type": "blog"
+    },
+    {
+      "id": "5fb30c375a2e",
+      "title": "Qu’est ce que la singularité technologique ?",
+      "description": "L’IA est-elle en train de transformer la robotique au-delà de notre compréhension ? Pendant des décennies, la singularité technologique appartenait davantage à la science-fiction qu’au domaine de l’ingénierie. Aujourd’hui, ce concept est devenu un sujet de discussion dans les laboratoires…",
+      "link": "https://www.robot-magazine.fr/quest-ce-que-la-singularite-technologique/?utm_source=rss&utm_medium=rss&utm_campaign=quest-ce-que-la-singularite-technologique",
+      "pubDate": "2026-07-15T06:04:42.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
       "id": "6f03c8e8991e",
       "title": "Liens Tech - Juillet 2026",
       "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
       "link": "https://domopi.eu/liens-tech-juin-2026-2/",
+      "pubDate": "2026-07-15T05:45:13.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f62aff4f6e19",
+      "title": "Liens Tech - Juillet 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-juillet-2026/",
       "pubDate": "2026-07-15T05:45:13.000Z",
       "source": "DomoPi",
       "sourceUrl": "https://domopi.eu/rss/",
@@ -67,6 +559,22 @@
       "type": "blog"
     },
     {
+      "id": "3d9a17ee1706",
+      "title": "Nouveau verbe HTTP : QUERY",
+      "description": "Vous étiez coincé pour vos recherches volumineuses entre un GET à rallonge ou détourner le POST dans vos APIs, QUERY est là pour répondre à ce besoin",
+      "link": "https://blog.eleven-labs.com/fr/http-query-method/",
+      "pubDate": "2026-07-15T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b4562ff52976",
       "title": "Lorde says AI glasses are ‘not sexy’",
       "description": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
@@ -108,6 +616,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e7c5800d85f",
+      "title": "Attention au bruit documentaire généré par l'IA",
+      "description": "Avec l’IA, on parle beaucoup de la rapidité et de la vitesse de génération de code. Mais, tout comme le code, générer de la documentation n’a jamais été aussi simple et rapide. En quelques secondes, l’IA produit des pages entières décrivant un projet. Mais attention à cette abondance. Comme…",
+      "link": "https://www.jdecool.fr/blog/2026/07/15/attention-au-bruit-documentaire-genere-par-l-ia.html",
+      "pubDate": "2026-07-14T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
