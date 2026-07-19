@@ -2,6 +2,101 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "bc80e26f603d",
+      "title": "Waymo says San Francisco service has resumed after one-hour pause",
+      "description": "This isn’t the first time power outages have caused issues for Waymo.",
+      "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "pubDate": "2026-07-18T19:30:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7fb9272d9d4c",
+      "title": "Kimi: Threat or menace?",
+      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "pubDate": "2026-07-18T18:51:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f28f9cc9a841",
+      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+      "description": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+      "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+      "pubDate": "2026-07-18T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2c2b396a2c3f",
+      "title": "Federal employees can download TikTok on their work phones again",
+      "description": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
+      "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+      "pubDate": "2026-07-18T15:54:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a2871934e3d8",
+      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+      "description": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
+      "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+      "pubDate": "2026-07-18T14:32:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6b884c981cec",
+      "title": "Le SEO tué par l'IA ? Les chiffres ne mesurent pas la même chose",
+      "description": "Zéro-clic, AI Overviews : ces chiffres ne mesurent pas la même chose. Comment lire leur périmètre, et mesurer la dépendance réelle de votre site à Google.",
+      "link": "https://lecodeestdanslepre.fr/billets/seo-ia-guerre-des-chiffres",
+      "pubDate": "2026-07-18T09:04:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "676c823b6899",
       "title": "Neil Rimer thinks the AI money is coming back out",
       "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
