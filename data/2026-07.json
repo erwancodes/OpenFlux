@@ -2,6 +2,149 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "f46160eb702f",
+      "title": "5 formations pour améliorer son anglais professionnel",
+      "description": "Besoin de progresser en anglais pour être plus à l'aise dans un contexte professionnel ? Cette sélection de formations vous aide à renforcer vos compétences, à l'oral comme à l'écrit.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-anglais-professionnel-310/",
+      "pubDate": "2026-07-20T06:00:41.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/selection-formation-anglais-professionnel-310-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8fc917eb275e",
+      "title": "ChatGPT Ads se rapproche : comment les entreprises françaises peuvent s’y préparer",
+      "description": "Déployée aux États-Unis depuis février, la régie publicitaire de ChatGPT pourrait ouvrir en France d'ici la fin de l'été, selon les signaux relevés ces dernières semaines.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-ads-comment-entreprises-francaises-peuvent-preparer/",
+      "pubDate": "2026-07-20T05:00:17.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/chatgpt-ads-manager-294x194.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8f16a45e852f",
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "description": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "pubDate": "2026-07-19T21:45:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f26afcf21c3f",
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "pubDate": "2026-07-19T21:16:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0aba2be743cd",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "pubDate": "2026-07-19T19:24:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0261bede4cc7",
+      "title": "TechCrunch Mobility: The battle over robotaxi rules",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "pubDate": "2026-07-19T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1fcca80208dd",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "description": "\"Everybody knows the Greeks are inside.\"",
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "pubDate": "2026-07-19T14:52:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "990fa243b146",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "pubDate": "2026-07-19T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3e9e0f92755f",
+      "title": "Pourquoi je ne fais pas d'open source sur Writizzy",
+      "description": "Rendre son produit open source : une évidence pour la durabilité ou un piège économique et mental ? Retour d'expérience et dilemmes à travers le cas Writizzy.",
+      "link": "https://eventuallycoding.com/p/pourquoi-je-ne-fais-pas-d-open-source-sur-writizzy",
+      "pubDate": "2026-07-19T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bc80e26f603d",
       "title": "Waymo says San Francisco service has resumed after one-hour pause",
       "description": "This isn’t the first time power outages have caused issues for Waymo.",
@@ -75,6 +218,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2f854d6e5528",
+      "title": "Twig 3.28 : le sandbox arrête de tout emballer, les macros redeviennent dynamiques",
+      "description": "Découvrez les nouveautés de Twig 3.28 : le retour des macros dynamiques grâce à l'opérateur point et un sandbox plus performant. Auditez vos extensions Twig.",
+      "link": "https://lecodeestdanslepre.fr/billets/twig-3-28-sandbox-macros-dynamiques",
+      "pubDate": "2026-07-18T10:33:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
