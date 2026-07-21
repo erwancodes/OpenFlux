@@ -2,6 +2,421 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "113ee49a1339",
+      "title": "AI Overviews, LLM, « collapse du funnel » : comment l’IA rebat les cartes du marketing",
+      "description": "Chute du trafic organique, montée des AI Overviews, découverte qui se joue désormais dans ChatGPT… Tifenn Dano Kwan, directrice marketing de Zendesk, décrit un funnel marketing en pleine recomposition. Analyse, chiffres à l’appui.",
+      "link": "https://www.blogdumoderateur.com/ai-overviews-llm-collapse-funnel-ia-marketing/",
+      "pubDate": "2026-07-21T06:00:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/marketing-funnel-ia-294x165.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "9e3cda3bfbcf",
+      "title": "IA et cybersécurité : quand la même technologie sert à attaquer et à se défendre",
+      "description": "L'intelligence artificielle a modifié l'équilibre des forces entre cyberattaquants et défenseurs. Décryptage complet avec Raphaël Azou, référent cybersécurité chez Astek, sur la manière dont elle amplifie les menaces tout en devenant un outil de défense à part entière.",
+      "link": "https://www.blogdumoderateur.com/ia-cybersecurite-quand-meme-technologie-sert-attaquer-defendre/",
+      "pubDate": "2026-07-21T05:00:51.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Raphael-Azou-Astek-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6f587fe95d6b",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "description": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "pubDate": "2026-07-21T00:12:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f18e917ea84d",
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+      "description": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+      "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "pubDate": "2026-07-20T23:39:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cfebb9d36890",
+      "title": "Trump’s latest AI czar has already resigned",
+      "description": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "pubDate": "2026-07-20T22:21:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "88aa02fac6f5",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "pubDate": "2026-07-20T21:21:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9fe76ef940d5",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "description": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "pubDate": "2026-07-20T20:50:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b3a55b77e27",
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "description": "X says the rebuilt version of its Android app is now available globally.",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "pubDate": "2026-07-20T19:37:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f43c3eb424ff",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "pubDate": "2026-07-20T19:33:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cf3c8dfd6c45",
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "description": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "pubDate": "2026-07-20T19:11:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "df5db45a2aa9",
+      "title": "Judge pauses $110B Paramount-Warner Bros. merger",
+      "description": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "link": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
+      "pubDate": "2026-07-20T17:58:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9dadea69d526",
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "pubDate": "2026-07-20T15:45:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "23be143389a3",
+      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+      "description": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.",
+      "link": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+      "pubDate": "2026-07-20T15:35:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c67582879d32",
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "description": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "pubDate": "2026-07-20T15:23:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe9df758c254",
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "description": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
+      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "pubDate": "2026-07-20T15:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8786682089eb",
+      "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "description": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
+      "link": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+      "pubDate": "2026-07-20T15:01:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5a1d9a9c2977",
+      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+      "description": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
+      "link": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-07-20T14:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4bacbdbfb72",
+      "title": "JoliMediaSyliusBundle, a New Bridge for Your Sylius Projects",
+      "description": "Does the excellent Sylius E-commerce framework even need an introduction? If Sylius has established itself in the e-commerce ecosystem, it's largely thanks to its ability to adapt to a wide variety of business needs without imposing a rigid architecture. Its extension system allows for gradual…",
+      "link": "https://jolicode.com/blog/jolimediasyliusbundle-a-new-bridge-for-your-sylius-projects",
+      "pubDate": "2026-07-20T12:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/joli-media-sylius-bundle/sonata-grid-view.png",
+      "type": "blog"
+    },
+    {
+      "id": "227456a60e9e",
+      "title": "JoliMediaSyliusBundle, un nouveau bridge pour vos projets Sylius",
+      "description": "Est-il encore nécessaire de présenter l’excellent framework E-commerce Sylius ? Si Sylius s’est imposé dans l’écosystème e-commerce, c’est notamment grâce à sa capacité à s’adapter à des besoins métier très variés sans imposer une architecture rigide. Son système d’extensions permet de faire…",
+      "link": "https://jolicode.com/blog/jolimediasyliusbundle-un-nouveau-bridge-pour-vos-projets-sylius",
+      "pubDate": "2026-07-20T12:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/joli-media-sylius-bundle/sonata-grid-view.png",
+      "type": "blog"
+    },
+    {
+      "id": "c52576a4cc7a",
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "description": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+      "link": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "pubDate": "2026-07-20T12:39:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7364fd79b23",
+      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community ",
+      "description": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+      "link": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+      "pubDate": "2026-07-20T12:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9797937b40f0",
+      "title": "Does “rtk” skill really cut agent tokens by 60–90%? We tested it",
+      "description": "Does “rtk” reduce Claude Code token usage? Part 2 of a series where we take public “token saving” add-ons for coding agents and run the same paired A/B benchmark against each of them. Part 1 was the caveman skill (advertised −65%, measured −8.5%). TL;DR: rtk advertised saving: 60–90%. Measured on…",
+      "link": "https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/",
+      "pubDate": "2026-07-20T10:11:44.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d82420a5ef84",
+      "title": "Quels sont les emojis les plus populaires en 2026 ?",
+      "description": "Emojipedia a livré son palmarès des emojis les plus plébiscités et les plus attendus par les utilisateurs.",
+      "link": "https://www.blogdumoderateur.com/emojis-populaires-2026/",
+      "pubDate": "2026-07-20T08:40:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/emojis-plus-populaires-2026-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "c44495417cf7",
+      "title": "Top 20 des modèles d’IA les plus performants en juillet 2026 : le classement complet",
+      "description": "En juillet 2026, Anthropic conserve la tête du classement général d'Arena avec Claude Fable 5. En développement web, Kimi crée la surprise en détrônant Anthropic avec kimi-k3.",
+      "link": "https://www.blogdumoderateur.com/top-20-modeles-ia-performants-juillet-2026/",
+      "pubDate": "2026-07-20T08:37:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Arena-classement-juillet-2026-294x155.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2b79be0168d0",
+      "title": "Organiser ses worktrees dans Antigravity 2.0",
+      "description": "📕 Les Git worktrees Les worktrees sont apparus dans Git dans la version 2.5.0, sortie en Juillet 2015 (cf https://github.blog/open-source/git/git-2-5-including-multiple-worktrees-and-triangular-workflows/)",
+      "link": "https://blog.zenika.com/2026/07/20/organiser-ses-worktrees-dans-antigravity-2-0/",
+      "pubDate": "2026-07-20T08:04:42.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4d5.png",
+      "type": "blog"
+    },
+    {
+      "id": "20ac6f8abb55",
+      "title": "Achats en ligne : près d’un Français sur deux consulte déjà une IA avant d’acheter",
+      "description": "Selon une étude Botnation, 49 % des Français consultent déjà une IA avant d'acheter, mais veulent tout de même garder la main sur leurs décisions d'achat.",
+      "link": "https://www.blogdumoderateur.com/achats-en-ligne-un-francais-deux-consulte-ia/",
+      "pubDate": "2026-07-20T07:20:40.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/image-etude-shopping-botnation-294x221.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "f46160eb702f",
       "title": "5 formations pour améliorer son anglais professionnel",
       "description": "Besoin de progresser en anglais pour être plus à l'aise dans un contexte professionnel ? Cette sélection de formations vous aide à renforcer vos compétences, à l'oral comme à l'écrit.",
@@ -31,6 +446,21 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/07/chatgpt-ads-manager-294x194.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "19accd67d164",
+      "title": "Le prix de la souveraineté numérique",
+      "description": "La souveraineté numérique européenne se heurte à une réalité : trouver des alternatives ne suffit pas, elles doivent aussi rester compétitives économiquement",
+      "link": "https://eventuallycoding.com/p/le-prix-de-la-souverainete-numerique",
+      "pubDate": "2026-07-20T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
