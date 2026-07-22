@@ -2,6 +2,423 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "64a96dd9c16e",
+      "title": "AI Overviews : ce que la presse française peut apprendre du déploiement au Royaume-Uni",
+      "description": "Fin septembre, la France accueillera à son tour les AI Overviews de Google. Deux ans après leur déploiement au Royaume-Uni, les études documentent une chute brutale du trafic vers les sites d'éditeurs.",
+      "link": "https://www.blogdumoderateur.com/ai-overviews-presse-francaise-apprendre-deploiement-royaume-uni/",
+      "pubDate": "2026-07-22T05:00:20.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2024/06/google-ai-overviews-impact-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c98d7581ea7d",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "pubDate": "2026-07-22T03:20:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "246afe75b196",
+      "title": "#366.bin - Intelligence(s): Créative: Pourquoi la contrainte fait jaillir l'idée avec Todd Lubart",
+      "description": "\"Des contraintes, sont bienvenues pour la créativité. Quand on dit aux gens, faites tout ce que vous voulez, c'est la catastrophe.\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-366-175059378c74",
+      "pubDate": "2026-07-22T03:00:29.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/2d221ce0-d820-42fe-9748-b24ee39b0670.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/c9e432af-d15c-4760-b5d0-175059378c74.mp3?_=1784635289",
+      "duration": "51:02"
+    },
+    {
+      "id": "dfdf39a9d0e7",
+      "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+      "description": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
+      "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+      "pubDate": "2026-07-22T01:27:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a983abeb3577",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "description": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "pubDate": "2026-07-21T23:55:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3a79b79b2c21",
+      "title": "These are the countries moving to ban social media for children",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+      "pubDate": "2026-07-21T20:57:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b0276a15e2bd",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "pubDate": "2026-07-21T20:56:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d7014cf0589",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "description": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "pubDate": "2026-07-21T19:43:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cf614daf2f02",
+      "title": "AI and the rise of the universal entertainment app",
+      "description": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to…",
+      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "pubDate": "2026-07-21T19:39:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a37a57a5914",
+      "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
+      "description": "Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.",
+      "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
+      "pubDate": "2026-07-21T19:36:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5ac7964250f",
+      "title": "Einride bets $38M on EV charging as it scales electric trucking",
+      "description": "The acquisition — Einride's first as a publicly traded company — will expand its EV-charging ecosystem as it works to scale its electric trucking business.",
+      "link": "https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/",
+      "pubDate": "2026-07-21T18:48:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4207b65eaacd",
+      "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+      "description": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products.",
+      "link": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
+      "pubDate": "2026-07-21T18:18:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "881360e9e2d3",
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "description": "New data centers built through 2033 could consume as much electricity as India uses today.",
+      "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "pubDate": "2026-07-21T18:06:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ec8f52ae990c",
+      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+      "description": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
+      "link": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+      "pubDate": "2026-07-21T18:05:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bc8fdb9e4179",
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "pubDate": "2026-07-21T17:11:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a0d324aa33bc",
+      "title": "What’s new: Air gets more agents, local models, and Java/Kotlin code intelligence",
+      "description": "The new release of JetBrains Air brings support for GitHub Copilot, OpenCode, Pi, Cline, and other ACP-compatible agents. It also adds IntelliJ-powered navigation and diagnostics for Java and Kotlin and runs Windows tasks in Docker containers. Try Air for Mac, Linux and Windows Bring your own…",
+      "link": "https://blog.jetbrains.com/air/2026/07/what-s-new-air-gets-more-agents-local-models-and-java-kotlin-code-intelligence/",
+      "pubDate": "2026-07-21T16:56:49.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/07/exec-ae913e1d-ca58-4ec7-aa48-37700384ac9f.png",
+      "type": "blog"
+    },
+    {
+      "id": "64b42721d53d",
+      "title": "Instagram now lets you swap out the music in your old posts",
+      "description": "With the new \"Replace Audio\" tool, users can update the music on their post at any time while keeping the post's existing likes, comments, shares, and reach intact.",
+      "link": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
+      "pubDate": "2026-07-21T16:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a205e60390be",
+      "title": "Threads rolls out parental supervision tools",
+      "description": "With the new tools, parents and guardians will be able to view their teen's time spent on Threads, set daily time limits, adjust sleep mode, and manage their privacy settings.",
+      "link": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
+      "pubDate": "2026-07-21T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "11f8b56414a2",
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "description": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "pubDate": "2026-07-21T15:37:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e39c2d6fb58a",
+      "title": "Light made a flip phone — it’s colorful and it’s cheap",
+      "description": "Light co-founder Kaiwei Tang helped create the Motorola Razr, and he's as surprised as anyone that over 20 years later, the flip phone is relevant again.",
+      "link": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
+      "pubDate": "2026-07-21T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8673d518e33e",
+      "title": "After TikTok, Snap settles social media addiction case",
+      "description": "TikTok recently settled its portion of the case with the plaintiff ahead of a jury trial that starts next week in Los Angeles. YouTube has also reached a deal, leaving Meta as the only remaining defendant.",
+      "link": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
+      "pubDate": "2026-07-21T14:54:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d221dba16969",
+      "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
+      "description": "A hacker took names, phone numbers, and physical addresses of millions of customers who used AI music generator Suno.",
+      "link": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
+      "pubDate": "2026-07-21T14:48:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5ac4555e70ed",
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+      "link": "https://techcrunch.com/2026/07/21/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "pubDate": "2026-07-21T14:15:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c19ed7a16709",
+      "title": "JoliDay 2026 avec du malt, des aiguilles, de la 3D et des copeaux",
+      "description": "Comme tous les ans, nous avons profité d’un jour férié (en application de la journée de solidarité avec les personnes âgées) pour nous retrouver tous ensemble et faire des projets ni Web ni Mobile, mais toujours de qualité 👌. Nous avons un gros faible pour le DIY et retrouvons la même…",
+      "link": "https://jolicode.com/blog/joliday-2026-avec-du-malt-des-aiguilles-de-la-3d-et-des-copeaux",
+      "pubDate": "2026-07-21T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/joliday/table-basse.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2e06d7b757c1",
+      "title": "Introducing JetBrains Context: Repository Intelligence for Coding Agents",
+      "description": "Today, we’re launching JetBrains Context, a new repository intelligence layer that helps coding agents work more efficiently and produce higher-quality results on complex codebases. As part of the JetBrains AI for Teams and Organizations rollout, JetBrains Context is now available in early access…",
+      "link": "https://blog.jetbrains.com/ai/2026/07/introducing-jetbrains-context-repository-intelligence-for-coding-agents/",
+      "pubDate": "2026-07-21T13:40:22.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/07/image-29.png",
+      "type": "blog"
+    },
+    {
+      "id": "ccd6040c71c9",
+      "title": "Digital detox ou hyperconnecté : quel vacancier êtes-vous ?",
+      "description": "Téléphone au fond du sac ou mails sur le transat ? Découvrez votre profil de vacancier numérique avec notre quiz en 9 questions !",
+      "link": "https://www.blogdumoderateur.com/digital-detox-hyperconnecte-quel-vacancier-etes-vous/",
+      "pubDate": "2026-07-21T07:47:02.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/digital-detox-ou-pas-294x165.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "113ee49a1339",
       "title": "AI Overviews, LLM, « collapse du funnel » : comment l’IA rebat les cartes du marketing",
       "description": "Chute du trafic organique, montée des AI Overviews, découverte qui se joue désormais dans ChatGPT… Tifenn Dano Kwan, directrice marketing de Zendesk, décrit un funnel marketing en pleine recomposition. Analyse, chiffres à l’appui.",
