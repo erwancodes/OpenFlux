@@ -2,6 +2,118 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "3c8115b35e8f",
+      "title": "Publicité : ce que l’arrivée d’AI Overviews change pour les annonceurs",
+      "description": "Avec AI Overviews et l'AI Mode en France, le SEA change de règles. Léa Gueniffet explique comment adapter ses campagnes quand le clic se raréfie.",
+      "link": "https://www.blogdumoderateur.com/publicite-ai-overviews-change-annonceurs/",
+      "pubDate": "2026-07-27T05:00:02.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/ai-overviews-google-pub-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "27666e7fb9fc",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "pubDate": "2026-07-27T00:19:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d8dd705c5ad",
+      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+      "description": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+      "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+      "pubDate": "2026-07-26T21:06:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "922a0f977e61",
+      "title": "Making sense of the panic over Chinese AI",
+      "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "pubDate": "2026-07-26T19:40:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b24728b7b5a9",
+      "title": "Inside one London founder house rewriting the founder-house rules ",
+      "description": "How one founder house is betting work-life balance can beat burnout .",
+      "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "pubDate": "2026-07-26T17:03:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "446a8454722b",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "pubDate": "2026-07-26T16:33:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dc528bea1b0c",
+      "title": "TechCrunch Mobility: Uber bets on its former CEO",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+      "pubDate": "2026-07-26T16:03:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e9e3f92c9d89",
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
       "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
