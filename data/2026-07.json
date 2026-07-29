@@ -2,6 +2,439 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "736bd57fcfc4",
+      "title": "#367.bin - Intelligence(s): Emotionelle: Dans la tête de vice-versa avec Moïra Mikolajczak",
+      "description": "\"Si on ne sait pas ressentir de la colère, on ne sait pas mettre ses limites. Si on ne sait pas ressentir de la peur, on ne sait pas se protéger\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-367-5eb0e4596d15",
+      "pubDate": "2026-07-29T03:00:28.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/a24045b5-d492-4526-a2f4-02579799775b.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/241a1620-1279-4b1f-b695-5eb0e4596d15.mp3?_=1785250048",
+      "duration": "01:00:58"
+    },
+    {
+      "id": "5051ed860834",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "description": "The deal is Cyera's third acquisition this year.",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "pubDate": "2026-07-29T00:09:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7d6cf696f32",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "pubDate": "2026-07-28T21:29:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "50ed5a8b7d1a",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "pubDate": "2026-07-28T20:45:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "426917ef4f43",
+      "title": "Sam Altman is ready to decelerate",
+      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "pubDate": "2026-07-28T20:17:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f51b78933c00",
+      "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
+      "description": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
+      "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+      "pubDate": "2026-07-28T19:09:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "10e2e1ef5854",
+      "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
+      "description": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
+      "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
+      "pubDate": "2026-07-28T19:07:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bd5982b0a353",
+      "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+      "description": "Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators.",
+      "link": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+      "pubDate": "2026-07-28T19:06:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b7910008d06a",
+      "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
+      "description": "Ina and David Steiner inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting their negative coverage.",
+      "link": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
+      "pubDate": "2026-07-28T18:35:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1bb6a4223311",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "pubDate": "2026-07-28T18:16:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a3c84c6977df",
+      "title": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
+      "description": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch and as audiences become accustomed to short-form content on platforms like TikTok and Instagram Reels.",
+      "link": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
+      "pubDate": "2026-07-28T17:57:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e44c5f3ab48",
+      "title": "Saudi prince buys 5% stake in Lucid Motors",
+      "description": "The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied.",
+      "link": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
+      "pubDate": "2026-07-28T17:33:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "258b5d2dde17",
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "description": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+      "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "pubDate": "2026-07-28T15:42:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "28ee80d4bd86",
+      "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+      "description": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
+      "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+      "pubDate": "2026-07-28T15:10:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f16c93a8ef7e",
+      "title": "Sur Google, l’utilisation d’AI Overviews et d’AI Mode devient un réflexe",
+      "description": "Selon une étude menée par Similarweb aux États-Unis, 43 % des requêtes s'accompagnent désormais d'un résumé généré par l'IA, et le nombre d'utilisateurs d'AI Mode monte en flèche.",
+      "link": "https://www.blogdumoderateur.com/google-ai-overviews-ai-mode-reflexe/",
+      "pubDate": "2026-07-28T15:09:41.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/part-recherches-incluant-ai-overviews-similarweb-294x216.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ef2fe19ff91c",
+      "title": "Elon Musk’s X Money app is rolling out in the US",
+      "description": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.",
+      "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+      "pubDate": "2026-07-28T14:57:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ab058bd17697",
+      "title": "De maître d’œuvre à créatrice de contenu food : le parcours et les conseils de Fleur Wendling",
+      "description": "Créatrice de contenu food et invitée de ce nouvel épisode du podcast Swello en partenariat avec BDM, Fleur Wendling décrypte sa méthode de publication, ses indicateurs d'engagement et ses arbitrages sur les collaborations avec les marques.",
+      "link": "https://www.blogdumoderateur.com/maitre-oeuvre-creatrice-contenu-food-parcours-conseils-fleur-wendling/",
+      "pubDate": "2026-07-28T14:55:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/06/podcast-swello-ep3-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d092f1514f74",
+      "title": "WhatsApp now lets you make calls using its web app",
+      "description": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions.",
+      "link": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
+      "pubDate": "2026-07-28T14:53:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b3e7eb847fa2",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "pubDate": "2026-07-28T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5a3342fa978c",
+      "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
+      "description": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that is driving up the price of hardware.",
+      "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+      "pubDate": "2026-07-28T13:50:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3147fecc2e8c",
+      "title": "Ponytail Skill for Claude Code: Does It Really Cut Agent Code by 54%?",
+      "description": "Part 3 of a series where we take public “token saver” add-ons for coding agents and run the same paired A/B benchmark against each of them. Part 1 was the caveman skill (advertised −65%, measured −8.5%). Part 2 was rtk (advertised −60–90%, measured +7.6%). We ran 80 paired tasks to test the…",
+      "link": "https://blog.jetbrains.com/ai/2026/07/ponytail-skill-claude-tested/",
+      "pubDate": "2026-07-28T13:30:08.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e458eb461571",
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "pubDate": "2026-07-28T13:19:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "efe397532837",
+      "title": "Granola launches an Apple Watch app",
+      "description": "AI note-taking app Granola is launching an app for the Apple Watch in hopes that its users will want to record meetings and take notes without using their smartphones.",
+      "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+      "pubDate": "2026-07-28T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc4cf8bbb3a6",
+      "title": "Robots humanoïdes en laboratoire : retours d’expérience du LORIA et du LAAS-CNRS avec Unitree G1 et H1",
+      "description": "Robots humanoïdes en laboratoire : retours d’expérience du LORIA et du LAAS-CNRS avec Unitree G1 et H1 28 juillet 2026 L’essentiel à retenir Le LORIA et le LAAS-CNRS utilisent respectivement les robots humanoïdes Unitree G1 et Unitree H1 pour mener des recherches en locomotion, apprentissage et…",
+      "link": "https://www.generationrobots.com/blog/fr/robots-humanoides-en-laboratoire-unitree-g1-et-h1/",
+      "pubDate": "2026-07-28T09:43:43.000Z",
+      "source": "Génération Robots",
+      "sourceUrl": "https://www.generationrobots.com/blog/fr/feed/",
+      "categories": [
+        "Robotique",
+        "Programmation"
+      ],
+      "image": "https://www.generationrobots.com/blog/wp-content/uploads/2026/07/unitree-G1-inria-1-300x169.png",
+      "type": "blog"
+    },
+    {
+      "id": "1901258ad419",
+      "title": "Microsoft lance MAI-Cyber-1-Flash, son premier modèle IA dédié à la cybersécurité",
+      "description": "Microsoft lance MAI-Cyber-1-Flash, son premier modèle taillé pour détecter les vulnérabilités logicielles, et l'intègre dans Project Perception, sa nouvelle plateforme d'agents de sécurité.",
+      "link": "https://www.blogdumoderateur.com/microsoft-lance-mai-cyber-1-flash-modele-ia-cybersecurite/",
+      "pubDate": "2026-07-28T08:57:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/mdash-microsoft-cybersecu-294x162.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "70c2f169dd43",
+      "title": "En France, 43 millions de comptes ont déjà été compromis en 2026",
+      "description": "Plus mauvais élève d'Europe en volume de violations de données, la France affiche également la plus forte densité de comptes compromis rapportée à sa population.",
+      "link": "https://www.blogdumoderateur.com/france-43-millions-comptes-compromis-2026/",
+      "pubDate": "2026-07-28T08:54:37.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/france-violation-donnees-premier-semestre-2026-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "ba990fadf03f",
+      "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+      "description": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
+      "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+      "pubDate": "2026-07-28T08:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9b73895b98e9",
       "title": "AI Overviews : comment Le Temps a mesuré, anticipé et riposté en Suisse",
       "description": "Depuis plus d'un an, le journal suisse Le Temps documente l'effet d'AI Overviews sur son trafic et sa visibilité. Bérangère Farcot, responsable marketing et audience, en dévoile les enseignements.",
@@ -45,6 +478,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d3e6851015a",
+      "title": "Mon usine logicielle à l'heure de l'IA",
+      "description": "Comment j'encadre du code écrit à 100% par des agents IA : contexte, skills, hooks, tests d'architecture et quality gates. Le détail de mon usine logicielle.",
+      "link": "https://eventuallycoding.com/p/mon-usine-logicielle-a-l-heure-de-l-ia",
+      "pubDate": "2026-07-28T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"
