@@ -2,6 +2,452 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "1c538562910b",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "pubDate": "2026-07-30T00:21:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "09099903d222",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "pubDate": "2026-07-29T23:00:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "766b425e2839",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "description": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "pubDate": "2026-07-29T22:46:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6485eb1f28c4",
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "pubDate": "2026-07-29T22:23:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9e9cd811ce7f",
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 ",
+      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-07-29T21:16:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd3a9a73777f",
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "pubDate": "2026-07-29T21:07:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "85b682e18025",
+      "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+      "description": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
+      "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+      "pubDate": "2026-07-29T21:02:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6321a130900e",
+      "title": "The Hugging Face break-in explained",
+      "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "pubDate": "2026-07-29T19:44:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8afcd5a2fb3a",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "pubDate": "2026-07-29T18:45:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ebf1a8e3a0b",
+      "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
+      "description": "To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.",
+      "link": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
+      "pubDate": "2026-07-29T17:57:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6983a305406",
+      "title": "Waymo robotaxis are starting to return to freeways",
+      "description": "The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations and around emergency responders.",
+      "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+      "pubDate": "2026-07-29T17:50:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67c80c19917c",
+      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+      "description": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
+      "link": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+      "pubDate": "2026-07-29T17:41:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3c86764bbae",
+      "title": "Google brings its age-assurance technology to Android developers worldwide",
+      "description": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
+      "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
+      "pubDate": "2026-07-29T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f232081c267",
+      "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
+      "description": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network.",
+      "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
+      "pubDate": "2026-07-29T15:36:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0acedc11fc37",
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "pubDate": "2026-07-29T15:35:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c5db06010557",
+      "title": "IA Act : ce qui change le 2 août 2026",
+      "description": "Dès le 2 août 2026, une première série de mesures de l'IA Act entre en application. Découvrez les usages concernés et ceux à venir.",
+      "link": "https://www.blogdumoderateur.com/ia-act-2-aout-2026/",
+      "pubDate": "2026-07-29T15:03:59.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/IA-Act-2-aout-2026-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "890b0fa9dd36",
+      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+      "description": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
+      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+      "pubDate": "2026-07-29T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9fe6e7c7e880",
+      "title": "IA : les 10 générateurs d’images les plus performants en juillet 2026",
+      "description": "GPT Image 2 reste le modèle de génération d'images le plus performant du marché, selon le benchmark collaboratif d'Artificial Analysis. Il devance un modèle de la startup Reve, dont l'équipe de recherche vient justement d'être débauchée par OpenAI.",
+      "link": "https://www.blogdumoderateur.com/ia-10-generateurs-images-performants-juillet-2026/",
+      "pubDate": "2026-07-29T14:56:24.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/classement-generateurs-images-juillet-2026-294x139.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "39747691192b",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "pubDate": "2026-07-29T14:41:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "be165e5ca9ab",
+      "title": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
+      "description": "With the Light Phone, Kaiwei Tang and Joe Hollier have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new flip phone and a growing wave of “attention…",
+      "link": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
+      "pubDate": "2026-07-29T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5868446809c3",
+      "title": "Writing the PHP Virtual Machine in Rust (with a lot of help from AI)",
+      "description": "A few years ago, if someone had told me to rewrite the PHP engine in Rust, I would probably have laughed 😆. Not because it is technically impossible, but because such a project traditionally requires years of reading C code, reverse engineering decades of optimizations, and an intimidating amount…",
+      "link": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+      "pubDate": "2026-07-29T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/php-vm-rust/Stack-VM-VS-Register-VM.png",
+      "type": "blog"
+    },
+    {
+      "id": "091b6b33e387",
+      "title": "DoorDash is building its own drone delivery business",
+      "description": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
+      "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
+      "pubDate": "2026-07-29T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "72749a40e5cc",
+      "title": "WhatsApp : les appels audio et vidéo arrivent enfin sur la version web",
+      "description": "Après plusieurs années d’attente, les utilisateurs de la messagerie instantanée peuvent désormais passer et recevoir des appels audio et vidéo directement depuis leur navigateur web.",
+      "link": "https://www.blogdumoderateur.com/whatsapp-appels-audio-video-arrivent-version-web/",
+      "pubDate": "2026-07-29T12:56:58.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/whatsapp-appels-version-web-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6af11661ecb1",
+      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
+      "description": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
+      "link": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
+      "pubDate": "2026-07-29T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33946b7844c5",
+      "title": "L’étiquetage des contenus IA devient obligatoire dans l’UE",
+      "description": "Deepfakes, textes et chatbots devront être clairement signalés dès le 2 août 2026, en application de l'AI Act. La mesure fait déjà débat chez les acteurs du secteur.",
+      "link": "https://www.blogdumoderateur.com/etiquetage-contenus-ia-obligatoire-ue/",
+      "pubDate": "2026-07-29T09:15:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/etiquetage-ia-logos-ue-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d2c0608bee85",
+      "title": "Perplexity lance Personal Computer sur Windows",
+      "description": "Après une version macOS déployée en avril, Personal Computer débarque sur Windows. L'agent d'IA de Perplexity peut accéder aux fichiers locaux, à la suite Microsoft 365 et au web pour accomplir des tâches en autonomie.",
+      "link": "https://www.blogdumoderateur.com/perplexity-personal-computer-windows/",
+      "pubDate": "2026-07-29T09:14:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/perplexity-personal-computer-windows-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8dbc11ee34dd",
+      "title": "Quelle est la stratégie robotique de Samsung ?",
+      "description": "Pendant que l’attention médiatique se concentre sur Tesla, Figure AI, Agility Robotics ou encore Boston Dynamics, un autre acteur prépare méthodiquement son arrivée dans la robotique de nouvelle génération. Contrairement à ses concurrents, Samsung ne communique pas à travers des démonstrations…",
+      "link": "https://www.robot-magazine.fr/quelle-est-la-strategie-robotique-de-samsung/?utm_source=rss&utm_medium=rss&utm_campaign=quelle-est-la-strategie-robotique-de-samsung",
+      "pubDate": "2026-07-29T09:08:36.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "3c81801b0d92",
+      "title": "REX: DevLille 2026",
+      "description": "DevLille 2026 : Comment l'IA et le pragmatisme bousculent l'ingénierie logicielle Oubliez le vibe coding, les réunions non inclusives et les architectures réseau surdimensionnées. Cette semaine, notre équipe a posé ses valises au DevLille 2026. À l&",
+      "link": "https://blog.ippon.fr/2026/07/29/rex-devlille-2026/",
+      "pubDate": "2026-07-29T07:23:32.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/Capture-d---e--cran-2026-07-27-a---10.35.47.png",
+      "type": "blog"
+    },
+    {
       "id": "736bd57fcfc4",
       "title": "#367.bin - Intelligence(s): Emotionelle: Dans la tête de vice-versa avec Moïra Mikolajczak",
       "description": "\"Si on ne sait pas ressentir de la colère, on ne sait pas mettre ses limites. Si on ne sait pas ressentir de la peur, on ne sait pas se protéger\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On…",
@@ -29,6 +475,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e807518d2d03",
+      "title": "Ce n'est pas le titre qui définit le poste, c'est ce qu'on en fait",
+      "description": "Il y a quelque temps, je faisais passer des entretiens pour un poste. J’ai pu rencontrer de nombreux profils: développeur, “lead dev” ou “architecte” et derrière ces titres des réalités bien différentes (même à titre équivalent). Certains pouvaient passer leurs journées à écrire du code, d’autres…",
+      "link": "https://www.jdecool.fr/blog/2026/07/29/ce-n-est-pas-le-titre-qui-definit-le-poste-c-est-ce-qu-on-en-fait.html",
+      "pubDate": "2026-07-28T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
@@ -3062,6 +3523,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "07c94ed0d8b7",
+      "title": "HELLO CATI : la nouvelle plateforme des Centres Automatisés du Traitement de l’Information de l'INRAE",
+      "description": "Plus de 18 collec­tifs d’in­for­ma­ti­ciens regrou­pés dans des CATI (Centres Auto­ma­ti­sés du Trai­te­ment de l’In­for­ma­tion) accom­pagnent les commu­nau­tés scien­ti­fiques d’IN­RAE.",
+      "link": "https://makina-corpus.com/application-web-mobile/hello-cati-la-nouvelle-plateforme-des-centres-automatises-du-traitement-de",
+      "pubDate": "2026-07-20T14:02:47.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
         "Programmation",
         "Web"
       ],
