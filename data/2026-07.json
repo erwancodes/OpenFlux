@@ -2,6 +2,342 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "317cdc3de195",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "pubDate": "2026-07-31T22:47:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3b2497f94edb",
+      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "description": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+      "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+      "pubDate": "2026-07-31T22:00:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ada30c12046",
+      "title": "Silicon Valley loves young founders. Until it doesn’t.",
+      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "pubDate": "2026-07-31T22:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6895bd8e36c1",
+      "title": "India is starting to pay for apps, not just download them",
+      "description": "India's app market generated a record $345 million in Q2.",
+      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "pubDate": "2026-07-31T21:07:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "025855eb9f0e",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "pubDate": "2026-07-31T19:47:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c41ceb6aa627",
+      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+      "description": "The new funding brings Index's total available investing capital to $3.5 billion.",
+      "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+      "pubDate": "2026-07-31T19:39:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0cebbdb128ca",
+      "title": "VC-backed startups commit more fraud, and researchers think they know why  ",
+      "description": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
+      "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
+      "pubDate": "2026-07-31T19:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1da21b93cc16",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts…",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "pubDate": "2026-07-31T17:26:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "932ad6b0ae37",
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "pubDate": "2026-07-31T16:49:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "87c9761d7571",
+      "title": "Siri AI could come with a paywall for power users",
+      "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "pubDate": "2026-07-31T16:08:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3d9ff8447432",
+      "title": "GM and Ford are talking less and less about EVs",
+      "description": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.",
+      "link": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
+      "pubDate": "2026-07-31T15:47:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b079ecd0fd4b",
+      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+      "description": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
+      "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+      "pubDate": "2026-07-31T15:37:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bc1f3457103e",
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "pubDate": "2026-07-31T15:16:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a54b622d4c90",
+      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+      "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin…",
+      "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
+      "pubDate": "2026-07-31T14:49:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3d7423ec8d9c",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "pubDate": "2026-07-31T14:47:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32e20b59518e",
+      "title": "WhatsApp is testing a new folder for messages from large businesses",
+      "description": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them.",
+      "link": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
+      "pubDate": "2026-07-31T14:39:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3307c9cfb97c",
+      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+      "description": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
+      "link": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
+      "pubDate": "2026-07-31T13:45:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a8e6dd6c34cd",
+      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+      "description": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+      "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+      "pubDate": "2026-07-31T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce125e028c7c",
+      "title": "Démarchage téléphonique, fin de Bloctel : ce qui change le 11 août",
+      "description": "À partir du 11 août 2026, aucun consommateur ne pourra théoriquement être démarché par téléphone sans avoir donné son consentement préalable. Le service Bloctel, lui, disparaît.",
+      "link": "https://www.blogdumoderateur.com/demarchage-telephonique-fin-bloctel-11-aout/",
+      "pubDate": "2026-07-31T09:13:30.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/demarchage-telephonique-fin-bloctel-294x165.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ac90ce4bfd02",
+      "title": "Ce qu’on a lu, vu, aimé et entendu en juillet 2026 : les recos de la rédaction",
+      "description": "Au programme : un communiqué sur l'enseignement de l'IA au lycée, un reportage sur LEGEND, des mots fléchés nouvelle génération, un article sur les jeunes et l'IA et l'app Flamap pour suivre la progression des incendies.",
+      "link": "https://www.blogdumoderateur.com/recos-redac-juillet-2026/",
+      "pubDate": "2026-07-31T08:32:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/recos-juillet-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c4a7c76a3e37",
+      "title": "LinkedIn dévoile un bouton pour signaler les contenus IA",
+      "description": "Un nouveau bouton « Seems like AI slop » fait son apparition sur LinkedIn. Il permet aux membres de signaler les publications qu'ils jugent générées par IA.",
+      "link": "https://www.blogdumoderateur.com/linkedin-devoile-bouton-signaler-contenus-ia/",
+      "pubDate": "2026-07-31T08:23:30.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/LinkedIn-AI-Slop-294x166.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ba135ce61e3b",
       "title": "MACI #162 - Java et IA à Riviera DEV - Avec Antoine Sabot-Durand, Emmanuel Bernard et Yann Blazart",
       "description": "Dans ce nouvel épisode de Message à Caractère Informatique, enregistré à Riviera Dev, on part de Java, de l’IA et des spécifications pour poser une question très concrète : que reste-t-il du métier de développeur quand les LLM peuvent générer beaucoup de code, mais que la robustesse dépend toujours…",
@@ -8057,6 +8393,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/7706ffa5-4576-4764-9db5-b0831d7d02ea.mp3?_=1783425710",
       "duration": "57:21"
+    },
+    {
+      "id": "8eb61d3d1318",
+      "title": "Riviera Dev 2026",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié.",
+      "link": "https://codeka.io/2026/07/08/riviera-dev-2026/",
+      "pubDate": "2026-07-08T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/07/08/riviera-dev-2026/cover_hu_c42ecd513d84351f.webp",
+      "type": "blog"
     },
     {
       "id": "1d9638971ee4",

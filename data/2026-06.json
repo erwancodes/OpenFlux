@@ -1606,6 +1606,22 @@
       "duration": "11:08"
     },
     {
+      "id": "b097e22535f9",
+      "title": "Breizhcamp 2026",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié.",
+      "link": "https://codeka.io/2026/06/26/breizhcamp-2026/",
+      "pubDate": "2026-06-26T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/06/26/breizhcamp-2026/cover_hu_a09afe846677dce.webp",
+      "type": "blog"
+    },
+    {
       "id": "3d73062a8920",
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
@@ -4353,6 +4369,22 @@
       "type": "blog"
     },
     {
+      "id": "169293238407",
+      "title": "Tech Work Lyon",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié. Ce deuxième article est consacré au Tech Work, qui a eu lieu le 18 juin 2026.",
+      "link": "https://codeka.io/2026/06/18/tech-work-lyon/",
+      "pubDate": "2026-06-18T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/06/18/tech-work-lyon/cover_hu_5fdd02ea51e1871f.webp",
+      "type": "blog"
+    },
+    {
       "id": "d9aa3dc13c5a",
       "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
       "description": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
@@ -6388,6 +6420,22 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "31cf01c16e76",
+      "title": "DevLille 2026",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié. Ce premier article est consacré au DevLille, qui a eu lieu les 11 et 12 juin 2026.",
+      "link": "https://codeka.io/2026/06/12/devlille-2026/",
+      "pubDate": "2026-06-12T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/06/12/devlille-2026/cover_hu_f581ef2250164954.webp",
       "type": "blog"
     },
     {
