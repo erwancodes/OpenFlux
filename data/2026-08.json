@@ -2,6 +2,133 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "e68c25ab3471",
+      "title": "5 formations en ligne pour développer ses compétences en SEO",
+      "description": "Notre sélection de formations de la semaine vous enseigne les compétences essentielles pour devenir un expert en référencement naturel.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-seo-312/",
+      "pubDate": "2026-08-03T06:00:47.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/selection-formation-seo-312-294x169.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "29cb93f5864a",
+      "title": "Claude : le guide pour comprendre tous les outils, modèles et fonctionnalités",
+      "description": "Anthropic a multiplié les outils, les modèles et les fonctionnalités autour de Claude. On fait le point sur les différentes briques de cet écosystème.",
+      "link": "https://www.blogdumoderateur.com/claude-guide-comprendre-outils-modeles-fonctionnalites/",
+      "pubDate": "2026-08-03T05:00:54.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/anthropic-claude-ecosysteme-294x221.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "6f1a19fc2f23",
+      "title": "The global memory shortage hits the MacBook Air",
+      "description": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "pubDate": "2026-08-02T21:33:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea4a184687ae",
+      "title": "Sam Altman and AI’s decel debate",
+      "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "pubDate": "2026-08-02T20:54:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3db29e17184a",
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "description": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "pubDate": "2026-08-02T17:05:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aafcd7dd4bad",
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "pubDate": "2026-08-02T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d5924104727",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "pubDate": "2026-08-02T15:23:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3c794eda813d",
+      "title": "Les agents IA qui piratent tout seuls : accident isolé ou début de série ?",
+      "description": "Configuration réseau défaillante, et non une IA folle, est la cause de la compromission de systèmes externes par des agents d'IA, révèle cette analyse.",
+      "link": "https://lecodeestdanslepre.fr/billets/agents-ia-qui-piratent-tout-seuls",
+      "pubDate": "2026-08-02T08:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "877794470994",
       "title": "Inside the London hacker house taking a stand against founder burnout",
       "description": "How one founder house is betting work-life balance can beat burnout .",
