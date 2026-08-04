@@ -2,6 +2,403 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "2746a08c9c47",
+      "title": "Chirurgie de la cataracte : la robotique ouvre une nouvelle ère de précision",
+      "description": "Longtemps considérée comme l’une des interventions chirurgicales les plus maîtrisées au monde, l’opération de la cataracte entre aujourd’hui dans une nouvelle phase grâce à la robotique et aux lasers de très haute précision. Des plateformes innovantes, comme le robot Polaris ou les solutions…",
+      "link": "https://www.robot-magazine.fr/chirurgie-de-la-cataracte-la-robotique-ouvre-une-nouvelle-ere-de-precision/?utm_source=rss&utm_medium=rss&utm_campaign=chirurgie-de-la-cataracte-la-robotique-ouvre-une-nouvelle-ere-de-precision",
+      "pubDate": "2026-08-04T05:11:40.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d887ec8e8ccd",
+      "title": "AI Overviews et réseaux sociaux : comment adapter sa production de contenu ?",
+      "description": "Comment produire du contenu social media à l'ère d'AIO ? Sophie Gonçalves, responsable social media chez Iconosquare, détaille ce que ce basculement change pour les pros des réseaux sociaux.",
+      "link": "https://www.blogdumoderateur.com/ai-overviews-reseaux-sociaux-comment-adapter-production-contenu/",
+      "pubDate": "2026-08-04T05:00:07.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/social-media-ia-294x172.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "7211733b3874",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "pubDate": "2026-08-03T23:19:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "658f2c0cd1c5",
+      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+      "description": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+      "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+      "pubDate": "2026-08-03T22:10:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6d88a384f71",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "pubDate": "2026-08-03T20:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7f73883f7555",
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "description": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking…",
+      "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "pubDate": "2026-08-03T19:45:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48d481f903a7",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "pubDate": "2026-08-03T19:28:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "36b848ebfe85",
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "pubDate": "2026-08-03T19:09:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a787240500b2",
+      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+      "description": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
+      "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+      "pubDate": "2026-08-03T18:54:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3f08d262e7dd",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "pubDate": "2026-08-03T18:43:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e3fb35eff548",
+      "title": "Outernet turns your saved posts into real-world adventures",
+      "description": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actually go.",
+      "link": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+      "pubDate": "2026-08-03T18:00:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ad5afcfcd66c",
+      "title": "WhatsApp says it is fixing an issue that disabled several accounts",
+      "description": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
+      "link": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+      "pubDate": "2026-08-03T17:46:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b6fb0c6837a1",
+      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+      "description": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
+      "link": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "pubDate": "2026-08-03T17:16:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3557ed62bdb1",
+      "title": "Base Power raises another $1B to save the grid using backyard batteries",
+      "description": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
+      "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+      "pubDate": "2026-08-03T16:46:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60b0b1a035ad",
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "pubDate": "2026-08-03T16:40:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "603b5a3d2052",
+      "title": "Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest",
+      "description": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
+      "link": "https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+      "pubDate": "2026-08-03T16:29:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "78323cf97b90",
+      "title": "Modèles open weight : pourquoi l’arrivée de Kimi K3 embarrasse autant OpenAI et Anthropic",
+      "description": "Avec Kimi K3, la Chine confirme sa maîtrise des modèles à poids ouverts. Aux États-Unis, son irruption ravive un débat brûlant sur la politique à adopter vis-à-vis de ce type de modèle.",
+      "link": "https://www.blogdumoderateur.com/modeles-open-weight-pourquoi-arrivee-kimi-3-embarrasse-openai-anthropic/",
+      "pubDate": "2026-08-03T13:26:29.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Open-weight-models-294x184.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2080e3a39266",
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
+      "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "pubDate": "2026-08-03T12:50:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "12755258f398",
+      "title": "Our First Moves to Get AI Spend Under Control",
+      "description": "Over the past six months at JetBrains, our AI development expenses have increased roughly 10x. When the costs started rising, of course we noticed – and realized that we simply didn’t know how to control them systematically. We didn’t know because our developers don’t just use the AI tools we…",
+      "link": "https://blog.jetbrains.com/ai/2026/08/our-first-moves-to-get-ai-spend-under-control/",
+      "pubDate": "2026-08-03T12:14:25.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/08/Blog_1-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "a46b5419e1bf",
+      "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+      "description": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
+      "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+      "pubDate": "2026-08-03T12:10:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e055c558e959",
+      "title": "Pest 5 : la migration qui a fait avouer ma suite verte",
+      "description": "Migration Pest 5 sur un blog Symfony : extensions PHPStan jamais chargées, Xdebug fantôme, gate divisé par 50. Ce qu'une suite verte peut cacher.",
+      "link": "https://lecodeestdanslepre.fr/billets/pest-migration-tests",
+      "pubDate": "2026-08-03T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "09cf17eb199a",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "pubDate": "2026-08-03T10:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "273240c82506",
+      "title": "ChatGPT : l’extension Chrome peut désormais lire vos onglets et résumer les vidéos YouTube",
+      "description": "Remaniée début juillet suite à l'abandon du navigateur Atlas, l'extension Chrome de ChatGPT intègre déjà de nouvelles fonctionnalités.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-extension-chrome-lire-onglet-resumer-videos-youtube/",
+      "pubDate": "2026-08-03T08:58:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/extension-chrome-chatgpt-youtube-294x155.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0a196c435e15",
+      "title": "IA : les meilleurs modèles pour le code et le développement web en août 2026",
+      "description": "Claude Opus 5 s'empare de la tête de la WebDev Arena, mais quatre laboratoires chinois s'installent dans les huit premières places.",
+      "link": "https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-aout-2026/",
+      "pubDate": "2026-08-03T08:08:14.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/webdev-aout-2026-294x150.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e738cbcee577",
+      "title": "Le référencement en 2026 : comment combiner les approches SEO et GEO ?",
+      "description": "Autorité, citation, branding : les critères de visibilité se multiplient. Quelle méthode pour tenir les deux fronts, SEO et GEO, sans s'y perdre ? Réponse avec Stéphane Delgado, créateur de BotSEO.",
+      "link": "https://www.blogdumoderateur.com/referencement-2026-comment-combiner-approches-seo-geo/",
+      "pubDate": "2026-08-03T08:01:36.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/queryfanout-botsea-294x196.jpg",
+      "type": "blog"
+    },
+    {
       "id": "e68c25ab3471",
       "title": "5 formations en ligne pour développer ses compétences en SEO",
       "description": "Notre sélection de formations de la semaine vous enseigne les compétences essentielles pour devenir un expert en référencement naturel.",
@@ -124,6 +521,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bb8da11192b9",
+      "title": "On ne doit pas opposer écologie et souveraineté",
+      "description": "Est-ce cohérent d'opposer souveraineté et écologie ou bien rejouons nous la bataille contre le nucléaire des années 2000 ?",
+      "link": "https://eventuallycoding.com/p/on-ne-doit-pas-opposer-ecologie-et-souverainete",
+      "pubDate": "2026-08-02T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"
