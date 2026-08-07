@@ -2,6 +2,374 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "73c07d42f026",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "pubDate": "2026-08-06T22:43:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "af78203de845",
+      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands ",
+      "description": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s…",
+      "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+      "pubDate": "2026-08-06T22:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d6101101cbfe",
+      "title": "Vogue just gave another nod of approval to the tech world",
+      "description": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
+      "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+      "pubDate": "2026-08-06T21:24:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ba4f33b50df",
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
+      "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+      "link": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+      "pubDate": "2026-08-06T21:20:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "154da55ca836",
+      "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+      "description": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
+      "link": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
+      "pubDate": "2026-08-06T19:40:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4dee688b66e4",
+      "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
+      "description": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address.",
+      "link": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
+      "pubDate": "2026-08-06T19:22:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8c2b3d44f8ba",
+      "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+      "description": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
+      "link": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+      "pubDate": "2026-08-06T19:02:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9139190a931d",
+      "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
+      "description": "Ford's CEO has described the new Ford Fathom as a \"Model T moment\" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to.",
+      "link": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
+      "pubDate": "2026-08-06T17:41:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0bda75d50f43",
+      "title": "Bumble teases a swipe-free future as it doubles down on IRL meetups",
+      "description": "Bumble says it’s moving beyond swiping and deeper into real-world social experiences as it courts Gen Z users.",
+      "link": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
+      "pubDate": "2026-08-06T17:39:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a0fa1b12099f",
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "pubDate": "2026-08-06T17:34:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4fcbb326d053",
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "description": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "pubDate": "2026-08-06T17:00:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4fc0e6732b0",
+      "title": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
+      "description": "Connor Moucka pled guilty to hacking and stealing data from more than 165 Snowflake customers, which net him and his accomplices more than $2.5 million in ransom payments.",
+      "link": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
+      "pubDate": "2026-08-06T16:42:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c6c09c77ddc",
+      "title": "TikTok lays off 250 employees, shutters its Nashville office",
+      "description": "The social media giant is shuttering an office that housed some members of TikTok’s content-moderation team.",
+      "link": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/",
+      "pubDate": "2026-08-06T16:06:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0339df2997f3",
+      "title": "Google Wallet now lets parents set up secure balances for their kids",
+      "description": "The tech giant says the new feature will allow parents to teach their kids healthy financial habits while maintaining oversight over their child's spending with built-in safeguards.",
+      "link": "https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/",
+      "pubDate": "2026-08-06T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "765b8ce6c5e4",
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "description": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "pubDate": "2026-08-06T15:53:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eabe73cb2409",
+      "title": "Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas",
+      "description": "After months of speculation, the companies formally announced the massive project will happen just north of Houston.",
+      "link": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/",
+      "pubDate": "2026-08-06T15:21:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6b9d7ca5cb73",
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly…",
+      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "pubDate": "2026-08-06T15:10:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3da885f0a49",
+      "title": "eBay continues to bet on live shopping after record quarter",
+      "description": "eBay touted an increase in eBay Live's gross merchandise volume as it plans to expand it to more international markets in the coming weeks and months.",
+      "link": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
+      "pubDate": "2026-08-06T14:17:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d508c4ca7466",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "description": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "pubDate": "2026-08-06T13:31:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "648df613ec6e",
+      "title": "Ford’s new electric truck, ‘Fathom,’ starts at $28,350",
+      "description": "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
+      "link": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
+      "pubDate": "2026-08-06T13:01:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4ee19955ec88",
+      "title": "Claude Cowork : le guide complet pour débuter avec l’agent IA d’Anthropic",
+      "description": "Claude Cowork exécute des tâches complètes à votre place, de la production de documents à la recherche web. Notre guide complet pour prendre en main l'agent IA d'Anthropic.",
+      "link": "https://www.blogdumoderateur.com/claude-cowork-guide-complet-debuter-agent-ia-anthropic/",
+      "pubDate": "2026-08-06T12:42:28.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Claude-Cowork-294x154.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "249eb9098b3a",
+      "title": "Avec Muse Code, Meta mise sur le prix pour rivaliser avec Claude Code et Codex",
+      "description": "Disponible en bêta sur macOS et Linux, Muse Code mise sur des sous-agents parallèles et une tarification à l'usage pour se faire une place face à Claude Code et Codex.",
+      "link": "https://www.blogdumoderateur.com/muse-code-meta-mise-prix-rivaliser-claude-codex/",
+      "pubDate": "2026-08-06T08:52:46.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Muse-Spark-Code-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "84f292e784b4",
+      "title": "5 applications pour déconnecter pendant les vacances",
+      "description": "Notifications, réseaux sociaux, boîte mail : la volonté ne suffit plus pour décrocher. Voici 5 outils qui imposent la friction nécessaire pour tenir jusqu'à la rentrée.",
+      "link": "https://www.blogdumoderateur.com/5-applications-deconnecter-pendant-vacances/",
+      "pubDate": "2026-08-06T07:40:33.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Unslop-applis-deconnecter-294x154.jpg",
+      "type": "blog"
+    },
+    {
       "id": "9b6363be53f2",
       "title": "Que se passe-t-il entre Apple et OpenAI ?",
       "description": "Apple accuse OpenAI d'avoir bâti ses ambitions dans le matériel sur des secrets industriels détournés. Une bataille judiciaire aux lourdes conséquences pour les deux rivaux.",
@@ -417,6 +785,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/702460e0-e543-4b34-bbb3-8664c1ac4c41.mp3?_=1785871496",
       "duration": "56:45"
+    },
+    {
+      "id": "99713918ce40",
+      "title": "Les news de l'été 2026 : juin & juillet",
+      "description": "Ganapathy Kumar sur Unsplash Et nous voici déjà au milieu de l’été et j’ai l’impression qu’il est interminable. Les canicules qui se suivent ont eu raison de ma production d’articles sur mon blog. Pourtant, j’ai des idées d’articles que je publierai sûrement à la rentrée. Que s’est-il passé depuis…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/08/news-ete/",
+      "pubDate": "2026-08-05T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/08/news-ete/banner.avif",
+      "type": "blog"
     },
     {
       "id": "2021492605f2",
