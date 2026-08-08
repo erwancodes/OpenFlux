@@ -2,6 +2,355 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "f5e65390d809",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "pubDate": "2026-08-07T22:48:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "be14a2322dfb",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "pubDate": "2026-08-07T21:30:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "121e4a955370",
+      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+      "description": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "pubDate": "2026-08-07T21:20:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5d27b8389de0",
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "pubDate": "2026-08-07T21:00:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "66165609f5f2",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "pubDate": "2026-08-07T16:16:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c19667811a8",
+      "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
+      "description": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+      "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+      "pubDate": "2026-08-07T16:09:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b013684af19e",
+      "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+      "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+      "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+      "pubDate": "2026-08-07T15:52:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "378ef1fe8189",
+      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+      "description": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
+      "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+      "pubDate": "2026-08-07T15:11:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a574fa88544c",
+      "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+      "description": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
+      "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-08-07T14:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d56deed689e3",
+      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+      "description": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+      "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "pubDate": "2026-08-07T14:28:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32445d4c1e9b",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "pubDate": "2026-08-07T14:22:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4e987422231d",
+      "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+      "description": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
+      "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+      "pubDate": "2026-08-07T14:07:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d84e382084c3",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "pubDate": "2026-08-07T12:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "853d890229e7",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "description": "Meta's total fine has racked up to $942 million in this case.",
+      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "pubDate": "2026-08-07T11:40:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6985f58228fe",
+      "title": "Skills, agents, hooks : comment Claude Code écrit les issues GitHub de ce blog",
+      "description": "Découvrez comment Claude Code automatise la création d'issues GitHub à partir d'audits SEO. Apprenez sur les skills, agents et hooks pour un DX amélioré.",
+      "link": "https://lecodeestdanslepre.fr/billets/skills-agents-claude-code",
+      "pubDate": "2026-08-07T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "119f8fc351f2",
+      "title": "Le classement des 100 outils IA les plus populaires dans le monde en 2026",
+      "description": "Les 100 premiers outils IA concentrent près de 90 % des visites web du marché. Un classement qui confirme la domination de ChatGPT et le recul des outils spécialisés.",
+      "link": "https://www.blogdumoderateur.com/classement-100-outils-ia-populaires-monde-2026/",
+      "pubDate": "2026-08-07T08:41:29.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Top-100-outils-IA-visites-294x300.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b08a6d3c1c07",
+      "title": "ChatGPT dans le monde : ce que montrent les derniers chiffres d’OpenAI",
+      "description": "De l'Amérique latine à la France, OpenAI détaille dans une nouvelle étude comment l'usage de ChatGPT évolue selon les pays, les âges et les usages.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-monde-chiffres-openai/",
+      "pubDate": "2026-08-07T08:37:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Etude-ChatGPT-Usage-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e5c72b8b6b2d",
+      "title": "ChatGPT : Adobe regroupe Photoshop, Firefly, Premiere ou Acrobat dans un plugin unique",
+      "description": "Adobe rassemble ses outils créatifs et de productivité dans un plugin unique pour ChatGPT, qui regroupe plus de 70 fonctionnalités issues de Photoshop, Firefly, Premiere ou Acrobat.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-adobe-photoshop-firefly-premiere-acrobat-plugin-unique/",
+      "pubDate": "2026-08-07T08:22:03.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/adobe-plugin-chatgpt-294x134.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c5397c30e5df",
+      "title": "5 erreurs coûteuses quand on recrute à l’international depuis la France",
+      "description": "Recruter à l'international réduit la pénurie de talents en France, mais expose à des pièges coûteux. Tour d'horizon, avec Maxime Hoff, de Deel.",
+      "link": "https://www.blogdumoderateur.com/5-erreurs-couteuses-recrute-international-depuis-france/",
+      "pubDate": "2026-08-07T07:05:50.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Recrutement-international-Deel-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "728e05b5118d",
+      "title": "Quand un robot humanoïde coûtera-t-il moins cher qu’un salarié ?",
+      "description": "Pendant des décennies, la robotique industrielle s’est développée autour d’un objectif simple : automatiser les tâches les plus répétitives afin d’améliorer la productivité. Mais avec l’arrivée des robots humanoïdes et des progrès fulgurants de l’intelligence artificielle générative, une nouvelle…",
+      "link": "https://www.robot-magazine.fr/quand-un-robot-humanoide-coutera-t-il-moins-cher-quun-salarie/?utm_source=rss&utm_medium=rss&utm_campaign=quand-un-robot-humanoide-coutera-t-il-moins-cher-quun-salarie",
+      "pubDate": "2026-08-07T06:56:03.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "2562d6b0ab84",
+      "title": "ChatGPT : 3 nouveautés sur la version gratuite, dont les messages illimités",
+      "description": "Les comptes gratuits basculent également sur GPT-5.6 Luna et peuvent augmenter l'effort de raisonnement. En parallèle, GPT-5.6 Sol s'améliore pour les abonnés Plus et Pro.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-nouveautes-version-gratuite-messages-illimites/",
+      "pubDate": "2026-08-07T06:44:59.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/chatgpt-think-294x165.webp",
+      "type": "blog"
+    },
+    {
+      "id": "878f2dc85318",
+      "title": "Bilan saison 2025-2026",
+      "description": "Comme l’année dernière, je profite de la journée avant mon départ en congés pour faire le bilan de mon année 2025-2026. Beaucoup de conférences cette année, et pas mal d’articles sur ce blog.",
+      "link": "https://codeka.io/2026/08/07/bilan-saison-2025-2026/",
+      "pubDate": "2026-08-07T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/08/07/bilan-saison-2025-2026/cover_hu_60875252e736008b.webp",
+      "type": "blog"
+    },
+    {
       "id": "73c07d42f026",
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
