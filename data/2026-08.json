@@ -2,6 +2,452 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "24da775ee56f",
+      "title": "Pourquoi Anthropic, OpenAI et Google conçoivent désormais leurs propres puces",
+      "description": "Anthropic a confirmé la création d'une équipe dédiée à la conception de puces. Une décision qui s'inscrit dans un mouvement plus large, où chaque laboratoire d'IA cherche à maîtriser son matériel sans s'affranchir pour autant de Nvidia.",
+      "link": "https://www.blogdumoderateur.com/pourquoi-anthropic-openai-google-concoivent-propres-puces/",
+      "pubDate": "2026-08-11T05:00:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/guerre-puces-openai-anthropic-google-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "bb2a7232b884",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "description": "San Francisco's housing market is in trouble again.",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "pubDate": "2026-08-11T00:03:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0212f9770dda",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "pubDate": "2026-08-10T23:56:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "860822202ed6",
+      "title": "Jeff Bezos might finally get his hands on a sports team",
+      "description": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
+      "link": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+      "pubDate": "2026-08-10T23:16:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "59860564ddee",
+      "title": "Now Rippling is counter-suing tiny startup Runlayer",
+      "description": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
+      "link": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+      "pubDate": "2026-08-10T22:26:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "98e252089bbd",
+      "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+      "description": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
+      "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+      "pubDate": "2026-08-10T21:20:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "572bd2730f8b",
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "pubDate": "2026-08-10T20:53:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bc2790b0f04e",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "pubDate": "2026-08-10T20:04:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "465437f972f6",
+      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+      "description": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
+      "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+      "pubDate": "2026-08-10T18:31:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0b75d228e519",
+      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "description": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
+      "link": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "pubDate": "2026-08-10T18:30:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9da3baef6bb",
+      "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
+      "description": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.",
+      "link": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
+      "pubDate": "2026-08-10T18:27:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c3fa0880da0",
+      "title": "Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
+      "description": "Clicks’ $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use.",
+      "link": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+      "pubDate": "2026-08-10T18:00:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e3008cb65001",
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "pubDate": "2026-08-10T16:20:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "95d772bb9edc",
+      "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
+      "description": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington state.",
+      "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
+      "pubDate": "2026-08-10T15:22:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "184ff393c571",
+      "title": "Archer buys former rival Wisk Aero",
+      "description": "The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer.",
+      "link": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
+      "pubDate": "2026-08-10T15:09:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "126b9449fd8c",
+      "title": "Mark Zuckerberg présente la stratégie IA de Meta, qui lance son nouveau modèle open weight",
+      "description": "Mark Zuckerberg a publié ce lundi 10 août un long texte qui pose la doctrine de Meta sur la superintelligence. En parallèle, le groupe diffuse Muse Glimmer en open weight et promet le même traitement pour une future version de Muse Spark 1.2.",
+      "link": "https://www.blogdumoderateur.com/mark-zuckerberg-presente-strategie-ia-meta-nouveau-modele-open-weight/",
+      "pubDate": "2026-08-10T14:53:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/muse-glimmer-meta-zuckerberg-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ba6ff22ae80a",
+      "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
+      "description": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
+      "link": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
+      "pubDate": "2026-08-10T14:20:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "78de7eeaf760",
+      "title": "Signed up for Klaviyo? Dozens of advertisers may have seen your password",
+      "description": "A bug in the tech giant's website the logo of US marketing automation company Klaviyo Inc. is seen displayed on a smartphone in front of an abstract background on a computer screen..",
+      "link": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/",
+      "pubDate": "2026-08-10T14:14:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3267e56ad96",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "pubDate": "2026-08-10T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9db128e3a006",
+      "title": "Google Play adds Venmo as a payment option",
+      "description": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
+      "link": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
+      "pubDate": "2026-08-10T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f47151040acd",
+      "title": "Jugé à risque, le modèle Astra d’OpenAI voit sa sortie repoussée",
+      "description": "OpenAI suspend une partie du développement de son modèle Astra et repousse sa sortie, faute de pouvoir exclure un niveau de risque cyber jugé « critique ».",
+      "link": "https://www.blogdumoderateur.com/modele-astra-openai-sortie-repoussee/",
+      "pubDate": "2026-08-10T08:49:13.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/openai-astra-surveillance-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "4d6e0cd3f9e5",
+      "title": "L'Agent Development Environment : une nouvelle unité de travail",
+      "description": "Régulièrement, quelque chose arrive et change ce que « écrire du code » veut dire. Cette fois, il se pourrait que ça ne veuille plus dire écrire du tout. D'où je viens Ce qui suit est mon parcours, pas une histoire de PHP. D'autres ont vécu ces mêmes années très différemment. Mon histoire commence…",
+      "link": "https://jolicode.com/blog/l-agent-development-environment-une-nouvelle-unite-de-travail",
+      "pubDate": "2026-08-10T08:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/ade-presentation/orca_issues.png",
+      "type": "blog"
+    },
+    {
+      "id": "dccef74e5ed8",
+      "title": "The Agent Development Environment: A New Unit of Work",
+      "description": "The Agent Development Environment: A New Unit of Work Every few years, something comes along that changes what \"writing code\" means. This time, it might stop meaning writing at all. Where we come from What follows is my own path, not a history of PHP. Other people lived those same years very…",
+      "link": "https://jolicode.com/blog/the-agent-development-environment-a-new-unit-of-work",
+      "pubDate": "2026-08-10T08:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/ade-presentation/orca_issues.png",
+      "type": "blog"
+    },
+    {
+      "id": "82cf7c7919a0",
+      "title": "Claude Code généralise l’auto mode et permet aux sessions de communiquer entre elles",
+      "description": "Anthropic généralise l'auto mode dans Claude Code et introduit une messagerie qui permet aux sessions de s'échanger des informations.",
+      "link": "https://www.blogdumoderateur.com/claude-code-generalise-auto-mode-sessions-communiquer-entre-elles/",
+      "pubDate": "2026-08-10T08:36:13.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/claude-code-auto-mode-defaut-294x208.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1ed5b7927e25",
+      "title": "Les 20 langages informatiques les plus populaires en août 2026",
+      "description": "Le classement des langages les plus populaires marque la sortie de MATLAB du top 20, tandis que Perl et COBOL y font leur retour.",
+      "link": "https://www.blogdumoderateur.com/20-langages-informatiques-populaires-aout-2026/",
+      "pubDate": "2026-08-10T08:33:13.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/tiobe-juillet-2026-294x182.png",
+      "type": "blog"
+    },
+    {
+      "id": "fb1be6a076f0",
+      "title": "Comment envoyer facilement des vidéos trop lourdes",
+      "description": "Par email, une vidéo dépasse la limite d'une pièce jointe en quelques secondes. Voici comment la transmettre sans compression destructrice ni inscription, quel que soit son poids.",
+      "link": "https://www.blogdumoderateur.com/comment-envoyer-facilement-videos-trop-lourdes/",
+      "pubDate": "2026-08-10T08:03:45.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/transfernow-294x160.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1d0a6982558e",
+      "title": "5 formations pour maîtriser la suite Adobe",
+      "description": "Besoin de savoir utiliser efficacement les principaux logiciels de la suite Adobe ? Cette sélection de formations vous apprend à maîtriser Photoshop, InDesign, Illustrator, Premiere Pro...",
+      "link": "https://www.blogdumoderateur.com/selection-formation-suite-adobe-313/",
+      "pubDate": "2026-08-10T06:30:35.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/selection-formation-suite-adobe-313-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2c33f00d27d5",
+      "title": "AI Overviews et réseaux sociaux : comment construire une stratégie « search everywhere » ?",
+      "description": "Avec l'arrivée d'AI Overviews, la visibilité d'une marque ne se joue plus seulement sur Google. Marilou Rudel, experte SEO, décrypte pour BDM la logique \"search everywhere\".",
+      "link": "https://www.blogdumoderateur.com/ai-overviews-reseaux-sociaux-strategie-search-everywhere/",
+      "pubDate": "2026-08-10T06:00:48.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/social-media-aio-search-everywhere-294x166.jpg",
+      "type": "blog"
+    },
+    {
       "id": "bc4c5a5d396a",
       "title": "Réunion, vidéo, podcast, SEO : 8 outils français à tester cet été",
       "description": "La période estivale offre plus de temps pour tester de nouveaux outils. Tour d’horizon de huit solutions françaises à expérimenter avant le rush de la rentrée.",
@@ -15,6 +461,36 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/08/outils-francais-tester-ete-294x178.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9b5ef2f9b451",
+      "title": "Réseaux sociaux : et si nous avions la solution pour échapper aux géants américains ?",
+      "description": "Et si la réponse aux monopoles de la Tech n'était pas une nouvelle application, mais une nouvelle manière de concevoir le Web ?",
+      "link": "https://eventuallycoding.com/p/reseaux-sociaux-et-si-nous-avions-la-solution-pour-echapper-aux-geants-americains",
+      "pubDate": "2026-08-10T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1786351945081-db0vg4u.png?width=800",
+      "type": "blog"
+    },
+    {
+      "id": "9b487c26e067",
+      "title": "Les meilleures idées ne viennent pas devant l'écran",
+      "description": "Je vais régulièrement courir. Pas pour la performance, juste pour m’aérer l’esprit et être un minimum mobile, plutôt que de camper devant mon écran. Paradoxalement, c’est à ce moment que j’ai les meilleures idées qui me viennent à l’esprit. Je pense que tous les développeurs ont connu cette…",
+      "link": "https://www.jdecool.fr/blog/2026/08/10/les-meilleures-idees-ne-viennent-pas-devant-l-ecran.html",
+      "pubDate": "2026-08-09T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
