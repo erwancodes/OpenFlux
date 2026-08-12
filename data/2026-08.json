@@ -2,6 +2,520 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "3d623d339f98",
+      "title": "ChatGPT : le guide pour comprendre tous les outils, modèles et fonctionnalités",
+      "description": "OpenAI a multiplié les outils, les modèles et les fonctionnalités autour de ChatGPT. On fait le point sur les différentes briques de cet écosystème.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-guide-comprendre-outils-modeles-et-fonctionnalites/",
+      "pubDate": "2026-08-12T05:00:16.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/guide-ecosysteme-openai-294x165.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "0eab394397f8",
+      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+      "description": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
+      "link": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+      "pubDate": "2026-08-12T04:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5ad607fa468c",
+      "title": "#369.bin - Intelligence(s): Collective: Performance = Expertise + Diversité avec Emile Servan-schreiber",
+      "description": "\"On utilise la bêtise des autres pour annuler sa bêtise à soi\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie,…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-369-08ef98906495",
+      "pubDate": "2026-08-12T03:00:18.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/323c8e7f-ac57-44bc-9bce-e218e80594d7.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/56cdc8d2-3fdc-4bb7-9a38-08ef98906495.mp3?_=1786449678",
+      "duration": "01:02:29"
+    },
+    {
+      "id": "d68a95553dd9",
+      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+      "description": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+      "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+      "pubDate": "2026-08-11T21:39:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dc1f32fc900e",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "pubDate": "2026-08-11T21:39:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9222445227c",
+      "title": "Uber surprised robotics company Serve by selling its entire stake",
+      "description": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
+      "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+      "pubDate": "2026-08-11T20:02:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c2f67d01840e",
+      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+      "description": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
+      "link": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+      "pubDate": "2026-08-11T19:38:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff47b8bea695",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "pubDate": "2026-08-11T19:15:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d1c60f6173d",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "pubDate": "2026-08-11T18:49:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5216a0e29cd8",
+      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+      "description": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
+      "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+      "pubDate": "2026-08-11T17:46:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ef77f7b3f3a9",
+      "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
+      "description": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
+      "link": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
+      "pubDate": "2026-08-11T17:41:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1154a9fd6d8a",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "pubDate": "2026-08-11T17:41:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a3a16344e7f",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "pubDate": "2026-08-11T17:41:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e32278b94fa2",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "pubDate": "2026-08-11T16:25:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cb33970c08ee",
+      "title": "Joby Aviation builds out defense business with $500M acquisition",
+      "description": "Joby Aviation reached an agreement to acquire Resonant Sciences, which will kick off its new defense business.",
+      "link": "https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/",
+      "pubDate": "2026-08-11T16:06:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16e536ba75ae",
+      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+      "description": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
+      "link": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
+      "pubDate": "2026-08-11T15:40:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3c8990f3af37",
+      "title": "Block Blast! goes ad-free on Apple Arcade",
+      "description": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
+      "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
+      "pubDate": "2026-08-11T15:33:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a1615b4cb3da",
+      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026 ",
+      "description": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
+      "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
+      "pubDate": "2026-08-11T15:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e10ce3ac6e74",
+      "title": "FlightAware sues Kalshi over flight cancellation prediction markets",
+      "description": "FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.",
+      "link": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
+      "pubDate": "2026-08-11T15:23:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4bb815109e22",
+      "title": "Google Ads : ce qui change le 17 août pour vos campagnes au CPA et ROAS cible",
+      "description": "Une campagne dont le coût réel par conversion était deux fois inférieur à sa cible va voir cet écart disparaître. Google modifie son système d'enchères le 17 août et les annonceurs concernés ont jusqu'à cette date pour réviser leurs cibles.",
+      "link": "https://www.blogdumoderateur.com/google-ads-ce-qui-change-17-aout-campagnes-cpa-roas-cible/",
+      "pubDate": "2026-08-11T15:00:06.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/review-campaign-google-ads-encheres-revision-17-aout-294x176.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3031b280e0fb",
+      "title": "Kyoto Fusioneering starts work on key fusion power plant device",
+      "description": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
+      "link": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
+      "pubDate": "2026-08-11T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16ec7568a522",
+      "title": "Bumble ditches its rule that kept men from making the first move",
+      "description": "Bumble is ditching the rule that it has enforced since launching in 2024. Men can finally message first.",
+      "link": "https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/",
+      "pubDate": "2026-08-11T13:59:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "343b3ab378ac",
+      "title": "Hermes, l’agent IA open source qui se fabrique ses propres compétences",
+      "description": "Six mois après son lancement, Hermes place son éditeur Nous Research sur une valorisation de 1,5 milliard de dollars. Retour sur le fonctionnement de cet agent IA open source et sur ce qui le distingue d'OpenClaw.",
+      "link": "https://www.blogdumoderateur.com/hermes-agent-ia-open-source-fabrique-propres-competences/",
+      "pubDate": "2026-08-11T13:43:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/hermes-desktop-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "14ffbc5ed9e4",
+      "title": "North Korean remote IT staffer worked for US government agency, says FBI",
+      "description": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.",
+      "link": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
+      "pubDate": "2026-08-11T13:40:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cafbc0d5b69a",
+      "title": "Google AI Overviews : la presse française saisit l’Autorité de la concurrence, ce qu’il faut savoir",
+      "description": "L'organisme, qui représente près de 300 quotidiens français, demande à l'Autorité de la concurrence d'intervenir face au déploiement unilatéral des AI Overviews et de l'AI Mode.",
+      "link": "https://www.blogdumoderateur.com/google-ai-overviews-presse-francaise-saisit-autorite-concurrence/",
+      "pubDate": "2026-08-11T12:10:41.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/plainte-google-presse-francaise-ai-overviews-294x176.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "08f956c900ab",
+      "title": "Kill switch américain : 54 % des entreprises européennes ne tiendraient pas une journée",
+      "description": "Une enquête Proton menée auprès de 1 500 dirigeants européens mesure l'écart entre l'inquiétude géopolitique et la préparation réelle. Plus de la moitié des entreprises basculeraient en crise en moins de 24 heures.",
+      "link": "https://www.blogdumoderateur.com/kill-switch-americain-54-pourcent-entreprises-europeennes-tiendraient-pas-journee/",
+      "pubDate": "2026-08-11T10:14:36.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Proton-Etude-dependance-outils-usa-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dac4cc96cc12",
+      "title": "Claude ajoute un filigrane sur les textes générés pour pouvoir les identifier",
+      "description": "Les prochains modèles d'Anthropic apposeront un filigrane invisible sur les textes qu'ils génèrent, et intégreront des métadonnées de provenance dans les fichiers qu'ils produisent. Une manière de répondre aux obligations posées par l'IA Act.",
+      "link": "https://www.blogdumoderateur.com/claude-ajoute-filigrane-textes-generes-pour-identifier/",
+      "pubDate": "2026-08-11T09:20:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/claude-marquage-contenus-generes-ia-294x166.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "e595e3b692f0",
+      "title": "GPT-5.6-Cyber : OpenAI dévoile son nouveau modèle dédié à la recherche de vulnérabilités",
+      "description": "OpenAI étend son programme Daybreak avec un nouveau modèle, dont l'accès est restreint à des organisations vérifiées.",
+      "link": "https://www.blogdumoderateur.com/gpt-5-6-cyber-openai-nouveau-modele-recherche-vulnerabilites/",
+      "pubDate": "2026-08-11T09:16:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/openai-gpt-cyber-294x187.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3c951c900a6e",
+      "title": "Sources préférées sur Google : comment ça marche",
+      "description": "Voici pourquoi tous les médias insistent pour faire partie de votre liste.",
+      "link": "https://www.blogdumoderateur.com/sources-preferees-google-comment-ca-marche/",
+      "pubDate": "2026-08-11T09:14:40.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/sources-preferees-google-294x156.png",
+      "type": "blog"
+    },
+    {
+      "id": "d870048f0252",
+      "title": "YouTube durcit ses règles de monétisation : ce qui change pour les créateurs",
+      "description": "YouTube revoit les seuils d'accès à la monétisation, la rémunération des Shorts et le partage des revenus issus des abonnements. On fait le point.",
+      "link": "https://www.blogdumoderateur.com/youtube-durcit-regles-monetisation-ce-qui-change-createurs/",
+      "pubDate": "2026-08-11T08:57:33.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/youtube-programme-partenaires-changements-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "64c5f1c7629f",
+      "title": "OpenAI lance les sièges Premium pour ChatGPT Business, avec 5 fois plus d’usage",
+      "description": "OpenAI ajoute un étage à son offre professionnelle avec des sièges Premium à 125 $ par utilisateur et par mois, contre 25 $ pour les sièges Standard.",
+      "link": "https://www.blogdumoderateur.com/openai-sieges-premium-chatgpt-business/",
+      "pubDate": "2026-08-11T08:55:55.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/ChatGPT-Business-sieges-premium-294x164.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "72eae7610071",
+      "title": "De challenger à co-leader : comment Swile a construit une marque B2B avec les codes du B2C",
+      "description": "Thomas Vincenti et Thibaud Fouassier, respectivement lead social & brand manager et creative lead chez Swile, sont les invités du nouvel épisode du podcast vidéo produit par Swello, en partenariat avec BDM.",
+      "link": "https://www.blogdumoderateur.com/challenger-co-leader-comment-swile-construit-marque-b2b-codes-b2c/",
+      "pubDate": "2026-08-11T07:37:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/swello-podcast-follow-back-swile-294x154.jpg",
+      "type": "blog"
+    },
+    {
       "id": "24da775ee56f",
       "title": "Pourquoi Anthropic, OpenAI et Google conçoivent désormais leurs propres puces",
       "description": "Anthropic a confirmé la création d'une équipe dédiée à la conception de puces. Une décision qui s'inscrit dans un mouvement plus large, où chaque laboratoire d'IA cherche à maîtriser son matériel sans s'affranchir pour autant de Nvidia.",
