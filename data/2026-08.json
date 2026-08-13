@@ -2,6 +2,406 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "beffb34d93bb",
+      "title": "Sécurité applicative : ce que l’IA agentique change pour les équipes de développement web",
+      "description": "Le code généré par l'IA est devenu la norme, mais la sécurité peine à suivre. Lisa Bouam, Enterprise Account Director Europe du Sud chez Snyk, décrypte pour BDM les risques des agents autonomes et les réflexes à adopter pour les encadrer.",
+      "link": "https://www.blogdumoderateur.com/securite-applicative-ia-agentique-equipes-developpement-web/",
+      "pubDate": "2026-08-13T05:00:02.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/securite-ia-agentique-developpement-logiciel-294x189.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "12b636d0245b",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "pubDate": "2026-08-12T22:26:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b69163adfc09",
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "description": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+      "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "pubDate": "2026-08-12T22:24:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "87efc9f093e3",
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "description": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "pubDate": "2026-08-12T20:53:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4eff3856a599",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "pubDate": "2026-08-12T20:10:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e4d980959f19",
+      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+      "description": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
+      "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "pubDate": "2026-08-12T18:34:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "478abdc997f5",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "pubDate": "2026-08-12T18:19:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "74eca2cdad77",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "pubDate": "2026-08-12T17:51:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0afb458e7b08",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "pubDate": "2026-08-12T17:41:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9b5c1964f2e9",
+      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+      "description": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
+      "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+      "pubDate": "2026-08-12T17:15:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff7b3b295f0e",
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "pubDate": "2026-08-12T16:57:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fcfd7a19fbb3",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting…",
+      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "pubDate": "2026-08-12T16:46:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3e8e24805293",
+      "title": "Tesla wants to build a $10B solar factory in Texas",
+      "description": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
+      "link": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
+      "pubDate": "2026-08-12T16:18:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d98006d1563d",
+      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+      "description": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
+      "link": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
+      "pubDate": "2026-08-12T16:18:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "238db4ffd1f5",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "description": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "pubDate": "2026-08-12T16:04:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a60a823e77de",
+      "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
+      "description": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
+      "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+      "pubDate": "2026-08-12T15:56:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d78fbcb2d88c",
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "description": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "pubDate": "2026-08-12T15:44:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8934aec97fce",
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+      "description": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
+      "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
+      "pubDate": "2026-08-12T15:18:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "540543a3b423",
+      "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
+      "description": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
+      "link": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
+      "pubDate": "2026-08-12T15:02:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da40c54dd81a",
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "pubDate": "2026-08-12T14:20:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6dd5e7a3e411",
+      "title": "Google’s Quick Share adds a tap-to-share mode",
+      "description": "Google's Quick Share feature is getting a tap-to-share mode for quickly exchanging contacts, photos, videos, and more.",
+      "link": "https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/",
+      "pubDate": "2026-08-12T14:13:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6bce2a821d6d",
+      "title": "Les applications les plus téléchargées au 2e trimestre 2026 : le classement complet",
+      "description": "Malgré une concurrence toujours plus rude, ChatGPT reste l'application la plus téléchargée dans le monde sur iOS et Android au deuxième trimestre. Dans le même temps, Claude intègre le top 10 des applications qui génèrent le plus de revenus.",
+      "link": "https://www.blogdumoderateur.com/applications-plus-telechargees-2e-trimestre-2026/",
+      "pubDate": "2026-08-12T09:04:46.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/applications-plus-telechargees-deuxieme-trimestre-2026-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "0eab06bc977f",
+      "title": "Quand le cache de Symfony ralentit votre application...",
+      "description": "Mettre une valeur en cache, c'est toujours plus rapide, non ? Et bien, pas forcément ! Cet article partage l'analyse d'un problème de performance causé par la protection \"anti-stampede\" du composant Cache de Symfony, et sur la manière dont nous l'avons diagnostiqué puis corrigé. Nous avons…",
+      "link": "https://jolicode.com/blog/quand-le-cache-de-symfony-ralentit-votre-application",
+      "pubDate": "2026-08-12T08:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/cache-lock/cache-lock-flow.png",
+      "type": "blog"
+    },
+    {
+      "id": "c524cee363df",
+      "title": "ChatGPT débarque sur Linux, avec Codex et ChatGPT Work",
+      "description": "OpenAI propose désormais une application desktop ChatGPT pour Linux, disponible en préversion sur Ubuntu, Debian et Fedora.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-debarque-sur-linux/",
+      "pubDate": "2026-08-12T08:38:07.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/ChatGPT-Linux-presentation-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "a01bf5a97219",
+      "title": "CCAF : ce que l'exam guide officiel ne vous dit pas",
+      "description": "Introduction On a passé la CCAF cette semaine. Autant le dire tout de suite : on est tous les deux juniors, sans des mois d'arbitrages de prod derrière nous, nous savions donc que notre expérience ne nous aiderait pas. Ce qu'on pensait,",
+      "link": "https://blog.ippon.fr/2026/08/12/ccaf-ce-que-lexam-guide-officiel-ne-vous-dit-pas/",
+      "pubDate": "2026-08-12T07:44:41.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/ChatGPT-Image-12-ao--t-2026----10_44_23.png",
+      "type": "blog"
+    },
+    {
       "id": "3d623d339f98",
       "title": "ChatGPT : le guide pour comprendre tous les outils, modèles et fonctionnalités",
       "description": "OpenAI a multiplié les outils, les modèles et les fonctionnalités autour de ChatGPT. On fait le point sur les différentes briques de cet écosystème.",
@@ -50,6 +450,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/56cdc8d2-3fdc-4bb7-9a38-08ef98906495.mp3?_=1786449678",
       "duration": "01:02:29"
+    },
+    {
+      "id": "bb68f11e36d0",
+      "title": "L'IA n'a pas votre vécu",
+      "description": "J’ai évoqué dans une publication précédente, l’usage de l’IA par les leaders pour construire leurs arguments, et la perte d’authenticité que cela entraîne. J’ai exactement le même sentiment côté technique. De plus en plus, je vois des développeurs avancer des arguments qu’ils n’ont pas construits.…",
+      "link": "https://www.jdecool.fr/blog/2026/08/12/l-ia-n-a-pas-votre-vecu.html",
+      "pubDate": "2026-08-11T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "d68a95553dd9",
