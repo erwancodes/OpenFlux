@@ -2,6 +2,372 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "1c7a6cc98ee2",
+      "title": "10 outils de vibe coding et de code par IA à tester en 2026",
+      "description": "Le marché du vibe coding a mûri. Des IDE pour développeurs aux générateurs d’applications, voici les 10 outils qui comptent en 2026, et ce que deviennent leurs créations une fois la démonstration terminée.",
+      "link": "https://www.blogdumoderateur.com/outils-vibe-coding-code-ia-tester-2026/",
+      "pubDate": "2026-08-14T05:00:08.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/BDM-vibe-coding-outils-code-ia-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "daadc356b392",
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "description": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "pubDate": "2026-08-13T22:12:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8496c4d62704",
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "description": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+      "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "pubDate": "2026-08-13T22:02:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "765161eadd6c",
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "description": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "pubDate": "2026-08-13T21:50:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d093a86475f7",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "pubDate": "2026-08-13T21:13:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0d7bf7f86bc1",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "pubDate": "2026-08-13T20:14:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6f1bf72c97e7",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "pubDate": "2026-08-13T19:22:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "127828fdab3f",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "pubDate": "2026-08-13T19:19:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7d810ba3e961",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "pubDate": "2026-08-13T18:28:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7f30c266438b",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "pubDate": "2026-08-13T17:07:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8daf019a16f2",
+      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+      "description": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+      "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+      "pubDate": "2026-08-13T16:37:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "080bd29045b4",
+      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+      "description": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+      "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "pubDate": "2026-08-13T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d30b5a9819c",
+      "title": "Instagram introduces a redesigned wordmark",
+      "description": "The social media giant says it was time for a sharper and more modern look after a decade.",
+      "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
+      "pubDate": "2026-08-13T15:46:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0958cfec9de6",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "pubDate": "2026-08-13T15:30:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "431a29bf6f3f",
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "pubDate": "2026-08-13T15:08:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32044c41b386",
+      "title": "Who really needs a cocktail robot?",
+      "description": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
+      "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+      "pubDate": "2026-08-13T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cb23af17b9b7",
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "pubDate": "2026-08-13T14:34:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73ac430b3e6b",
+      "title": "In a first, US will allow some private firms to carry out cyberattacks",
+      "description": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
+      "link": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+      "pubDate": "2026-08-13T14:09:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9fc12053e748",
+      "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026 ",
+      "description": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.",
+      "link": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-08-13T13:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7ca62ca2b88",
+      "title": "IA en entreprise : le fossé se creuse entre les organisations les plus avancées et les autres",
+      "description": "À en croire deux études publiées ce mercredi 12 août 2026 par OpenAI, l'IA quitte progressivement le registre de l'assistance pour celui de l'exécution en entreprise. Mais toutes les organisations n'avancent pas à la même allure.",
+      "link": "https://www.blogdumoderateur.com/ia-entreprise-fosse-creuse-organisations-plus-avancees-autres/",
+      "pubDate": "2026-08-13T09:09:59.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/openai-etude-ecart-usage-entreprises-avancees-mediane-294x193.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "177e37a95d5d",
+      "title": "Claude dans Chrome intègre désormais Cowork, avec vos compétences et connecteurs",
+      "description": "Le panneau latéral de Claude dans Chrome exécute désormais une session Cowork. Les conversations, les compétences et les connecteurs peuvent passer du navigateur aux applications de bureau, web et mobile.",
+      "link": "https://www.blogdumoderateur.com/claude-dans-chrome-integre-cowork/",
+      "pubDate": "2026-08-13T09:07:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Capture-decran-2026-08-13-a-09.41.20-294x188.png",
+      "type": "blog"
+    },
+    {
+      "id": "abdd40a832d4",
+      "title": "Robots : +34 % dans le nettoyage, +91 % dans le médical",
+      "description": "Près de 200 000 robots de service professionnels ont été vendus dans le monde en 2025. Derrière cette progression globale de 9 %, certains marchés accélèrent beaucoup plus vite : +34 % pour les robots de nettoyage et jusqu’à +91 % pour les robots médicaux. Les dernières statistiques consolidées…",
+      "link": "https://www.robot-magazine.fr/robots-34-dans-le-nettoyage-91-dans-le-medical/?utm_source=rss&utm_medium=rss&utm_campaign=robots-34-dans-le-nettoyage-91-dans-le-medical",
+      "pubDate": "2026-08-13T07:08:03.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "a50d2dcd69be",
+      "title": "Les meilleurs modèles pour piloter des agents IA en août 2026",
+      "description": "Le nouveau classement établi par Arena est assez largement dominé par les modèles d'Anthropic, avec Claude Fable 5 et deux versions de Claude Opus 5 aux trois premières places.",
+      "link": "https://www.blogdumoderateur.com/meilleurs-modeles-piloter-agents-ia-aout-2026/",
+      "pubDate": "2026-08-13T06:00:01.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/classement-modeles-ia-agentique-aout-2026-294x162.jpg",
+      "type": "blog"
+    },
+    {
       "id": "beffb34d93bb",
       "title": "Sécurité applicative : ce que l’IA agentique change pour les équipes de développement web",
       "description": "Le code généré par l'IA est devenu la norme, mais la sécurité peine à suivre. Lisa Bouam, Enterprise Account Director Europe du Sud chez Snyk, décrypte pour BDM les risques des agents autonomes et les réflexes à adopter pour les encadrer.",
