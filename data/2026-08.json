@@ -2,6 +2,118 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "47c8acd498f0",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "pubDate": "2026-08-15T21:29:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "569c4523c8fc",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "pubDate": "2026-08-15T18:58:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "15aaf2b747ae",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "pubDate": "2026-08-15T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "23cd5e9aacbd",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "pubDate": "2026-08-15T16:10:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3eaa419697a2",
+      "title": "Every fusion startup that has raised over $100M",
+      "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "pubDate": "2026-08-15T13:15:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3153b881c7c",
+      "title": "Sous le capot de Bluesky : l'ATProto)",
+      "description": "Sous le capot d'un PDS ATProto : un dépôt de données cryptographique, trié dans un Merkle Search Tree et signé à chaque écriture. On ouvre mon propre dépôt à la main : on liste ses records, on télécharge son export CAR, et on vérifie sa signature nous-mêmes, sans jamais faire confiance au serveur.",
+      "link": "https://une-tasse-de.cafe/blog/atproto-pds/",
+      "pubDate": "2026-08-15T06:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "869a2a04aec5",
+      "title": "Watermark sur les textes générés par Claude : Anthropic répond à vos questions",
+      "description": "Claude Code est-il concerné, peut-on effacer le filigrane ou se rabattre sur un autre modèle ? Anthropic apporte enfin des réponses détaillées.",
+      "link": "https://www.blogdumoderateur.com/watermark-claude-anthropic-reponses/",
+      "pubDate": "2026-08-15T05:22:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/claude-watermark-294x155.png",
+      "type": "blog"
+    },
+    {
       "id": "d83864716253",
       "title": "Talks to sell PayPal to Stripe and Advent are heating up",
       "description": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
