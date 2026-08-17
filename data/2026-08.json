@@ -2,6 +2,86 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "9e84a6487caa",
+      "title": "Computer History : ChatGPT enregistre les clics et le clavier dans les autres applications",
+      "description": "La mémoire de ChatGPT dépasse les conversations : ce que vous faites dans les autres applications et sur les sites web peut désormais être utilisé.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-computer-history/",
+      "pubDate": "2026-08-17T04:00:02.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/chatgpt-computer-history-294x204.png",
+      "type": "blog"
+    },
+    {
+      "id": "ce56f7c0b2ba",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "pubDate": "2026-08-16T20:57:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9a585195e787",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "pubDate": "2026-08-16T20:32:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "31bad0791a5e",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "pubDate": "2026-08-16T16:53:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "80fe257cd65e",
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "pubDate": "2026-08-16T16:04:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "47c8acd498f0",
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
