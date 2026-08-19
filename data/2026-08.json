@@ -2,6 +2,439 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "7e9cac0def52",
+      "title": "#370.bin - Intelligence(s): Apprentissage: Stocker la bonne information au bon endroit avec Mathieu Hainselin",
+      "description": "\"Notre cerveau n'est pas un disque dur\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-370-47246092eba9",
+      "pubDate": "2026-08-19T03:00:29.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/9faeda6b-eee1-45fd-a0cb-630f290b0c72.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/b6fa9c96-8f1e-4222-a1e6-47246092eba9.mp3?_=1787054489",
+      "duration": "01:05:59"
+    },
+    {
+      "id": "c891bfee166e",
+      "title": "SEO : Google déploie une mise à jour de ses algorithmes (August 2026 spam update)",
+      "description": "Google a lancé le déploiement de l'August 2026 Spam Update, sa troisième mise à jour antispam de l'année. L'opération devrait s'étaler sur quelques jours.",
+      "link": "https://www.blogdumoderateur.com/seo-google-august-2026-spam-update/",
+      "pubDate": "2026-08-18T22:30:26.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/spam-update-august-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d1942c284f95",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "description": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "pubDate": "2026-08-18T22:14:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "908bb2fcfcb0",
+      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+      "description": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+      "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+      "pubDate": "2026-08-18T20:36:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "45ca7e77f267",
+      "title": "TikTok explores peer-to-peer payments via DMs, report says",
+      "description": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+      "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+      "pubDate": "2026-08-18T20:03:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1d131bb25f34",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "pubDate": "2026-08-18T18:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "632e32559b45",
+      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21 ",
+      "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "pubDate": "2026-08-18T17:31:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f1fb4617b32",
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "pubDate": "2026-08-18T17:21:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f48dd26b411e",
+      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+      "description": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
+      "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+      "pubDate": "2026-08-18T17:12:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "45aae08e9946",
+      "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
+      "description": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
+      "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
+      "pubDate": "2026-08-18T16:39:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5ce0206eb185",
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "description": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "pubDate": "2026-08-18T16:19:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c9e6969d0eb7",
+      "title": "Bluesky says its recent outage was caused by another DDoS attack",
+      "description": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
+      "link": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
+      "pubDate": "2026-08-18T15:59:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d90c0ca73f83",
+      "title": "Peacock is raising prices across all of its streaming plans",
+      "description": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on a support page.",
+      "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
+      "pubDate": "2026-08-18T15:26:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "96258e84bbc0",
+      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+      "description": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
+      "link": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
+      "pubDate": "2026-08-18T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f6d3c3da0538",
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "description": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "pubDate": "2026-08-18T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "667df1e38fed",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "description": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "pubDate": "2026-08-18T13:50:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4201eaaadb88",
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "description": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "pubDate": "2026-08-18T13:45:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba5c5bbbd20f",
+      "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
+      "description": "A video in a macOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri.",
+      "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
+      "pubDate": "2026-08-18T13:28:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7c9750667b5",
+      "title": "OpenAI propose une version de ChatGPT dédiée aux mineurs, entre apprentissage et garde-fous",
+      "description": "OpenAI réunit dans une même interface ses protections destinées aux mineurs. Au menu, un mode Étudier programmable, des rappels de pause et des notifications parentales élargies aux troubles alimentaires.",
+      "link": "https://www.blogdumoderateur.com/openai-version-chatgpt-mineurs-apprentissage-garde-fous/",
+      "pubDate": "2026-08-18T13:21:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/chatgpt-for-teens-mode-etudier-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0a733996f28c",
+      "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
+      "description": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
+      "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
+      "pubDate": "2026-08-18T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f90f9798c2bb",
+      "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+      "description": "Reach Capital announced Tuesday an oversubscribed $265 million Fund V.",
+      "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+      "pubDate": "2026-08-18T11:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8747a048df02",
+      "title": "Fairphone is launching its latest repairable phone in the US too",
+      "description": "The Fairphone 6+ is a midrange Android offering, but given the increasing prices of consumer gadgets amid the ongoing component shortages, a repairable device that can be made to last for years may prove a good proposition.",
+      "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+      "pubDate": "2026-08-18T11:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ab9f389d5b10",
+      "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+      "description": "The deal will triple the size of Einride's fleet while sweetening the company's sales pitch for its Saga AI software. The Tesla Semis will be available to customers across North America.",
+      "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
+      "pubDate": "2026-08-18T10:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6cc31f4c8182",
+      "title": "YouTube : pourquoi le nombre de vues affiché va changer dès le 24 août",
+      "description": "À partir du 24 août 2026, YouTube comptabilisera une vue dès qu'une vidéo commencera à être lue, quel que soit son format.",
+      "link": "https://www.blogdumoderateur.com/youtube-pourquoi-nombre-vues-change-24-aout/",
+      "pubDate": "2026-08-18T08:37:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/youtube-comptage-vues-294x180.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dca2e87735dd",
+      "title": "Top 20 des modèles d’IA les plus performants en août 2026 : le classement complet",
+      "description": "Anthropic concerne une longueur d'avance sur ses concurrents au sein de la Text Arena. Les modèles Claude excellent dans les tâches text-to-text, au sein d'un classement repensé.",
+      "link": "https://www.blogdumoderateur.com/top-20-modeles-ia-performants-aout-2026/",
+      "pubDate": "2026-08-18T08:32:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Classement-IA-aout-2026-294x163.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bae254b51c37",
+      "title": "SimHash : trouver les pages qui se ressemblent",
+      "description": "Il y a quelques semaines, j'ai eu besoin de détecter du contenu dupliqué dans le crawler de redirection.io. Pas du dupliqué à la virgule près, ça c'est facile, mais du dupliqué « en gros, c'est la même page ». J'aurais pu utiliser des embeddings avec un LLM, mais il me fallait quelque chose de…",
+      "link": "https://jolicode.com/blog/simhash-trouver-les-pages-qui-se-ressemblent",
+      "pubDate": "2026-08-18T07:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/simhash/simhash.png",
+      "type": "blog"
+    },
+    {
+      "id": "8cea80d88d4f",
+      "title": "Facturation électronique : êtes-vous concerné ?",
+      "description": "La réforme de la facturation électronique entrera en vigueur au 1er septembre 2026. Faites notre test pour savoir à partir de quand votre entreprise est concernée.",
+      "link": "https://www.blogdumoderateur.com/facturation-electronique-etes-vous-concerne/",
+      "pubDate": "2026-08-18T05:00:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/facturation-electronique-test-294x182.jpg",
+      "type": "blog"
+    },
+    {
       "id": "e7e318e87e3c",
       "title": "Anthropic’s annualized revenue surges to $65B",
       "description": "The model maker added $18 billion in annualized revenue in two months.",
