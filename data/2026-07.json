@@ -757,6 +757,21 @@
       "type": "blog"
     },
     {
+      "id": "9231665dfc8e",
+      "title": "How we set up our cloud agent environment",
+      "description": "",
+      "link": "https://cursor.com/blog/cloud-agent-environment",
+      "pubDate": "2026-07-30T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "09099903d222",
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
       "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
@@ -1693,6 +1708,21 @@
       "categories": [
         "Programmation",
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a9395d8b487",
+      "title": "Introducing Cursor Start",
+      "description": "",
+      "link": "https://cursor.com/blog/cursor-start-india",
+      "pubDate": "2026-07-28T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -3615,6 +3645,21 @@
       "type": "blog"
     },
     {
+      "id": "cabbd7e35edd",
+      "title": "Introducing Cursor Router",
+      "description": "",
+      "link": "https://cursor.com/blog/router",
+      "pubDate": "2026-07-22T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a983abeb3577",
       "title": "Meta is testing an AI bedtime story app for people with no imagination",
       "description": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
@@ -4469,6 +4514,21 @@
       "categories": [
         "Programmation",
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b346f57130e",
+      "title": "Agent swarms and the new model economics",
+      "description": "",
+      "link": "https://cursor.com/blog/agent-swarm-model-economics",
+      "pubDate": "2026-07-20T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
