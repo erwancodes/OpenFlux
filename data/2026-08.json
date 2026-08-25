@@ -2,6 +2,359 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "aac90e4bd325",
+      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+      "description": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
+      "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+      "pubDate": "2026-08-25T03:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc86cf3e9da1",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "pubDate": "2026-08-25T00:23:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "604e660e7f01",
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "description": "We all knew it was coming. The expected valuation may surprise, though.",
+      "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+      "pubDate": "2026-08-24T23:05:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f0f1ea6649d4",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "description": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "pubDate": "2026-08-24T21:24:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bd52c00ec34f",
+      "title": "Zillow and Redfin settle FTC antitrust case",
+      "description": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
+      "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+      "pubDate": "2026-08-24T20:45:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c21b6a646e24",
+      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+      "description": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
+      "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+      "pubDate": "2026-08-24T20:16:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a429b5e27fc5",
+      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+      "description": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
+      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+      "pubDate": "2026-08-24T19:58:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "25490c8a012f",
+      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
+      "description": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
+      "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+      "pubDate": "2026-08-24T19:54:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "878545275de8",
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 ",
+      "description": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-08-24T19:54:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e17e8f017ef",
+      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+      "description": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
+      "link": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-08-24T19:44:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26626788ee8d",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "pubDate": "2026-08-24T18:03:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6fa02c4f9ef7",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "pubDate": "2026-08-24T15:24:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f5821dec0e5",
+      "title": "Une introduction interactive au Spanning Tree Protocol",
+      "description": "Avertissement Cet article contient des exemples interactifs. Pour les visualiser et interagir avec eux, vous devez .quitter votre lecteur de flux :demo A1 @0,0 prio=4096 A2 @0,1 A3 @0,2 A4 @0,3 B1 @1,0 prio=8192 B2 @1,1 B3 @1,2 B4 @1,3 C1 @2,0 prio=8192 C2 @2,1 C3 @2,2 C4 @2,3 A1 -- A2 hazard=0 A2…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-spanning-tree",
+      "pubDate": "2026-08-24T15:00:00.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/msa-garratt@1x.77dc2f6581ab04.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a8a77e450426",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "description": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "pubDate": "2026-08-24T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "50d1f5268d34",
+      "title": "Brake problems in GM EVs draw greater federal scrutiny",
+      "description": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
+      "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
+      "pubDate": "2026-08-24T14:18:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d38648c033d",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "pubDate": "2026-08-24T13:47:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4986ea2460f1",
+      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+      "description": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+      "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "pubDate": "2026-08-24T13:45:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "411ff08095ef",
+      "title": "Google Play Store Listing : une certification gratuite pour parler ASO",
+      "description": "Retour d'expérience sur la certification Google Play Store Listing : gratuite, rapide à préparer, et une bonne porte d'entrée pour parler ASO",
+      "link": "https://blog.ippon.fr/2026/08/24/google-play-store-listing-une-certification-gratuite-pour-parler-aso/",
+      "pubDate": "2026-08-24T07:52:59.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/Screenshot-2026-08-20-at-17.31.48.png",
+      "type": "blog"
+    },
+    {
+      "id": "2b72d30f6822",
+      "title": "IA : les 10 générateurs d’images les plus performants en août 2026",
+      "description": "Arena distingue désormais génération et édition d'images. GPT Image 2 s'impose sur les deux classements, mais ses poursuivants ne sont pas les mêmes.",
+      "link": "https://www.blogdumoderateur.com/ia-10-generateurs-images-performants-aout-2026/",
+      "pubDate": "2026-08-24T07:52:35.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Text-to-image-classement-arena-aout-2026-294x142.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "be81948eabd3",
+      "title": "5 formations pour apprendre à utiliser les logiciels de montage vidéo",
+      "description": "Une sélection de formations pour progresser en montage vidéo, du perfectionnement sur Premiere Pro et DaVinci Resolve jusqu'à l'intégration de l'intelligence artificielle dans vos pratiques professionnelles.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-montage-video-315/",
+      "pubDate": "2026-08-24T06:00:48.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/selection-formation-montage-video-315-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "170cc25d1e4c",
+      "title": "Comment créer et diffuser une publicité dans ChatGPT",
+      "description": "ChatGPT diffuse des publicités depuis février aux États-Unis et sa régie ouvre France en cette fin août. Voici comment fonctionne ChatGPT Ads et comment y lancer vos campagnes.",
+      "link": "https://www.blogdumoderateur.com/comment-creer-diffuser-publicite-chatgpt/",
+      "pubDate": "2026-08-24T05:30:29.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/chatgpt-ads-tuto-294x166.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "68652922e099",
+      "title": "Retour de vacances : comment trier efficacement ses messages avec l’IA ?",
+      "description": "Gmail, Outlook et Slack ont étoffé leurs fonctionnalités IA de tri et de synthèse des messages ces derniers mois. Voici comment les utiliser, avec leurs conditions d'accès et leurs limites.",
+      "link": "https://www.blogdumoderateur.com/retour-vacances-comment-trier-efficacement-messages-ia/",
+      "pubDate": "2026-08-24T05:00:04.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/trier-efficacement-messages-ia-294x165.jpg",
+      "type": "blog"
+    },
+    {
       "id": "1538fb9c10b7",
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
@@ -109,6 +462,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "34754868c3fe",
+      "title": "Ma stack de service logiciels pour construire des produits",
+      "description": "Mon stack radar européen : la liste complète des logiciels (hosting, paiement, monitoring) que j'utilise ou recommande pour lancer un produit en Europe.",
+      "link": "https://eventuallycoding.com/p/ma-stack-logicielle",
+      "pubDate": "2026-08-23T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"
@@ -1127,6 +1495,22 @@
       "title": "New in Air: Claude Subscriptions, Multiproject View, and Improved Markdown",
       "description": "You can now use Air with your existing Claude Pro, Max, or Team subscription. Usage counts against your subscription quota – there’s no need to purchase API credits and no per-token Console billing. Login goes through Anthropic’s own authentication flow. Air never sees or stores your credentials.…",
       "link": "https://blog.jetbrains.com/air/2026/08/new-in-air-claude-subscriptions-multiproject-view-and-improved-markdown/",
+      "pubDate": "2026-08-19T17:35:10.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2eebd2a39e71",
+      "title": "New in Air: Multiproject View, a New Markdown Editor, and IME on Windows",
+      "description": "Air gets a new multiproject view: open several projects in one window and run agents across them in parallel. The sidebar groups tasks by project, so you always see which agent is working on which project – no more window juggling for multirepo work. Markdown files now render as formatted text…",
+      "link": "https://blog.jetbrains.com/air/2026/08/new-in-air-multiproject-view-and-improved-markdown/",
       "pubDate": "2026-08-19T17:35:10.000Z",
       "source": "JetBrains AI Blog",
       "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
