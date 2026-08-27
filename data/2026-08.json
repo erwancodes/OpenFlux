@@ -2,6 +2,573 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "e57e746ec8e6",
+      "title": "Hold up, there’s a new Twitter in the town",
+      "description": "You read that right. There is a new social network called “Twitter.now” on the block, and it’s being operated by a startup called Operation Bluebird, whose founding team includes former Twitter trademark counsel Stephen Coates. As ArsTechnica reported, X sued the company last year and asked a…",
+      "link": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/",
+      "pubDate": "2026-08-27T14:40:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3f4f018f816a",
+      "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
+      "description": "Test drivers for Waymo and Zoox sustained more than two dozen injuries in 2024 and 2025 from hard braking or other sudden movements made by the autonomous vehicles, according to a TechCrunch review of data submitted to OSHA.",
+      "link": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
+      "pubDate": "2026-08-27T14:36:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8733257d4bfd",
+      "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
+      "description": "The arrests come after a wave of cyberattacks earlier this year targeting tech companies that rely on high-profile and widely used open source software.",
+      "link": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+      "pubDate": "2026-08-27T14:27:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "61b131d55df0",
+      "title": "AI’s memory crunch is coming for Android apps",
+      "description": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "pubDate": "2026-08-27T14:27:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a929b2ed40a",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "description": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "pubDate": "2026-08-27T14:01:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2ed49b07522d",
+      "title": "Fin des liens directs dans les résultats Google : ce qui change pour l’analyse SEO",
+      "description": "Les liens affichés dans les résultats de Google ne pointent plus directement vers les sites. Ils passent par une URL de redirection, google.com/goto, dont le déploiement est désormais confirmé par le moteur de recherche.",
+      "link": "https://www.blogdumoderateur.com/fin-liens-directs-resultats-google/",
+      "pubDate": "2026-08-27T13:54:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/google-goto-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3179704ea346",
+      "title": "Photoshop se dote d’un second espace de travail pour la retouche par prompt",
+      "description": "Photoshop accueille un espace de travail dédié à la retouche par prompt, en version bêta, sans renoncer à ses outils de précision, enrichis de leur côté par Firefly Image 5.",
+      "link": "https://www.blogdumoderateur.com/photoshop-espace-travail-retouche-par-prompt/",
+      "pubDate": "2026-08-27T13:00:24.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/AI-Assisted-Editor.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "99cc84f9dfad",
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "description": "Plaud's new 'agentic' earbuds are priced at $249.",
+      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "pubDate": "2026-08-27T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c375e95c0410",
+      "title": "Migrating from Webpack Encore to Vite with Reprise",
+      "description": "We maintain a high-traffic project for one of our clients: 5 websites served by a single Symfony application, 800 Twig templates, and a React + Tailwind front end that has been built by Webpack Encore for years. A front-end build that was starting to weigh on us: over a minute of Webpack, a…",
+      "link": "https://jolicode.com/blog/migrating-from-webpack-encore-to-vite-with-reprise",
+      "pubDate": "2026-08-27T11:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1182d0a4c68e",
+      "title": "Migrer de Webpack Encore vers Vite avec Reprise",
+      "description": "Nous maintenons, pour un de nos clients, un projet à fort trafic : 5 sites servis par une même application Symfony, 800 templates Twig, et un front React + Tailwind buildé depuis des années par Webpack Encore. Un build front qui commençait sérieusement à peser : plus d'une minute de Webpack, un…",
+      "link": "https://jolicode.com/blog/migrer-de-webpack-encore-vers-vite-avec-reprise",
+      "pubDate": "2026-08-27T11:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8a45cb93a1ef",
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "description": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "pubDate": "2026-08-27T11:35:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da66d9bcda7a",
+      "title": "Robots chinois : les fabricants cherchent leurs futurs distributeurs et intégrateurs en Europe",
+      "description": "La robotique chinoise a changé de dimension. Après avoir développé un marché domestique considérable, de nombreux constructeurs regardent désormais vers l’Europe. Humanoïdes, robots quadrupèdes, AMR, cobots, robots de nettoyage, d’inspection ou de service : les machines sont là et commencent à être…",
+      "link": "https://www.robot-magazine.fr/robots-chinois-les-fabricants-cherchent-leurs-futurs-distributeurs-et-integrateurs-en-europe/?utm_source=rss&utm_medium=rss&utm_campaign=robots-chinois-les-fabricants-cherchent-leurs-futurs-distributeurs-et-integrateurs-en-europe",
+      "pubDate": "2026-08-27T09:49:24.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "8e3b233feb77",
+      "title": "Meta règle son procès sur l’addiction des ados et met TikTok et YouTube sous pression",
+      "description": "Meta met fin au procès qui l'opposait à la quasi-totalité des États américains sur l'addiction des mineurs. L'accord prévoit jusqu'à 18 milliards de dollars et une limite de deux heures par jour sur Facebook et Instagram.",
+      "link": "https://www.blogdumoderateur.com/meta-regle-proces-addiction-ados/",
+      "pubDate": "2026-08-27T08:40:57.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/meta-proces-usa-facebook-instagram-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "590c81493bc9",
+      "title": "12 événements à ne pas manquer en septembre 2026",
+      "description": "Retrouvez dans cette sélection : la Keynote d'Apple, Big Data & AI Paris, The IMPACT cube, FDDay en partenariat avec BDM, mais aussi NRF Retail’s Big Show Europe, All4Customer Cannes, SIDO Lyon, WordCamp Bretagne, Meta Connect, AIM, La Mêlée Numérique et HUBFORUM.",
+      "link": "https://www.blogdumoderateur.com/evenements-digital-septembre-2026/",
+      "pubDate": "2026-08-27T08:00:09.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/events-web-septembre-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6c85e596fcd9",
+      "title": "Keynote de rentrée d’Apple : les nouveautés attendues et les dernières rumeurs",
+      "description": "iPhone 18 Pro, premier iPhone pliant, Apple Watch Series 12... Le point sur ce qui devrait être annoncé lors de la prochaine conférence d’Apple, le 9 septembre.",
+      "link": "https://www.blogdumoderateur.com/keynote-apple-septembre-2026-nouveautes-rumeurs/",
+      "pubDate": "2026-08-27T07:38:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/keynote-apple-septembre-2026-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "d6a0aa863baf",
+      "title": "Exclusive Interview with Luca Fancello, Co-founder of Qwairy, on the Revolution of Answer Engines.",
+      "description": "Forget Traditional SEO: Welcome to the GEO Era If you’ve been following my thoughts lately, you know I’ve been thinking a lot about the future of online visibility. For years, the rules of the game were simple: please Google. We optimized our tags, chased backlinks (the famous backlink), and…",
+      "link": "https://oliviersauvage.com/2026/08/27/exclusive-interview-with-luca-fancello-co-founder-of-qwairy-on-the-revolution-of-answer-engines/",
+      "pubDate": "2026-08-27T07:06:39.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "20707d54cbdd",
+      "title": "Entretien exclusif avec Luca Fancello, cofondateur de Qwairy, sur la révolution des moteurs de réponse.",
+      "description": "L'optimisation pour les moteurs de recherche évolue vers le GEO, axé sur les mentions plutôt que sur les backlinks. Les intelligences artificielles comme ChatGPT privilégient la réputation et la crédibilité des marques. Les consultants SEO doivent adopter une approche collective et omnicanale pour…",
+      "link": "https://oliviersauvage.com/2026/08/27/entretien-exclusif-avec-luca-fancello-cofondateur-de-qwairy-sur-la-revolution-des-moteurs-de-reponse/",
+      "pubDate": "2026-08-27T06:50:15.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48f9521226b4",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "pubDate": "2026-08-27T06:32:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd1012a23e85",
+      "title": "Fuite de données Intermarché : ce que la cyberattaque révèle sur les fragilités du retail",
+      "description": "Intermarché a été touché par une fuite de données, un an après Marks & Spencer, Co-op et Harrods. Matthieu Trivier (Semperis) nous explique pourquoi le retail concentre les cyberattaques, et les réflexes qu'une enseigne devrait adopter en amont.",
+      "link": "https://www.blogdumoderateur.com/fuite-donnees-intermarche-cyberattaque-revele-fragilites-retail/",
+      "pubDate": "2026-08-27T05:00:08.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Matthieu-Trivier-Semperis-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "745d673f45eb",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "pubDate": "2026-08-27T00:24:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d949d26fe875",
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "pubDate": "2026-08-26T23:47:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aed46dac12ea",
+      "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+      "description": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
+      "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "pubDate": "2026-08-26T22:47:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e518d876024c",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "pubDate": "2026-08-26T21:37:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0d6db5e26a89",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "description": "Consumer AI apps need to stop making users learn their product architecture.",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "pubDate": "2026-08-26T19:37:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5a1bb02faa3f",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "description": "Was Greg Brockman the right executive all along?",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "pubDate": "2026-08-26T19:34:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a5c3f4d5e36b",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "pubDate": "2026-08-26T19:05:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "58bba375f0a1",
+      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+      "description": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
+      "link": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
+      "pubDate": "2026-08-26T18:35:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bfdc685abee4",
+      "title": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
+      "description": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
+      "link": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
+      "pubDate": "2026-08-26T18:23:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "617a9188bb60",
+      "title": "US seizes domains of Chinese botnet used to target NASA, Justice Department, and the Senate",
+      "description": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the botnet's communication and essential operations.",
+      "link": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+      "pubDate": "2026-08-26T17:01:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "153ea7996c62",
+      "title": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
+      "description": "The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools.",
+      "link": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
+      "pubDate": "2026-08-26T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21627526b24d",
+      "title": "Apple is holding its iPhone launch event on September 9",
+      "description": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
+      "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+      "pubDate": "2026-08-26T16:53:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73879273d892",
+      "title": "2026: Blogs are Dead, Long Live Blogs!",
+      "description": "A study by Daniel Stanica shows that among the 100 influential American blogs, over 60 have lost up to 85% of their traffic in four years. This decline is due to Google's algorithms and a flawed content strategy. Only 21 blogs manage to grow by offering unique and authentic content. L’article 2026:…",
+      "link": "https://oliviersauvage.com/2026/08/26/2026-blogs-are-dead-long-live-blogs/",
+      "pubDate": "2026-08-26T09:57:31.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "199fe31e9e5a",
+      "title": "La seule règle qu'une IA respecte vraiment, c'est une erreur ESLint",
+      "description": "Lâcher une IA dans votre projet sans le voir se dégrader : le dispositif complet.",
+      "link": "https://blog.ippon.fr/2026/08/26/la-seule-regle-quune-ia-respecte-vraiment-cest-une-erreur-eslint/",
+      "pubDate": "2026-08-26T09:31:29.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/Sans-titre5.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "5e64d46c0b63",
+      "title": "Instagram déploie First Draft pour accélérer le montage des Reels",
+      "description": "Instagram intègre une fonctionnalité de montage automatique qui coupe les pauses et les silences des clips, pour livrer un premier jet de Reel en quelques secondes.",
+      "link": "https://www.blogdumoderateur.com/instagram-deploie-first-draft-montage-reels/",
+      "pubDate": "2026-08-26T08:36:19.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/premiet-jet-instagram-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "6f1ba3c54fe6",
+      "title": "Anthropic unifie enfin la mémoire de Claude et Cowork : ce qui change",
+      "description": "Anthropic fusionne les systèmes de mémoire de Claude, du chat à Cowork. Ce que l'assistant retient d'un côté devient accessible de l'autre, avec un réglage dédié aux sujets considérés comme sensibles.",
+      "link": "https://www.blogdumoderateur.com/anthropic-unifie-memoire-claude-cowork/",
+      "pubDate": "2026-08-26T08:35:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Anthropic-Claude-Cowork-memoire-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5f19bd19b9cb",
+      "title": "Mistral AI : le guide pour comprendre tous les outils, modèles et fonctionnalités",
+      "description": "Startup française et champion européen de l'IA, Mistral AI a bâti un écosystème complet autour de ses modèles open source et de son assistant Vibe (ex-Le Chat). On fait le point.",
+      "link": "https://www.blogdumoderateur.com/mistral-guide-outils-modeles-fonctionnalites/",
+      "pubDate": "2026-08-26T05:00:47.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/mistral-ai-logo-294x221.jpg",
+      "type": "blog"
+    },
+    {
       "id": "355d8aee33bd",
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
       "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
@@ -61,6 +628,38 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "77d9fc69d0a8",
+      "title": "Spécifier, c'est coder",
+      "description": "Depuis quelques semaines, je ne lance plus les agents : je tague des cartes, et un agent d'évaluation décide s'il les prend. Carnet de bord d'une expérimentation en cours, où le travail de développement a discrètement changé de place.",
+      "link": "https://yoandev.co/specifier-c-est-coder",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/84406cb1-4abf-4f73-93e0-61a6e4a5d973.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a9f92e1373ca",
+      "title": "Penser problème avant de penser solution",
+      "description": "En tant que développeur, quand on démarre une tâche ou un projet, on pense facilement au framework que l’on va utiliser, à la base de données, aux patterns que l’on va pouvoir mettre en place. Et si c’était une erreur ? Car en réfléchissant de la sorte, on prend déjà des décisions avant même que le…",
+      "link": "https://www.jdecool.fr/blog/2026/08/26/penser-probleme-avant-de-penser-solution.html",
+      "pubDate": "2026-08-25T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
@@ -7560,6 +8159,22 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/07/anthropic-claude-ecosysteme-294x221.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "4ea964f209b6",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 2 : la mémoire",
+      "description": "Those aren't your memories. They're somebody else's. ©Rick Deckard",
+      "link": "https://philippart-s.github.io/blog/2026-08-03-java-and-ai-part2/",
+      "pubDate": "2026-08-03T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
