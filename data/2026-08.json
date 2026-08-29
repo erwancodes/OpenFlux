@@ -2,6 +2,162 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "80928477472b",
+      "title": "George Orwell, Entrepreneurship, and Me",
+      "description": "In an uncertain context marked by economic and political crises, the author discusses the resilience of entrepreneurs inspired by George Orwell. Although Orwell was a writer, he embodies an entrepreneurial spirit through his quest for truth, his integrity, and his ability to face challenges, thus…",
+      "link": "https://oliviersauvage.com/2026/08/29/george-orwell-entrepreneurship-and-me/",
+      "pubDate": "2026-08-29T07:26:50.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9564d2e1b221",
+      "title": "Georges Orwell, l’entrepreneuriat et moi",
+      "description": "Dans un contexte incertain marqué par des crises économiques et politiques, l'auteur évoque la résilience d'entrepreneurs inspirés par George Orwell. Bien qu'Orwell fût écrivain, il incarne un esprit d'entrepreneuriat à travers sa quête de vérité, son intégrité et sa capacité à affronter des défis,…",
+      "link": "https://oliviersauvage.com/2026/08/29/georges-orwell-lentrepreneuriat-et-moi/",
+      "pubDate": "2026-08-29T07:11:25.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cfa8cc81f628",
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "description": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+      "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "pubDate": "2026-08-28T23:24:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d933e87ed78",
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
+      "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "pubDate": "2026-08-28T22:42:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7f0374631f4f",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "pubDate": "2026-08-28T20:24:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8152c5575eb2",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "pubDate": "2026-08-28T19:30:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f74112f152d1",
+      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "description": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+      "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "pubDate": "2026-08-28T18:50:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fea5f6e87ebd",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "description": "There's a lot of capital pouring into the business of giving models away.",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "pubDate": "2026-08-28T18:19:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9b27748f3b13",
+      "title": "How Sweden built one of Europe’s hottest startup ecosystems ",
+      "description": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
+      "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+      "pubDate": "2026-08-28T17:09:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3f3c0b737bf",
+      "title": "More Americans oppose police license plate cameras than support them: survey",
+      "description": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.",
+      "link": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
+      "pubDate": "2026-08-28T15:57:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f82484337d99",
       "title": "Friend-focused photo sharing app Retro snags $21M",
       "description": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
