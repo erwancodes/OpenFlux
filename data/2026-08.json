@@ -2,6 +2,199 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "79d653efea66",
+      "title": "OpenAI cesse de fournir ses modèles à Cursor après son rachat par SpaceX",
+      "description": "OpenAI a notifié à SpaceX son intention de couper l'accès à ses modèles dans Cursor, avec une date proposée au 12 novembre 2026. L'éditeur de code, racheté 60 milliards de dollars le 14 août, conserve les modèles d'Anthropic, de Google et de xAI.",
+      "link": "https://www.blogdumoderateur.com/openai-cesse-fournir-modeles-cursor-rachat-spacex/",
+      "pubDate": "2026-08-31T08:29:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Cursor-OpenAI-SpaceX-294x162.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8336b6a5055a",
+      "title": "Claude Code : Anthropic relève ses limites hebdomadaires de 25 % à partir du 14 septembre",
+      "description": "Anthropic relève durablement les quotas hebdomadaires de Claude Code de 25 %. Sans cacher une baisse réelle par rapport au bonus temporaire de 50 %, en place depuis mai.",
+      "link": "https://www.blogdumoderateur.com/claude-code-anthropic-releve-limites-hebdomadaires-25-pourcent/",
+      "pubDate": "2026-08-31T08:27:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Claude-Code-Limite-Quotas-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f625d7c3ff49",
+      "title": "Le Starter Pack du Software Engineer pour la certification AWS Developer Associate",
+      "description": "Quelques conseils pour passer la certification AWS Developer Associate DVA-C02",
+      "link": "https://blog.ippon.fr/2026/08/31/le-starter-pack-du-software-engineer-pour-la-certification-aws-developer-associate/",
+      "pubDate": "2026-08-31T07:22:49.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/image-article-aws-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9ab528cff536",
+      "title": "5 formations pour devenir développeur web et obtenir une certification",
+      "description": "Notre sélection de formations de la semaine vous apprend les techniques du développement web avec une certification professionnelle à la clé.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-developpeur-web-316/",
+      "pubDate": "2026-08-31T06:00:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/selection-formation-developpeur-web-316-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b8ef98ff80b3",
+      "title": "IA : les actus qu’il ne fallait pas manquer cet été",
+      "description": "AI Overviews en France, publicité dans ChatGPT, marquage obligatoire des contenus générés... Six mouvements ont structuré l’actualité IA entre juillet et août.",
+      "link": "https://www.blogdumoderateur.com/ia-actus-ete-2026/",
+      "pubDate": "2026-08-31T05:00:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/IA-actu-ete-2026-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "331406f38034",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "description": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "pubDate": "2026-08-31T02:34:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fcdf647822e0",
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "description": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been…",
+      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "pubDate": "2026-08-31T02:18:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "54a7bcb34778",
+      "title": "Un guide non interactif du Spanning Tree Protocol",
+      "description": "Imaginez que vous louiez des bureaux pour un événement de trois jours. Vous installez à la hâte quelques commutateurs Ethernet et scotchez des câbles au sol pour connecter tout le monde. Malheureusement, Gaston, votre collègue le plus maladroit, trébuche sur un câble à chaque fois qu’il se lève…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-spanning-tree-video",
+      "pubDate": "2026-08-30T20:54:32.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c2a842599fd",
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "description": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "pubDate": "2026-08-30T18:33:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a1c125ab1c9f",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "description": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "pubDate": "2026-08-30T16:54:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e9155cfa28a1",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "pubDate": "2026-08-30T16:03:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "80d0eae02fda",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "pubDate": "2026-08-30T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d750556c657f",
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
@@ -123,6 +316,21 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "db0c63c54598",
+      "title": "Le piège de la transparence par défaut sur Bluesky et le protocole ATProto",
+      "description": "PDS public, likes visibles, métadonnées exposées : sur Bluesky, tout se croise. Attention, la transparence a un prix.",
+      "link": "https://eventuallycoding.com/p/le-piege-de-la-transparence-par-defaut-sur-bluesky-et-le-protocole-atproto",
+      "pubDate": "2026-08-29T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1788014460629-ykk6had.png?width=400",
       "type": "blog"
     },
     {
