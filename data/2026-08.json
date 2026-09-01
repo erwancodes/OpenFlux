@@ -2,6 +2,354 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "f9a57d602576",
+      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+      "description": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
+      "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+      "pubDate": "2026-08-31T23:41:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3b0d49ff062c",
+      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+      "description": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
+      "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+      "pubDate": "2026-08-31T23:14:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "591ca98d87dd",
+      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+      "description": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
+      "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+      "pubDate": "2026-08-31T22:14:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ee8df0805e07",
+      "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+      "description": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
+      "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+      "pubDate": "2026-08-31T20:20:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "77e651c0246f",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "pubDate": "2026-08-31T20:13:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f268d203aa14",
+      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+      "description": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
+      "link": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-08-31T19:32:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba23b444bdf6",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "description": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "pubDate": "2026-08-31T19:16:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f887b7f37f8",
+      "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+      "description": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
+      "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+      "pubDate": "2026-08-31T19:02:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ff2e2c21bb2",
+      "title": "Microsoft tests fix for latest hours-long Outlook outage",
+      "description": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.",
+      "link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
+      "pubDate": "2026-08-31T18:56:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b85c27c9971d",
+      "title": "Kalshi bans George Santos for life over State of the Union bets",
+      "description": "The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.",
+      "link": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/",
+      "pubDate": "2026-08-31T18:53:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a0e767ddab6",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "pubDate": "2026-08-31T18:35:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3bbdd25d548f",
+      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+      "description": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
+      "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
+      "pubDate": "2026-08-31T18:10:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d3a3ab181e4",
+      "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
+      "description": "The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.",
+      "link": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
+      "pubDate": "2026-08-31T17:14:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "08ed8101fc35",
+      "title": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+      "description": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods, and other major hardware lines.",
+      "link": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+      "pubDate": "2026-08-31T17:02:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d61c33111e38",
+      "title": "VLC crosses 7 billion downloads",
+      "description": "In our world of expensive streaming platforms, the very free and offline VLC media player has crossed 7 billion downloads.",
+      "link": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/",
+      "pubDate": "2026-08-31T16:07:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "badf236d9d67",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "description": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "pubDate": "2026-08-31T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8d23712cfc70",
+      "title": "L'économie de la solitude",
+      "description": "Lecture super intéressante de cette interview de Paul Klotz, essayiste : « La solitude est devenue une ressource délibérément recherchée et exploitée par les acteurs du numérique ». En substance, pour maximiser leurs revenus, basés sur la publicité ciblée, les réseaux sociaux (mais pas que, les…",
+      "link": "https://standblog.org/blog/post/2026/08/31/L-economie-de-la-solitude",
+      "pubDate": "2026-08-31T15:30:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fd3a51ee66e8",
+      "title": "How AI could make it harder for governments to use hacking tools",
+      "description": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices.",
+      "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+      "pubDate": "2026-08-31T15:19:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f8a35690a44c",
+      "title": "En vrac de juillet aout 2026",
+      "description": "Complètement en vrac Citation du moment : “Il faudrait essayer d’être heureux, ne serait-ce que pour donner l’exemple. “, par Jacques Prévert, remise au goût du jour par Jean-Louis Trintignant dans une version très légèrement différente : “Et si on essayait d’être heureux, ne serait-ce que pour…",
+      "link": "https://standblog.org/blog/post/2026/08/31/En-vrac-de-juillet-aout-2026",
+      "pubDate": "2026-08-31T14:56:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "81b52d57aa3d",
+      "title": "ChatGPT, Reddit et Roblox sont désormais soumis au régime le plus strict du DSA",
+      "description": "ChatGPT, Reddit et Roblox ont quatre mois pour se mettre en conformité avec le DSA.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-reddit-roblox-desormais-soumis-regime-plus-strict-dsa/",
+      "pubDate": "2026-08-31T14:34:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/chatgpt-roblox-reddit-dsa-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f2cca05705fd",
+      "title": "Chaînes WhatsApp : une nouvelle étiquette pour signaler le contenu généré par IA",
+      "description": "WhatsApp propose désormais aux administrateurs de chaînes d'étiqueter leurs contenus générés par IA. Une fois ajoutée, la mention ne peut plus être retirée.",
+      "link": "https://www.blogdumoderateur.com/chaines-whatsapp-nouvelle-etiquette-signaler-contenu-genere-ia/",
+      "pubDate": "2026-08-31T12:50:28.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/smartphone-whatsapp-icons-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5c4e612030c4",
+      "title": "Robotique : quand une erreur d’IA devient un risque physique",
+      "description": "Le risque de la Physical AI à anticiper. Une étude publiée en 2025 portant sur 303 accidents liés aux interactions homme-robot met notamment en évidence les activations inattendues et les erreurs de capteurs. Avec l’arrivée de la Physical AI, les erreurs de l’intelligence artificielle quittent…",
+      "link": "https://www.robot-magazine.fr/robotique-quand-une-erreur-dia-devient-un-risque-physique/?utm_source=rss&utm_medium=rss&utm_campaign=robotique-quand-une-erreur-dia-devient-un-risque-physique",
+      "pubDate": "2026-08-31T09:54:57.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
       "id": "79d653efea66",
       "title": "OpenAI cesse de fournir ses modèles à Cursor après son rachat par SpaceX",
       "description": "OpenAI a notifié à SpaceX son intention de couper l'accès à ses modèles dans Cursor, avec une date proposée au 12 novembre 2026. L'éditeur de code, racheté 60 milliards de dollars le 14 août, conserve les modèles d'Anthropic, de Google et de xAI.",

@@ -1,0 +1,133 @@
+{
+  "month": "2026-09",
+  "articles": [
+    {
+      "id": "49bc7b0faa8b",
+      "title": "OpenClaw conçoit « par accident » la plus grande mise à jour de son histoire",
+      "description": "OpenClaw publie la mise à jour la plus importante de son histoire, portée par plus de 16 000 pull requests. Elle simplifie l'installation et introduit un mode collaboratif.",
+      "link": "https://www.blogdumoderateur.com/openclaw-accident-grande-mise-a-jour-histoire/",
+      "pubDate": "2026-09-01T08:32:57.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/multiplayer-dashboard-openclaw-v2-294x158.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "269da47e0c34",
+      "title": "Facturation électronique : les réponses aux questions des freelances",
+      "description": "Un PDF par email suffit-il encore ? Quelle plateforme choisir ? Que risque un indépendant pas prêt à temps ? Les réponses aux principales questions des freelances sur la facturation électronique.",
+      "link": "https://www.blogdumoderateur.com/facturation-electronique-reponses-questions-freelances/",
+      "pubDate": "2026-09-01T08:29:15.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/freelance-facturation-electronique-294x210.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "e6d285984bfb",
+      "title": "ChatGPT : l’Ads Manager est disponible en libre-service en France",
+      "description": "OpenAI ouvre la bêta de son Ads Manager aux annonceurs éligibles des 31 marchés européens. Les petites structures françaises n'ont déjà plus à passer par une agence.",
+      "link": "https://www.blogdumoderateur.com/chagpt-ads-manager-disponible-libre-service-france/",
+      "pubDate": "2026-09-01T08:08:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/chatgpt-ads-manager-fr-FR__1_-294x194.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0d5cc436383d",
+      "title": "Comment envoyer facilement un dossier volumineux",
+      "description": "Découpé en plusieurs mails ou déposé sur un drive, un dossier de livrables perd toujours quelque chose en route. Voici comment le transmettre d'un bloc, arborescence intacte, sans compte à créer côté destinataire.",
+      "link": "https://www.blogdumoderateur.com/comment-envoyer-facilement-dossier-volumineux/",
+      "pubDate": "2026-09-01T07:25:50.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/transfernow-fichiers-dossiers-294x161.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "edaa8960e3de",
+      "title": "Facturation électronique : ce qui devient obligatoire dès aujourd’hui",
+      "description": "La réforme de la facturation électronique entre en vigueur, avec des obligations différentes selon la taille de l'entreprise. Un régime de tolérance a été annoncé par Bercy pour la première année.",
+      "link": "https://www.blogdumoderateur.com/facturation-electronique-obligatoire-aujourdhui/",
+      "pubDate": "2026-09-01T05:00:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/facturation-electronique-tpe-pme-transition-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "8ad1fa4dc098",
+      "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
+      "description": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+      "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+      "pubDate": "2026-09-01T05:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6a81feffb651",
+      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+      "description": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+      "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+      "pubDate": "2026-09-01T00:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b0ee4c6fde08",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "pubDate": "2026-09-01T00:13:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}
