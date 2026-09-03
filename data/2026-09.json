@@ -2,6 +2,518 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "1fc7166bb471",
+      "title": "IA : les meilleurs modèles pour le code et le développement web en septembre 2026",
+      "description": "Claude Fable 5.1 Max s’installe très largement en tête du classement général et du front-end de la WebDev Arena, mais disparaît du top 10 sur les tâches fullstack, où Qwen3.8 Max (Alibaba) prend la tête.",
+      "link": "https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-septembre-2026/",
+      "pubDate": "2026-09-03T08:27:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/webdev-arena-septembre-2026-294x192.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0fc73d5960ad",
+      "title": "Les avantages de la facturation électronique pour les TPE, PME et indépendants",
+      "description": "La réforme de la facturation électronique est entrée en vigueur au 1er septembre 2026. Cette obligation est aussi une opportunité pour les entreprises et les indépendants.",
+      "link": "https://www.blogdumoderateur.com/avantages-facturation-electronique-pour-tpe-pme-independants/",
+      "pubDate": "2026-09-03T07:56:19.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/01/facturation-electronique-294x182.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "047a57e6d66b",
+      "title": "Qu’est-ce qu’un harnais d’agent IA ?",
+      "description": "Le harnais est la couche logicielle qui entoure un modèle de langage et le transforme en agent capable d'agir. Décryptage.",
+      "link": "https://www.blogdumoderateur.com/harnais-agent-ia/",
+      "pubDate": "2026-09-03T06:00:01.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/harnais-ia-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "270f6891f0fa",
+      "title": "Productivité, marketing, IA : 5 nouveaux outils à tester en août 2026",
+      "description": "Un assistant exécutif, un outil pour transcrire vos réunions, une solution de suivi de visibilité dans les LMM... Voici cinq outils qui ont retenu l’attention des utilisateurs de Product Hunt dernièrement !",
+      "link": "https://www.blogdumoderateur.com/nouveaux-outils-product-hunt-aout-2026/",
+      "pubDate": "2026-09-03T05:00:06.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/product-hunt-aout-2026-294x168.png",
+      "type": "blog"
+    },
+    {
+      "id": "a3db9b4efb89",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "pubDate": "2026-09-02T23:01:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca24c75ccec2",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "pubDate": "2026-09-02T22:44:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "62ca58d2031f",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "pubDate": "2026-09-02T22:24:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf5b6da6ddd1",
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "description": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+      "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "pubDate": "2026-09-02T21:38:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca0a2fc92792",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "pubDate": "2026-09-02T20:19:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b102d53a74e",
+      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+      "description": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+      "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+      "pubDate": "2026-09-02T20:12:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d34de67c90ce",
+      "title": "It sure looks like hackers breached a major ID card verification service",
+      "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
+      "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+      "pubDate": "2026-09-02T19:35:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8975b8988780",
+      "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+      "description": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
+      "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+      "pubDate": "2026-09-02T19:25:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "669b37e43405",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s…",
+      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "pubDate": "2026-09-02T17:18:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "050dd91952d8",
+      "title": "X shifts US creator payouts from Stripe to X Money",
+      "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+      "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+      "pubDate": "2026-09-02T17:12:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "61be402eb5f2",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "pubDate": "2026-09-02T17:09:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b72dc2155f8b",
+      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+      "description": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
+      "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+      "pubDate": "2026-09-02T16:54:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b16e742a8eea",
+      "title": "Google dévoile Gemini 3.8 Flash et une déclinaison dédiée à la cybersécurité",
+      "description": "Le modèle Gemini Flash 3.8 progresse sur le code et les tâches agentiques. En contrepartie, il consomme davantage de tokens sur les demandes complexes.",
+      "link": "https://www.blogdumoderateur.com/google-gemini-3-8-flash-declinaison-cybersecurite/",
+      "pubDate": "2026-09-02T16:13:52.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/gemini-3-8_flash-cyber-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "adb3987c273c",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "pubDate": "2026-09-02T16:04:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "17bdd852a181",
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "pubDate": "2026-09-02T16:01:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5fbc2b25be98",
+      "title": "Google Trends enrichit sa page Explorer avec les filtres par catégorie",
+      "description": "Nouvelle brique pour la page Explorer de Google Trends : les données de tendances peuvent désormais être affinées par catégorie et sous-catégorie.",
+      "link": "https://www.blogdumoderateur.com/google-trends-page-explorer-filtres-categorie/",
+      "pubDate": "2026-09-02T15:13:07.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/google-trends-categories-294x147.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d9ce3ecdee9c",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "pubDate": "2026-09-02T15:01:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5ce4a0196c7f",
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "description": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "pubDate": "2026-09-02T14:56:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "43ba5a4389be",
+      "title": "Après ChatGPT, Adobe installe plus de 70 outils créatifs dans Slack",
+      "description": "Adobe for Slack donne accès à plus de 70 outils créatifs et de productivité directement depuis le Slackbot, pour les équipes abonnées aux formules Business+ et Enterprise+.",
+      "link": "https://www.blogdumoderateur.com/apres-chatgpt-adobe-installe-outils-creatifs-slack/",
+      "pubDate": "2026-09-02T14:28:51.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Adobe-Slack-1-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "59aa377f5801",
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "pubDate": "2026-09-02T14:03:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "227d2edd1d7b",
+      "title": "Wi-Fi en entreprise : les bonnes pratiques de l’ANSSI pour sécuriser les réseaux",
+      "description": "L'agence publie une vingtaine de recommandations pour sécuriser les réseaux Wi-Fi en entreprise, du collaborateur en déplacement à l'administrateur réseau.",
+      "link": "https://www.blogdumoderateur.com/wi-fi-entreprise-bonnes-pratiques-anssi-securiser-reseaux/",
+      "pubDate": "2026-09-02T13:16:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/securisation-reseaux-wi-fi-essentiels-anssi-294x208.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "70d18171846f",
+      "title": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
+      "description": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
+      "link": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+      "pubDate": "2026-09-02T13:11:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "17ca24abf4f7",
+      "title": "Adobe is making its tools available in Slack",
+      "description": "Users will be able to access Express, Premiere, and Acrobat in Slack",
+      "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+      "pubDate": "2026-09-02T13:09:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2fcc34ebe95d",
+      "title": "Uber is laying off 10% of staff, or 3,300 people",
+      "description": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions.",
+      "link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+      "pubDate": "2026-09-02T12:14:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae13c6dfca59",
+      "title": "Claude Fable 5.1 : Anthropic assouplit ses garde-fous cyber et baisse ses prix",
+      "description": "Anthropic lance Claude Fable 5.1 et Claude Mythos 5.1, deux versions d'un même modèle dont l'usage intensif coûte désormais jusqu'à 45 % moins cher.",
+      "link": "https://www.blogdumoderateur.com/claude-fable-5-1-anthropic-assouplit-garde-fous-cyber-baisse-prix/",
+      "pubDate": "2026-09-02T08:48:39.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/claude-fable-5-1-mythos-5-1-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "52f7f0646e4f",
+      "title": "Google lance Pics, un concurrent sérieux à Canva ?",
+      "description": "Google Pics, le nouvel outil de création et de retouche d'images par IA du groupe, est désormais disponible pour les abonnés Google AI Pro et Ultra ainsi que pour une large partie des clients Workspace.",
+      "link": "https://www.blogdumoderateur.com/google-lance-pics-concurrent-serieux-canva/",
+      "pubDate": "2026-09-02T08:48:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Google-Pics-Interface-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1e62ff85ca8b",
+      "title": "Marketing digital : comment bien choisir sa spécialisation en 2026 ?",
+      "description": "Du SEO à l’UX en passant par la data, Ikram Bouchikh, responsable de l’offre de formation Technologies Numériques chez Lefebvre Dalloz Compétences, nous explique comment bien choisir sa spécialisation marketing et prioriser ses compétences à l’ère de l’IA.",
+      "link": "https://www.blogdumoderateur.com/marketing-digital-comment-bien-choisir-specialisation-2026/",
+      "pubDate": "2026-09-02T08:42:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/marketing-digital-comment-bien-choisir-specialisation-2026-294x155.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a12cb58a0844",
+      "title": "AdSense : Google change sa méthode de comptage des impressions en février 2027",
+      "description": "Google aligne AdSense et Ad Manager sur la méthode begin-to-render, un standard plus exigeant qui devrait faire mécaniquement reculer le nombre d'impressions déclarées.",
+      "link": "https://www.blogdumoderateur.com/adsense-google-change-methode-comptage-impressions-fevrier-2027/",
+      "pubDate": "2026-09-02T08:41:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/google-adsense-comptage-impressions-294x165.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "224197d7ec93",
       "title": "Comment héberger un LLM (partie 2)",
       "description": "Suite et fin de notre série sur l'auto-hébergement d'un LLM. Au programme : le KV cache et le mécanisme d'attention, le scaling multi-GPU avec KServe et Kubernetes, la quantification, PagedAttention, le KV offloading, et des benchmarks vLLM chiffrés.",
@@ -155,6 +667,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "15806e25c9c7",
+      "title": "L'IA déplace les frontières de chaque métier",
+      "description": "J’aborde régulièrement l’IA sous l’angle du développeur et du bouleversement que cela représente dans notre métier. Mais nous ne sommes pas les seuls concernés. C’est l’ensemble des métiers du logiciel qui évolue. Puisque l’écriture du code occupe moins de place, les développeurs se recentrent sur…",
+      "link": "https://www.jdecool.fr/blog/2026/09/02/l-ia-deplace-les-frontieres-de-chaque-metier.html",
+      "pubDate": "2026-09-01T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
