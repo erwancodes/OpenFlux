@@ -2,6 +2,426 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "448aec6effaf",
+      "title": "MACI #163 - PHP, cybersécurité et IA - Avec Cédric Mourizard et Nathan Boiron",
+      "description": "Dans ce nouvel épisode de rentrée de Message à Caractère Informatique, on parle PHP, AFUP et Forum PHP 2026, avec un retour sur l’évolution du langage, de son écosystème et de son image. Et puis, comme à notre habitude, la discussion s’élargit vite… des fuites de données dans les services publics…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-163-php-cybersecurite-et-ia-avec-cedric-mourizard-et-nathan-boiron",
+      "pubDate": "2026-09-04T07:50:43.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/ll596GVr0PKm0SJTdv1fjrCMq2AQgkvakl83fXEA_1400x1400.jpeg?t=1788508242",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/owZ8nfJ1OMd7.mp3?t=1788507327",
+      "duration": "1:03:43"
+    },
+    {
+      "id": "f2095b580b9c",
+      "title": "Pourquoi la confiance va remplacer le trafic comme KPI de référence ?",
+      "description": "Dans cette tribune, Manon Chaussin, head of content marketing chez Black Pepper (CyberCité), nous livre son regard sur les signaux de confiance que les marques doivent construire face aux IA génératives.",
+      "link": "https://www.blogdumoderateur.com/pourquoi-confiance-remplacer-trafic-kpi-reference/",
+      "pubDate": "2026-09-04T07:07:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Manon-Chaussin-Black-Pepper-CyberCite-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f16c6e22e2bb",
+      "title": "Numérique : pourquoi le rebond ne profite pas encore à la rentabilité des entreprises",
+      "description": "Selon l'Observatoire Numeum-Xerfi, le marché du numérique a renoué avec une croissance de l'ordre de 3 % pour 2026, portée par les éditeurs de logiciels. Mais cette reprise reste inégale.",
+      "link": "https://www.blogdumoderateur.com/numerique-pourquoi-rebond-ne-profite-pas-encore-rentabilite-entreprises/",
+      "pubDate": "2026-09-04T05:00:16.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/graphique-marche-numerique-reprise-deux-vitesses-294x225.png",
+      "type": "blog"
+    },
+    {
+      "id": "9ce8a043bb77",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "pubDate": "2026-09-04T04:21:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3548b7321fbf",
+      "title": "#348.exe - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS par Gabriel de Marmiesse",
+      "description": "Pour l'épisode #348 je recevais Jean-Christophe Leducq. On en débrief avec Gabriel. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-348-ab8dcdda8a8c",
+      "pubDate": "2026-09-04T03:00:57.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/588e6cc9-b401-41a0-93c3-ab8dcdda8a8c.mp3?_=1788436857",
+      "duration": "12:22"
+    },
+    {
+      "id": "920440924028",
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "pubDate": "2026-09-04T00:48:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dc5891fed6cb",
+      "title": "Oura files to go public",
+      "description": "The ring maker says that its business has shown significant revenue growth over the past year.",
+      "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "pubDate": "2026-09-03T22:35:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "78daff6cb6cc",
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "description": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+      "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "pubDate": "2026-09-03T22:18:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b267dcd4ed4e",
+      "title": "Startup ARR is less secure than ever, new research shows",
+      "description": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "pubDate": "2026-09-03T20:59:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2ab721c67c9c",
+      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment ",
+      "description": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+      "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+      "pubDate": "2026-09-03T19:42:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff1868da76fb",
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "pubDate": "2026-09-03T19:36:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4106ca3c4578",
+      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+      "description": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
+      "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "pubDate": "2026-09-03T19:29:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6ab8f88b9ec4",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "pubDate": "2026-09-03T18:37:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "82c75f7fe9e1",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "pubDate": "2026-09-03T18:19:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c00309156ee5",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "pubDate": "2026-09-03T18:01:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "419550152b0e",
+      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+      "description": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
+      "link": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "pubDate": "2026-09-03T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "021a41c39118",
+      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+      "description": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
+      "link": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+      "pubDate": "2026-09-03T16:42:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "962e191780ae",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "pubDate": "2026-09-03T16:09:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cc631cbb5158",
+      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+      "description": "Users can search for emails or draft documents using the new conversational feature.",
+      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "pubDate": "2026-09-03T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3058df3b96e4",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "pubDate": "2026-09-03T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1df2c0fdb6f4",
+      "title": "Volunteer at TechCrunch Founder Summit in Boston",
+      "description": "Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tech events, apply to volunteer. If you are…",
+      "link": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+      "pubDate": "2026-09-03T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7633d8655b34",
+      "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
+      "description": "With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform.",
+      "link": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+      "pubDate": "2026-09-03T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "482b3fc6d69e",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "pubDate": "2026-09-03T12:42:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "051bc429eac2",
+      "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
+      "description": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
+      "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+      "pubDate": "2026-09-03T12:12:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a5114ddfafb5",
+      "title": "Anthropic lance son détecteur de fichiers générés par Claude",
+      "description": "Anthropic met en ligne un outil gratuit qui analyse les métadonnées d'un fichier pour dire s'il a été traité par Claude, mais un test croisé de la rédaction montre que le résultat n'est pas toujours fiable.",
+      "link": "https://www.blogdumoderateur.com/anthropic-detecteur-fichiers-generes-claude/",
+      "pubDate": "2026-09-03T10:38:04.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Claude-Check-a-File-294x153.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "04045994a95f",
+      "title": "Meta lance Muse Spark 1.3, axé sur le code et le contexte long",
+      "description": "Meta poursuit sa cadence sur Muse Spark avec une version orientée code et contexte long. Le groupe réaffirme au passage sa promesse de publier les poids du modèle.",
+      "link": "https://www.blogdumoderateur.com/meta-muse-spark-1-3/",
+      "pubDate": "2026-09-03T10:36:22.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Muse-Spark-1-3-294x165.jpg",
+      "type": "blog"
+    },
+    {
       "id": "1fc7166bb471",
       "title": "IA : les meilleurs modèles pour le code et le développement web en septembre 2026",
       "description": "Claude Fable 5.1 Max s’installe très largement en tête du classement général et du front-end de la WebDev Arena, mais disparaît du top 10 sur les tâches fullstack, où Qwen3.8 Max (Alibaba) prend la tête.",
@@ -64,6 +484,23 @@
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/08/product-hunt-aout-2026-294x168.png",
       "type": "blog"
+    },
+    {
+      "id": "ca8cf68d5661",
+      "title": "News Septembre 2026 RC1, OpenAI coupe Cursor, Omarchy, HTMX 4 et Bun 1.4",
+      "description": "Nous évoquons OpenAI qui coupe l'accès à ses modèles pour Cursor après le rachat par SpaceX, la sortie de HTMX 4.0 et de Bun 1.4, Lovable qui quitte Next.js pour TanStack Start, Vercel qui collabore avec TanStack, TypePHP qui compile du PHP en binaire natif, Zed qui retire l'edit prediction du plan…",
+      "link": "https://double-slash.dev/podcasts/news-sept26/",
+      "pubDate": "2026-09-03T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1788439787/episode/ART_138_kwbvlq.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_138_news-sept26.mp3",
+      "duration": "3973"
     },
     {
       "id": "a3db9b4efb89",
