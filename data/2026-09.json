@@ -2,6 +2,185 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "45ad64331079",
+      "title": "Les 20 langages informatiques les plus populaires en septembre 2026",
+      "description": "Le haut du classement TIOBE reste stable sur un an, tandis que Julia est désormais proche de réintégrer le top 20.",
+      "link": "https://www.blogdumoderateur.com/20-langages-informatiques-populaires-septembre-2026/",
+      "pubDate": "2026-09-07T08:26:12.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/top-20-langages-septembre-2026-tiobe-294x188.png",
+      "type": "blog"
+    },
+    {
+      "id": "65485456ff97",
+      "title": "DocuWare passe sa GED à l’IA : ce que change le « nouveau DocuWare »",
+      "description": "Assistant conversationnel, extraction sans paramétrage, interface repensée : DocuWare déploie à l’automne une nouvelle version de sa plateforme documentaire, présentée au salon TechSolutions les 14 et 15 octobre.",
+      "link": "https://www.blogdumoderateur.com/nouveau-docuware-ged-ia/",
+      "pubDate": "2026-09-07T07:50:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/nouveau-Docuware-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6ba4ceef27a8",
+      "title": "Null : l'erreur à un milliard qui hante encore Java",
+      "description": "Retour sur l'invention de la référence nulle par Tony Hoare en 1965 : pourquoi le NullPointerException persiste en Java, les limites d'Optional, et les alternatives (JSpecify, Vavr, Kotlin).",
+      "link": "https://blog.ippon.fr/2026/09/07/null-lerreur-a-un-milliard-qui-hante-encore-java/",
+      "pubDate": "2026-09-07T07:02:29.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/matrix-null.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "8bad31288e0f",
+      "title": "Notes de marge avec le positionnement par ancre CSS",
+      "description": "Je fais un usage intensif des notes de marge : elles gardent le contenu optionnel à côté du texte au lieu de renvoyer le lecteur en bas de page. les affiche sans JavaScript, mais n’accepte qu’un seul paragraphe. Le , désormais pris en charge par les navigateurs récents, est une alternative…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-css-notes-de-marge",
+      "pubDate": "2026-09-07T06:49:58.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/css-sidenotes-lynx@1x.62cb4bfb14577a.png",
+      "type": "blog"
+    },
+    {
+      "id": "9c253e197d47",
+      "title": "5 formations pour devenir un expert en UX et UI design",
+      "description": "Cette sélection de formations vous apprend à maîtriser les techniques de l'UX et de l'UI design.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-ux-ui-design-317/",
+      "pubDate": "2026-09-07T06:00:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/selection-formation-ux-ui-design-317-294x177.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "89838bef56d0",
+      "title": "Générer une image avec l’IA : comment structurer un prompt efficace",
+      "description": "Adobe a publié un guide de prompting pour Firefly. Olivier Huard, Senior Solution Consultant chez Adobe France, en détaille les principes et donne ses conseils d'expert.",
+      "link": "https://www.blogdumoderateur.com/generer-image-ia-comment-structurer-prompt-efficace/",
+      "pubDate": "2026-09-07T05:00:19.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/guide-prompting-adobe-294x192.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d2e532075ce5",
+      "title": "#373.src - Forward Deployed Engineer: Entre IA et terrain avec Léa Buendé",
+      "description": "\"le métier de dev va tendre vers le métier de FDE\" Le D.E.V. de la semaine est Léa Buendé, Forward Deployed Engineer chez Adobe. Léa revient sur la naissance d'un métier encore mal compris, entre IA, accompagnement client et exploration terrain. Elle explique comment l'approche FDE redéfinit le…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-373-8efdcfb1b423",
+      "pubDate": "2026-09-07T03:00:40.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/2ce5997a-cf51-4357-a54c-7da4a16b1372.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/8a6f4b52-f2ec-4691-9d9f-8efdcfb1b423.mp3?_=1788696040",
+      "duration": "51:16"
+    },
+    {
+      "id": "fd6f38940d0d",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "description": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "pubDate": "2026-09-06T21:41:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "973d06068047",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "pubDate": "2026-09-06T20:47:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "36e2bba17c60",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "pubDate": "2026-09-06T16:45:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a98b49af7c5",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "pubDate": "2026-09-06T16:08:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6df0f5d81c2b",
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
