@@ -2,6 +2,225 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "63b6f2c577a4",
+      "title": "TF1, AdopteUnMec, Paramount : 20 ans de médias vus par Thomas Pawlowski",
+      "description": "Thomas Pawlowski, Head of Marketing chez Paramount Pictures France, est l'invité du nouvel épisode du podcast vidéo produit par Swello, en partenariat avec BDM. Il partage son regard sur sa carrière dans les médias et les convictions qu'il en tire sur le marketing et la communication.",
+      "link": "https://www.blogdumoderateur.com/tf1-adopteunmec-paramount-20-ans-medias-thomas-pawlowski/",
+      "pubDate": "2026-09-08T08:23:26.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Thomas-Pawlowski-Podcast-Follow-Back-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9524e28970fd",
+      "title": "AI-Assisted Development: Should You Let Your Employees Develop Their Own Applications with AI?",
+      "description": "In the era of generative AI and vibe coding, employees are now designing their own business tools. Between the freedom to experiment in the field and the need to frame data security, how can companies transform this digital DIY into a real performance lever? L’article AI-Assisted Development:…",
+      "link": "https://oliviersauvage.com/2026/09/08/ai-assisted-development-should-you-let-your-employees-develop-their-own-applications-with-ai/",
+      "pubDate": "2026-09-08T07:56:19.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7374a9563a44",
+      "title": "Comment confier l’optimisation continue de votre site à des agents IA",
+      "description": "SEO, optimisation, updates... Des chantiers web souvent repoussés par les équipes marketing faute de temps. Fimo propose de les confier à des agents IA qui travaillent sur le site en continu, sous validation humaine.",
+      "link": "https://www.blogdumoderateur.com/comment-confier-optimisation-continue-site-agents-ia/",
+      "pubDate": "2026-09-08T07:37:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/Fimo-interface-294x195.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bde490b9c6d3",
+      "title": "Développement assisté par IA : devez-vous laisser vos collaborateurs développer leurs propres applications avec l’IA ?",
+      "description": "À l’ère de l’IA générative et du vibe coding, les collaborateurs conçoivent désormais leurs propres outils métier. Entre liberté d’expérimenter sur le terrain et nécessité d’encadrer la sécurité des données, comment les entreprises peuvent-elles transformer ce bricolage numérique en véritable…",
+      "link": "https://oliviersauvage.com/2026/09/08/developpement-assiste-par-ia-devez-vous-laisser-vos-collaborateurs-developper-leurs-propres-applications-avec-lia/",
+      "pubDate": "2026-09-08T05:55:14.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "43f8d49ae964",
+      "title": "Fuite de données : comment communiquer dans les premières heures de la crise",
+      "description": "Quelles informations partager pendant l'enquête ? Quel ton employer avec ses clients ? Consultante indépendante en cybersécurité et gestion de crise, Asmaa Nesbane nous partage sa méthode pour bien communiquer après une fuite de données.",
+      "link": "https://www.blogdumoderateur.com/fuite-donnees-comment-communiquer-premieres-heures-crise/",
+      "pubDate": "2026-09-08T05:00:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/communication-crise-fuite-donnees-294x216.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "81f22bb9dad7",
+      "title": "La robotique doit répondre aux grands défis écologiques et sociétaux",
+      "description": "Crédit photo : © Tristan Reynaud Catherine Simon Conseillère Numérique Industriel 5G · Électronique · Robotique Interview exclusive · Robot Magazine La nouvelle révolution de la Physical AI De l’époque d’Innorobo à l’émergence de la Physical AI, Catherine Simon analyse les grandes transformations…",
+      "link": "https://www.robot-magazine.fr/catherine-simon-robotique-defis-ecologiques-societaux/?utm_source=rss&utm_medium=rss&utm_campaign=catherine-simon-robotique-defis-ecologiques-societaux",
+      "pubDate": "2026-09-08T04:04:03.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2026/09/20230403_SGPI_SIPA_TRISTAN_REYNAUD_024-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3aa9d4661964",
+      "title": "Liebherr RLS : un système de chargement rotatif pour automatiser des pièces",
+      "description": "Liebherr-Verzahntechnik fait évoluer son système de chargement rotatif RLS pour accompagner l’automatisation industrielle des ateliers d’usinage. Avec une nouvelle capacité de charge atteignant 2 000 kg, une densité de stockage accrue et des diamètres admissibles élargis, le constructeur veut…",
+      "link": "https://www.robot-magazine.fr/liebherr-rls-un-systeme-de-chargement-rotatif-pour-automatiser-des-pieces/?utm_source=rss&utm_medium=rss&utm_campaign=liebherr-rls-un-systeme-de-chargement-rotatif-pour-automatiser-des-pieces",
+      "pubDate": "2026-09-08T04:03:29.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe6c53252f4c",
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "description": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla…",
+      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "pubDate": "2026-09-08T02:16:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b8898d492e7",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "pubDate": "2026-09-07T19:24:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "58d125277c20",
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "pubDate": "2026-09-07T18:02:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "75c7eef49b08",
+      "title": "What we expect from the upcoming Apple launch",
+      "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "pubDate": "2026-09-07T15:58:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "09108ae3b2e4",
+      "title": "Souveraineté : de l’IA agentique qui garde vos données en Europe",
+      "description": "Face à une actualité internationale qui nous pousse à réduire nos dépendances technologiques vis-à-vis des acteurs américains (infrastructure comme IA), on peut construire un agent IA pleinement opérationnel 100 % hébergé et exécuté en Europe. Notre assistant de conférence tourne sur une stack open…",
+      "link": "https://les-tilleuls.coop/blog/souverainete-de-lia-agentique-qui-garde-vos-donnees-en-europe",
+      "pubDate": "2026-09-07T13:06:01.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-III-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3173fe2dc6a1",
+      "title": "Transformer une API en boîte à outils pour agents : l’architecture de notre assistant de conférence",
+      "description": "La première partie de ce retour d’expérience expliquait le choix d’architecture : construire un serveur MCP plutôt qu’un chatbot isolé, pour que le service soit accessible à n’importe quel agent IA, l’interface de chat devenant simplement son premier client. Cet article rentre dans le détail…",
+      "link": "https://les-tilleuls.coop/blog/transformer-une-api-en-boite-a-outils-pour-agents-larchitecture-de-notre-assistant-de-conference",
+      "pubDate": "2026-09-07T13:04:48.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-II-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f33b5a6a5176",
+      "title": "Comment nous avons créé un assistant IA pour l’API Platform Conference 2026",
+      "description": "Trouver le talk qui correspond à vos objectifs, savoir qui va briller sur la scène FrankenPHP, caler votre agenda… La billetterie de l’API Platform Conference 2026 ferme dans quelques jours, et on a voulu vous accompagner jusqu’au bout avec un nouvel outil : un assistant IA avec qui échanger…",
+      "link": "https://les-tilleuls.coop/blog/comment-nous-avons-cree-un-assistant-ia-pour-lapi-platform-conference-2026",
+      "pubDate": "2026-09-07T13:03:32.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-I-1024x569.webp",
+      "type": "blog"
+    },
+    {
       "id": "45ad64331079",
       "title": "Les 20 langages informatiques les plus populaires en septembre 2026",
       "description": "Le haut du classement TIOBE reste stable sur un an, tandis que Julia est désormais proche de réintégrer le top 20.",
@@ -115,6 +334,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/8a6f4b52-f2ec-4691-9d9f-8efdcfb1b423.mp3?_=1788696040",
       "duration": "51:16"
+    },
+    {
+      "id": "1d58f708d342",
+      "title": "Mon site sur AT Proto avec standard.site",
+      "description": "Je continue mon exploration d’AT Protocol. Après avoir joué avec Tangled, cette fois, j’ai essayé d’intégrer mon site sur AT Protocol avec standard.site. Ça s’est plutôt révélé facile de mon côté, je vous explique tout ça.",
+      "link": "https://codeka.io/2026/09/07/mon-site-sur-at-proto-avec-standard-site/",
+      "pubDate": "2026-09-07T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/09/07/mon-site-sur-at-proto-avec-standard-site/cover_hu_aa246b4abc5b86fd.webp",
+      "type": "blog"
     },
     {
       "id": "fd6f38940d0d",
