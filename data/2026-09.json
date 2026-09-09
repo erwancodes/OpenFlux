@@ -2,6 +2,391 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "946af9bac8d8",
+      "title": "Peut-on coder à 0 $ ? Mon retour d'expérience sans concession entre IA Cloud et IA locale",
+      "description": "Un développeur Ippon a testé pendant 3 semaines le développement à 0$ : IA locale (Ollama, Qwen3) contre IA Cloud (Gemini, Claude) sur un vrai projet Flutter de 130 000 lignes. Résultat : chiffres, galères techniques et recommandations concrètes.",
+      "link": "https://blog.ippon.fr/2026/09/09/ia-cloud-vs-ia-locale-coder/",
+      "pubDate": "2026-09-09T07:23:25.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/Gemini_Generated_Image_bmxw80bmxw80bmxw.png",
+      "type": "blog"
+    },
+    {
+      "id": "a215f088faaa",
+      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "description": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
+      "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+      "pubDate": "2026-09-09T06:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0d3b8d5450e0",
+      "title": "AI: why and how to train? Exclusive interview with Manuel Davy",
+      "description": "Manuel Davy's interview explores the necessity of training businesses and individuals in artificial intelligence (AI). Davy highlights the societal challenges related to this technology, the diversity of AI applications, and the risk of obsolescence. He emphasizes the importance of a deep…",
+      "link": "https://oliviersauvage.com/2026/09/09/ai-why-and-how-to-train-exclusive-interview-with-manuel-davy/",
+      "pubDate": "2026-09-09T05:29:51.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "865d2768cce7",
+      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+      "description": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+      "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+      "pubDate": "2026-09-09T04:01:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "15df7a86bcb9",
+      "title": "#374.src - Architecture: Pourquoi les sujets humains font toute la différence avec Thomas Pierrain",
+      "description": "\"les sujets tech c'est de la rigolade par rapport aux sujets humains.\" Le D.E.V. de la semaine est Thomas Pierrain, VPTech chez Shodo. Thomas partage sa vision de l'architecture : naviguer entre fondamentaux techniques et enjeux humains, tout en gardant le lien direct avec le produit. Il raconte…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-374-513245d92e8d",
+      "pubDate": "2026-09-09T03:00:05.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/e3ffd45b-ecf0-4cb8-879f-1bab17f1a488.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/b870889b-aa8c-49d7-800b-513245d92e8d.mp3?_=1788868865",
+      "duration": "59:03"
+    },
+    {
+      "id": "4d64e58134b0",
+      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+      "description": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+      "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+      "pubDate": "2026-09-08T23:23:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a58bb6dba21b",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "description": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "pubDate": "2026-09-08T21:10:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e623e2c86879",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "description": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "pubDate": "2026-09-08T21:04:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "62e2ee899e13",
+      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+      "description": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+      "link": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+      "pubDate": "2026-09-08T20:47:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0cfe4d849c9b",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "description": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "pubDate": "2026-09-08T19:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "014371640554",
+      "title": "How to watch Apple’s foldable iPhone announcement",
+      "description": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
+      "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+      "pubDate": "2026-09-08T17:46:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "62d9d8572d5c",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "description": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "pubDate": "2026-09-08T17:32:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "91a0d6e6254c",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "pubDate": "2026-09-08T16:20:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "15d885559388",
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "description": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
+      "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+      "pubDate": "2026-09-08T15:25:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47690fe8e105",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "description": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "pubDate": "2026-09-08T15:04:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eb5fea936a5e",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "pubDate": "2026-09-08T14:17:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9af185b912ee",
+      "title": "A hacker stole $340M in a crypto heist, then returned most of it",
+      "description": "The latest heist is one of the largest thefts of cryptocurrency to date.",
+      "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+      "pubDate": "2026-09-08T14:11:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e99fc08192f3",
+      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+      "description": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+      "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+      "pubDate": "2026-09-08T14:10:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "700c43de069b",
+      "title": "Sur YouTube, 40 % des vues comptabilisées n’accrochent pas le spectateur",
+      "description": "Depuis le 24 août, YouTube compte une vue dès le lancement de la vidéo. Une étude d'Agentio révèle que, dans 40 % des cas, elle est comptabilisée sans que la vidéo ait retenu l'attention du spectateur.",
+      "link": "https://www.blogdumoderateur.com/youtube-40-pourcent-vues-comptabilisees-accrochent-pas-spectateur/",
+      "pubDate": "2026-09-08T13:46:36.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/etude-vues-youtube-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "6d9aafc73832",
+      "title": "Premiere Pro et After Effects : les dernières nouveautés annoncées par Adobe",
+      "description": "Adobe déploie dans Premiere Pro un outil de génération vidéo et audio qui fonctionne sans sortir de la timeline. L'Assistant IA dans After Effect, quant à lui, passe en bêta publique.",
+      "link": "https://www.blogdumoderateur.com/premiere-pro-after-effects-nouveautes-adobe/",
+      "pubDate": "2026-09-08T13:00:24.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Premiere_Gen-Media-Tool-294x147.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ee3127a2ff92",
+      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+      "description": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+      "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "pubDate": "2026-09-08T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2af7dd69c066",
+      "title": "Influence marketing : les tarifs des micro-influenceurs ont triplé en un an",
+      "description": "Selon une étude Matriochka Influences, le prix médian d'une collaboration a grimpé de 30 % entre 2025 et le premier semestre 2026. Une hausse tirée par les plus petites communautés.",
+      "link": "https://www.blogdumoderateur.com/influence-marketing-tarifs-micro-influenceurs-triple-un-an/",
+      "pubDate": "2026-09-08T09:02:48.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/prix-influence-taille-communaute-294x192.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "13f370c61ba9",
+      "title": "Mistral AI annonce une levée de fonds de 3 milliards d’euros",
+      "description": "Avec ce nouveau tour de table, la valorisation de l'entreprise française dépasse désormais 21 milliards d'euros.",
+      "link": "https://www.blogdumoderateur.com/mistral-ai-levee-fonds-3-milliards-euros/",
+      "pubDate": "2026-09-08T09:02:29.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/mistral-ai-levee-fonds-294x162.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d3f8bcec8561",
+      "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+      "description": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
+      "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+      "pubDate": "2026-09-08T09:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "63b6f2c577a4",
       "title": "TF1, AdopteUnMec, Paramount : 20 ans de médias vus par Thomas Pawlowski",
       "description": "Thomas Pawlowski, Head of Marketing chez Paramount Pictures France, est l'invité du nouvel épisode du podcast vidéo produit par Swello, en partenariat avec BDM. Il partage son regard sur sa carrière dans les médias et les convictions qu'il en tire sur le marketing et la communication.",
