@@ -2,6 +2,86 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "402875826886",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "description": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "pubDate": "2026-09-12T23:25:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "adaebe0c9002",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "pubDate": "2026-09-12T20:19:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b7b4c6f0444c",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "pubDate": "2026-09-12T19:34:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "90cb89faa895",
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "description": "Tesla’s halo sports car was first announced in November 2017.",
+      "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "pubDate": "2026-09-12T19:21:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "97fc71751186",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "pubDate": "2026-09-12T14:40:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "db926ea4bd85",
       "title": "Jacob Coxon: The Whistleblower Who Will Kill Us All",
       "description": "The alarmist resignation of an artificial intelligence researcher triggers media panic. Faced with apocalyptic prophecies, I question our credulity, the amplification by social networks, and the responsibility of journalists. An invitation to regain perspective, examine reasoning, and preserve our…",
@@ -27,6 +107,23 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c9299e509788",
+      "title": "Symfony LSP en ligne de commande : ce que PHPStan ne verra jamais",
+      "description": "PHPStan en niveau max, extension Symfony activée, conteneur compilé sous les yeux : aucune erreur sur une application pourtant cassée en huit points. Le serveur LSP officiel de Symfony les trouve tous, sans éditeur, en une seconde. Tutoriel pas à pas avec dépôt de démonstration.",
+      "link": "https://yoandev.co/symfony-lsp-ligne-de-commande",
+      "pubDate": "2026-09-12T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-lsp-ligne-de-commande.webp",
       "type": "blog"
     },
     {
