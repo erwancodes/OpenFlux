@@ -2,6 +2,201 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "a91ecbaaf6f0",
+      "title": "Google Analytics facilite la création de tableaux de bord personnalisables",
+      "description": "Six types de visualisations, un canevas en grille et une publication directe dans le menu Rapports : Google Analytics ouvre la construction de tableaux de bord personnalisés.",
+      "link": "https://www.blogdumoderateur.com/google-analytics-tableaux-bord-personnalisables/",
+      "pubDate": "2026-09-14T08:37:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/dashboard-analytics-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "06ef4db454d5",
+      "title": "Un orchestrateur ne fait pas une plateforme MLOps",
+      "description": "Un pipeline d’entraînement planifié chaque semaine, quelques tâches qui s’enchaînent et un modèle sauvegardé dans un bucket : à première vue, le système semble industrialisé. Puis, un lundi matin, les pré",
+      "link": "https://blog.ippon.fr/2026/09/14/un-orchestrateur-ne-fait-pas-une-plateforme-mlops/",
+      "pubDate": "2026-09-14T07:27:49.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/exec-1553d920-cf36-470a-ba2f-04c991d80d32.png",
+      "type": "blog"
+    },
+    {
+      "id": "0282bfe10253",
+      "title": "BDM lance son calendrier marketing : voici les dates clés de l’année 2027",
+      "description": "Journées mondiales, jours fériés, temps forts culturels et sportifs… Notre calendrier marketing 2027 réunit toutes les dates clés à connaître pour construire votre plan de communication de l'année.",
+      "link": "https://www.blogdumoderateur.com/bdm-lance-calendrier-marketing-2027/",
+      "pubDate": "2026-09-14T06:49:06.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/bdm-calendrier-marketing-2027-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8a2a8e3e31a5",
+      "title": "5 formations pour apprendre la data science et l’IA",
+      "description": "Notre sélection de formations de la semaine vous apprend les techniques pour devenir data scientist et maîtriser l'IA dans ce domaine.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-data-scientist-318/",
+      "pubDate": "2026-09-14T05:00:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/selection-formation-data-scientist-318-294x169.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fe40968e0c39",
+      "title": "#375.src - RTK: Le coût du token, la nouvelle donne du Dev avec Patrick Szymkowiak",
+      "description": "\"On est revenu au mode où le coût du mot va coûter très cher et de plus en plus cher,.\" Le D.E.V. de la semaine est Patrick Szymkowiak, fondateur de RTK. Il revient sur la genèse fulgurante de Rust Token Killer, un projet open source passé en quelques mois de l'expérimentation à des dizaines de…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-375-9d13c2386256",
+      "pubDate": "2026-09-14T03:00:18.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/f0423d1c-d6aa-4dd8-959b-45e4436bb0b5.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/e81d04f5-6a33-4ac5-8b27-9d13c2386256.mp3?_=1789300818",
+      "duration": "48:51"
+    },
+    {
+      "id": "50f42e00f3ab",
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "description": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "pubDate": "2026-09-13T21:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e96fde219884",
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "pubDate": "2026-09-13T20:49:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "882dbf1e6056",
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "pubDate": "2026-09-13T20:28:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e2ee54bd5ffc",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "pubDate": "2026-09-13T19:40:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6118181b3308",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "pubDate": "2026-09-13T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "44cdc58c805a",
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "pubDate": "2026-09-13T16:04:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f1d07881205",
+      "title": "Fusion power startups find new partners in the defense world",
+      "description": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+      "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "pubDate": "2026-09-13T13:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "402875826886",
       "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
       "description": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
