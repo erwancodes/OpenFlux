@@ -2,6 +2,437 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "55e95568152f",
+      "title": "L’arrivée de Google AI Overview et AI Mode en France : quels impacts sur le paid media ?",
+      "description": "Dans cette tribune, Marjorie Bicaïs, head of SEA/Média chez CyberCité, décrypte ce que l'arrivée des AI Overviews et de l'AI Mode de Google change pour les stratégies paid media en France.",
+      "link": "https://www.blogdumoderateur.com/arrivee-google-ai-overview-ai-mode-france-impacts-paid-media/",
+      "pubDate": "2026-09-15T08:52:22.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Marjorie-Bicais-CyberCite-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e32e47aad946",
+      "title": "Business Profile : Google ouvre un onglet pour contrôler les infos collectées automatiquement",
+      "description": "Après plusieurs mois de test, Google officialise le déploiement de « Données collectées », un espace du tableau de bord Business Profile permettant de consulter et supprimer les données recueillies par son assistant.",
+      "link": "https://www.blogdumoderateur.com/google-business-profile-onglet-pour-controler-infos-collectees-automatiquement/",
+      "pubDate": "2026-09-15T08:32:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Business-Profile-Collected-Info-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "03795fced6a8",
+      "title": "Les meilleurs modèles pour piloter des agents IA en septembre 2026",
+      "description": "Claude Fable 5.1 prend la tête du classement agentique d’Arena, mais OpenAI s’invite sur le podium avec GPT-6 Astra, quand Anthropic occupait les trois premières places en août.",
+      "link": "https://www.blogdumoderateur.com/meilleurs-modeles-piloter-agents-ia-septembre-2026/",
+      "pubDate": "2026-09-15T08:15:26.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/modeles-agents-ia-classement-septembre-2026-294x173.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a3e0de4513d6",
+      "title": "Liens Tech - Septembre 2026",
+      "description": "Ce mois-ci : un enregistreur d'écran dans le navigateur, un tracker d'inventaire domestique, un outil de diapos en markdown, une plateforme d'observabilité et un convertisseur de fichiers universel, avec un documentaire sur la cybersurveillance et des formations Anthropic sur l'IA en bonus.",
+      "link": "https://domopi.eu/liens-tech-septembre-2026/",
+      "pubDate": "2026-09-15T05:45:02.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "4201dbfa9d41",
+      "title": "L’IA va-t-elle vraiment tous nous tuer ?",
+      "description": "La démission de Jacob Coxon a ravivé la peur d'une IA hors de contrôle. Entre incidents bien réels et alertes des dirigeants, la panique cache-t-elle autre chose ?",
+      "link": "https://www.blogdumoderateur.com/ia-va-vraiment-tous-nous-tuer/",
+      "pubDate": "2026-09-15T05:30:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/IA-tous-nous-tuer-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "10eb2c79f797",
+      "title": "Agents IA en entreprise : plus de responsabilités mais peu de temps gagné ?",
+      "description": "Notion a interrogé avec YouGov 6 194 employés de bureau en France, au Royaume-Uni et en Allemagne sur leur usage des agents IA. En France, le périmètre individuel s'élargit, mais l'intégration dans les outils d'équipe reste marginale.",
+      "link": "https://www.blogdumoderateur.com/agents-ia-entreprise-plus-responsabilites-peu-temps-gagne/",
+      "pubDate": "2026-09-15T05:00:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Notion-Yougov-1-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7cf2e571be71",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "description": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "pubDate": "2026-09-15T01:50:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cfce7ca956ec",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "pubDate": "2026-09-14T21:51:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "220ecf78d835",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "pubDate": "2026-09-14T20:44:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f2097a0ee04a",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "description": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "pubDate": "2026-09-14T20:07:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "14354a329ccb",
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "description": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+      "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "pubDate": "2026-09-14T18:14:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ee83ecf7037",
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+      "description": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "pubDate": "2026-09-14T18:08:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "91dd96115d33",
+      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "description": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "pubDate": "2026-09-14T17:41:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cfa6722213c0",
+      "title": "With iOS 27, I’m actually using Siri again",
+      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "pubDate": "2026-09-14T17:10:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e36c25198c9b",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "description": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
+      "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "pubDate": "2026-09-14T17:10:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "705a7f527d95",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "pubDate": "2026-09-14T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "485943039dc3",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "description": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "pubDate": "2026-09-14T16:27:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3ef2132ea91",
+      "title": "Waymo opens robotaxi service in Las Vegas",
+      "description": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
+      "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+      "pubDate": "2026-09-14T16:04:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3e01e8a21bb",
+      "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+      "description": "Given that these departed board members were those who voted to put Mullenweg on a paid leave of absence to begin with, it makes sense that a board shakeup has taken place.",
+      "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+      "pubDate": "2026-09-14T15:34:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4fbf7e66056c",
+      "title": "Au lieu d’alléger la charge de travail, l’IA « ne fait que la redistribuer », selon une étude",
+      "description": "Une étude d'Adaptavist auprès de 2 500 travailleurs du savoir documente un nouveau processus à l'ère de l'IA, celui de « taxe de vérification ». Une charge cachée née du besoin de contrôler et de corriger les productions de la machine.",
+      "link": "https://www.blogdumoderateur.com/au-lieu-alleger-ia-redistribue-charge-travail-etude/",
+      "pubDate": "2026-09-14T15:01:55.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/taxe-verification-ia-cout-cache-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "25868655719c",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "description": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "pubDate": "2026-09-14T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "00635d35765f",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "description": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
+      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "pubDate": "2026-09-14T14:45:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5069690d725c",
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "description": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-09-14T14:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3b89d94cbe0b",
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "description": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
+      "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "pubDate": "2026-09-14T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f034e567f700",
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+      "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+      "pubDate": "2026-09-14T13:55:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "513db33f71eb",
+      "title": "Emploi, croissance, salaires : Anthropic modélise l’impact de l’IA sur l’économie à l’horizon 2030",
+      "description": "L’équipe d’économistes d’Anthropic a modélisé trois trajectoires pour l’économie des États-Unis en 2030. La croissance progresse dans chaque scénario, mais avec des conséquences sur l'emploi.",
+      "link": "https://www.blogdumoderateur.com/emploi-croissance-salaires-anthropic-modelise-impact-ia-economie-horizon-2030/",
+      "pubDate": "2026-09-14T09:35:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/etude-anthropic-emplois-scenario-extreme-294x178.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b80a8ec21266",
+      "title": "OpenAI suspend les nouvelles souscriptions à ChatGPT Pro face à la forte demande pour GPT-6 Astra",
+      "description": "La demande pour le dernier modèle d’OpenAI dépasse les capacités de l’entreprise, qui préfère fermer l’accès à son offre la plus chère plutôt que dégrader le service de ses abonnés.",
+      "link": "https://www.blogdumoderateur.com/openai-suspend-nouvelles-souscriptions-chatgpt-pro-forte-demande-gpt-6-astra/",
+      "pubDate": "2026-09-14T08:59:17.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/openai-suspend-souscriptions-chatgpt-pro-astra-294x165.jpg",
+      "type": "blog"
+    },
+    {
       "id": "a91ecbaaf6f0",
       "title": "Google Analytics facilite la création de tableaux de bord personnalisables",
       "description": "Six types de visualisations, un canevas en grille et une publication directe dans le menu Rapports : Google Analytics ouvre la construction de tableaux de bord personnalisés.",
@@ -1753,6 +2184,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a0837437d495",
+      "title": "Algorithmes d'isolation",
+      "description": "Au moment où j’écris, Apple et Meta déploient leurs gadgets. Chez Meta, depuis des mois déjà, des lunettes intrusives permettent à n’importe qui de vous filmer à votre insu. Du côté d’Apple, une montre avec un mode d’écoute permanente, enregistrant toutes vos conversations et vos interactions avec…",
+      "link": "https://boris.schapira.dev/notes/2026-09-algorithmes-d-isolation/",
+      "pubDate": "2026-09-08T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
