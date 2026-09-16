@@ -2,6 +2,454 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "7e35a5558986",
+      "title": "Évaluation des collaborateurs : au-delà de l’examen, un outil de montée en compétence",
+      "description": "Trop souvent réduite à un contrôle de connaissances, l'évaluation peut devenir un véritable outil de pilotage RH. Patrice Bertrand, fondateur d'Experquiz, explique comment en tirer parti.",
+      "link": "https://www.blogdumoderateur.com/evaluation-collaborateurs-examen-outil-montee-competence/",
+      "pubDate": "2026-09-16T07:50:16.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/08/formation-experquiz-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "caf71881c228",
+      "title": "X : combien d’utilisateurs reste-t-il en Europe et en France ?",
+      "description": "Le réseau social comptait 64,7 millions d'utilisateurs actifs mensuels dans l'Union européenne au premier semestre 2026, dont 12,4 millions en France. Un niveau stable depuis six mois, mais en net recul sur un an.",
+      "link": "https://www.blogdumoderateur.com/x-combien-utilisateurs-reste-europe/",
+      "pubDate": "2026-09-16T05:00:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/nombre-utilisateurs-actifs-x-ue-s1-2026-pays-294x178.png",
+      "type": "blog"
+    },
+    {
+      "id": "9b2d45fa27d4",
+      "title": "Usine de 2030 : Comment l’IA transforme le métier de technicien de maintenance",
+      "description": "Maintenance prédictive, assistants intelligents, agents logiciels, réalité augmentée et demain robots humanoïdes : le métier de technicien évolue rapidement. L’enjeu n’est plus seulement d’automatiser les machines, mais d’augmenter les capacités des femmes et des hommes qui les exploitent et les…",
+      "link": "https://www.robot-magazine.fr/usine-de-2030-comment-lia-transforme-le-metier-de-technicien-de-maintenance/?utm_source=rss&utm_medium=rss&utm_campaign=usine-de-2030-comment-lia-transforme-le-metier-de-technicien-de-maintenance",
+      "pubDate": "2026-09-16T03:01:15.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "21d64f41a236",
+      "title": "#376.src - AIgile : L'IA va-t-elle tuer le Scrum Master ? avec Salim Gomri",
+      "description": "\"L'IA propose, l'humain décide.\" Le D.E.V. de la semaine est Salim Gomri, coach agile et coach professionnel d'organisation certifié. Fort de 23 ans d'expérience, il est aussi l'auteur du Système S.A.L.I.M. (Scrum Augmenté Livré Incrémental & Mesurable), un framework sur Scrum Augmenté disponible…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-376-e709b18ac401",
+      "pubDate": "2026-09-16T03:00:50.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/d840392b-9559-4361-903f-f4b3ba4bdf88.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/6c9ac4af-668b-4466-9319-e709b18ac401.mp3?_=1789473650",
+      "duration": "01:07:50"
+    },
+    {
+      "id": "049ed956b823",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "pubDate": "2026-09-16T00:20:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "57e99614fd36",
+      "title": "The AI data center boom is colliding with cities scarred by big industry ",
+      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "pubDate": "2026-09-15T21:47:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "15b435003223",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "pubDate": "2026-09-15T20:12:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "539f7b66fb8e",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "pubDate": "2026-09-15T19:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3331f24aeb1d",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "pubDate": "2026-09-15T18:29:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cfb83b1ced8d",
+      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "description": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
+      "link": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "pubDate": "2026-09-15T18:16:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "59972d1f0a66",
+      "title": "AI agents now have a place to snitch",
+      "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "pubDate": "2026-09-15T17:42:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2de3b34f2302",
+      "title": "US military says it has launched weapons into space",
+      "description": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
+      "link": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+      "pubDate": "2026-09-15T17:09:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ee562cffc21",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "pubDate": "2026-09-15T17:05:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e4d082dee225",
+      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+      "description": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan.",
+      "link": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+      "pubDate": "2026-09-15T17:02:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7d4394af2ddf",
+      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
+      "description": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
+      "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "pubDate": "2026-09-15T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c112a968e9ef",
+      "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+      "description": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
+      "link": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+      "pubDate": "2026-09-15T15:49:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cb56e164a4da",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "pubDate": "2026-09-15T15:47:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "51c3719f455b",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "description": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "pubDate": "2026-09-15T15:22:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "663c6c95abf8",
+      "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
+      "description": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
+      "link": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
+      "pubDate": "2026-09-15T15:21:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5aaada5d5338",
+      "title": "Humanist AI : les règles que Microsoft veut imposer à ses propres modèles d’IA",
+      "description": "Publié pour consultation publique, ce code de conduite n'entraîne encore aucun modèle d'IA. Microsoft l'annonce comme la future référence de son développement à partir de 2027.",
+      "link": "https://www.blogdumoderateur.com/humanist-ai-regles-microsoft-veut-imposer-propres-modeles-ia/",
+      "pubDate": "2026-09-15T14:52:04.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Humanist-AI-microsoft-294x165.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "2ad00fed4561",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "pubDate": "2026-09-15T14:42:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bbd5c8ed9218",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "description": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-09-15T14:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "196b5afe270c",
+      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
+      "description": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
+      "link": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+      "pubDate": "2026-09-15T14:22:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b177e1f3cbd",
+      "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+      "description": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
+      "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+      "pubDate": "2026-09-15T14:13:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9b3023f3e398",
+      "title": "iPhone : comment régler l’effet Liquid Glass avec iOS 27",
+      "description": "Sur la dernière version du système d'exploitation de l'iPhone, Apple a intégré un curseur offrant plus de flexibilité sur l'apparence de Liquid Glass.",
+      "link": "https://www.blogdumoderateur.com/iphone-comment-regler-effet-liquid-glass-ios-27/",
+      "pubDate": "2026-09-15T14:02:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/ios-27-curseur-liquid-glass-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "4c476703f70e",
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "description": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-09-15T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f5e3ef136dea",
+      "title": "Les taux journaliers moyens des métiers de la tech en 2027",
+      "description": "Michael Page détaille les principaux taux journaliers moyens (TJM) de 21 métiers tech recherchés en freelance et en management de transition, de 300 à plus de 1 500 € par jour.",
+      "link": "https://www.blogdumoderateur.com/taux-journaliers-moyens-metiers-tech-2027/",
+      "pubDate": "2026-09-15T13:40:02.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/salaires-tech-freelances-tjm-michael-page-294x232.png",
+      "type": "blog"
+    },
+    {
+      "id": "4ad850c7c2e1",
+      "title": "Téléchargez iOS 27 sur votre iPhone : voici les 5 nouveautés majeures",
+      "description": "Tour d'horizon des nouveautés apportées par la traditionnelle mise à jour majeure de l'iPhone de septembre.",
+      "link": "https://www.blogdumoderateur.com/ios-27-iphone-nouveautes/",
+      "pubDate": "2026-09-15T09:07:28.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/ios-27-apple-iphone-294x165.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "55e95568152f",
       "title": "L’arrivée de Google AI Overview et AI Mode en France : quels impacts sur le paid media ?",
       "description": "Dans cette tribune, Marjorie Bicaïs, head of SEA/Média chez CyberCité, décrypte ce que l'arrivée des AI Overviews et de l'AI Mode de Google change pour les stratégies paid media en France.",
@@ -110,6 +558,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2df56b025a73",
+      "title": "Un ralentissement du développement de l'IA ?",
+      "description": "Coup de théâtre, plusieurs acteurs de l’IA demandent un ralentissement sur le développement des modèles frontières et la mise en place d’une régulation. Les progrès de l’IA seraient trop rapides et pourraient poser de sérieux problèmes à l’avenir.",
+      "link": "https://eventuallycoding.com/p/un-ralentissement-du-developpement-de-l-ia",
+      "pubDate": "2026-09-15T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1789479275601-4salxv9.png",
       "type": "blog"
     },
     {
@@ -1595,6 +2058,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b09bf6f2d73a",
+      "title": "Introducing Projects",
+      "description": "Run cloud agents on machines you manage",
+      "link": "https://cursor.com/blog/projects",
+      "pubDate": "2026-09-10T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -4300,6 +4778,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/de97bbbd-d6a1-4fa8-ac91-1de47b6f557f.mp3?_=1788264093",
       "duration": "01:08:27"
+    },
+    {
+      "id": "ced5db4778ab",
+      "title": "Run cloud agents on machines you manage",
+      "description": "Introducing Projects",
+      "link": "https://cursor.com/blog/self-hosted-machines",
+      "pubDate": "2026-09-02T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "ffc449473df1",
