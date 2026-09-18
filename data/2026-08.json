@@ -1520,6 +1520,22 @@
       "type": "blog"
     },
     {
+      "id": "c6ee13623b41",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 3 : le stockage de la mémoire",
+      "description": "All those moments will be lost in time, like tears in rain. ©Roy Batty",
+      "link": "https://philippart-s.github.io/blog/2026-08-27-java-and-ai-part3/",
+      "pubDate": "2026-08-27T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d949d26fe875",
       "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
       "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
