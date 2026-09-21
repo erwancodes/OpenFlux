@@ -2,6 +2,246 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "bf2a467cef40",
+      "title": "AI Overviews, GEO, zéro clic : les conseils de Semji avant la 11e édition de SEO Square",
+      "description": "L'arrivée d'AI Overview rebat les cartes du SEO. Cofondateur de Semji, Nicolas Nguyen nous partage ses conseils pour rester visible et mesurer la performance à l'ère des moteurs IA, avant la prochaine édition de SEO Square.",
+      "link": "https://www.blogdumoderateur.com/conseils-semji-11e-edition-seo-square/",
+      "pubDate": "2026-09-21T09:09:16.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/03/Nicolas-Nguyen-Semji-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "93169caf7518",
+      "title": "Google teste « Dive Deeper », un nouvel aperçu IA dans Discover",
+      "description": "Google multiplie les couches d'intelligence artificielle dans son flux d'actualités personnalisé, alors que les éditeurs de presse subissent déjà une baisse de trafic.",
+      "link": "https://www.blogdumoderateur.com/google-teste-dive-deeper-apercu-ia-discover/",
+      "pubDate": "2026-09-21T09:07:52.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/AI-Google-Discover-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a6bda25fec69",
+      "title": "Top 20 des modèles d’IA les plus performants en septembre 2026 : le classement complet",
+      "description": "En septembre, les modèles d'Anthropic campent sept des dix premières positions du classement des meilleurs modèles d'IA établi par Arena.",
+      "link": "https://www.blogdumoderateur.com/top-20-modeles-ia-performants-septembre-2026/",
+      "pubDate": "2026-09-21T09:03:50.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/classement-modeles-ia-arena-septembre-2026-294x139.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2d2c733a5809",
+      "title": "5 formations pour apprendre à maîtriser les outils de bureautique avec l’IA",
+      "description": "Besoin de monter en compétences sur les outils de bureautique (Microsoft Copilot, Excel, Word...) et l'IA ? Cette sélection de formations est faite pour vous.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-bureautique-319/",
+      "pubDate": "2026-09-21T09:00:14.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/selection-formation-bureautique-319-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c0c295252588",
+      "title": "Transformer les données climat en contenu grand public, le pari réussi de Greenly",
+      "description": "Comment rendre la comptabilité carbone désirable auprès des directions financières ? Arnaud Delubac, cofondateur et CMO de Greenly, revient sur les choix éditoriaux qui ont fait de la scale-up une marque de référence sur la transition climatique en entreprise.",
+      "link": "https://www.blogdumoderateur.com/transformer-donnees-climat-contenu-grand-public-pari-reussi-greenly/",
+      "pubDate": "2026-09-21T06:00:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Arnaud-Delubac-Greenly-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dbb148570dcf",
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "description": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-09-20T21:41:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "92e9a70cb2f3",
+      "title": "World model companies are keeping a lot of secrets",
+      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "pubDate": "2026-09-20T20:29:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e504bcedd8b",
+      "title": "Des statistiques sans robots avec GoatCounter auto-hébergé sur NixOS",
+      "description": "En 2016, j’ai de ce blog pour ne pas me rendre complice de la plus grande machine à aspirer les données personnelles. À la place, j’analysais les journaux de mes serveurs avec . Depuis quelques années, les statistiques ne veulent plus rien dire, malgré mes tentatives pour filtrer les robots :…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-goatcounter",
+      "pubDate": "2026-09-20T19:44:50.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/goatcounter@1x.66acd322278cc7.png",
+      "type": "blog"
+    },
+    {
+      "id": "0ba623100484",
+      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+      "description": "Many of The Boring Company's announced project have not materialized.",
+      "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+      "pubDate": "2026-09-20T19:38:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "78a528244d9b",
+      "title": "Is the AI industry really ready to slow down?",
+      "description": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "pubDate": "2026-09-20T18:56:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21021adfef8a",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "description": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "pubDate": "2026-09-20T18:32:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2c549dbb779a",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "description": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "pubDate": "2026-09-20T18:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e3fbc059f72e",
+      "title": "New California law will penalize influencers who don’t disclose political ads",
+      "description": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+      "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+      "pubDate": "2026-09-20T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cc88ee8aeea0",
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+      "link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "pubDate": "2026-09-20T16:02:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cfd43b6cbd52",
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "description": "On the surface, a game console and a leathercraft school don't appear to have much in common. But both founders think there's money in fostering the kind of connection that technology has eroded over the last couple of decades.",
+      "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "pubDate": "2026-09-20T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "10a42b245f5f",
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
       "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
