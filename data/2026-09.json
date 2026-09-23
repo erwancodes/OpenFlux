@@ -2,6 +2,501 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "89c9d3c7e1f5",
+      "title": "Cybersécurité pour développeurs : 6 pièges qu'on voit chez nos clients",
+      "description": "En 2025, l'exploitation de vulnérabilités a dépassé le vol d'identifiants comme premier point d'entrée des brèches. Injection SQL, XSS, secrets en dur, dépendances vulnérables, race conditions, IDOR : 6 pièges vus en mission chez nos clients, le correctif, et quand déléguer à la cybersécurité.",
+      "link": "https://blog.ippon.fr/2026/09/23/cybersecurite-pour-developpeurs-6-pieges-quon-voit-chez-nos-clients/",
+      "pubDate": "2026-09-23T07:17:16.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/corporate_9.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "aadc4813fc97",
+      "title": "Alaio Vibecode : Bitrix24 ouvre la création d’applications par IA à tous les métiers",
+      "description": "Bitrix24 ouvre sa plateforme de vibe coding en entreprise. Les applications générées par l’IA sont hébergées sur des serveurs non exposés à Internet et publiées dans un catalogue interne, avec une gestion centralisée des accès.",
+      "link": "https://www.blogdumoderateur.com/alaio-vibecode-bitrix24-creation-applications-ia/",
+      "pubDate": "2026-09-23T07:17:08.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Alaio-Vibecode-294x193.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fdef08f7bd98",
+      "title": "Reconversion : vos compétences correspondent-elles à un métier du digital ?",
+      "description": "Sens de l'organisation, goût pour l'analyse, aisance relationnelle... De nombreuses compétences développées dans d'autres secteurs sont transférables vers les métiers du numérique. Saurez-vous deviner à quels postes elles correspondent ? À vous de jouer.",
+      "link": "https://www.blogdumoderateur.com/reconversion-competences-correspondent-metier-digital/",
+      "pubDate": "2026-09-23T06:00:51.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/quiz-reconversion-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "e4fbb35fc3e3",
+      "title": "Comment les data centers se sont invités dans la vie politique américaine",
+      "description": "Sept Américains sur dix se disent opposés à l'implantation d'un data center près de chez eux. Depuis janvier, plus de 45 millions de dollars de spots de campagne mentionnent ces infrastructures, dans les deux camps.",
+      "link": "https://www.blogdumoderateur.com/data-centers-vie-politique-americaine/",
+      "pubDate": "2026-09-23T05:00:46.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/capitol-wahsington-MarketingShotz-294x195.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "39b3c4907a26",
+      "title": "Interview : les deux membres fondateurs de MAESTRO racontent la naissance du consortium à l’Inria et au CNRS",
+      "description": "Né de travaux menés dans les laboratoires de l’Inria et du CNRS, le consortium MAESTRO prend forme autour d’une ambition commune. Dans cette interview exclusive, Justin Carpentier et Pierre-Guillaume Raverdy, deux de ses membres fondateurs, racontent la naissance du projet, ses objectifs et les…",
+      "link": "https://www.robot-magazine.fr/robot-magazine-interview-exclusive-maestro/?utm_source=rss&utm_medium=rss&utm_campaign=robot-magazine-interview-exclusive-maestro",
+      "pubDate": "2026-09-23T05:00:17.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2026/09/Pierre-Guillaume-RAVERDY.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3f251bee96ff",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "pubDate": "2026-09-23T04:59:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e74d38f2c467",
+      "title": "Discord’s age verification era is upon us, despite community backlash",
+      "description": "According to Discord, 90% of users will not have to verify their age.",
+      "link": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+      "pubDate": "2026-09-23T03:31:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "df342c0cce8f",
+      "title": "#377.src - DBT: Pourquoi dbt est devenu le standard (avec ses qualités et défauts) avec Jeremy Cohen",
+      "description": "\"C'est plus efficace pour une équipe d'utiliser l'outil standard qu'imaginer de recréer une solution parfaite\" Le D.E.V. de la semaine est Jérémy Cohen, Principal Product Manager chez dbt Labs. Avec plus de huit ans d'expérience chez dbt, Jérémy nous plonge dans l'évolution des pipelines data, de…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-377-8d0382d0be15",
+      "pubDate": "2026-09-23T03:00:34.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/f80c5f94-ab59-4983-8042-a93d10ee788d.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/495563fb-1354-4dfd-8b0f-8d0382d0be15.mp3?_=1790078494",
+      "duration": "52:07"
+    },
+    {
+      "id": "b25fe2c5917b",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "pubDate": "2026-09-22T23:21:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c67ad98e455",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "pubDate": "2026-09-22T21:56:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ea6cbfd1c90",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "pubDate": "2026-09-22T20:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "91c290237fcf",
+      "title": "Apple could take on Whoop with a new fitness tracker, report says",
+      "description": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+      "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+      "pubDate": "2026-09-22T19:27:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9b5f327201fe",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "description": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "pubDate": "2026-09-22T19:09:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "70cfba02750c",
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "description": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
+      "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+      "pubDate": "2026-09-22T18:40:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1fb7ffb78936",
+      "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+      "description": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
+      "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+      "pubDate": "2026-09-22T18:24:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "25f12aed5a13",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "pubDate": "2026-09-22T18:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d5fdb2f15969",
+      "title": "Waymo’s latest expansion strategy: teenagers",
+      "description": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.",
+      "link": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+      "pubDate": "2026-09-22T17:36:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3021783d758a",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "description": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "pubDate": "2026-09-22T16:30:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e86f94597e8",
+      "title": "Stolen passwords are exposing America’s water providers to hackers",
+      "description": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+      "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+      "pubDate": "2026-09-22T15:50:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9a3f84878b6",
+      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+      "description": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+      "link": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+      "pubDate": "2026-09-22T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0c623a8be443",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "pubDate": "2026-09-22T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "caaf4b1f8cd6",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "pubDate": "2026-09-22T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b8bddbd3ccbe",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "pubDate": "2026-09-22T14:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f482079c632e",
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "description": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+      "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "pubDate": "2026-09-22T14:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0e4841e68bdb",
+      "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
+      "description": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
+      "link": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
+      "pubDate": "2026-09-22T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b7a81a5feade",
+      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+      "description": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+      "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-09-22T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac2c39af52e1",
+      "title": "Adobe lance Premiere sur Android, un an après la version iPhone",
+      "description": "Premiere s'invite sur les smartphones Android dans une version gratuite qui embarque l'essentiel des outils de montage du logiciel d'Adobe, sans connexion obligatoire.",
+      "link": "https://www.blogdumoderateur.com/adobe-premiere-android/",
+      "pubDate": "2026-09-22T13:00:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Hero-Video-1-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "c1dfa1144120",
+      "title": "Emploi : les annonces de bureau exigeant des compétences informatiques ont chuté de 40 %",
+      "description": "Une étude de la Paris School of Economics mesure un recul marqué des exigences bureautiques dans les annonces, sans baisse équivalente du nombre de postes proposés ni des salaires.",
+      "link": "https://www.blogdumoderateur.com/emploi-annonces-bureau-exigeant-competences-informatiques-chute/",
+      "pubDate": "2026-09-22T09:05:52.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Paris-school-economics-1-294x181.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4753b5a6c3ec",
+      "title": "Adoption de l’IA : la France s’installe à la 4ᵉ place du classement mondial",
+      "description": "D'après le dernier rapport du Microsoft AI Economy Institute, l'usage de l'IA a progressé dans la quasi-totalité des économies au deuxième trimestre 2026, tiré par la Corée du Sud et l'Arabie saoudite.",
+      "link": "https://www.blogdumoderateur.com/adoption-ia-france-4e-place-classement-mondial/",
+      "pubDate": "2026-09-22T09:04:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Adoption-IA-2026-Microsoft-294x168.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "721535199223",
+      "title": "Castor 1.8: Windows, self-update, et des binaires vérifiables",
+      "description": "La dernière fois que nous avons parlé de Castor sur ce blog, c'était pour annoncer la sortie de la 1.0, en octobre 2025. Depuis, notre rongeur préféré a pris un rythme mensuel : une version mineure toutes les quatre à cinq semaines, avec à chaque fois quelques helpers et quelques correctifs,…",
+      "link": "https://jolicode.com/blog/castor-1-8-windows-self-update-et-des-binaires-verifiables",
+      "pubDate": "2026-09-22T08:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f7084f58eaf2",
+      "title": "Castor 1.8: Windows, self-update, and binaries you can verify",
+      "description": "The last time we talked about Castor on this blog was to announce the 1.0 release, in October 2025. Since then, our favorite rodent has settled into a monthly rhythm: a minor version every four to five weeks, with a few helpers and fixes each time, sometimes a deprecation to prepare 2.0. 1.8 breaks…",
+      "link": "https://jolicode.com/blog/castor-1-8-windows-self-update-and-binaries-you-can-verify",
+      "pubDate": "2026-09-22T08:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "aa2b48e1dd13",
       "title": "Paris 2024 : comment l’équipe social media a réinventé la couverture des Jeux",
       "description": "Membres de l'équipe social media de Paris 2024, Manon Offner, Julien Fritsch et Clément Goupil sont les invités du podcast vidéo produit par Swello, en partenariat avec BDM. Ils racontent les coulisses de leur stratégie, du relais de la flamme à l'après-Jeux.",
