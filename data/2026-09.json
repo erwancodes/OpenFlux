@@ -2,6 +2,496 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "8adc3277eb43",
+      "title": "Gryzzly met à disposition un calculateur de TJM gratuit, pensé pour les agences",
+      "description": "Les simulateurs de TJM visent surtout les indépendants. Gryzzly met à disposition un calculateur gratuit qui raisonne à l'échelle de l'entreprise, à partir des coûts réels et d'un objectif de marge.",
+      "link": "https://www.blogdumoderateur.com/gryzzly-calculateur-tjm-gratuit/",
+      "pubDate": "2026-09-24T07:43:47.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/illu-cp-gc-bdm-calc-tjm-1@2x-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5b5220611151",
+      "title": "Jev, la nouvelle IA ultra-performante",
+      "description": "Le 15 septembre, TypeSafe Ai sa première IA fonctionnant avec un One System Model: Jev. En voici un aperçu. L’article Jev, la nouvelle IA ultra-performante est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/24/jev-la-nouvelle-ia-ultra-performante/",
+      "pubDate": "2026-09-24T05:09:16.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ef3283b30e8",
+      "title": "Implantation des data centers : Microsoft a changé de méthode, pas ses concurrents",
+      "description": "Le 4 juin, devant une commission parlementaire de l'Ohio consacrée aux data centers, Microsoft s'est engagé à ne plus faire signer d'accords de confidentialité aux collectivités. Amazon, Google et Meta, également présents, ont refusé de prendre le même engagement.",
+      "link": "https://www.blogdumoderateur.com/implantationdata-centers-microsoft-change-methode/",
+      "pubDate": "2026-09-24T05:00:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Southport-Images-stock.adobe_.com-microsoft-wisconsin-294x220.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "364e76eaa6a6",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "pubDate": "2026-09-24T01:13:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff4347676284",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "description": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "pubDate": "2026-09-24T00:46:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8a2350bc4446",
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "description": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "pubDate": "2026-09-23T23:47:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "866c5688bd79",
+      "title": "Meta introduces camera-free AI glasses",
+      "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "pubDate": "2026-09-23T23:39:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9be2717ffcf7",
+      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+      "description": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+      "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+      "pubDate": "2026-09-23T23:33:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48a9d95577c8",
+      "title": "Anthropic says its biology lab has already found something big",
+      "description": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "pubDate": "2026-09-23T22:17:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "88ff028cf490",
+      "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+      "description": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
+      "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+      "pubDate": "2026-09-23T21:21:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ed90c2b0743c",
+      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "description": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+      "pubDate": "2026-09-23T20:35:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7863c4c666f3",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "pubDate": "2026-09-23T19:31:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d72a5b8eaab",
+      "title": "Modal Motors is trying to cut China out of electric motors entirely",
+      "description": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+      "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "pubDate": "2026-09-23T19:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e0e4cf8fde76",
+      "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
+      "description": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
+      "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+      "pubDate": "2026-09-23T18:06:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4f7619268747",
+      "title": "The old cybersecurity model is breaking",
+      "description": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies…",
+      "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "pubDate": "2026-09-23T17:44:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "06c401e4ec1e",
+      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+      "description": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures.",
+      "link": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+      "pubDate": "2026-09-23T17:28:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "abf255ad4a75",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "pubDate": "2026-09-23T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ed4850b45c81",
+      "title": "Even Americans who use AI every day are worried about it",
+      "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "pubDate": "2026-09-23T16:49:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a432d2834fb4",
+      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+      "description": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
+      "pubDate": "2026-09-23T16:03:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e0a04425fac4",
+      "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+      "description": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+      "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+      "pubDate": "2026-09-23T15:46:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "113d126fd2d5",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "description": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "pubDate": "2026-09-23T15:19:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "88e8dee9e513",
+      "title": "Freelances ou salariés : qui profite vraiment des gains de productivité de l’IA dans la tech ?",
+      "description": "La moitié des 1 035 pros de la tech interrogés par Shakers déclarent produire au moins 26 % de plus grâce à l'IA. Plus de la moitié des salariés n'en voient pourtant pas la couleur, au contraire des freelances.",
+      "link": "https://www.blogdumoderateur.com/freelances-salaries-qui-profite-gains-productivite-ia-tech/",
+      "pubDate": "2026-09-23T15:16:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Etude-skakers-ia-emploi-294x167.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3045b747f668",
+      "title": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+      "description": "Eight Sleep said the new pod is 20% faster than the previous generation.",
+      "link": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+      "pubDate": "2026-09-23T14:45:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4266e9d9fbc7",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "pubDate": "2026-09-23T14:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "803cd54e5e43",
+      "title": "Jev, un nouveau modèle d’IA conçu pour prendre des décisions rapides et structurées",
+      "description": "Développé par une startup fondée par un ancien chercheur d'OpenAI, Jev est le premier représentant d'une nouvelle catégorie de modèles d'IA qui ne génèrent pas de texte, mais des décisions structurées assorties de probabilités.",
+      "link": "https://www.blogdumoderateur.com/jev-modele-ia/",
+      "pubDate": "2026-09-23T13:45:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/jev-typesafe-ai-294x189.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cfd541903bb6",
+      "title": "32 modèles en 9 mois : qui veut vraiment ralentir l’IA ?",
+      "description": "Depuis l'été, les dirigeants d'Anthropic, d'OpenAI et de Google DeepMind plaident pour temporiser le développement de l'IA. Notre décompte raconte une autre histoire. Avec 32 annonces de modèles depuis janvier, 2026 a déjà dépassé toute l'année 2025.",
+      "link": "https://www.blogdumoderateur.com/32-modeles-9-mois-qui-veut-vraiment-ralentir-ia/",
+      "pubDate": "2026-09-23T13:30:30.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/frise_modeles_ia_une_1200x628-2-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3eed887c8373",
+      "title": "Avec son Agentic Marketing Platform, Ibexa veut faire du marketeur un chef d’orchestre d’agents IA",
+      "description": "L'éditeur européen pose une couche d'agents sur les six produits de sa gamme martech, dont Ibexa, qui regroupe les six solutions réunies sous sa marque en début d'année. Chaque équipe y branche le modèle de son choix.",
+      "link": "https://www.blogdumoderateur.com/agentic-marketing-platform-ibexa-marketeur-chef-orchestre-agents-ia/",
+      "pubDate": "2026-09-23T12:00:07.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Ibexa-agentic-plateform-interface-294x206.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8fa6dcc9da21",
+      "title": "Rentahuman.ai: the website where AIs employ humans",
+      "description": "Rentahuman.ai is a website where AI agents can \"hire\" humans for tasks that the latter cannot perform themselves. Even if it is only a playful experiment, this idea raises questions about the future of work and the abilities of AIs, which, according to the article, do not have autonomous will.…",
+      "link": "https://oliviersauvage.com/2026/09/23/rentahuman-ai-the-website-where-ais-employ-humans/",
+      "pubDate": "2026-09-23T10:00:26.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3976465e6554",
+      "title": "The Hidden Side of Vibe Coding",
+      "description": "Vibe coding, promoted by AI companies, appears to simplify application development, but this ease is deceptive. While the tools allow for rapid creations, building ambitious projects requires patience and skills. This new entrepreneurial paradigm demands versatility and tenacity, a reality often…",
+      "link": "https://oliviersauvage.com/2026/09/23/the-hidden-side-of-vibe-coding/",
+      "pubDate": "2026-09-23T09:53:45.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "928cc8685db6",
+      "title": "Claude Opus 5.5 : Anthropic promet le niveau de Fable 5.1 pour 40 % moins cher",
+      "description": "Anthropic dévoile Claude Opus 5.5, premier modèle de la famille 5.5. La firme revendique le niveau de Fable 5.1 sur la plupart des tâches, pour un coût d'usage inférieur de 40 % à la précédente version.",
+      "link": "https://www.blogdumoderateur.com/claude-opus-5-5-anthropic/",
+      "pubDate": "2026-09-23T09:11:47.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/claude-opus-5-5-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8d089fc5fef1",
+      "title": "OpenAI lance GPT-6 Sol et Luna, avec des tarifs API divisés par deux",
+      "description": "Trois semaines après Astra, OpenAI élargit sa gamme GPT-6 avec deux modèles plus légers. Leur prix dans l'API est divisé par deux par rapport aux tarifs promotionnels de GPT-5.6.",
+      "link": "https://www.blogdumoderateur.com/openai-lance-gpt-6-sol-luna-tarifs-api-divises-deux/",
+      "pubDate": "2026-09-23T09:07:54.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/OpenAI-Sol-Luna-294x154.jpg",
+      "type": "blog"
+    },
+    {
       "id": "89c9d3c7e1f5",
       "title": "Cybersécurité pour développeurs : 6 pièges qu'on voit chez nos clients",
       "description": "En 2025, l'exploitation de vulnérabilités a dépassé le vol d'identifiants comme premier point d'entrée des brèches. Injection SQL, XSS, secrets en dur, dépendances vulnérables, race conditions, IDOR : 6 pièges vus en mission chez nos clients, le correctif, et quand déléguer à la cybersécurité.",
@@ -131,6 +621,23 @@
       "duration": "52:07"
     },
     {
+      "id": "6be2d3f85436",
+      "title": "On a rendu Double Slash 100 % Agent Ready, et voilà comment",
+      "description": "Votre site est-il prêt pour les agents IA ? On a tout implémenté sur le podcast, on explique pourquoi et comment. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/agent-ready/",
+      "link": "https://double-slash.dev/podcasts/agent-ready/",
+      "pubDate": "2026-09-23T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1790161315/episode/ART_141_unbyjg.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_141_agent-ready.mp3",
+      "duration": "3115"
+    },
+    {
       "id": "b25fe2c5917b",
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
       "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
@@ -140,6 +647,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0905ecc3a3f2",
+      "title": "Utilisez le produit que vous construisez",
+      "description": "Il existe une pratique que j’apprécie particulièrement et qui reste pour moi le meilleur moyen de repérer les problèmes d’un produit, se nomme le “dog fooding”. Elle consiste à utiliser ses propres produits et services. C’est malheureusement une pratique que je vois trop peu utilisée. Et encore…",
+      "link": "https://www.jdecool.fr/blog/2026/09/23/utilisez-le-produit-que-vous-construisez.html",
+      "pubDate": "2026-09-22T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
