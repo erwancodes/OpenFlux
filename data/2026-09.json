@@ -2,6 +2,537 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "27f08fc22b3d",
+      "title": "Nantes Craft 2026",
+      "description": "Retour sur la 2e édition de Nantes Craft avec Ippon Technologies : découvrez notre résumé des conférences les plus captivantes de cette édition",
+      "link": "https://blog.ippon.fr/2026/09/25/nantes-craft-2026/",
+      "pubDate": "2026-09-25T08:24:09.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/PXL_20260910_133655569.MP.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4d33c19a3c43",
+      "title": "Gemini élargit son catalogue d’applications avec 14 nouveaux connecteurs",
+      "description": "Google déploie une nouvelle vague d'applications connectées dans Gemini. En France, seuls Adobe, monday.com et Wispr AI sont annoncés comme disponibles, en anglais uniquement.",
+      "link": "https://www.blogdumoderateur.com/gemini-elargit-catalogue-applications-14-nouveaux-connecteurs/",
+      "pubDate": "2026-09-25T08:19:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/28020_GEM_GeminiSpark3P_ConnectedApps_16x9_WithZoho_V03_JI-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "09ab0f9f65a5",
+      "title": "MACI #165 - Du vibe coding au design produit - Avec Ivan Dalmet",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on part d’un constat simple : l’IA permet de coder beaucoup plus vite, mais elle ne permet pas forcément de savoir plus vite quoi coder. Avec Ivan Dalmet, CTO de Peinture.app et cofondateur de BearStudio, on parle donc design produit,…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-165-du-vibe-coding-au-design-produit-avec-ivan-dalmet",
+      "pubDate": "2026-09-25T07:49:37.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/Ie9s0ceVHVFN027rLcjucEo6hCwlsCjT1jB1059t_1400x1400.jpeg?t=1790322577",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/yEVj6hEA6Ekz.mp3?t=1790322130",
+      "duration": "1:01:54"
+    },
+    {
+      "id": "932e67443b8b",
+      "title": "Sur YouTube, les créateurs pourront tester plusieurs versions d’une même vidéo",
+      "description": "Les créateurs de contenu pourront publier jusqu'à trois versions d'une même vidéo à différents groupes de spectateurs, afin d'identifier et de retenir la plus performante.",
+      "link": "https://www.blogdumoderateur.com/youtube-createurs-tester-plusieurs-versions-meme-video/",
+      "pubDate": "2026-09-25T07:20:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/ab-testing-video-youtube-294x165.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "4ecd0b06bd4f",
+      "title": "Data centers : ce que le projet de Google à Châteauroux dit de la méthode française",
+      "description": "Un élu français ne peut pas s'engager à taire une délibération, contrairement à son homologue américain. Mais rien ne l'oblige à rendre publique la phase qui la précède : à Châteauroux, neuf mois ont séparé le vote du compromis de vente conclu avec Google de l'ouverture d'une concertation sur son…",
+      "link": "https://www.blogdumoderateur.com/data-centers-projet-google-chateauroux-methode-francaise/",
+      "pubDate": "2026-09-25T05:00:21.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Hilda-Weges-stock.adobe_.com-data-center-google-pays-bas-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ff3979163f0a",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "pubDate": "2026-09-25T05:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "031102da6493",
+      "title": "#349.exe - Tech et Soft Skills: Pourquoi l'empathie fait la différence dans une équipe de dev ? par Salim Gomri",
+      "description": "Pour l'épisode #349 je recevais Sébastien Deleuze. On en débrief avec Salim. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-349-2f37f1e68483",
+      "pubDate": "2026-09-25T03:00:01.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/27d8368d-1a7d-4b00-ad17-2f37f1e68483.mp3?_=1790251261",
+      "duration": "15:37"
+    },
+    {
+      "id": "32f37a75309c",
+      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+      "description": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
+      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "pubDate": "2026-09-24T23:24:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "18f34bb3badd",
+      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "description": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+      "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "pubDate": "2026-09-24T20:45:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4317c9e267fd",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "description": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "pubDate": "2026-09-24T19:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "30290d8cdac7",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "pubDate": "2026-09-24T19:00:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "96dee6a51268",
+      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "description": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "pubDate": "2026-09-24T18:52:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c335002ef9b",
+      "title": "SEO : Google déploie une mise à jour de ses algorithmes (September 2026 spam update)",
+      "description": "Google lance la September 2026 Spam Update, sa quatrième mise à jour antispam de l'année, à peine plus d'un mois après la précédente.",
+      "link": "https://www.blogdumoderateur.com/seo-google-september-2026-spam-update/",
+      "pubDate": "2026-09-24T18:27:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/septembre-2026-spam-update-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8e953b62eee2",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "description": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "pubDate": "2026-09-24T18:11:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c55e075bb2c7",
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "description": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "pubDate": "2026-09-24T17:39:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d85a3e8ff06a",
+      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+      "description": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+      "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+      "pubDate": "2026-09-24T17:07:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f97969c5d20f",
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "pubDate": "2026-09-24T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "868f222fe113",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know ",
+      "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "pubDate": "2026-09-24T16:46:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "87cb2cb94630",
+      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "description": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "pubDate": "2026-09-24T16:35:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b548e94cd89c",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+      "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-09-24T16:03:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f450f8a8f92a",
+      "title": "Google tests letting Gemini call businesses for you",
+      "description": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "pubDate": "2026-09-24T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "add493df5d5c",
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "description": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
+      "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-09-24T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c33bafb0fdf0",
+      "title": "Search Console : un nouveau filtre pour suivre le trafic issu des images",
+      "description": "Les recherches lancées depuis l'appareil photo d'un smartphone ou une capture d'écran ne se confondent plus avec les requêtes textuelles dans la Search Console.",
+      "link": "https://www.blogdumoderateur.com/search-console-nouveau-filtre-suivre-trafic-images/",
+      "pubDate": "2026-09-24T14:55:47.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Recherche-images-search-console-google-294x184.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f602776a0ed2",
+      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+      "description": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+      "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "pubDate": "2026-09-24T14:43:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a6e0c2c45467",
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "description": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
+      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "pubDate": "2026-09-24T14:31:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b36e7b258191",
+      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+      "description": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+      "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+      "pubDate": "2026-09-24T14:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "58e647b53b6d",
+      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+      "description": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
+      "link": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+      "pubDate": "2026-09-24T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1faf19e360a7",
+      "title": "Comment Kozykod révolutionne les applications d’entreprise grâce au no-code",
+      "description": "Dans cet épisode de B2Biz, Michael Delvoye, fondateur de Misyl et de Kozykod, discute de l'automatisation des processus métiers, des solutions No-code et Low-code, et de la souveraineté des données. Il explique comment Kozykod améliore la productivité en remplaçant les systèmes Excel critiques,…",
+      "link": "https://oliviersauvage.com/2026/09/24/comment-kozykod-revolutionne-les-applications-dentreprise-grace-au-no-code/",
+      "pubDate": "2026-09-24T13:11:24.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0655c35997df",
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "description": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "pubDate": "2026-09-24T12:54:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d7acfc812776",
+      "title": "Montage conversationnel, test A/B vidéo, lives : les annonces de YouTube aux créateurs",
+      "description": "Lors de sa conférence Made on YouTube, la plateforme a dévoilé une série d'outils, dont certains ne seront pas accessibles en Europe dès leur lancement. Tour d'horizon des nouveautés à retenir pour les créateurs et les community managers.",
+      "link": "https://www.blogdumoderateur.com/montage-conversationnel-test-a-b-video-lives-annonces-youtube-createurs/",
+      "pubDate": "2026-09-24T10:02:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Made-on-YouTube-2026-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0bdb95e32057",
+      "title": "Lycos va chercher une seconde vie après le rachat du domaine",
+      "description": "Plus de quinze ans après la fermeture de Lycos Europe, l'éditeur ADN Contents mise sur le souvenir laissé par le portail chez les internautes des années 1990. Mais pas que.",
+      "link": "https://www.blogdumoderateur.com/lycos-va-chercher-seconde-vie-rachat-domaine/",
+      "pubDate": "2026-09-24T09:22:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Lycos-2001-294x236.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "76b4b07c5385",
+      "title": "Malgré la polémique, Discord déploie son système de vérification d’âge",
+      "description": "La plateforme assure que la grande majorité des utilisateurs n'aura aucune démarche à effectuer.",
+      "link": "https://www.blogdumoderateur.com/discord-deploie-systeme-verification-age/",
+      "pubDate": "2026-09-24T09:21:03.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/discord-verification-age-294x176.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3c933e6439df",
+      "title": "LinkedIn : les pages entreprise peuvent enfin supprimer les faux employés",
+      "description": "LinkedIn s'attaque aux faux salariés sur les pages entreprise et teste la vérification des expériences par les anciens collègues.",
+      "link": "https://www.blogdumoderateur.com/linkedin-pages-entreprise-supprimer-faux-employes/",
+      "pubDate": "2026-09-24T09:20:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/linkedin-verification-employes-page-294x154.png",
+      "type": "blog"
+    },
+    {
       "id": "8adc3277eb43",
       "title": "Gryzzly met à disposition un calculateur de TJM gratuit, pensé pour les agences",
       "description": "Les simulateurs de TJM visent surtout les indépendants. Gryzzly met à disposition un calculateur gratuit qui raisonne à l'échelle de l'entreprise, à partir des coûts réels et d'un objectif de marge.",
