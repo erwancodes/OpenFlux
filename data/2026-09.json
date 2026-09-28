@@ -2,6 +2,224 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "721b986d2d35",
+      "title": "AI in B2 SMEs: Artificial Intelligence, the bane of bosses?",
+      "description": "Many people feel lost when faced with omnipresent AI tools, unable to benefit from them. Although these technologies have a big potential of boosting productivity, their incorporation into businesses is hampered by managerial resistance and fears. The transformation is slowed by a rigid…",
+      "link": "https://oliviersauvage.com/2026/09/28/ai-in-b2-smes-artificial-intelligence-the-bane-of-bosses/",
+      "pubDate": "2026-09-28T09:30:41.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a0388c3d7627",
+      "title": "LinkedIn teste un fil d’actualité limité aux relations et aux abonnements",
+      "description": "Le réseau social professionnel expérimente un nouvel onglet qui regroupe uniquement les posts des personnes auxquelles l'utilisateur est connecté ou qu'il suit.",
+      "link": "https://www.blogdumoderateur.com/linkedin-teste-fil-actualite-limite-relations-abonnements/",
+      "pubDate": "2026-09-28T08:20:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Feed-Network-LinkedIn-294x180.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "da64e5ccfb06",
+      "title": "IA : les 10 générateurs d’images les plus performants en septembre 2026",
+      "description": "Trois semaines après son lancement, ChatGPT Images 2.5 domine les deux classements images d'Arena. Ses deux déclinaisons devancent son prédécesseur.",
+      "link": "https://www.blogdumoderateur.com/ia-10-generateurs-images-performants-septembre-2026/",
+      "pubDate": "2026-09-28T08:19:55.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/text-to-image-septembre-2026-294x152.png",
+      "type": "blog"
+    },
+    {
+      "id": "25f2e2470423",
+      "title": "Téléphonie d’entreprise : ce que le cloud change pour les TPE et PME",
+      "description": "Plus de boîtier sur site, des lignes ouvertes ou fermées en quelques minutes et une facture au mois. La téléphonie cloud arrive chez les TPE et PME, un segment que l'opérateur allemand easybell vise depuis son implantation en France.",
+      "link": "https://www.blogdumoderateur.com/telephonie-cloud-tpe-pme-easybell/",
+      "pubDate": "2026-09-28T07:32:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/EASYBELL-X-BLOG-DU-MODERATEUR-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "56714977843c",
+      "title": "Relation client, aide à l’achat,vente : reprendre le contrôle de vos chatbots",
+      "description": "Les chatbots, initialement perçus comme une solution idéale pour le service client, peuvent engendrer des problèmes imprévus, comme des conseils erronés ou des recommandations non sollicitées. Les entreprises doivent analyser et améliorer leur fonctionnement, tout en exploitant les échanges clients…",
+      "link": "https://oliviersauvage.com/2026/09/28/relation-client-aide-a-lachatvente-reprendre-le-controle-de-vos-chatbots/",
+      "pubDate": "2026-09-28T07:03:46.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba634b8302c8",
+      "title": "5 formations pour devenir un expert en cybersécurité",
+      "description": "Cette sélection de formations vous prépare aux métiers de la cybersécurité pour vous spécialiser dans ce domaine qui recrute.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-cybersecurite-319/",
+      "pubDate": "2026-09-28T06:00:58.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/selection-formation-cybersecurite-319-294x155.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f17a95cfe15c",
+      "title": "Entretien avec José António Bernardo, chef de projet R&D chez ABMI Groupe",
+      "description": "« Un modèle qui donne un bon chiffre n’a encore rien prouvé » Entre intelligence artificielle, robotique et systèmes embarqués, le passage du laboratoire au monde réel reste un défi majeur. Pour José António Bernardo, docteur en microélectronique et intelligence artificielle, la performance d’un…",
+      "link": "https://www.robot-magazine.fr/entretien-avec-jose-antonio-bernardo-chef-de-projet-rd-chez-abmi-groupe/?utm_source=rss&utm_medium=rss&utm_campaign=entretien-avec-jose-antonio-bernardo-chef-de-projet-rd-chez-abmi-groupe",
+      "pubDate": "2026-09-28T05:05:02.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2026/09/Jose-Antonio-Bernardo.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "a0e0e874ba5a",
+      "title": "Calendrier marketing 2026 : les temps forts à suivre au 4e trimestre",
+      "description": "Cybermois, Black Friday, Noël, journées mondiales... Les dates à retenir pour organiser vos prises de parole jusqu'au 31 décembre.",
+      "link": "https://www.blogdumoderateur.com/calendrier-marketing-2026-temps-forts-4e-trimestre/",
+      "pubDate": "2026-09-28T05:00:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/calendrier-marketing-2026-trimestre-4-temps-forts-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "9c4e9ad210ff",
+      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+      "description": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+      "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+      "pubDate": "2026-09-28T04:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32f206d5a41c",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "pubDate": "2026-09-27T20:34:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f5ecb7d59028",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "pubDate": "2026-09-27T19:57:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6901e5768842",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "description": "\"AI is the devil and I its maker.\"",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "pubDate": "2026-09-27T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3e67874a297",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "pubDate": "2026-09-27T16:02:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "09e4001fb60a",
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "pubDate": "2026-09-27T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "74f4ef20dd30",
       "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
       "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
