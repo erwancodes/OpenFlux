@@ -2,6 +2,404 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "7d7bb27a02a0",
+      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+      "description": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+      "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+      "pubDate": "2026-09-29T10:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21816adb0320",
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "description": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+      "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "pubDate": "2026-09-29T09:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d2751dfdd96",
+      "title": "Les AI Overviews ont débarqué en France : et maintenant ?",
+      "description": "Eric Demaret, qui pilote les activités SEO et GEO d'Origine by Orixa, revient sur les premiers effets des AI Overviews en France et sur les indicateurs à suivre quand le suivi de position ne suffit plus.",
+      "link": "https://www.blogdumoderateur.com/ai-overviews-france-et-maintenant/",
+      "pubDate": "2026-09-29T08:21:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/BDM-orixa-SEO-GEO-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "62040bc79af5",
+      "title": "Avec Muse, Meta tient-il enfin son premier hit ?",
+      "description": "Lancé le 8 septembre aux États-Unis, cet agent IA conçu pour le grand public a déjà été téléchargé plus de 3 millions de fois. Le pari de la simplicité serait-il en train de porter ses fruits ?",
+      "link": "https://www.blogdumoderateur.com/muse-meta-premier-hit/",
+      "pubDate": "2026-09-29T08:05:35.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/meta-muse-succes-etats-unis-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "f216677d1e0c",
+      "title": "12 événements à ne pas manquer en octobre 2026",
+      "description": "Retrouvez dans cette sélection : DÉCODE 3, des webinars sur le marketing mobile et la valeur d’une stratégie social media, la Semaine de la souveraineté numérique, SEO Square, les Marketing Digital Days, mais aussi l'Adobe Summit Paris, One to One IA x Expérience Client, les Assises de la…",
+      "link": "https://www.blogdumoderateur.com/evenements-digital-octobre-2026/",
+      "pubDate": "2026-09-29T06:00:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/evenements-digital-octobre-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d22fa48862e8",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "description": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "pubDate": "2026-09-29T05:13:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c113c30f81b2",
+      "title": "Réutiliser des extraits de vidéos YouTube pour son propre contenu : c’est légal ça ?",
+      "description": "Reprendre quelques secondes d'une vidéo YouTube ou d'un live, pour illustrer un contenu ou l'appuyer, semble anodin. Alan Walter et Yann-Maël Larher rappellent que cette pratique reste juridiquement encadrée, et rarement sans risque.",
+      "link": "https://www.blogdumoderateur.com/reutiliser-extraits-videos-youtube-legal-ou-pas/",
+      "pubDate": "2026-09-29T05:00:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Extrait-YouTube-Legal-294x188.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e7fe06876df3",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "pubDate": "2026-09-29T00:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5e6a557ab268",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "pubDate": "2026-09-28T23:39:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "458d82b1a2b7",
+      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+      "description": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
+      "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+      "pubDate": "2026-09-28T22:58:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60e195b06c19",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "pubDate": "2026-09-28T21:29:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "45042b45406b",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "description": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "pubDate": "2026-09-28T20:39:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8dfae19f11de",
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "pubDate": "2026-09-28T19:33:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c9a2246cac81",
+      "title": "Tesla delays Roadster 2 event again due to bad weather",
+      "description": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+      "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+      "pubDate": "2026-09-28T19:27:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "53f952cbb4d7",
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "description": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "pubDate": "2026-09-28T19:21:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5a99ebb20294",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
+      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "pubDate": "2026-09-28T18:31:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f80268bcd9fb",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "pubDate": "2026-09-28T18:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ab95dff2b094",
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
+      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "pubDate": "2026-09-28T17:29:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "db3dfcf2b649",
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "pubDate": "2026-09-28T17:09:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d211ef06bee5",
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "pubDate": "2026-09-28T16:52:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6c1e93c33d9",
+      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+      "description": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
+      "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+      "pubDate": "2026-09-28T16:47:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9867440d537a",
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-09-28T15:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "64e9e403e3f6",
+      "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+      "description": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
+      "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+      "pubDate": "2026-09-28T15:29:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "99411e9c6e00",
+      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "description": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
+      "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+      "pubDate": "2026-09-28T15:26:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0ec89a0d1073",
+      "title": "Customer relations, purchase assistance, sales: regaining control of your chatbots",
+      "description": "Chatbots, initially perceived as an ideal solution for customer service, can generate unforeseen problems, such as erroneous advice or unsolicited recommendations. Companies must analyze and improve their operation, while leveraging customer interactions to create relevant content and effectively…",
+      "link": "https://oliviersauvage.com/2026/09/28/customer-relations-purchase-assistance-sales-regaining-control-of-your-chatbots/",
+      "pubDate": "2026-09-28T13:25:26.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "721b986d2d35",
       "title": "AI in B2 SMEs: Artificial Intelligence, the bane of bosses?",
       "description": "Many people feel lost when faced with omnipresent AI tools, unable to benefit from them. Although these technologies have a big potential of boosting productivity, their incorporation into businesses is hampered by managerial resistance and fears. The transformation is slowed by a rigid…",
