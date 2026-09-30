@@ -2,6 +2,503 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "267eaf6eedfc",
+      "title": "OpenAI lance les dots, des agents IA autonomes connectés à plus de 4 000 applications",
+      "description": "Après Muse de Meta, OpenAI dégaine à son tour un agent IA conçu pour travailler en permanence, même quand ChatGPT est fermé.",
+      "link": "https://www.blogdumoderateur.com/openai-dots-agents-ia-autonomes/",
+      "pubDate": "2026-09-30T08:43:19.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Dots-OpenAI-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9e474059de54",
+      "title": "ChatGPT Space, Pages et slides : OpenAI dessine sa propre suite bureautique",
+      "description": "Des documents qui se mettent à jour à partir des outils connectés, des présentations éditées à plusieurs et un espace partagé avec les agents IA : ChatGPT se rapproche un peu plus de la bureautique.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-space-pages-slides-openai-dessine-suite-bureautique/",
+      "pubDate": "2026-09-30T08:42:01.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/ChatGPT-Space-OpenAI-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a647591021ef",
+      "title": "GPT-6.1 Sol : performances, tarifs et disponibilité du nouveau modèle d’OpenAI",
+      "description": "Une semaine après la sortie de GPT-6 Sol, OpenAI dévoile une version améliorée qui égale Astra sur certains tests de code. Le tarif ne change pas, mais le modèle est désormais classé au niveau critique en cybersécurité.",
+      "link": "https://www.blogdumoderateur.com/gpt-6-1-sol-performances-tarifs-disponibilite-nouveau-modele-openai/",
+      "pubDate": "2026-09-30T08:38:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/GPT-6-1-Sol-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "091fa76c0e0d",
+      "title": "Tony Tung : « Autonomie digitale et autonomie physique feront partie d’un même continuum »",
+      "description": "Après près de dix ans chez Meta, Tony Tung rejoint PRESAGE comme cofondateur et directeur scientifique. Son ambition : développer des Digital World Models capables de comprendre les infrastructures numériques, d’anticiper leur évolution et de simuler les conséquences d’une intervention. Pour Robot…",
+      "link": "https://www.robot-magazine.fr/tony-tung-autonomie-digitale-et-autonomie-physique-feront-partie-dun-meme-continuum/?utm_source=rss&utm_medium=rss&utm_campaign=tony-tung-autonomie-digitale-et-autonomie-physique-feront-partie-dun-meme-continuum",
+      "pubDate": "2026-09-30T08:22:20.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2025/12/quotes-Robot-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e9491ff5e423",
+      "title": "Générer son UI avec l'IA : intégrer GenUI et Firebase AI Logic dans une app Flutter",
+      "description": "Et si l'interface de votre application n'était plus figée dans le code, mais générée à la volée par un modèle d'IA en fonction de la conversation avec l'utilisateur ? C'est la promesse de la generative UI (GenUI).",
+      "link": "https://blog.ippon.fr/2026/09/30/generer-son-ui-avec-lia-integrer-genui-et-firebase-ai-logic-dans-une-app-flutter/",
+      "pubDate": "2026-09-30T07:53:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/ChatGPT-Image-23-sept.-2026--15_37_47.png",
+      "type": "blog"
+    },
+    {
+      "id": "48dd9f63f6a9",
+      "title": "Super Intelligence : comment Donald Trump a fait exploser les noms de domaine slovènes",
+      "description": "Après le golfe du Mexique ou le lac Ontario, c'est au tour de l'intelligence artificielle d'être rebaptisée par Donald Trump. Le changement de vocabulaire fait grimper en flèche les enregistrements de domaines slovènes.",
+      "link": "https://www.blogdumoderateur.com/super-intelligence-donald-trump-noms-domaine-slovenes/",
+      "pubDate": "2026-09-30T07:32:24.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/super-intelligence-trump-slovenie-294x220.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "37ea31234e27",
+      "title": "Ce qu’on a lu, vu, aimé et entendu en septembre 2026 : les recos de la rédaction",
+      "description": "Au programme ce mois-ci : l'enquête de 404 Media sur les évaluateurs de ChatGPT, le débat sur les risques de l'IA, l'EU Score, WikiMasters et ahh.gpt.",
+      "link": "https://www.blogdumoderateur.com/recos-redaction-septembre-2026/",
+      "pubDate": "2026-09-30T05:30:40.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/recos-septembre-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a9ec1065f1df",
+      "title": "IA, contenu recyclé, production soutenue : la méthode d’Alegria.group pour multiplier les formats",
+      "description": "Comment faire vivre un même contenu sur plusieurs canaux ? Aurélia Azoulay-Guetta, Chief Revenue Officer d'Alegria.group, nous détaille sa méthode pour décliner ses prises de parole grâce à l'IA, et les tâches qu'elle continue de réserver à l'humain.",
+      "link": "https://www.blogdumoderateur.com/ia-contenu-recycle-production-soutenue-methode-alegria-group-multiplier-formats/",
+      "pubDate": "2026-09-30T05:00:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Aurelia-Azoulay-Guetta-Alegria-group-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e7c6a0bc5d6d",
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "pubDate": "2026-09-30T04:08:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b3e755e8302",
+      "title": "#378.ad - Renforcer la donnée: La donnée, grande oubliée du multicloud avec Christophe Francois",
+      "description": "\"Aujourd'hui, tout le monde s'enorgueillit de faire du cloud native, mais qui pense vraiment à construire sa sauvegarde et à restaurer ses données partout, et soit vraiment partout ?\" Le D.E.V. de la semaine est Christophe François, Directeur des ventes Europe du Sud chez Veeam, en charge de…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-378-faec7756bbd7",
+      "pubDate": "2026-09-30T03:00:23.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/b1ae5438-5035-49c3-acc2-201f0df8da9e.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/44d3561f-a515-4e23-9ca1-faec7756bbd7.mp3?_=1790683283",
+      "duration": "51:07"
+    },
+    {
+      "id": "71e6ed4c5cc0",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "pubDate": "2026-09-29T23:30:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7d7b794f0ae",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "description": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "pubDate": "2026-09-29T22:20:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "499a6ea33b62",
+      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+      "description": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+      "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+      "pubDate": "2026-09-29T22:18:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7414811d518e",
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "description": "EliseAI raises $350M, doubles valuation in a year.",
+      "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "pubDate": "2026-09-29T21:51:36.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e313f551a3e",
+      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+      "description": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
+      "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+      "pubDate": "2026-09-29T21:20:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "352a298aea68",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "description": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "pubDate": "2026-09-29T20:15:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "22cdc3a1949b",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "pubDate": "2026-09-29T19:52:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "502ba61c9ccd",
+      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+      "description": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start building your calendar.",
+      "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "pubDate": "2026-09-29T18:48:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6a8c56ed5523",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "pubDate": "2026-09-29T18:35:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2688204fcb28",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "description": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "pubDate": "2026-09-29T17:45:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8a3fa5a7a887",
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "description": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
+      "link": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+      "pubDate": "2026-09-29T17:27:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c20493adac5f",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "pubDate": "2026-09-29T17:20:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4695af4a940d",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "description": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "pubDate": "2026-09-29T17:17:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0e5c51300664",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "pubDate": "2026-09-29T17:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dcb66824e228",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "description": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "pubDate": "2026-09-29T17:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "65ca132dae7d",
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "description": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "pubDate": "2026-09-29T17:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e86718cab202",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "description": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "pubDate": "2026-09-29T16:55:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "132ab5ab67fa",
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "description": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+      "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "pubDate": "2026-09-29T15:12:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "949bfc211327",
+      "title": "Google déploie massivement son option de veille dans l’AI Mode",
+      "description": "Google étend à tous les utilisateurs et utilisatrices d'AI Mode la possibilité de confier le suivi d'un sujet au moteur de recherche. Une notification signale ensuite chaque évolution.",
+      "link": "https://www.blogdumoderateur.com/google-deploie-option-veille-ai-mode/",
+      "pubDate": "2026-09-29T15:00:37.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/Google-AI-Mode-veille-294x172.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "eadcdf1adcd2",
+      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+      "description": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
+      "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+      "pubDate": "2026-09-29T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48c272ad5538",
+      "title": "Muse for Small Business : Meta décline son agent IA pour les petites entreprises",
+      "description": "Encore indisponible en France, l'agent IA de Meta peut désormais réaliser des tâches ciblées pour les TPE et les PME, principalement grâce à de nouveaux connecteurs.",
+      "link": "https://www.blogdumoderateur.com/meta-muse-for-small-business-agent-ia-petites-entreprises/",
+      "pubDate": "2026-09-29T14:53:37.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/muse-small-business-294x164.jpg",
+      "type": "blog"
+    },
+    {
       "id": "7d7bb27a02a0",
       "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
       "description": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
@@ -15,6 +512,38 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a8d586383744",
+      "title": "Nvidia lance une plateforme pour garder le contrôle sur les agents IA",
+      "description": "Pour Nvidia, la sécurité des agents IA est avant tout un problème technique. Le fournisseur de puces des grands laboratoires propose sa propre parade, qui repose en partie sur son matériel.",
+      "link": "https://www.blogdumoderateur.com/nvidia-lance-plateforme-garder-controle-agents-ia/",
+      "pubDate": "2026-09-29T09:16:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/nvidia-open-agent-safety-platform-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "56297cf7f12a",
+      "title": "Claude Sonnet 5.5 : Anthropic mise sur la vitesse et le coût pour son modèle intermédiaire",
+      "description": "Selon Anthropic, Claude Sonnet 5.5 génère ses réponses plus de 30 % plus vite que Sonnet 5 et coûte jusqu'à 30 % de moins par tâche. Il devient le modèle par défaut de l'offre gratuite.",
+      "link": "https://www.blogdumoderateur.com/claude-sonnet-5-5-anthropic-mise-sur-vitesse-cout-modele-intermediaire/",
+      "pubDate": "2026-09-29T09:10:41.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/claude-sonnet-5-5-294x153.jpg",
       "type": "blog"
     },
     {
@@ -127,6 +656,23 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dbfa0667a0e3",
+      "title": "Mon second cerveau, pour moi et pour mes agents : Obsidian alimenté par Claude Code",
+      "description": "Je n'écris plus mes notes, je les dicte. Claude les range dans Obsidian, les retrouve dans n'importe quelle session, depuis mon téléphone comme depuis mon ordinateur. Retour sur un second cerveau alimenté par l'IA, sans usine à gaz.",
+      "link": "https://yoandev.co/second-cerveau-ia-obsidian-claude",
+      "pubDate": "2026-09-29T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/second-cerveau-ia-obsidian-claude.webp",
       "type": "blog"
     },
     {
@@ -333,6 +879,22 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae7d66e30a56",
+      "title": "Auto-unseal d'OpenBao avec le KMS d'OVHcloud",
+      "description": "Sceller la root key d'OpenBao avec une clé AES-256 qui ne quitte jamais le KMS d'OVHcloud, via le seal KMIP intégré",
+      "link": "https://une-tasse-de.cafe/expresso/openbao-unseal-ovh-kms/",
+      "pubDate": "2026-09-28T16:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
       ],
       "image": null,
       "type": "blog"
