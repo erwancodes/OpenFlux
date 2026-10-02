@@ -895,6 +895,21 @@
       "type": "blog"
     },
     {
+      "id": "c49c025524db",
+      "title": "Développer un projet de manipulation robotique : par où commencer ?",
+      "description": "Développer un projet de manipulation robotique avec PiPER : par où commencer ? 28 septembre 2026 Un projet de manipulation robotique peut commencer par une tâche relativement simple : saisir un objet et le déplacer. Mais la même plateforme peut ensuite servir à travailler sur la planification de…",
+      "link": "https://www.generationrobots.com/blog/fr/developper-un-projet-de-manipulation-robotique-par-ou-commencer/",
+      "pubDate": "2026-09-29T12:03:12.000Z",
+      "source": "Génération Robots",
+      "sourceUrl": "https://www.generationrobots.com/blog/fr/feed/",
+      "categories": [
+        "Robotique",
+        "Programmation"
+      ],
+      "image": "https://www.generationrobots.com/blog/wp-content/uploads/2026/09/piper-6-axes-bras-agilex-1-300x150.jpg",
+      "type": "blog"
+    },
+    {
       "id": "7d7bb27a02a0",
       "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
       "description": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
