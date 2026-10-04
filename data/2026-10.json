@@ -2,6 +2,118 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "d3e5e8c1a81a",
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "description": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "pubDate": "2026-10-03T19:33:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67dac9f5f513",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "pubDate": "2026-10-03T18:43:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a09b2d01056",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "pubDate": "2026-10-03T16:30:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "af2cb38571be",
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "pubDate": "2026-10-03T15:02:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4f08974d5fd",
+      "title": "Vessev built an electric ferry that almost flies",
+      "description": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+      "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "pubDate": "2026-10-03T14:42:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3c49c40e0ec3",
+      "title": "All the AI agents that can live in your text messages ",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "pubDate": "2026-10-03T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3cc30dd136f9",
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "description": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "pubDate": "2026-10-03T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e81d4c1e5261",
       "title": "Tunnels HTTP auto-hébergés avec SSH et nginx",
       "description": "Un ami veut relire votre article de blog en cours de rédaction, mais sa prévisualisation ne tourne que sur . peuvent aider. Certains sont des services commerciaux, comme ou . D’autres peuvent être auto-hébergés, mais exigent un client dédié, comme ou . D’autres encore se contentent d’un simple…",
@@ -47,6 +159,23 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b9d17b82a82",
+      "title": "EmDash, le « successeur de WordPress » piloté par un agent IA",
+      "description": "Cloudflare a sorti EmDash 1.0, un CMS open source pensé dès le départ pour être piloté par des agents IA. Ce qu'il est (et n'est pas) pour un utilisateur WordPress, puis six prompts pour monter un blog tech, le mettre en ligne et le piloter depuis Claude via MCP.",
+      "link": "https://yoandev.co/emdash-cms-blog-agent-ia",
+      "pubDate": "2026-10-03T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/emdash-cms-blog-agent-ia.webp",
       "type": "blog"
     },
     {
