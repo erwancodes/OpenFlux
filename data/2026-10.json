@@ -2,6 +2,181 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "8b7c54ec51fc",
+      "title": "IA : les meilleurs modèles pour le code et le développement web en octobre 2026",
+      "description": "Claude Opus 5.5 Max prend la tête du classement général et du front-end de la WebDev Arena, tandis que GPT-6 Astra Max s'impose sur les tâches fullstack.",
+      "link": "https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-octobre-2026/",
+      "pubDate": "2026-10-05T07:55:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/overall-arena-octobre-2026-294x160.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f19963b96ae0",
+      "title": "Cybersécurité : les attaquants exploitent la confiance des salariés, selon Microsoft et l’ENISA",
+      "description": "Phishing, vol d'identifiants et ClickFix dominent les intrusions observées par Microsoft et l'ENISA. L'IA renforce surtout des techniques connues, mais l'éditeur américain s'attend à voir les usages les plus avancés se banaliser d'ici un an.",
+      "link": "https://www.blogdumoderateur.com/cyberattaquants-exploitent-confiance-salaries-microsoft-enisa/",
+      "pubDate": "2026-10-05T07:25:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/phishing-techniques-ingenierie-sociale-ue-ENISA-294x160.png",
+      "type": "blog"
+    },
+    {
+      "id": "e448c6c94f6f",
+      "title": "Le futur du développement : à quoi ressemblera le métier d'ici 2035",
+      "description": "Le futur du développement : à quoi ressemblera le métier d'ici 2035",
+      "link": "https://blog.ippon.fr/2026/10/05/futur-du-developpement-2035/",
+      "pubDate": "2026-10-05T07:01:03.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/pexels-kevin-ku-92347-577585.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "86a42c17f875",
+      "title": "Souveraineté numérique: l’Europe a la tête dans les nuages, Octave Klaba jette un pavé dans le Cloud",
+      "description": "Octave Klaba, fondateur d'OVHcloud, a critiqué l'audition récente à l'Assemblée nationale, mettant en avant le manque de courage politique en Europe face à l'IA. Il dénonce la culture financière court-termiste des investisseurs et l'inefficacité administrative qui freine l'innovation. Pour lui, il…",
+      "link": "https://oliviersauvage.com/2026/10/05/souverainete-numerique-leurope-a-la-tete-dans-les-nuages-octave-klaba-jette-un-pave-dans-le-cloud/",
+      "pubDate": "2026-10-05T06:12:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6aa8f8464ae1",
+      "title": "5 formations pour apprendre le SEO à l’ère des moteurs de recherche IA",
+      "description": "Notre sélection de formations de la semaine vous enseigne les techniques du référencement naturel pour améliorer votre visibilité et maîtriser l'IA dans ce domaine.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-seo-ia-320/",
+      "pubDate": "2026-10-05T06:00:31.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/selection-formation-seo-ia-320-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8ea83e4e79fd",
+      "title": "« Choisies comme un gibier » : la Corée du Sud face au scandale des deepfakes sexuels",
+      "description": "À l'été 2024, la Corée du Sud découvre que des centaines d'écoles sont visées par des deepfakes sexuels fabriqués sur Telegram. Face à un État défaillant et à des plateformes intouchables, ce sont les femmes, victimes et militantes, qui ont dû devenir les enquêtrices.",
+      "link": "https://www.blogdumoderateur.com/choisies-comme-gibier-coree-sud-scandale-deepfakes-sexuels/",
+      "pubDate": "2026-10-05T05:00:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/07/Coree-du-Sud-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "562acc36900e",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "description": "AI slop seems to be overwhelming bug bounty programs.",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "pubDate": "2026-10-04T20:31:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5eabcfd97d22",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "pubDate": "2026-10-04T20:08:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "443bfe9a215f",
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "pubDate": "2026-10-04T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ee9cfb9e6e63",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "description": "This new task force is Trump's latest response to the debate over AI safety.",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "pubDate": "2026-10-04T15:15:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "468371eb9d6b",
+      "title": "Bidouiller le compilateur Go pour convertir efficacement les IPv4 en IPv6",
+      "description": "expose une méthode qui renvoie l’adresse IPv4 contenue dans une (). À partir de ou de , elle renvoie . Il n’existe pas de méthode ou pour l’opération inverse. Une telle méthode est triviale à écrire, mais les mainteneurs de Go l’ont au motif que les utilisateurs devraient écrire et laisser le…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-go-netip-addrto6",
+      "pubDate": "2026-10-04T14:12:19.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d3e5e8c1a81a",
       "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
       "description": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
