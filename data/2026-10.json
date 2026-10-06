@@ -2,6 +2,421 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "c1cb8a26d038",
+      "title": "Comment recevoir des fichiers volumineux avec TransferNow",
+      "description": "Recevoir des fichiers volumineux se révèle souvent plus laborieux que de les envoyer. Tour d'horizon des méthodes proposées par TransferNow pour collecter des fichiers lourds auprès de clients et de prestataires.",
+      "link": "https://www.blogdumoderateur.com/comment-recevoir-fichiers-volumineux-transfernow/",
+      "pubDate": "2026-10-06T09:25:26.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/09/lien-depot-transfernow-1-294x152.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fa3462d908f2",
+      "title": "Les textes générés par ChatGPT vont intégrer un filigrane invisible",
+      "description": "La technologie d'OpenAI oriente le choix des mots de ses modèles pour laisser une empreinte invisible, pouvant être repérée par son détecteur. Mais la méthode a ses failles.",
+      "link": "https://www.blogdumoderateur.com/textes-chatgpt-filigrane-invisible/",
+      "pubDate": "2026-10-06T09:24:30.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/openai-outil-detection-chatgpt-codex-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "76777c9b6467",
+      "title": "Gemini limite les modèles accessibles sur la version gratuite",
+      "description": "À partir du 9 octobre, les comptes Gemini sans abonnement n'auront plus accès qu'au modèle Flash-Lite. Les abonnés AI Plus perdent de leur côté l'accès au modèle Pro.",
+      "link": "https://www.blogdumoderateur.com/gemini-limite-modeles-accessibles-version-gratuite/",
+      "pubDate": "2026-10-06T09:23:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Gemini-Limites-Utilisation-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d4cf55bbcd4c",
+      "title": "Ce que les relations presse peuvent vous faire gagner à l’ère de l’IA",
+      "description": "Les relations presse jouent un rôle crucial dans la visibilité et la crédibilité des entreprises, surtout à l'ère de l'intelligence artificielle. Elles aident à construire une réputation en fournissant des contenus d'expertise qui influencent les décisions d'achat. Les dirigeants doivent prendre la…",
+      "link": "https://oliviersauvage.com/2026/10/06/ce-que-les-relations-presse-peuvent-vous-faire-gagner-a-lere-de-lia/",
+      "pubDate": "2026-10-06T07:32:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21df5bac8017",
+      "title": "La boîte à outils des agences augmentées par l’IA, par Marie Robin (Fleet Forward)",
+      "description": "Un outil n'a sa place dans une agence que s'il nourrit sa mémoire ou qu'un agent IA peut s'y brancher. Marie Robin, fondatrice de Fleet Forward, livre les 10 abonnements qu'elle garderait si elle devait résilier tous les autres.",
+      "link": "https://www.blogdumoderateur.com/boite-outils-agences-augmentees-ia-marie-robin-fleet-forward/",
+      "pubDate": "2026-10-06T05:00:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/boite-outils-agence-marie-robin-294x221.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "2c885aca8b09",
+      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+      "description": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+      "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+      "pubDate": "2026-10-05T21:54:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "97444bbb8a51",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "pubDate": "2026-10-05T20:36:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a1e40d56454e",
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "description": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "pubDate": "2026-10-05T20:24:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "15b6a18c5180",
+      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+      "description": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+      "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+      "pubDate": "2026-10-05T19:38:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a7128a85cbf6",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "pubDate": "2026-10-05T19:33:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8de392d79330",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "pubDate": "2026-10-05T18:54:30.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "42a6a218f0ff",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "pubDate": "2026-10-05T18:29:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e88715398c52",
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "description": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+      "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "pubDate": "2026-10-05T18:07:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8c7e4fe50290",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "description": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "pubDate": "2026-10-05T17:29:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ec5bd39687b2",
+      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
+      "description": "TechCrunch attended Pear’s latest demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
+      "link": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+      "pubDate": "2026-10-05T17:26:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d16241c2084e",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "description": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "pubDate": "2026-10-05T16:43:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a0ec29c39f5f",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "description": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "pubDate": "2026-10-05T15:14:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "76acd8b4ee81",
+      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+      "description": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
+      "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+      "pubDate": "2026-10-05T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fb4a44bb6384",
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "description": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-10-05T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2b3cd7b0777f",
+      "title": "Hackers steal 8 million citizens’ records from Danish government database",
+      "description": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+      "link": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+      "pubDate": "2026-10-05T14:58:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "df294a11bdb6",
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "description": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "pubDate": "2026-10-05T14:35:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1e6c3300622",
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "description": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+      "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "pubDate": "2026-10-05T14:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "27292943f445",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "description": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+      "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "pubDate": "2026-10-05T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a04fd0e7808c",
+      "title": "Grille des salaires marketing, digital et tech en 2027 : les postes les mieux rémunérés en France",
+      "description": "Le cabinet Robert Half dévoile ses projections de salaires à l'embauche pour 2027. Tour d'horizon des grilles attendues et des compétences qui devraient peser dans les négociations.",
+      "link": "https://www.blogdumoderateur.com/grille-salaires-marketing-digital-tech-2027-postes-mieux-remuneres-france/",
+      "pubDate": "2026-10-05T12:53:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/salaires-robert-half-2027-marketing-294x199.png",
+      "type": "blog"
+    },
+    {
+      "id": "cccbd0d3086e",
+      "title": "PlatformCon 2026 : ce qu'il faut vraiment en retenir",
+      "description": "Shift Down, Governed Path, agents IA devenus utilisateurs de la plateforme : les 6 enseignements de la PlatformCon 2026, croisés avec les chiffres des rapports State of Platform Engineering.",
+      "link": "https://blog.ippon.fr/2026/10/05/platformcon-2026-platform-engineering-ia/",
+      "pubDate": "2026-10-05T12:29:42.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/platformcon-2026-couverture.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9451c4c17723",
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "pubDate": "2026-10-05T12:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8b7c54ec51fc",
       "title": "IA : les meilleurs modèles pour le code et le développement web en octobre 2026",
       "description": "Claude Opus 5.5 Max prend la tête du classement général et du front-end de la WebDev Arena, tandis que GPT-6 Astra Max s'impose sur les tâches fullstack.",
