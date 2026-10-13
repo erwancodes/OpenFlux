@@ -2,6 +2,341 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "0a5c9c09edde",
+      "title": "Pourquoi « Gemini at Work 2026 »  transforme notre façon de travailler",
+      "description": "Google Cloud a annoncé Gemini at Work 2026, marquant un tournant dans l'intégration de l'IA au travail. Contrairement à Microsoft Copilot, Gemini agit en tant qu'agent proactif, apprenant des méthodes de l'entreprise et orchestrant des missions via des sous-agents. Cette évolution vise à améliorer…",
+      "link": "https://oliviersauvage.com/2026/10/13/pourquoi-gemini-at-work-2026-transforme-notre-facon-de-travailler/",
+      "pubDate": "2026-10-13T10:22:35.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0cc28e3f7e66",
+      "title": "IA et logiciel libre",
+      "description": "Une petite équipe a décidé de cloner 13 logiciels bureautiques vedettes avec une IA et de mettre le résultat à la disposition de tous gratuitement. Word, Photoshop, Figma, Illustrator, Acrobat et plein d’autres. C’est fait par Artcraft AI. C’en est encore au tout début, et ça doit flipper grave…",
+      "link": "https://standblog.org/blog/post/2026/10/13/IA-et-logiciel-libre",
+      "pubDate": "2026-10-13T09:28:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/artcraft.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2fda2a6842bf",
+      "title": "Avec Muse Wonder, Meta entre dans la course aux modèles d’IA de pointe",
+      "description": "Meta présente Muse Wonder et Muse Wonder Full, ses modèles les plus performants à ce jour, conçus pour mener des tâches agentiques personnelles et professionnelles.",
+      "link": "https://www.blogdumoderateur.com/muse-wonder-meta-entre-dans-course-modeles-ia-pointe/",
+      "pubDate": "2026-10-13T08:11:00.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/muse-Wonder_meta-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "81b9529fce87",
+      "title": "Cyberattaques : les bonnes pratiques à adopter pour éviter d’en être victime",
+      "description": "Les cyberattaques ne visent pas que les grandes organisations : les particuliers et les homelabs sont aussi concernés. Voici les réflexes que j’applique chez moi, et ceux que je dois encore corriger.",
+      "link": "https://domopi.eu/cyberattaques-les-bonnes-pratiques-a-adopter-pour-eviter-den-etre-victime/",
+      "pubDate": "2026-10-13T08:05:19.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/10/article_security.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b3f473b3c277",
+      "title": "Reconversion dans le numérique : l’image d’eldorado à l’épreuve du terrain",
+      "description": "Le secteur de la tech séduit de nombreux cadres qui changent de voie. Mais une fois lancés, ils découvrent des formations intensives, une intégration exigeante et de nouvelles incertitudes liées à l'IA, selon une étude de l'Apec.",
+      "link": "https://www.blogdumoderateur.com/reconversion-numerique-image-eldorado-epreuve-terrain/",
+      "pubDate": "2026-10-13T06:30:46.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/reconversion-numerique-294x202.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d81f5e69b0d6",
+      "title": "Billets, hôtels, IA : comment Sodexo Live! fait de la donnée son « cheval de bataille »",
+      "description": "Billet, hôtel, activités : Sodexo Live! compose des packages premium autour des grands événements sportifs. Derrière ces offres comme ses projets d'IA, tout part de la donnée. Sa VP Global Digital & Technology, Véronique Sinclair, nous éclaire.",
+      "link": "https://www.blogdumoderateur.com/billets-hotels-ia-comment-sodexo-live-donnee-cheval-bataille/",
+      "pubDate": "2026-10-13T06:00:05.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Sodexo-Live-plateforme-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "94096a860b9d",
+      "title": "Le salaire des community managers en 2026",
+      "description": "Salaires moyens, par intitulé de poste, par expérience et par région : découvrez les rémunérations des experts du social media en 2026.",
+      "link": "https://www.blogdumoderateur.com/salaire-community-managers-2026/",
+      "pubDate": "2026-10-13T05:00:54.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/enquete-cm-salaires-2026-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "0aa3802f6f2a",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "pubDate": "2026-10-12T17:56:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4b9d6e88059",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "pubDate": "2026-10-12T17:19:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4689aa360e7d",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "pubDate": "2026-10-12T15:45:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ed99c53c3c6",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "description": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "pubDate": "2026-10-12T15:31:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d5747a1c9b0",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "pubDate": "2026-10-12T15:27:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "94936fcf9ba9",
+      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+      "description": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+      "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+      "pubDate": "2026-10-12T15:11:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "adb8caeb47d8",
+      "title": "Les 100 outils IA les plus utilisés dans le monde à l’automne 2026",
+      "description": "La 7e édition du rapport d’Andreessen Horowitz confirme la domination de ChatGPT. Ses nouvelles données de dépenses, mesurées aux États-Unis, révèlent un marché payant encore étroit et très concentré sur quelques gros utilisateurs.",
+      "link": "https://www.blogdumoderateur.com/100-outils-ia-plus-utilises-monde-automne-2026/",
+      "pubDate": "2026-10-12T15:03:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Top-50-Gen-AI-Web-Products-294x186.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "aab3dc9b32b6",
+      "title": "Claude peut désormais générer des tableaux de bord et des animations",
+      "description": "Après les documents et les présentations, Claude peut désormais générer des tableaux de bord et des animations grâce à Dashboards et Motion.",
+      "link": "https://www.blogdumoderateur.com/claude-generer-tableaux-bord-animations/",
+      "pubDate": "2026-10-12T15:00:23.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/claude-motion-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "800833b796ee",
+      "title": "Repenser nos pratiques pour un numérique durable : notre retour sur ParisWeb 2026 (partie 2)",
+      "description": "Après notre premier récit, découvrez notre retour sur la deuxième journée de ParisWeb 2026. Le juste prix, ou ce que l’accessibilité coûte pour de vrai Lison Fanuel et Frédéric Halna ont discuté avec nous des informations qu’ils ont recueillies pendant la préparation de leur présentation. Un…",
+      "link": "https://les-tilleuls.coop/blog/repenser-nos-pratiques-pour-un-numerique-durable-notre-retour-sur-parisweb-2026-partie-2",
+      "pubDate": "2026-10-12T14:32:26.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/paris-web-jour-2-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1af467ae3429",
+      "title": "Cultiver l’accessibilité et la sobriété : les grands enseignements de ParisWeb 2026 (partie 1)",
+      "description": "Jeudi 24 et vendredi 25 septembre derniers, se tenait à Paris un événement auquel nous sommes très attaché·es, la 21ème édition de ParisWeb, la conférence qui place l’accessibilité et l’inclusion au cœur du système. Ce qui manque souvent dans nos métiers, c’est le sens. C’est précisément le fil…",
+      "link": "https://les-tilleuls.coop/blog/cultiver-laccessibilite-et-la-sobriete-les-grands-enseignements-de-parisweb-2026-partie-1",
+      "pubDate": "2026-10-12T14:31:23.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/paris-web-jour-1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "196bee698cd6",
+      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+      "description": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+      "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+      "pubDate": "2026-10-12T14:09:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "421058482db8",
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "description": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to…",
+      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "pubDate": "2026-10-12T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1683e244885c",
+      "title": "Modernisation applicative avec Kiro + AWS Transform (ATX) : on a modernisé un application legacy Node.js en 2 jours - Le REX complet",
+      "description": "Comment Kiro et AWS Transform (ATX) ont modernisé Club Manager v3, une appli Node.js legacy de 10 ans, en 2 jours au lieu de 6 semaines : coûts, ROI x15 et limites de l'automatisation.",
+      "link": "https://blog.ippon.fr/2026/10/12/modernisation-legacy-nodejs-kiro-aws-transform/",
+      "pubDate": "2026-10-12T13:14:18.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/Capture-d---e--cran-2026-06-26-a---12.58.51.png",
+      "type": "blog"
+    },
+    {
+      "id": "84410a602fe5",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "description": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather…",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "pubDate": "2026-10-12T12:47:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "da4ba7bc06d3",
       "title": "Fonds de capital-risque robotique : qui finance vraiment les robots?",
       "description": "Les humanoïdes attirent des financements records, mais les investisseurs exclusivement consacrés à la robotique restent difficiles à identifier. Derrière les annonces se mêlent spécialistes, fonds deeptech et branches d’investissement de groupes industriels. Pour les startups européennes,…",
