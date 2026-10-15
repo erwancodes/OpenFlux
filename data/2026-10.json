@@ -2,6 +2,424 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "a10af58dbca5",
+      "title": "Visibilité à l’ère de l’IA : les leçons tirées du SEO Square 2026",
+      "description": "Nous avons eu l’opportunité de participer à plusieurs talks et workshops de la conférence en ligne SEO Square, un événement organisé par Semji comprenant conférences et tables rondes axées cette année sur la transition du SEO au GEO et l’impact de l’IA. Notre équipe d’experts accompagne déjà nos…",
+      "link": "https://les-tilleuls.coop/blog/visibilite-ia-seo-square-2026",
+      "pubDate": "2026-10-15T07:06:06.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/vignette-SEO-Square-600x338.png",
+      "type": "blog"
+    },
+    {
+      "id": "b8b52e313273",
+      "title": "Relation client : comment l’IA impacte concrètement le travail des conseillers",
+      "description": "L'Observatoire de l'impact de l'IA dans la relation client, mené auprès de 435 professionnels, décrit une IA d'abord utilisée pour rédiger et chercher l'information, avec des apports concrets encore limités. Décryptage.",
+      "link": "https://www.blogdumoderateur.com/relation-client-comment-ia-impacte-travail-conseillers/",
+      "pubDate": "2026-10-15T06:00:35.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/observatoire-impact-ia-relation-client-294x155.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cdef236d4413",
+      "title": "Infographie : le community manager en 2026",
+      "description": "Découvrez les principaux enseignements de l'édition 2026 de notre enquête sur les community managers.",
+      "link": "https://www.blogdumoderateur.com/infographie-community-manager-2026/",
+      "pubDate": "2026-10-15T05:30:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/enquete-cm-infographie-une-2026-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "c023f8cf7856",
+      "title": "Figma permet désormais de prototyper en code directement sur son canvas collaboratif",
+      "description": "Quelques jours après la disponibilité générale de son agent, Figma déploie de nouveaux outils pour réunir designers, développeurs et product managers sur un même espace.",
+      "link": "https://www.blogdumoderateur.com/figma-prototyper-code-directement-canvas-collaboratif/",
+      "pubDate": "2026-10-15T05:00:33.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Config-India_launch-sizzle-video-2.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "4f4601cb9406",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "description": "Figma is also releasing its code layers feature in open beta.",
+      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "pubDate": "2026-10-15T04:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b78f437ea8f9",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "pubDate": "2026-10-15T01:01:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e79f156c0457",
+      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "description": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "pubDate": "2026-10-15T00:49:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a03e24ff4dda",
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "description": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+      "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "pubDate": "2026-10-15T00:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e92cc7fb106b",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories…",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "01e3c610e66e",
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "description": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+      "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "pubDate": "2026-10-14T23:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7945101da15f",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "description": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "pubDate": "2026-10-14T22:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "540a32b46af6",
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "description": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+      "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+      "pubDate": "2026-10-14T21:48:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c64ad8441734",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "description": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "pubDate": "2026-10-14T21:30:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "96ea52d21ea1",
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "description": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "pubDate": "2026-10-14T21:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4abe8ca90ef",
+      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+      "description": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+      "pubDate": "2026-10-14T20:26:25.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b7613795f60",
+      "title": "Electric vehicle sales in the US are showing signs of life",
+      "description": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+      "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+      "pubDate": "2026-10-14T20:12:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "336c85b73725",
+      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+      "description": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+      "pubDate": "2026-10-14T20:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3bc6f63b3e89",
+      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+      "description": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+      "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+      "pubDate": "2026-10-14T19:51:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5852c29630a8",
+      "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+      "description": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
+      "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+      "pubDate": "2026-10-14T19:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f2a56b50bd83",
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "description": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+      "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "pubDate": "2026-10-14T18:23:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5a503e3d62a8",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "pubDate": "2026-10-14T18:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "30ab1d576790",
+      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+      "description": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+      "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+      "pubDate": "2026-10-14T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac56cf684fcb",
+      "title": "AWS Transform: ce que notre “trousse à outils agentique” automatise vraiment",
+      "description": "Cinq familles d'agents, une modernisation Python exécutée de bout en bout avec la CLI atx, ses coûts et ses pièges : le deuxième volet de notre série sur la migration augmentée par l'IA précise la part d'AWS et celle du travail d'expert.",
+      "link": "https://blog.ippon.fr/2026/10/14/aws-transform-trousse-outils-agentique/",
+      "pubDate": "2026-10-14T16:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/f1825c25-00e4-4a88-a929-0af2ef0410bc.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "67353a91d3b1",
+      "title": "Prismm helps banks keep inherited money in-house",
+      "description": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+      "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+      "pubDate": "2026-10-14T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e450fa631074",
+      "title": "WhatsApp lance les appels invités, accessibles sans compte et sans limite de durée",
+      "description": "Il suffit désormais d’un lien pour faire participer à un appel WhatsApp une personne qui n’a pas installé l’application. L’invité rejoint la conversation depuis le navigateur de son ordinateur, après validation de l’hôte.",
+      "link": "https://www.blogdumoderateur.com/whatsapp-lance-appels-invites-accessibles-sans-compte-sans-limite-duree/",
+      "pubDate": "2026-10-14T15:36:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/appel-invites-whatsapp-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bf36e2b66c18",
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "pubDate": "2026-10-14T15:16:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8e60ed519969",
       "title": "Emploi : l’IA freine déjà l’embauche des jeunes",
       "description": "La Banque de France a croisé sept ans de mouvements de main-d'œuvre avec l'exposition des métiers à l'IA générative. Depuis fin 2022, le recrutement des jeunes s'est nettement contracté dans les métiers les plus exposés, bien plus qu'aux autres âges.",
@@ -173,6 +591,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "710359466890",
+      "title": "Le temps de mise en production est un problème d'organisation",
+      "description": "Beaucoup d’équipes de développement souhaiteraient accélérer les mises en productions. Pour y parvenir, on se concentre généralement sur toute la pipeline d’automatisation: build, tests, déploiement. Seulement, ce n’est pas la technique qui coince le plus. De ce que j’ai pu observer, ce qui…",
+      "link": "https://www.jdecool.fr/blog/2026/10/14/le-temps-de-mise-en-production-est-un-probleme-d-organisation.html",
+      "pubDate": "2026-10-13T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
