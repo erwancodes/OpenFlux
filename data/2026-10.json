@@ -2,6 +2,246 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "65d6194a8b19",
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "description": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "pubDate": "2026-10-17T02:36:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fdd4c6f578d6",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "pubDate": "2026-10-16T21:22:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4287ed896294",
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "description": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "pubDate": "2026-10-16T19:40:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ffbbf24c13a",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "pubDate": "2026-10-16T17:52:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68b9f741f3df",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who…",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "pubDate": "2026-10-16T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d2bc7666ac6",
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "description": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "pubDate": "2026-10-16T16:06:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5cea1aeddd4a",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "pubDate": "2026-10-16T16:01:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "23f51ea52c7a",
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "description": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
+      "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "pubDate": "2026-10-16T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ba806082a0e",
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+      "description": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+      "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "pubDate": "2026-10-16T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7ff2fab56ea7",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "pubDate": "2026-10-16T15:33:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e1b3c44f1345",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "pubDate": "2026-10-16T14:26:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4c64677b0f2c",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "pubDate": "2026-10-16T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "660063e865d4",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "pubDate": "2026-10-16T12:55:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cbb6c056ca78",
+      "title": "Jev dans Snowflake : apprendre à votre warehouse à juger vos données",
+      "description": "Comment faire porter un jugement à votre warehouse : une UDF Python appelle Jev, renvoie une probabilité typée et alimente un test dbt qui repère les données suspectes. Démo complète, code et limites à connaître.",
+      "link": "https://blog.ippon.fr/2026/10/16/jev-dans-snowflake-apprendre-a-votre-warehouse-a-juger-vos-donnees/",
+      "pubDate": "2026-10-16T12:21:08.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/scene-proposition-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "4da1bc228759",
+      "title": "Ce qu'il fallait voir au Forum PHP 2026",
+      "description": "Comme chaque année, nous nous sommes rendus à la conférence phare de l'écosystème PHP en France : le Forum PHP de l'AFUP. En plus d'être sur scène pour parler de lucidité, de headers HTTP ou encore d'embbeding et de régression, nous étions aussi dans le public pour assister à de nombreux talks de…",
+      "link": "https://jolicode.com/blog/ce-qu-il-fallait-voir-au-forum-php-2026",
+      "pubDate": "2026-10-16T08:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/forum-php-2026/bastien.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5130e45e28e1",
       "title": "Google veut rendre les liens plus visibles dans les AI Overviews",
       "description": "Google déploie plusieurs mises à jour pour rendre les sources plus cliquables dans ses réponses IA. Des ajustements qui interviennent alors que les éditeurs voient ces fonctionnalités capter leur trafic.",
@@ -113,6 +353,38 @@
       ],
       "image": null,
       "type": "blog"
+    },
+    {
+      "id": "212b367252a5",
+      "title": "Le logiciel propriétaire, c'est terminé ?",
+      "description": "Bienvenue dans l'ère de hyperpersonnalisation, et des logiciels créés à la demande.",
+      "link": "https://eventuallycoding.com/p/le-logiciel-proprietaire-c-est-termine",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1792160205071-vvdadjn.png?width=400",
+      "type": "blog"
+    },
+    {
+      "id": "b7661b00372f",
+      "title": "EmDash, le CMS de Cloudflare taillé pour les agents ?",
+      "description": "EmDash CMS est passé en 1.0. On revient sur notre article : le lancement maladroit face à WordPress, le contenu en Portable Text, les champs natifs, le multilingue, le front Astro, les passkeys, les plugins sandboxés, le serveur MCP intégré et x402 pour faire payer les robots. Et bien sûr, les…",
+      "link": "https://double-slash.dev/podcasts/emdash/",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1792147782/episode/ART_143_kfi3az.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_143_emdash.mp3",
+      "duration": "3715"
     },
     {
       "id": "eb0ac7f68c40",
