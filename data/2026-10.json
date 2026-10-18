@@ -2,6 +2,86 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "7dd27ee4e856",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "pubDate": "2026-10-17T21:31:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "86cccf36b9f1",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "pubDate": "2026-10-17T20:55:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fd3979152c2e",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "pubDate": "2026-10-17T20:21:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fcf73aabe3e3",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "pubDate": "2026-10-17T18:48:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "273d744b399a",
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "description": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+      "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+      "pubDate": "2026-10-17T15:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "65d6194a8b19",
       "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
       "description": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
