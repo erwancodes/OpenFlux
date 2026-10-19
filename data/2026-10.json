@@ -2,6 +2,197 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "2c336f1aafdf",
+      "title": "Top 20 des modèles d’IA les plus performants en octobre 2026",
+      "description": "Après plusieurs mois de règne sans partage sur Arena, benchmark collaboratif de référence, Anthropic se fait détrôner par Google et Meta.",
+      "link": "https://www.blogdumoderateur.com/top-20-modeles-ia-performants-octobre-2026/",
+      "pubDate": "2026-10-19T08:55:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/classement-modeles-ia-octobre-2026-294x139.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bcf7b500203a",
+      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "description": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+      "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+      "pubDate": "2026-10-19T07:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b6b6f984f947",
+      "title": "Robots humanoïdes : de futurs coéquipiers pour assister les policiers sur le terrain ?",
+      "description": "Porter des équipements, reconnaître une zone dangereuse, apporter du matériel de secours ou contribuer à protéger les agents : les robots humanoïdes pourraient trouver une place aux côtés des forces de l’ordre. Une perspective qui mérite d’être explorée, avec une question centrale : quelles…",
+      "link": "https://www.robot-magazine.fr/robots-humanoides-de-futurs-coequipiers-pour-les-policiers-sur-le-terrain/?utm_source=rss&utm_medium=rss&utm_campaign=robots-humanoides-de-futurs-coequipiers-pour-les-policiers-sur-le-terrain",
+      "pubDate": "2026-10-19T07:20:44.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60e915c7cc80",
+      "title": "5 formations pour devenir DevOps",
+      "description": "Notre sélection de formations de la semaine est dédiée à celles et ceux souhaitant se spécialiser dans ce domaine à la frontière entre le développement web et les opérations.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-devops-322/",
+      "pubDate": "2026-10-19T06:00:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/selection-formation-devops-322-294x155.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dd68b36dc7b9",
+      "title": "Notion vu de l’intérieur : 5 questions à David Tibbitts, head of product marketing",
+      "description": "Arrivé chez Notion fin 2018, David Tibbitts revient sur sa première année passée au support, la croissance portée par la communauté, les coulisses du lancement de Notion AI et la fermeture de Notion Mail.",
+      "link": "https://www.blogdumoderateur.com/notion-5-questions-david-tibbitts-head-product-marketing/",
+      "pubDate": "2026-10-19T05:00:22.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Notion-legos-tibbits-294x184.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "9c99b0abc066",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "description": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "pubDate": "2026-10-18T21:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16eddc2105cf",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "pubDate": "2026-10-18T20:37:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "27050e4fcd16",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "description": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "pubDate": "2026-10-18T19:03:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f6916a6c2803",
+      "title": "Can you bake Maven into a neural network?",
+      "description": "We tried, and it builds. We compiled the decision-making part of a Maven-style build tool into a fixed weight matrix and used it to build a real Java library. The output matches Apache Maven's byte for byte. A clean build with tests took 1.49× as long as the same logic written in Python (95%…",
+      "link": "https://blog.jetbrains.com/ai/2026/10/can-you-bake-maven-into-a-neural-network/",
+      "pubDate": "2026-10-18T16:36:08.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/10/neural-maven-qr.png",
+      "type": "blog"
+    },
+    {
+      "id": "35cd62faf12b",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "pubDate": "2026-10-18T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e22e9d98402",
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "pubDate": "2026-10-18T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "777cb4c573c9",
+      "title": "Colonnes Doctrine chiffrées avec Symfony 8.2 : votre base peut fuiter, pas vos données",
+      "description": "Un dump de base de données qui fuite, et ce sont des emails, des téléphones et des dates de naissance en clair. Symfony 8.2 arrive avec le composant KeyManagement et un attribut #[Encrypted] qui chiffre vos colonnes Doctrine. Tutoriel pas à pas avec dépôt de démonstration : chiffrement, clés de…",
+      "link": "https://yoandev.co/symfony-colonnes-doctrine-chiffrees",
+      "pubDate": "2026-10-18T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-colonnes-doctrine-chiffrees.webp",
+      "type": "blog"
+    },
+    {
       "id": "7dd27ee4e856",
       "title": "Meta removes language that raised scraping and AI training concerns",
       "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
