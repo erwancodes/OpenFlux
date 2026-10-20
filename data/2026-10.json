@@ -2,6 +2,406 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "38e9e37cc6bb",
+      "title": "Pourquoi, en tant que dirigeant de PME, prendre la parole sur LinkedIn vous rapportera beaucoup",
+      "description": "L'étude sur l'engagement des dirigeants sur LinkedIn révèle que, bien que 94 % des membres de comités exécutifs y soient présents, beaucoup restent invisibles. Les dirigeants génèrent un engagement plus élevé que les pages entreprises, prouvant qu'une communication authentique est essentielle.…",
+      "link": "https://oliviersauvage.com/2026/10/20/pourquoi-en-tant-que-dirigeant-de-pme-prendre-la-parole-sur-linkedin-vous-rapportera-beaucoup/",
+      "pubDate": "2026-10-20T08:13:40.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c6b05e2f39b",
+      "title": "Mais au fait, c’est quoi la distillation des modèles d’IA ?",
+      "description": "La distillation transfère le savoir-faire d'un grand modèle d'IA, le « professeur », vers un modèle plus petit, l'« élève ». Décryptage.",
+      "link": "https://www.blogdumoderateur.com/distillation-modeles-ia/",
+      "pubDate": "2026-10-20T07:45:21.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/distillation-modele-ia-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "8947cb9363d5",
+      "title": "Comment préparer ses campagnes de fin d’année en un seul prompt avec Positive User",
+      "description": "Segments, automatisations, emails et rétroplanning : le générateur de Positive User livre en quelques minutes un plan de fin d'année adapté au site et aux contraintes de chaque équipe.",
+      "link": "https://www.blogdumoderateur.com/comment-preparer-campagnes-fin-annee-prompt-positive-user/",
+      "pubDate": "2026-10-20T07:28:29.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Positive-User-Rush-Q4-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "76faeee63fa2",
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "description": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "pubDate": "2026-10-20T07:01:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2547ed9f777e",
+      "title": "Agents IA en entreprise : jusqu’où leur déléguer le travail des équipes ?",
+      "description": "Quelles tâches confier à un agent IA, et comment évaluer un travail qu'il a préparé sans en avoir suivi la réalisation ? Décryptage avec Gaetan Fron, Senior Sales Manager chez Diligent, qui accompagne des équipes d'audit et de gestion des risques.",
+      "link": "https://www.blogdumoderateur.com/agents-ia-entreprise-deleguer-travail-equipes/",
+      "pubDate": "2026-10-20T05:00:21.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Gaetan-Fron-Diligent-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2bd238535e48",
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "description": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "pubDate": "2026-10-20T02:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a608b97bceb1",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "pubDate": "2026-10-20T01:27:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68a6b53f34de",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "pubDate": "2026-10-19T23:39:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6f1ae44f641",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "description": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "pubDate": "2026-10-19T22:49:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4de91e154063",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "description": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "pubDate": "2026-10-19T22:04:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c1dfee28d50b",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "pubDate": "2026-10-19T20:09:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f649037fa8e9",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "description": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "pubDate": "2026-10-19T19:28:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7ab42e04cf3b",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "description": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "pubDate": "2026-10-19T19:00:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "347bd5ae4a1a",
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "description": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "pubDate": "2026-10-19T18:49:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2b9227ae1c18",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "pubDate": "2026-10-19T18:37:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e70124b979ff",
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "description": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "pubDate": "2026-10-19T18:00:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e978770144a",
+      "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+      "description": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
+      "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+      "pubDate": "2026-10-19T17:39:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aeb3467d5805",
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "description": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+      "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "pubDate": "2026-10-19T16:55:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d1fa36094449",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "description": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "pubDate": "2026-10-19T16:13:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea3b81d8158f",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs ",
+      "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "pubDate": "2026-10-19T15:37:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a0afca37bb19",
+      "title": "Jev : et si les LLM n’étaient plus les seuls modèles dont nous avions besoin ?",
+      "description": "Jev, modèle System One de TypeSafe AI, évalue un état et renvoie une décision typée. Où l’utiliser à côté d’un LLM, sur un projet dbt ou dans un chatbot bancaire, et quelles limites garder en tête.",
+      "link": "https://blog.ippon.fr/2026/10/19/jev-modele-system-one-llm/",
+      "pubDate": "2026-10-19T13:27:31.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/Capture-d-----cran-2026-10-12----17.04.02.png",
+      "type": "blog"
+    },
+    {
+      "id": "963c92fdfa0e",
+      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+      "description": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+      "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+      "pubDate": "2026-10-19T12:56:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c15afb0d6758",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+      "description": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
+      "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+      "pubDate": "2026-10-19T12:42:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ef9dd8ae678",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "pubDate": "2026-10-19T12:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce9df86fb353",
+      "title": "Forum PHP 2026 : notre retour sur les conférences",
+      "description": "Découvrez notre retour sur le Forum PHP 2026 : IA, Symfony 8.2, sécurité, et REX inspirants ! Cet article, Forum PHP 2026 : notre retour sur les conférences, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/forum-php-2026-notre-retour-sur-les-conferences",
+      "pubDate": "2026-10-19T10:10:59.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/1791562027685-1024x676.jpg",
+      "type": "blog"
+    },
+    {
       "id": "2c336f1aafdf",
       "title": "Top 20 des modèles d’IA les plus performants en octobre 2026",
       "description": "Après plusieurs mois de règne sans partage sur Arena, benchmark collaboratif de référence, Anthropic se fait détrôner par Google et Meta.",
@@ -48,6 +448,23 @@
       "type": "blog"
     },
     {
+      "id": "886871196086",
+      "title": "Dev With AI 2026: la 1re conférence française du dev avec l'IA",
+      "description": "L'IA écrit du code plus vite qu'on ne sait le relire. Vérification, contexte, outillage léger, relecture des conversations, coûts : ce qu'il faut retenir des talks de Dev With AI, les désaccords entre intervenants, et un avis sur les hooks, grands oubliés de la journée.",
+      "link": "https://blog.ippon.fr/2026/10/19/dev-with-ai-2026-conference/",
+      "pubDate": "2026-10-19T07:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/IMG_4396.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "60e915c7cc80",
       "title": "5 formations pour devenir DevOps",
       "description": "Notre sélection de formations de la semaine est dédiée à celles et ceux souhaitant se spécialiser dans ce domaine à la frontière entre le développement web et les opérations.",
@@ -77,6 +494,40 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Notion-legos-tibbits-294x184.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ef97ee60d8ed",
+      "title": "La tech bascule dans le fascisme",
+      "description": "Le créateur de Rails a écrit que l'immigration était une catastrophe pour l'Europe. Je lui ai dit de fermer sa grande bouche, et j'ai passé la soirée à bloquer des racistes. Ce billet, c'est ce que j'ai compris en creusant.",
+      "link": "https://yoandev.co/la-tech-bascule-dans-le-fascisme",
+      "pubDate": "2026-10-19T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/la-tech-bascule-dans-le-fascisme.webp",
+      "type": "blog"
+    },
+    {
+      "id": "736b64715e1e",
+      "title": "Jack cherche un taf : un point-and-click né dans un train",
+      "description": "Hier, 18 octobre, ma fille Anna et moi étions dans un TGV entre Paris et Brest, sur le retour d'un week-end en famille. Quelques heures de train, mon ordinateur portable, et Anna, 12 ans, assise à côté de moi. Ce n'était pas notre premier jeu du week-end. À l'aller, de la Bretagne à Paris, nous en…",
+      "link": "https://lostinbrittany.dev/fr/jack-cherche-un-taf/",
+      "pubDate": "2026-10-19T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-10-19-jack-cherche-un-taf/jack.png",
       "type": "blog"
     },
     {
