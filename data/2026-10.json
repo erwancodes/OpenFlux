@@ -2,6 +2,434 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "c1a994151bf8",
+      "title": "Claude Duet : Anthropic lance une application d’agent IA proactif",
+      "description": "Basée sur Claude Opus 5.5, cette nouvelle application repère ce qui demande de l’attention dans les outils connectés, réalise des tâches en arrière-plan et demande une validation avant d’agir.",
+      "link": "https://www.blogdumoderateur.com/anthropic-lance-claude-duet-agent-ia-proactif/",
+      "pubDate": "2026-10-22T08:29:30.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Claude-Duet-Presentation-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9f71b2428cf0",
+      "title": "Écrans en entreprise : usages et bonnes pratiques pour la communication interne",
+      "description": "Emails, intranet et messageries collaboratives peuvent mal atteindre les salariés qui travaillent loin d'un ordinateur. Les écrans installés dans les locaux comblent ce manque, à condition d'en faire un canal à part entière.",
+      "link": "https://www.blogdumoderateur.com/ecrans-entreprises-usages-bonnes-pratiques-communication-interne/",
+      "pubDate": "2026-10-22T07:44:29.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Affichage-entreprise-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fc191e9bdb72",
+      "title": "Utiliser les avis clients pour faire de la pub : c’est légal ça ?",
+      "description": "La reprise d’avis clients dans la communication d’une entreprise est encadrée par le RGPD et le code de la consommation. Deux avocats détaillent les règles à respecter.",
+      "link": "https://www.blogdumoderateur.com/utiliser-avis-clients-faire-pub-legal-ou-pas/",
+      "pubDate": "2026-10-22T05:00:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Review-google-legal-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6bed19a8dcdd",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "description": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s…",
+      "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "pubDate": "2026-10-22T00:17:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8d2d0448075e",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "pubDate": "2026-10-21T22:51:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c456f043e53d",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "pubDate": "2026-10-21T22:45:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3b61a30c86b",
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "description": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "pubDate": "2026-10-21T22:16:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e01489efb3f4",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know ",
+      "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "pubDate": "2026-10-21T21:16:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "40e4827a0c18",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "pubDate": "2026-10-21T21:14:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d40817bd8696",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "description": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+      "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "pubDate": "2026-10-21T20:57:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "37cae458eee7",
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "description": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+      "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "pubDate": "2026-10-21T20:33:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1ec87d70575",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "pubDate": "2026-10-21T20:27:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "454849b21b81",
+      "title": "Automattic begins layoffs following board upheaval and executive departures",
+      "description": "Sources say more cuts could follow as the company looks to improve its finances.",
+      "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+      "pubDate": "2026-10-21T20:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "543ca2ad9127",
+      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+      "description": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+      "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+      "pubDate": "2026-10-21T19:52:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "34727e2ab12c",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
+      "description": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+      "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+      "pubDate": "2026-10-21T19:42:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dd62bb078550",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "pubDate": "2026-10-21T19:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "532319ec633f",
+      "title": "The internet is having a very bad cybersecurity day",
+      "description": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+      "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+      "pubDate": "2026-10-21T19:03:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e65411ac6cf",
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "description": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+      "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "pubDate": "2026-10-21T18:51:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fedf6669d08c",
+      "title": "GM is giving OnStar an AI makeover",
+      "description": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+      "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+      "pubDate": "2026-10-21T18:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f2c544ee930",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "pubDate": "2026-10-21T17:59:12.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5f7eaed02b66",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "description": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "pubDate": "2026-10-21T17:18:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fed1bd4386c8",
+      "title": "Waymo starts offering rides at the Las Vegas airport",
+      "description": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city.",
+      "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+      "pubDate": "2026-10-21T16:59:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "164285eb7917",
+      "title": "Why « Gemini at Work 2026 » is transforming the way we work",
+      "description": "Google Cloud has announced Gemini at Work 2026, marking a turning point in the integration of AI into work. Unlike Microsoft Copilot, Gemini acts as a proactive agent, learning company methods and orchestrating missions via sub-agents. This evolution aims to improve efficiency without replacing…",
+      "link": "https://oliviersauvage.com/2026/10/21/why-gemini-at-work-2026-is-transforming-the-way-we-work/",
+      "pubDate": "2026-10-21T14:07:32.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "76db7ee704f5",
+      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+      "description": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+      "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "pubDate": "2026-10-21T14:03:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5ab7932c9488",
+      "title": "Et si remplir son CRM devenait aussi simple que raconter son rendez-vous ?",
+      "description": "L’article Et si remplir son CRM devenait aussi simple que raconter son rendez-vous ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/21/et-si-remplir-son-crm-devenait-aussi-simple-que-raconter-son-rendez-vous/",
+      "pubDate": "2026-10-21T11:59:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f2407d5ff924",
+      "title": "Les chiffres clés d’Internet et des réseaux sociaux dans le monde en octobre 2026",
+      "description": "IA générative, trafic web, réseaux sociaux : quels sont les usages numériques en octobre 2026 ? Les réponses avec le Digital 2027, le nouveau rapport de We Are Social et Meltwater.",
+      "link": "https://www.blogdumoderateur.com/chiffres-cles-internet-reseaux-sociaux-monde-octobre-2026/",
+      "pubDate": "2026-10-21T10:32:17.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Digital-Report-2027-294x195.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a4c7669fcf74",
+      "title": "ChatGPT permet désormais de verrouiller ses conversations avec un code PIN",
+      "description": "Déployée progressivement depuis ce mardi, la fonctionnalité Locked Chats permet à tous les utilisateurs de ChatGPT de verrouiller et masquer certaines conversations considérées comme sensibles.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-verrouiller-conversations-code-pin/",
+      "pubDate": "2026-10-21T08:56:57.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/chagpt-locked-chats-294x166.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "91c9053130a1",
       "title": "Robots humanoïdes en France : où travaillent-ils vraiment ?",
       "description": "Des pneus manipulés chez Renault, des animations dans un foyer médico-social : les premiers usages se précisent. Mais entre essais, présence sur site et objectifs commerciaux, les chiffres ne racontent pas la même histoire. Robot Magazine examine ce que les informations publiques permettent…",
@@ -124,6 +552,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0c66060de1e",
+      "title": "Qui comprend encore ce qui est livré ?",
+      "description": "Avec l’IA, tout va plus vite, parfois beaucoup trop vite. Un ticket arrive, il est pris en charge par un agent. Dans les minutes qui suivent, une PR est ouverte, la demande est implémentée, testée et vérifiée. Dans un cycle de livraison continue, elle peut alors être déployée dans la foulée. Tout…",
+      "link": "https://www.jdecool.fr/blog/2026/10/21/qui-comprend-encore-ce-qui-est-livre.html",
+      "pubDate": "2026-10-20T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
