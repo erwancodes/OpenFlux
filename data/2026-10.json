@@ -2,6 +2,440 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "05fade86f8ea",
+      "title": "MACI #167 - Failles PHP et IA : la sécurité peut-elle suivre ? - Avec Mehdi Medjaoui",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on revient sur les deux vulnérabilités critiques PHP révélées le 21 octobre 2026 et sur la manière dont l'IA accélère la découverte des failles de sécurité. Avec nos invités, on parle divulgation responsable, modèles open weight, DevSecOps…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-167-failles-php-et-ia-la-securite-peut-elle-suivre-avec-mehdi-medjaoui",
+      "pubDate": "2026-10-23T07:49:40.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/qKMVmLWTPSOKjAdurkcA5u9KXMLVb19GvmcI3Rzr_1400x1400.jpeg?t=1792741780",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/BMJr6h5rD7kd.mp3?t=1792739134",
+      "duration": "52:40"
+    },
+    {
+      "id": "c941a9bfb6cb",
+      "title": "Pourquoi publier sur les réseaux sociaux est devenu gênant",
+      "description": "Publier sur les réseaux sociaux suscite désormais un malaise, surtout chez les plus jeunes. En 2026, les fils d’actualité appartiennent surtout aux influenceurs et aux marques.",
+      "link": "https://www.blogdumoderateur.com/reseaux-sociaux-genant/",
+      "pubDate": "2026-10-23T05:00:15.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Reseaux-sociaux-genant-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "97c2fcf5809d",
+      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "pubDate": "2026-10-23T04:22:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cf51e24baa15",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "pubDate": "2026-10-23T04:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f020e82e32f8",
+      "title": "#325.exe - Dev, un métier d'avenir ?: Mutation ou disparition ? par Nikolay Rodionov",
+      "description": "Pour l'épisode #325 je recevais Greg Lhotellier. On en débrief avec Nikolay. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/325-e6462a964116",
+      "pubDate": "2026-10-23T03:00:53.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/59840407-6fdf-44da-a536-e6462a964116.mp3?_=1792670513",
+      "duration": "15:34"
+    },
+    {
+      "id": "fee5d6bca690",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "pubDate": "2026-10-23T00:45:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fb9585399ef6",
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "description": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "pubDate": "2026-10-22T23:50:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "229bf5407448",
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "description": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+      "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "pubDate": "2026-10-22T23:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6bc314a45816",
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+      "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "pubDate": "2026-10-22T22:34:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0e6b7b9249b2",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "pubDate": "2026-10-22T22:08:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e12cae2a65e1",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "description": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+      "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "pubDate": "2026-10-22T21:05:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "080e7241fa8f",
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "description": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+      "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+      "pubDate": "2026-10-22T20:01:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "55c9b7f636b6",
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "description": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+      "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+      "pubDate": "2026-10-22T20:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "264af0525447",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "pubDate": "2026-10-22T19:07:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1fd5dc2d57e9",
+      "title": "Canva releases its first image generation model",
+      "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "pubDate": "2026-10-22T19:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9053b1f287d8",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "pubDate": "2026-10-22T19:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5595c812cd34",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "description": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "pubDate": "2026-10-22T18:43:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "449bfdd29ecd",
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "description": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "pubDate": "2026-10-22T18:38:47.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5b722bd8f880",
+      "title": "Elon Musk made a $1B investment in Skydance, report says",
+      "description": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
+      "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+      "pubDate": "2026-10-22T17:36:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6af0fd42e696",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "pubDate": "2026-10-22T16:47:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5923975de219",
+      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+      "description": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+      "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+      "pubDate": "2026-10-22T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9fdd22fa30fb",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "pubDate": "2026-10-22T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea27b8c40dd1",
+      "title": "Tesla is prepping a Cybercab onslaught",
+      "description": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
+      "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+      "pubDate": "2026-10-22T15:44:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "53583f31cf3d",
+      "title": "IA et développement : pourquoi un groupe de distribution automobile a revu son approche",
+      "description": "L'interview avec Jérémy Muller aborde l'intégration de l'IA dans le développement d'applications. Il partage des expériences sur un mini CRM, soulignant que le gain de temps peut être perdu dans la correction de code. Il conseille de commencer par des tâches simples et de combiner IA et expertise…",
+      "link": "https://oliviersauvage.com/2026/10/22/ia-et-developpement-pourquoi-un-groupe-de-distribution-automobile-a-revu-son-approche/",
+      "pubDate": "2026-10-22T15:30:42.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ba676d21c14",
+      "title": "Air Governance: Manage AI Agents, Access, and Spend Throughout Your Organization",
+      "description": "Today, JetBrains Air Governance becomes generally available. Formerly known as JetBrains Central, this is the organization layer of JetBrains Air, a system of products for agentic development. Air Governance gives you one place to manage which AI agents, models, and providers your teams use, set…",
+      "link": "https://blog.jetbrains.com/blog/2026/10/22/air-governance-manage-ai-agents-access-and-spend-throughout-your-organization/",
+      "pubDate": "2026-10-22T14:09:21.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/10/list.png",
+      "type": "blog"
+    },
+    {
+      "id": "4e92e856c7c9",
+      "title": "Failles critiques dans PHP : quelles versions mettre à jour et comment protéger ses serveurs",
+      "description": "L’équipe de sécurité de PHP a publié en urgence des correctifs pour deux vulnérabilités, dont l’une a été découverte avec l’aide de l’IA. Plusieurs administrations françaises et des sites web ont dû suspendre leurs services en ligne le temps de la mise à jour. On fait le point.",
+      "link": "https://www.blogdumoderateur.com/failles-critiques-php-versions-mettre-a-jour-comment-proteger-serveurs/",
+      "pubDate": "2026-10-22T09:32:58.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/logo-php-294x123.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "183c12ba54ad",
+      "title": "Pistage publicitaire : pourquoi le nouveau blocage de Safari inquiète l’adtech",
+      "description": "Apple a confirmé le 19 octobre un nouveau blocage dans Safari, qui vise les entreprises qui pistent les internautes à partir de leur adresse email. Une mesure déployée sans préavis, qui commence déjà à peser sur les revenus de l'adtech.",
+      "link": "https://www.blogdumoderateur.com/pistage-publicitaire-pourquoi-nouveau-blocage-safari-inquiete-adtech/",
+      "pubDate": "2026-10-22T08:32:21.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/blocking-identity-resolution-02-dark-294x162.jpg",
+      "type": "blog"
+    },
+    {
       "id": "c1a994151bf8",
       "title": "Claude Duet : Anthropic lance une application d’agent IA proactif",
       "description": "Basée sur Claude Opus 5.5, cette nouvelle application repère ce qui demande de l’attention dans les outils connectés, réalise des tâches en arrière-plan et demande une validation avant d’agir.",
