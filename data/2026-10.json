@@ -2,6 +2,244 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "8f96b86f1e56",
+      "title": "Startups don’t need to go viral to win customers",
+      "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "pubDate": "2026-10-23T23:07:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dfe5fb536ca5",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "pubDate": "2026-10-23T23:05:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "739797ca19c0",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "pubDate": "2026-10-23T21:59:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a9baeb88f659",
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "description": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+      "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "pubDate": "2026-10-23T20:57:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f4cde89b51a1",
+      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now ",
+      "description": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+      "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+      "pubDate": "2026-10-23T20:03:14.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8d14896a534a",
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "description": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+      "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "pubDate": "2026-10-23T19:25:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6f6451b374ed",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 ",
+      "description": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup…",
+      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "pubDate": "2026-10-23T19:06:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "df0e399b4111",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "description": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+      "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "pubDate": "2026-10-23T16:26:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9e4bbc3b0538",
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "description": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
+      "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "pubDate": "2026-10-23T16:20:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "13ef21511e7b",
+      "title": "What some of Anthropic’s backers are worth before its IPO",
+      "description": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+      "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "pubDate": "2026-10-23T16:02:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16685f26b6e8",
+      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+      "description": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
+      "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+      "pubDate": "2026-10-23T15:00:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fa61e2da8117",
+      "title": "Réseaux sociaux, streams, rencontres : le jeu vidéo, une pratique communautaire pour la Gen Z",
+      "description": "Selon l'enquête annuelle du SELL et de Médiamétrie, la Gen Z vit le jeu vidéo comme une culture partagée, qui passe autant par les réseaux sociaux et le streaming que par les rencontres physiques.",
+      "link": "https://www.blogdumoderateur.com/reseaux-sociaux-streams-rencontres-jeu-video-gen-z/",
+      "pubDate": "2026-10-23T12:00:21.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/pratique-communautaire-gamers-etude-sell-mediametrie-294x147.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9ec7b67cabe8",
+      "title": "IA en entreprise : ceux qui en profitent le plus sont-ils les moins dupes ?",
+      "description": "Une étude de SuperOffice révèle que 70 % des entreprises utilisant l'intelligence artificielle avancée jugent ses promesses exagérées, tandis que 56 % des expérimentateurs partagent cet avis. La connexion des logiciels existants est priorisée par 38 % des entreprises, indiquant un pragmatisme face…",
+      "link": "https://oliviersauvage.com/2026/10/23/ia-en-entreprise-ceux-qui-en-profitent-le-plus-sont-ils-les-moins-dupes/",
+      "pubDate": "2026-10-23T10:18:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e441c45446cc",
+      "title": "Canva lance Craft, son modèle de pointe pour la génération d’images",
+      "description": "Canva Craft a été entraîné sur des millions de templates conçus par des humains. Il a d'ores et déjà été déployé dans Dream Lab.",
+      "link": "https://www.blogdumoderateur.com/canva-craft-modele-pointe-generation-images/",
+      "pubDate": "2026-10-23T08:57:13.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/canva-craft-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b9ae5a558d01",
+      "title": "OpenAI déploie son API Decisions pour rivaliser avec des modèles comme Jev",
+      "description": "OpenAI rend son API Decisions accessible à tous les développeurs. Basée sur GPT-6 Luna, elle répond à des questions fermées par une probabilité, un choix ou un score, sans générer de texte.",
+      "link": "https://www.blogdumoderateur.com/openai-deploie-api-decisions/",
+      "pubDate": "2026-10-23T08:46:59.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/API-Decisions-OpenAI-294x164.jpg",
+      "type": "blog"
+    },
+    {
       "id": "05fade86f8ea",
       "title": "MACI #167 - Failles PHP et IA : la sécurité peut-elle suivre ? - Avec Mehdi Medjaoui",
       "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on revient sur les deux vulnérabilités critiques PHP révélées le 21 octobre 2026 et sur la manière dont l'IA accélère la découverte des failles de sécurité. Avec nos invités, on parle divulgation responsable, modèles open weight, DevSecOps…",
@@ -99,6 +337,23 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "06839060474f",
+      "title": "Sécurité à l'ère de l'IA : la veille n'est plus une option",
+      "description": "PHP, Node.js, GitLab : une semaine de failles critiques, dont deux trouvées grâce à l'IA. J'ai donné l'alerte la veille, presque par chance. Qui doit faire la veille quand les failles vont plus vite que nous ?",
+      "link": "https://yoandev.co/securite-ia-veille",
+      "pubDate": "2026-10-23T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/securite-ia-veille.webp",
       "type": "blog"
     },
     {
