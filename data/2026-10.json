@@ -2,6 +2,196 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "e93b2188ee4c",
+      "title": "Dans les coulisses de mon dernier side project: le harness",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness (cet article) L’article précédent a présenté…",
+      "link": "https://www.jdecool.fr/blog/2026/10/25/dans-les-coulisses-de-mon-dernier-side-project-le-harness.html",
+      "pubDate": "2026-10-24T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "87bb975b7408",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "pubDate": "2026-10-24T20:46:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3798ec9a0ad",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "pubDate": "2026-10-24T20:15:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "43fa73ddaf37",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "pubDate": "2026-10-24T19:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "93f8cf567fdc",
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "description": "Instacart might sell itself to a larger competitor.",
+      "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "pubDate": "2026-10-24T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "61ceba6cfe49",
+      "title": "Block’s new voice model sounds eerily human",
+      "description": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "pubDate": "2026-10-24T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2829b6d86798",
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "description": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+      "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "pubDate": "2026-10-24T15:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9db85241a593",
+      "title": "La fin du Code Review?",
+      "description": "J’ai toujours été un grand fan de la code review. Ma première conférence portait sur ce thème. C’était il y a cinq ans, et on m’en parle… Continue reading on Medium »",
+      "link": "https://smaine-milianni.medium.com/la-fin-du-code-review-9de67ef96136?source=rss-c730ddf97658------2",
+      "pubDate": "2026-10-24T15:25:34.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/976/1*Yhj5cnSvlUn3AWx3gjJxPQ.png",
+      "type": "blog"
+    },
+    {
+      "id": "0b2d6cf7f7c3",
+      "title": "These clever apps show off the iPhone Duo’s potential",
+      "description": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+      "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "pubDate": "2026-10-24T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7a80d87e860",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ",
+      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "pubDate": "2026-10-24T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e838bae57c57",
+      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+      "description": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+      "link": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+      "pubDate": "2026-10-24T14:15:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba1e969f5ed1",
+      "title": "Here are the top AI agents that can live in your text messages ",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "pubDate": "2026-10-24T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8f96b86f1e56",
       "title": "Startups don’t need to go viral to win customers",
       "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
@@ -27,6 +217,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "50133211bd05",
+      "title": "Dans les coulisses de mon dernier side project: l'architecture technique",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique (cet article) 2/X - Le harness Des outils de rétrospective, il y en…",
+      "link": "https://www.jdecool.fr/blog/2026/10/24/dans-les-coulisses-de-mon-dernier-side-project-l-architecture.html",
+      "pubDate": "2026-10-23T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
@@ -203,6 +408,20 @@
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2e6a28ff9cbc",
+      "title": "Audi et Agile Robots veulent automatiser le séquençage des pièces avec des robots humanoïdes mobiles",
+      "description": "Agile Robots et Audi ont annoncé un projet de preuve de concept visant à automatiser le séquençage des pièces dans l’usine Audi d’Ingolstadt, en Allemagne, à l’aide de robots humanoïdes mobiles. Présenté le 21 octobre 2026 lors de la conférence NVIDIA GTC Berlin, ce projet s’attaque à une tâche…",
+      "link": "https://www.robot-magazine.fr/audi-et-agile-robots-veulent-automatiser-le-sequencage-des-pieces-avec-des-robots-humanoides-mobiles/?utm_source=rss&utm_medium=rss&utm_campaign=audi-et-agile-robots-veulent-automatiser-le-sequencage-des-pieces-avec-des-robots-humanoides-mobiles",
+      "pubDate": "2026-10-23T09:11:00.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
       ],
       "image": null,
       "type": "blog"
