@@ -2,6 +2,195 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "dabbb978bb16",
+      "title": "IA : les 10 générateurs d’images les plus performants en octobre 2026",
+      "description": "OpenAI garde la main sur les classements images d’Arena. Derrière son podium, Nano Banana 2.1, Krea 3 Ultra et l'amélioration de Grok Imagine 2.0 rebattent les cartes.",
+      "link": "https://www.blogdumoderateur.com/ia-10-generateurs-images-performants-octobre-2026/",
+      "pubDate": "2026-10-26T08:57:27.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/text-to-image-octobre-2026-294x150.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6c1f4492f031",
+      "title": "Jeu vidéo : une industrie qui attire les jeunes, malgré un contexte d’emploi fragilisé",
+      "description": "Les jeunes sont nombreux à envisager de travailler dans ce secteur, et plus encore les adolescentes, d’après l’étude annuelle réalisée par Médiamétrie pour le SELL, qui mesure aussi l’image du jeu vidéo auprès des Français.",
+      "link": "https://www.blogdumoderateur.com/jeu-video-industrie-attire-jeunes-malgre-contexte-emploi-fragilise/",
+      "pubDate": "2026-10-26T08:20:48.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/travailler-secteur-jeu-video-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e39d54293df0",
+      "title": "Une automatisation plus accessible pour les TPE-PME",
+      "description": "Grâce aux nouveaux outils du no-code et de l’intelligence artificielle, mais aussi à des capteurs de vision, la voie se dégage pour les petites structures peu à l’aise avec les technologies d’automatisation. L’automatisation, un levier stratégique majeur pour les PME ? La réponse est oui. Car «…",
+      "link": "https://www.robot-magazine.fr/une-automatisation-plus-accessible-pour-les-tpe-pme/?utm_source=rss&utm_medium=rss&utm_campaign=une-automatisation-plus-accessible-pour-les-tpe-pme",
+      "pubDate": "2026-10-26T07:50:01.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "22778fa3e1ce",
+      "title": "5 formations pour maîtriser Photoshop, InDesign et Illustrator",
+      "description": "Besoin de monter en compétences sur les logiciels incontournables de la suite Adobe ? Cette sélection de formations est faite pour vous.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-photoshop-indesign-illustrator-323/",
+      "pubDate": "2026-10-26T07:00:42.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/selection-formation-photoshop-indesign-illustrator-323-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "31513ab25565",
+      "title": "« La preuve, c’est vital » : face à l’IA, les mathématiciens défendent le chemin plutôt que le résultat",
+      "description": "En six semaines, les laboratoires d'IA ont multiplié les démonstrations de force en mathématiques, jusqu'à tirer les larmes d'un médaillé Fields. Matthieu Alfaro, professeur de mathématiques appliquées, explique ce que ces annonces bousculent dans son métier.",
+      "link": "https://www.blogdumoderateur.com/ia-mathematiciens/",
+      "pubDate": "2026-10-26T06:00:08.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/mathematiques-ia-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c12166328f39",
+      "title": "The best apps for tracking your reading and discovering new books",
+      "description": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "pubDate": "2026-10-26T01:10:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89aac718bd43",
+      "title": "Dans les coulisses de mon dernier side project: les tests automatisés",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness 3/X - Les tests automatisés (cet article)…",
+      "link": "https://www.jdecool.fr/blog/2026/10/26/dans-les-coulisses-de-mon-dernier-side-project-les-tests-automatises.html",
+      "pubDate": "2026-10-25T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "08ec5c76056e",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "pubDate": "2026-10-25T21:31:16.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3c9d363221ab",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "description": "\"That's a 12-year-old view of the world.\"",
+      "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "pubDate": "2026-10-25T20:20:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9a814be9eb36",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "pubDate": "2026-10-25T16:57:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f84645de2973",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "pubDate": "2026-10-25T16:05:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a18a7851efbd",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "pubDate": "2026-10-25T14:10:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e93b2188ee4c",
       "title": "Dans les coulisses de mon dernier side project: le harness",
       "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness (cet article) L’article précédent a présenté…",
