@@ -2,6 +2,521 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "2a575d85512d",
+      "title": "5 choses à savoir sur Anthropic avant son entrée en Bourse",
+      "description": "L’éditeur de Claude a publié son document d’introduction en Bourse, qui détaille pour la première fois ses comptes. Jérôme Marin, fondateur de Cafétech, nous aide à y voir plus clair.",
+      "link": "https://www.blogdumoderateur.com/5-choses-a-savoir-anthropic-entree-bourse/",
+      "pubDate": "2026-10-28T09:13:58.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/IPO-Bourse-Anthropic-294x174.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "f10c27b2619f",
+      "title": "IA, GEO, social media : 5 nouveaux outils à tester en octobre 2026",
+      "description": "Une plateforme d'optimisation pour les moteurs génératifs, un réseau social pour les développeurs, un client de messagerie qui ressemble à WhatsApp... Voici cinq outils qui se sont distingués sur Product Hunt ce mois-ci.",
+      "link": "https://www.blogdumoderateur.com/nouveaux-outils-product-hunt-octobre-2026/",
+      "pubDate": "2026-10-28T08:54:49.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/classement-product-hunt-octobre-2026-294x211.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "33ca2e7bb7c1",
+      "title": "Infomaniak propose gratuitement sa suite d’outils collaboratifs aux étudiants : comment en profiter",
+      "description": "Le programme Éducation de l'entreprise suisse permet à chaque étudiant de profiter gratuitement d'une suite d'outils collaboratifs, ainsi que d'un service d'hébergement web. Voici les outils inclus et les démarches à effectuer.",
+      "link": "https://www.blogdumoderateur.com/infomaniak-propose-gratuitement-suite-outils-collaboratifs-etudiants/",
+      "pubDate": "2026-10-28T08:45:19.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2022/10/Infomaniak-kSuite-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "f89bcc6a21dc",
+      "title": "Agents, modèles et pricing : comment Notion se repositionne en « couche de contexte » de l’IA",
+      "description": "David Tibbitts, Product Marketing chez Notion, détaille le positionnement de l'éditeur face aux agents IA, ses relations avec les laboratoires et sa façon de facturer l'IA.",
+      "link": "https://www.blogdumoderateur.com/comment-notion-repositionne-couche-contexte-ia/",
+      "pubDate": "2026-10-28T06:00:32.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Notion-IA-Tibbits-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4d0cc269936e",
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "description": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+      "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "pubDate": "2026-10-28T05:20:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2b4397f5ada5",
+      "title": "#382.src - Rapprocher la CI: L'IA a 20x la cadence, nos CI doivent suivre avec Yves Brissaud",
+      "description": "\"Aujourd'hui, c'est illusoire de se dire qu'on va relire le code. Je n'écris plus de code, pourquoi j'irais le relire ?\" Le D.E.V. de la semaine est Yves Brissaud, SSE chez Dagger et Docker Captain. Avec l'explosion du nombre de pull requests générées par les agents IA, nos CI craquent sous la…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/382-032793d4d61c",
+      "pubDate": "2026-10-28T04:00:25.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/3f1a2f27-c8d2-4044-8518-5f1b5ef90a81.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/dc7844a9-0048-43f3-90d2-032793d4d61c.mp3?_=1793106084",
+      "duration": "01:03:34"
+    },
+    {
+      "id": "4ba4897dde9b",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "description": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "pubDate": "2026-10-28T01:15:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4bbee201cf0f",
+      "title": "Une année est passée, on dirait une éternité",
+      "description": "Cette semaine, je retourne à BDX I/O, à Bordeaux. J'ai deux talks à donner, plein de gens que j'ai envie de retrouver, et pas mal de choses dans la tête. L'année dernière, j'y avais parlé de l'avenir du métier de développeur. De l'arrivée des LLM, de ce qu'ils changeaient dans notre façon de…",
+      "link": "https://lostinbrittany.dev/fr/une-annee-est-passee/",
+      "pubDate": "2026-10-28T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-10-28-a-year-has-passed/a-year-has-passed-social-fr.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4c5627bb6952",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "description": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "pubDate": "2026-10-27T23:34:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5b8f2377809f",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "description": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "pubDate": "2026-10-27T22:55:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "37efa235a68b",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "description": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "pubDate": "2026-10-27T22:26:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1895f4fa2be5",
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "description": "A whole crop of venture capital firms are raising significant new funds.",
+      "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "pubDate": "2026-10-27T22:17:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f56ec033cdd3",
+      "title": "GM is embracing hybrids now",
+      "description": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
+      "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "pubDate": "2026-10-27T21:47:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "22c376eb4e78",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "description": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "pubDate": "2026-10-27T21:44:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4f33acf6a2b5",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "description": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "pubDate": "2026-10-27T21:38:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a7454cf8d71d",
+      "title": "Discord is making its public communities more searchable, and people have concerns",
+      "description": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+      "link": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+      "pubDate": "2026-10-27T21:22:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "190894f7cfd8",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "description": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+      "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "pubDate": "2026-10-27T20:31:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e98e232ace64",
+      "title": "En finir avec le mème de la conquête lunaire",
+      "description": "Suggestion de lecture au passionné·es d’espace, d’astrophysique, de planétologie : le numéro 24 de la magnifique revue Reliefs (« Lunes »), qui traite de l’astre sélène sous tous les angles, avec un texte de l’astrophysicien Roland Lehoucq sur la science-fiction, un autre En finir avec le mème de…",
+      "link": "https://maisouvaleweb.fr/en-finir-avec-le-meme-de-la-conquete-lunaire/",
+      "pubDate": "2026-10-27T19:46:54.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "373a8b625d14",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "description": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "pubDate": "2026-10-27T18:55:35.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "24969064b492",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "pubDate": "2026-10-27T17:08:08.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "18d6fa115809",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "description": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "pubDate": "2026-10-27T16:30:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0fcf6f6c92fd",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "pubDate": "2026-10-27T14:59:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3f6099b460a",
+      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+      "description": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+      "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+      "pubDate": "2026-10-27T14:51:33.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae1724b8d37c",
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
+      "description": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+      "pubDate": "2026-10-27T14:40:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "06c088aad99d",
+      "title": "PHP, failles de sécurité et communs numériques : qui tient le Web ?",
+      "description": "70 % du Web tourne sur PHP, mais sa sécurité repose sur une poignée de développeur·ses. Les récentes failles critiques le rappellent : les communs numériques ont besoin de financements pérennes. Cet article, PHP, failles de sécurité et communs numériques : qui tient le Web ?, est paru en premier…",
+      "link": "https://les-tilleuls.coop/blog/php-failles-securite-communs-numeriques",
+      "pubDate": "2026-10-27T14:38:39.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/image-php-1024x571.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "5df984d6f0d3",
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+      "pubDate": "2026-10-27T14:25:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe9328fe8c2d",
+      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+      "description": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+      "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+      "pubDate": "2026-10-27T13:54:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "80ab2e667301",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "description": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "pubDate": "2026-10-27T13:32:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2753da3adce5",
+      "title": "GPT-6.1 Terra : performances, tarifs et disponibilité du nouveau modèle d’OpenAI",
+      "description": "OpenAI étoffe sa gamme avec un modèle intermédiaire plus rapide et économe en tokens, pensé pour les tâches à fort volume. Dans l'API, il coûte deux fois moins cher que GPT-5.6 Terra.",
+      "link": "https://www.blogdumoderateur.com/gpt-6-1-terra-performances-tarifs-disponibilite/",
+      "pubDate": "2026-10-27T09:50:50.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/gpt-6-1-terra-openai-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4bab958010e4",
+      "title": "Instagram teste la vidéo longue pour concurrencer YouTube",
+      "description": "Avec Features et Clips as Reels, Instagram veut faire de ses formats courts une porte d’entrée vers des vidéos longues, jusque sur l’écran du téléviseur.",
+      "link": "https://www.blogdumoderateur.com/instagram-teste-video-longue-concurrencer-youtube/",
+      "pubDate": "2026-10-27T09:37:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/instagram-features-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b7175d1f4a41",
+      "title": "The Terminal in JetBrains IDEs Now Runs on libghostty",
+      "description": "More and more of your terminal work now runs through tools that push the terminal harder than a shell prompt ever did: AI coding agents like Claude Code and Codex, full-screen apps like Neovim and tmux, system monitors and dashboards. These tools lean on modern terminal protocols, the kind today’s…",
+      "link": "https://blog.jetbrains.com/platform/2026/10/jetbrains-terminal-now-uses-ghostty/",
+      "pubDate": "2026-10-27T09:36:36.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0cd449e39ccd",
+      "title": "BDX I/O 2026 : dédicace de mon livre, jeudi matin !",
+      "description": "C’est officiel ! Dans mon post de septembre, je vous teasais qu’une troisième chose mijotait peut-être pour BDX I/O… Je serai bien présent à l’édition 2026, mais uniquement le jeudi matin, pour une séance de dédicaces ! Les infos pratiques Quand : jeudi 29 octobre 2026, le matin uniquement Où : sur…",
+      "link": "https://blog.zwindler.fr/2026/10/27/bdxio-2026-dedicace-livre/",
+      "pubDate": "2026-10-27T08:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2025/10/kubernetes-50-solutions-cover.webp",
+      "type": "blog"
+    },
+    {
       "id": "d3f879c1aa3d",
       "title": "Agents IA : qui surveille les machines pendant que vous êtes censé gagner du temps ?",
       "description": "L'article souligne un angle souvent ignoré de l'IA : le temps qu'elle entraîne en supervision et en corrections, qui peut annuler les gains de productivité prometteurs. Une étude de G2 révèle que 45 % des utilisateurs perdent des heures à surveiller les IA, ce qui nécessite une réflexion sur leur…",
@@ -84,6 +599,21 @@
       "title": "Dans les coulisses de mon dernier side project: l'infrastructure",
       "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness 3/X - Les tests automatisés 4/X - L’infrastructure…",
       "link": "https://www.jdecool.fr/blog/2026/10/27/dans-les-coulisses-de-mon-dernier-side-project-l-infrastructure.html",
+      "pubDate": "2026-10-26T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e10067685de",
+      "title": "Dans les coulisses de mon dernier side project: les chiffres",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/5 - L’architecture technique 2/5 - Le harness 3/5 - Les tests automatisés 4/5 - L’infrastructure…",
+      "link": "https://www.jdecool.fr/blog/2026/10/27/dans-les-coulisses-de-mon-dernier-side-project-les-chiffres.html",
       "pubDate": "2026-10-26T23:00:00.000Z",
       "source": "Jérémy Decool",
       "sourceUrl": "https://www.jdecool.fr/feed.xml",
