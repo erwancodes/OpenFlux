@@ -2,6 +2,118 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "d9269f49d95d",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "pubDate": "2026-10-31T21:41:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2065ffa365f3",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "description": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "pubDate": "2026-10-31T21:36:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "204d5faf405d",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "pubDate": "2026-10-31T21:17:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6ec02213d45a",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "pubDate": "2026-10-31T16:12:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "20a215c25905",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "description": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "pubDate": "2026-10-31T15:41:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "52c46a96d633",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "description": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "pubDate": "2026-10-31T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9e88533d52d0",
+      "title": "Cloud Nord 2026 - Récap de ma journée à Lille",
+      "description": "De retour de Cloud Nord 2026 Comme je vous l’avais annoncé en septembre, j’étais cette année à Cloud Nord, à Lille, pour y donner un talk “inédit” : “J’ai mis Kubernetes dans 512 Mo de RAM. Et il restait de la place pour DOOM.” Enchaînement un peu sportif pour moi, puisque la veille au matin…",
+      "link": "https://blog.zwindler.fr/2026/10/31/recap-cloud-nord-2026/",
+      "pubDate": "2026-10-31T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/10/cloudnord2026.webp",
+      "type": "blog"
+    },
+    {
       "id": "1f419414a2c3",
       "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
       "description": "The money behind the money is thrilled, mostly.",
@@ -849,6 +961,21 @@
       "type": "podcast",
       "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_145_news-oct-26-rc3.mp3",
       "duration": "3431"
+    },
+    {
+      "id": "b11cb5d74cc4",
+      "title": "Security notice — malicious version of",
+      "description": "Anthropic.claude-code (2.1.312 and 2.1.313) identified in the Cursor VS Code Extension Marketplace",
+      "link": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "ee5e2424785d",
@@ -4213,6 +4340,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea41a986fe71",
+      "title": "Introducing the Agent SDK",
+      "description": "Security notice — malicious version of Anthropic.claude-code (2.1.312 and 2.1.313) identified in the Cursor VS Code Extension Marketplace",
+      "link": "https://cursor.com/blog/agent-sdk",
+      "pubDate": "2026-10-20T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"

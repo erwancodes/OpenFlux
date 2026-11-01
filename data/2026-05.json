@@ -1960,6 +1960,21 @@
       "type": "blog"
     },
     {
+      "id": "049c36778341",
+      "title": "Faire doubles PR throughput with Cursor Cloud Agents · Cursor",
+      "description": "Faire selected Cursor as its platform for coding agents, replacing an in-house background agent system.",
+      "link": "https://cursor.com/blog/faire",
+      "pubDate": "2026-05-26T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ab74f1d47fb1",
       "title": "Meta lance Forum, une application dédiée aux groupes Facebook",
       "description": "Meta a discrètement lancé Forum, une application autonome pour les groupes Facebook qui s'inspire de Reddit, avec une petite touche d'IA supplémentaire.",
@@ -2718,6 +2733,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5d792a4d2d61",
+      "title": "Cursor named a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · Cursor",
+      "description": "Gartner has named Cursor a Leader in the 2026 Magic Quadrant™ for Enterprise AI Coding Agents, with the furthest placement on Completeness of Vision.",
+      "link": "https://cursor.com/blog/cursor-leads-gartner-mq-2026",
+      "pubDate": "2026-05-22T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -5979,6 +6009,21 @@
       "type": "blog"
     },
     {
+      "id": "6f97200322df",
+      "title": "Development environments for your cloud agents · Cursor",
+      "description": "Cloud agents are easier to parallelize than local agents, continue working when your laptop is closed, and can run autonomously in response to programmatic triggers.",
+      "link": "https://cursor.com/blog/cloud-agent-development-environments",
+      "pubDate": "2026-05-13T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3c7d04a60055",
       "title": "2026 年の方針: JetBrains IDE における AI と従来のワークフロー",
       "description": "有効なコードの作成方法は 2 つありますが、 コードを管理する場所は 1 つしかありません。 AI 関連のニュースを読み飽きた方のための簡易版: ここをクリック 現在、開発者がコードを作成する方法には以下の 2 つがあります。 従来の方法: 入力、リファクタリング、デバッグを行いながら 1 行ずつ意図を形成することによって作成する。 新しい方法: AI との協働作業を通して作成する。自動補完を使用したり、まとまった量の成果物を下書きできるエージェントを使用したりする。 当社はどちらか一方が優れているとは考えていません。 両方のワークフローが妨げ合うことなく JetBrains IDE…",
@@ -6959,6 +7004,36 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ebf339ca02ba",
+      "title": "Beyond efficiency: PayPal expands what's possible to build with AI · Cursor",
+      "description": "PayPal could deliver 40% more capabilities in 2026. High-adoption teams are now deploying daily and completed a 3,000-app Java upgrade 6x faster.",
+      "link": "https://cursor.com/blog/paypal",
+      "pubDate": "2026-05-11T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7716e08c5daa",
+      "title": "Updates to Bugbot for Teams and Individuals · Cursor",
+      "description": "Bugbot is switching from seat-based subscriptions to usage-based billing for Individual and Teams plans.",
+      "link": "https://cursor.com/blog/may-2026-bugbot-changes",
+      "pubDate": "2026-05-11T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -8905,6 +8980,21 @@
       "type": "podcast",
       "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_131_news-mai26.mp3",
       "duration": "4165"
+    },
+    {
+      "id": "ea14a00a53b0",
+      "title": "Bootstrapping Composer with autoinstall · Cursor",
+      "description": "How Composer autoinstall bootstraps runnable RL environments by using earlier model versions to automate setup and verification.",
+      "link": "https://cursor.com/blog/bootstrapping-composer-with-autoinstall",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "ae0ecff8b336",

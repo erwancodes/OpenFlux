@@ -2064,6 +2064,21 @@
       "type": "blog"
     },
     {
+      "id": "374a8375f795",
+      "title": "Reward hacking is swamping model intelligence gains · Cursor",
+      "description": "On SWE-bench Pro, 63% of successful Opus 4.8 Max resolutions retrieved the fix rather than derived it. Stricter eval harnesses show how benchmark scores can conflate coding ability with answer retrieval.",
+      "link": "https://cursor.com/blog/reward-hacking-coding-benchmarks",
+      "pubDate": "2026-06-25T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2e9fbd141286",
       "title": "Étude : comment l’IA redistribue les rôles entre designers et développeurs",
       "description": "Selon le dernier rapport AI and Design de Figma, 57 % des professionnels jugent le design plus important qu’avant. Chez les développeurs, la proportion bondit de 44 % à 65 % en un an.",
@@ -2917,6 +2932,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "341ccfa6c461",
+      "title": "Coinbase reduces time from idea to production by 90% with Cursor · Cursor",
+      "description": "Over 2,400 developers at Coinbase use Cursor as a part of an agent-first engineering model. 75% of all PRs are created by agents, with the average engineer merging 55% more PRs since the beginning of the year.",
+      "link": "https://cursor.com/blog/coinbase",
+      "pubDate": "2026-06-23T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -5716,6 +5746,21 @@
       "type": "blog"
     },
     {
+      "id": "7af9473a4d76",
+      "title": "How Wayfair cut ML model costs by 90% (twice!) with Cursor · Cursor",
+      "description": "With Cursor handling experiment execution, Wayfair compressed months of ML research into days. Five researchers tested over 110 model variants and cut tag-validation model costs by 94%.",
+      "link": "https://cursor.com/blog/wayfair",
+      "pubDate": "2026-06-15T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6610ac1f0747",
       "title": "Jumeaux numériques : La transformation des usines du futur",
       "description": "Alors que les projecteurs médiatiques sont braqués sur les robots humanoïdes et l’intelligence artificielle générative, une autretechnologie est en train de bouleverser silencieusement l’industrie mondiale. Moins spectaculaire qu’un robot capable de marcher ou de manipuler des objets, mais…",
@@ -6814,6 +6859,21 @@
       "type": "blog"
     },
     {
+      "id": "c8759ef67b75",
+      "title": "Governing agent autonomy with Auto-review · Cursor",
+      "description": "Auto-review uses a classifier agent to govern local agent autonomy, allowing low-stakes actions to run freely while slowing down when an action crosses a meaningful boundary.",
+      "link": "https://cursor.com/blog/agent-autonomy-auto-review",
+      "pubDate": "2026-06-11T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1c5afcc7fc63",
       "title": "Anthropic taps TCS to scale its enterprise AI deployments",
       "description": "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.",
@@ -7252,6 +7312,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "551056faaa56",
+      "title": "Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs · Cursor",
+      "description": "Today we're shipping our biggest set of improvements yet to Bugbot, including a faster, cheaper, more thorough review and a new /review command.",
+      "link": "https://cursor.com/blog/bugbot-updates-june-2026",
+      "pubDate": "2026-06-10T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -8787,6 +8862,21 @@
       "type": "blog"
     },
     {
+      "id": "c49bf58cb0f2",
+      "title": "Direct agents with visual prompts in Design Mode · Cursor",
+      "description": "Point, draw, or narrate UI changes in the browser while agents edit the code underneath.",
+      "link": "https://cursor.com/blog/design-mode",
+      "pubDate": "2026-06-05T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "69e393a89c3b",
       "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
       "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
@@ -9491,6 +9581,21 @@
       "type": "blog"
     },
     {
+      "id": "87e3bacd3827",
+      "title": "Introducing organizations for Cursor Enterprise · Cursor",
+      "description": "Organizations let enterprises manage multiple Cursor teams from one place, with separate budgets, security, governance, and feature controls.",
+      "link": "https://cursor.com/blog/organizations",
+      "pubDate": "2026-06-03T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fb2e19124401",
       "title": "Codex s’ouvre aux analystes, marketeurs et financiers avec 6 nouveaux plugins",
       "description": "OpenAI déploie six plugins spécifiques à chaque métier pour Codex, accompagnés de deux nouveautés : Sites et annotations. Le but est de rendre l'agent utile aux équipes non techniques, qui représentent déjà 20 % de ses utilisateurs.",
@@ -10007,6 +10112,21 @@
       "type": "blog"
     },
     {
+      "id": "a01147786f1c",
+      "title": "What we’ve learned building cloud agents · Cursor",
+      "description": "After a year of shipping cloud agents, we’ve learned that environment quality, durable execution, and the right harness boundaries drive autonomous performance.",
+      "link": "https://cursor.com/blog/cloud-agent-lessons",
+      "pubDate": "2026-06-02T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c3949bf5e025",
       "title": "We Are Digital Producers : qu’est-ce qu’un collectif digital efficace et créatif ?",
       "description": "À quoi correspond un collectif de digital producers, à quels besoins du marché répond-il, pour quels types de missions ? Cet article fait suite à un entretien avec l’équipe de We Are Digital Producers et fait le point sur ce qu’un collectif d’experts digitaux peut apporter et dans quel contexte.…",
@@ -10478,6 +10598,21 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/05/Sarbacane-Positive-2026-294x147.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9265214e5e9a",
+      "title": "Improvements to Teams Pricing · Cursor",
+      "description": "Increasing usage limits, lowering total costs for heavy-usage customers, and making Teams spend easier to forecast and control.",
+      "link": "https://cursor.com/blog/teams-pricing-june-2026",
+      "pubDate": "2026-06-01T07:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

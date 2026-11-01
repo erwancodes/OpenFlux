@@ -1602,6 +1602,21 @@
       "type": "blog"
     },
     {
+      "id": "fe153921a1d7",
+      "title": "How Vercel used Cursor to build Queues · Cursor",
+      "description": "Vercel Queues was built entirely with Cursor. Power users saw a 54% increase in PR throughput, an 89% decrease in PR cycle time, and 104 hours saved per developer annually.",
+      "link": "https://cursor.com/blog/vercel",
+      "pubDate": "2026-07-28T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fc4cf8bbb3a6",
       "title": "Robots humanoïdes en laboratoire : retours d’expérience du LORIA et du LAAS-CNRS avec Unitree G1 et H1",
       "description": "Robots humanoïdes en laboratoire : retours d’expérience du LORIA et du LAAS-CNRS avec Unitree G1 et H1 28 juillet 2026 L’essentiel à retenir Le LORIA et le LAAS-CNRS utilisent respectivement les robots humanoïdes Unitree G1 et Unitree H1 pour mener des recherches en locomotion, apprentissage et…",
@@ -6752,6 +6767,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9ae12abd3b3",
+      "title": "Grok 4.5 Model Card · Cursor",
+      "description": "The official model card for Grok 4.5. It documents the model's capability benchmarks and safety evaluations.",
+      "link": "https://cursor.com/blog/grok-4-5-model-card",
+      "pubDate": "2026-07-14T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"

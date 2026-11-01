@@ -1536,6 +1536,21 @@
       "type": "blog"
     },
     {
+      "id": "24bfc589cda3",
+      "title": "A technical report on Composer 2 · Cursor",
+      "description": "We posted an arXiv report on training Composer 2—from continued pretraining on Kimi K2.5 through large-scale RL in realistic Cursor sessions—and on CursorBench, public benchmarks, and infrastructure.",
+      "link": "https://cursor.com/blog/composer-2-technical-report",
+      "pubDate": "2026-03-27T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7a8a35fb139b",
       "title": "SEO : Google déploie une mise à jour majeure de ses algorithmes (March 2026 Core Update)",
       "description": "Google confirme le déploiement officiel de la nouvelle mise de ses algorithmes, la March 2026 Core Update. Elle survient quelques jours seulement après le lancement d'une autre mise à jour, la March 2026 Spam Update.",

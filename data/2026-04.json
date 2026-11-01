@@ -321,6 +321,21 @@
       "type": "blog"
     },
     {
+      "id": "173ad132e1d1",
+      "title": "Continually improving our agent harness · Cursor",
+      "description": "Models need a harness to become fully useful, and improving that harness means continuously iterating on context, evaluation, and model-specific tuning.",
+      "link": "https://cursor.com/blog/continually-improving-agent-harness",
+      "pubDate": "2026-04-30T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "01daa01c2d2e",
       "title": "Le consultant : une lecture sociologique",
       "description": "Je publie dans le dernier numéro de la Nouvelle revue du travail, consacré à « Ce que manager veut dire », une recension du roman de David Naïm, Le Consultant. J’y propose une lecture sociologique de ce récit acerbe sur Le consultant : une lecture sociologique first appeared on Mais où va le Web.",
@@ -871,6 +886,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ad4d8ca3a5a7",
+      "title": "Build programmatic agents with the Cursor SDK · Cursor",
+      "description": "Launch, steer, and compose custom agents with the Cursor SDK.",
+      "link": "https://cursor.com/blog/typescript-sdk",
+      "pubDate": "2026-04-29T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -4085,6 +4115,21 @@
       "type": "blog"
     },
     {
+      "id": "d68bad312bd8",
+      "title": "Keeping the Cursor app stable · Cursor",
+      "description": "How we measure crash and OOM rates, debug memory issues with top-down and bottom-up strategies, and ship mitigations and guardrails as the app grows.",
+      "link": "https://cursor.com/blog/app-stability",
+      "pubDate": "2026-04-21T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d918341cb60d",
       "title": "Cas client CNES : projet de robot mobile assistant astronaute",
       "description": "Cas client CNES : projet de robot mobile assistant astronaute 21 avril 2026 Infos générales : Nom de l’organisation : CNES (Centre national d’études spatiales) Prénom, nom : Jean Bertrand Poste : Responsable Robot Assistant Astronaute Exploration et Vols Habités – Projet SpaceShip FR Secteur :…",
@@ -6243,6 +6288,21 @@
       "type": "blog"
     },
     {
+      "id": "1d8f3224caca",
+      "title": "Better AI models enable more ambitious work · Cursor",
+      "description": "A University of Chicago study of 500 companies finds AI usage rose 44% as models improved, with more growth in higher-complexity and cross-system work.",
+      "link": "https://cursor.com/blog/better-models-ambitious-work",
+      "pubDate": "2026-04-15T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bfde26595c17",
       "title": "Ce que le AWS Summit 2026 nous apprend sur le futur du DevOps",
       "description": "Retour sur l’AWS Summit 2026 : IA agentique, Amazon EKS, DevOps, souveraineté et innovations cloud qui transforment les architectures modernes.",
@@ -6419,6 +6479,21 @@
         "IA"
       ],
       "image": "https://yoandev.co/img/20260319.BgUMilYe_8wdWs.webp",
+      "type": "blog"
+    },
+    {
+      "id": "9097ac257f7f",
+      "title": "Interact with agent-created visualizations in canvases · Cursor",
+      "description": "Agents can now create interactive canvases to visually represent information.",
+      "link": "https://cursor.com/blog/canvas",
+      "pubDate": "2026-04-15T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -8703,6 +8778,21 @@
       "type": "blog"
     },
     {
+      "id": "cbd95414dfb2",
+      "title": "Bugbot now self-improves with learned rules · Cursor",
+      "description": "Bugbot can now learn from PR feedback in real time by turning live code review signals into learned rules.",
+      "link": "https://cursor.com/blog/bugbot-learning",
+      "pubDate": "2026-04-08T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "179120f5a047",
       "title": "Claude Mythos : un modèle d’IA trop dangereux pour être rendu public",
       "description": "Anthropic a présenté Claude Mythos Preview, un modèle frontier capable de détecter des milliers de failles zero-day en quelques heures. Trop dangereux pour être rendu public, il n'est accessible qu'à une cinquantaine d'organisations.",
@@ -9525,6 +9615,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9be5f1badfe2",
+      "title": "Better MoE model inference with warp decode · Cursor",
+      "description": "By flipping the parallelism axis we achieve 1.8x faster and more accurate MoE model inference.",
+      "link": "https://cursor.com/blog/warp-decode",
+      "pubDate": "2026-04-06T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
