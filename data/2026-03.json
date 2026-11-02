@@ -6532,6 +6532,21 @@
       "type": "blog"
     },
     {
+      "id": "bcd4e98a3818",
+      "title": "Securing our codebase with autonomous agents · Cursor",
+      "description": "Cursor's security team built a fleet of security agents to find and fix vulnerabilities across a fast-changing codebase.",
+      "link": "https://cursor.com/blog/security-agents",
+      "pubDate": "2026-03-16T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4c471ff2e823",
       "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
       "description": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",

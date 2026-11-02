@@ -859,6 +859,21 @@
       "type": "blog"
     },
     {
+      "id": "097d5a1923ec",
+      "title": "Build from anywhere with Cursor for iOS · Cursor",
+      "description": "Cursor is available as a native iOS app on your phone, now in public beta.",
+      "link": "https://cursor.com/blog/ios-mobile-app",
+      "pubDate": "2026-06-29T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2569a8605292",
       "title": "B2B Companies: How to Appear in AI Search Engines?",
       "description": "The increasing use of AI to inform B2B buyers highlights the importance of online brand image management. Companies must optimize their content to be visible and credible to AIs, taking into account information from their websites, social networks, and offline activities. A well-thought-out…",
@@ -2068,6 +2083,21 @@
       "title": "Reward hacking is swamping model intelligence gains · Cursor",
       "description": "On SWE-bench Pro, 63% of successful Opus 4.8 Max resolutions retrieved the fix rather than derived it. Stricter eval harnesses show how benchmark scores can conflate coding ability with answer retrieval.",
       "link": "https://cursor.com/blog/reward-hacking-coding-benchmarks",
+      "pubDate": "2026-06-25T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "737afd10dfaf",
+      "title": "How Notion used the Cursor SDK to embed coding agents · Cursor",
+      "description": "You can now delegate tasks to Cursor directly from Notion. Notion built the integration in weeks using the Cursor SDK.",
+      "link": "https://cursor.com/blog/notion",
       "pubDate": "2026-06-25T12:00:00.000Z",
       "source": "Cursor Blog",
       "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",

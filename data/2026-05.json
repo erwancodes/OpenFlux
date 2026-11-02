@@ -4676,6 +4676,21 @@
       "duration": "00:10:50"
     },
     {
+      "id": "a8a3bf759a7b",
+      "title": "Introducing Composer 2.5 · Cursor",
+      "description": "A substantial improvement in intelligence and behavior over Composer 2, particularly on long-horizon agentic tasks.",
+      "link": "https://cursor.com/blog/composer-2-5",
+      "pubDate": "2026-05-18T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "dc92fc4324ad",
       "title": "Utiliser PHP avec Airflow",
       "description": "Je travaille actuellement sur un projet orienté BI pour lequel des scripts d’analyse et de visualisation de données sont écrits en Python et sont orchestrés par Apache Airflow. Airflow est un outil Python, initialement conçu et pensé pour l’écosystème Python. Mais travaillant essentiellement en…",

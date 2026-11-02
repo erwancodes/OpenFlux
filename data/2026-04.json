@@ -3220,6 +3220,21 @@
       "type": "blog"
     },
     {
+      "id": "050d931c84d9",
+      "title": "National Australia Bank accelerates legacy migrations with Cursor · Cursor",
+      "description": "NAB standardized 6,000 developers on Cursor after evaluating Amazon Q and GitHub Copilot. Legacy modernizations are now running 3x faster and at higher quality.",
+      "link": "https://cursor.com/blog/nab",
+      "pubDate": "2026-04-23T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "617ce0176a69",
       "title": "Les chiffres clés d’Internet et des réseaux sociaux dans le monde en avril 2026",
       "description": "Quels sont les nouveaux usages d’Internet, des réseaux sociaux et de l’IA en avril 2026 ? Les réponses avec la dernière mise à jour du rapport publié par We Are Social et le cabinet Manochi.",
@@ -3839,6 +3854,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "af32ef685179",
+      "title": "Cursor partners with SpaceX on model training · Cursor",
+      "description": "Cursor is partnering with SpaceX to accelerate our model training efforts.",
+      "link": "https://cursor.com/blog/spacex-model-training",
+      "pubDate": "2026-04-21T22:17:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -6303,6 +6333,21 @@
       "type": "blog"
     },
     {
+      "id": "c0ce2e120c51",
+      "title": "Amplitude ships 3x more production code with Cursor · Cursor",
+      "description": "Amplitude uses Cursor to build an autonomous development pipeline that takes software from idea to production with minimal developer intervention.",
+      "link": "https://cursor.com/blog/amplitude",
+      "pubDate": "2026-04-15T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bfde26595c17",
       "title": "Ce que le AWS Summit 2026 nous apprend sur le futur du DevOps",
       "description": "Retour sur l’AWS Summit 2026 : IA agentique, Amazon EKS, DevOps, souveraineté et innovations cloud qui transforment les architectures modernes.",
@@ -6794,6 +6839,21 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1fa808f709ce",
+      "title": "Speeding up GPU kernels by 38% with a multi-agent system · Cursor",
+      "description": "Our multi-agent system autonomously optimized 235 CUDA kernels for NVIDIA Blackwell 200 GPUs, achieving a 38% geomean speedup over baselines in just 3 weeks.",
+      "link": "https://cursor.com/blog/multi-agent-kernels",
+      "pubDate": "2026-04-14T12:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -10705,6 +10765,21 @@
         "Programmation"
       ],
       "image": "https://david.drugeon-hamon.bzh/blog/2026/03/news-mars/banner.avif",
+      "type": "blog"
+    },
+    {
+      "id": "e13bb5f78ed0",
+      "title": "Meet the new Cursor · Cursor",
+      "description": "Cursor 3 is a unified workspace for building software with agents.",
+      "link": "https://cursor.com/blog/cursor-3",
+      "pubDate": "2026-04-02T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
