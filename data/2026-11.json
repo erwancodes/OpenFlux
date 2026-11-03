@@ -2,6 +2,437 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "a0fb3103f999",
+      "title": "Universal Robots automatise le vissage en mouvement chez Thyssenkrupp",
+      "description": "thyssenkrupp automatise le vissage de moteurs en mouvement continu grâce à Universal Robots et Inbolt Sur son site d’Herrlisheim (Bas-Rhin), thyssenkrupp Automotive Systems France a automatisé une opération de vissage particulièrement complexe sur des moteurs thermiques destinés à un fabricant…",
+      "link": "https://www.robot-magazine.fr/universal-robots-automatise-le-vissage-en-mouvement-chez-thyssenkrupp/?utm_source=rss&utm_medium=rss&utm_campaign=universal-robots-automatise-le-vissage-en-mouvement-chez-thyssenkrupp",
+      "pubDate": "2026-11-03T10:34:07.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2026/11/Inbolt-ThyssenKrupp-Herrlisheim-Adrien-Boscher-4.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9b2a9048a8c9",
+      "title": "API SMS : comment ça marche et comment l’intégrer ?",
+      "description": "Une API SMS permet à une entreprise d’envoyer automatiquement des SMS depuis ses propres outils. SMSFactor explique son fonctionnement et la manière de l’intégrer.",
+      "link": "https://www.blogdumoderateur.com/api-sms-comment-ca-marche/",
+      "pubDate": "2026-11-03T09:12:24.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/API-SMS-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "248b1c2138ea",
+      "title": "Newsjacking, UGC, dark posting : maîtrisez-vous vraiment le vocabulaire du social media manager ?",
+      "description": "Les acronymes et anglicismes obscurs du social media n’ont aucun secret pour vous ? Testez vos connaissances avec notre quiz.",
+      "link": "https://www.blogdumoderateur.com/quiz-vocabulaire-social-media-manager/",
+      "pubDate": "2026-11-03T09:09:18.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/quiz-jargon-social-media-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "65f8f0140df8",
+      "title": "Comment HappyVore mise sur l’humour et la positivité pour se démarquer sur les réseaux sociaux",
+      "description": "Laura Wawerka, responsable marque et communication chez HappyVore, est l’invitée du podcast Follow Back, produit par Swello en partenariat avec BDM. Elle y décrypte la stratégie social media de la marque végétale et sa gestion des haters.",
+      "link": "https://www.blogdumoderateur.com/comment-happyvore-mise-humour-positivite-se-demarquer-reseaux-sociaux/",
+      "pubDate": "2026-11-03T09:05:31.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Laura-Wawerka-HappyVore-Follow-Back-Swello-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "edab9fbf6f68",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "description": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "pubDate": "2026-11-03T08:01:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aafb2d2c8fa2",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "description": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "pubDate": "2026-11-03T07:20:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd47e10108d5",
+      "title": "Les infrastructures numériques peuvent-elles suivre l’essor de l’IA ?",
+      "description": "Maher El Fekih, président de Colt Technology Services France, explique à BDM pourquoi la connectivité limite désormais l’IA, au même titre que l’énergie et les GPU.",
+      "link": "https://www.blogdumoderateur.com/infrastructures-numeriques-suivre-essor-ia/",
+      "pubDate": "2026-11-03T06:00:47.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/infrastructures-IA-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "23abe1f1b0a2",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "description": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "pubDate": "2026-11-03T03:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "804d2e2f62a5",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "description": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "pubDate": "2026-11-03T01:49:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1b5a2cd740a9",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "description": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+      "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "pubDate": "2026-11-03T01:12:55.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dfb1d49114f0",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "description": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "pubDate": "2026-11-03T00:35:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9cb30b998672",
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "description": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "pubDate": "2026-11-03T00:14:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "72763af1b8ba",
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "description": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "pubDate": "2026-11-02T23:25:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c8564f3a6870",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "description": "The one-year-old startup is now valued at $300 million.",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "pubDate": "2026-11-02T23:13:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7a5916ab193",
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "description": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "pubDate": "2026-11-02T23:04:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca204e1c0052",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "pubDate": "2026-11-02T22:14:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dffcdbc31146",
+      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "description": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+      "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "pubDate": "2026-11-02T19:45:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4ca5045e7ee7",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "description": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "pubDate": "2026-11-02T19:25:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7389883fb55",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "pubDate": "2026-11-02T19:19:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a2939ef1c875",
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "description": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+      "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "pubDate": "2026-11-02T19:11:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "01cb927416ac",
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "description": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+      "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "pubDate": "2026-11-02T17:54:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7583aede7d6",
+      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+      "description": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+      "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+      "pubDate": "2026-11-02T17:49:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8820055443f1",
+      "title": "Adobe offre un an de Firefly, Acrobat et Semrush aux startups : comment en profiter",
+      "description": "Adobe lance Adobe for Startups, un programme qui donne accès gratuitement pendant 12 mois à Firefly Pro Plus, Acrobat Studio et Semrush. Il s'adresse aux startups de moins de cinq ans ayant levé moins de 15 millions de dollars.",
+      "link": "https://www.blogdumoderateur.com/adobe-offre-firefly-acrobat-semrush-startups/",
+      "pubDate": "2026-11-02T17:00:44.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/adobe-generateur-musique-ia-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "375850f0d6d2",
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "description": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+      "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+      "pubDate": "2026-11-02T16:44:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8bfd7590d71c",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "description": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "pubDate": "2026-11-02T16:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fdd130ae0361",
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "description": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "pubDate": "2026-11-02T16:23:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "532e039d30fe",
+      "title": "Mods Claude Code : et si votre session pouvait se piloter elle-même ?",
+      "description": "Skills, hooks et MCP agissent autour de la session ; les mods agissent dedans. Routage du modèle selon la tâche, mémoire persistante, installation et précautions de sécurité à connaître avant d'essayer.",
+      "link": "https://blog.ippon.fr/2026/11/02/mods-claude-code-routage-memoire/",
+      "pubDate": "2026-11-02T13:25:01.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/Capture-d-----cran-2026-10-30----11.48.53.png",
+      "type": "blog"
+    },
+    {
       "id": "b870932b8a7e",
       "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
       "description": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
