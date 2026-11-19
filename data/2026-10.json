@@ -2,6 +2,21 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "9b9dabc3bc05",
+      "title": "PDT",
+      "description": "– On mange quoi ce midi ? rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-pdt/",
+      "pubDate": "2026-10-31T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d9269f49d95d",
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "description": "Apple's new CEO defended the company's current position in the AI landscape.",
@@ -994,6 +1009,21 @@
       "type": "blog"
     },
     {
+      "id": "d3b59cccfb77",
+      "title": "L'addiction aux fourchettes",
+      "description": "Imaginez la une des journaux demain matin : Fruits, légumes de saison ou burgers dégoulinants : les Français passent en moyenne plus de trois heures par jour à se nourrir. Enquête choc sur le fléau de l’addiction aux fourchettes. Ou encore : Podcasts d’histoire, musique symphonique, débats…",
+      "link": "https://boris.schapira.dev/notes/2026-10-addiction-aux-fourchettes/",
+      "pubDate": "2026-10-28T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b446eade4a48",
       "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
       "description": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
@@ -1473,6 +1503,22 @@
         "IA"
       ],
       "image": "https://lostinbrittany.dev/img/posts/2026-10-28-a-year-has-passed/a-year-has-passed-social-fr.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f30b16d7307b",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 4 : le RAG simple",
+      "description": "I've seen things you people wouldn't believe. ©Roy Batty",
+      "link": "https://philippart-s.github.io/blog/2026-10-28-java-and-ai-part4/",
+      "pubDate": "2026-10-28T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1962,6 +2008,38 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a261c950f68a",
+      "title": "Le workflow est un produit : un jeu complet en neuf jours avec Claude Code",
+      "description": "Neuf jours, un développeur seul, un agent de code et un kebab en pixel art. Ce que j'ai dû écrire, brancher et auditer autour de Claude Code pour qu'il écrive tout le code d'un jeu sans que la qualité s'écroule, et ce que ce workflow ne fait pas.",
+      "link": "https://blog.eleven-labs.com/fr/workflow-claude-code-kebab-roguelite/",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "541e5855509d",
+      "title": "The workflow is a product: a complete game in nine days with Claude Code",
+      "description": "Nine days, one developer, a coding agent and a pixel-art kebab shop. What I had to write, wire up and audit around Claude Code so that it could write all the code of a game without quality collapsing, and what that workflow doesn't do.",
+      "link": "https://blog.eleven-labs.com/en/claude-code-workflow-kebab-roguelite/",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
       ],
       "image": null,
       "type": "blog"
@@ -6358,6 +6436,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1d6bdf646661",
+      "title": "Obtenir une réponse",
+      "description": "Obtenir une réponse simple, c’est parfois une aventure. – C’est dans quelle matière que tu étais avec Gabin la dernière fois ? Tu sais, quand il n’avait pas fait sa partie ? Ah, quand même ! rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-10-obtenir-une-reponse/",
+      "pubDate": "2026-10-13T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"

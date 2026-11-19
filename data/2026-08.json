@@ -1504,6 +1504,24 @@
       "type": "blog"
     },
     {
+      "id": "d93d4eca24e2",
+      "title": "#371.exe - Everyone can build: La révolution du code ouvert chez Alan par Yves Brissaud",
+      "description": "Pour l'épisode #371 je recevais Alexandre Gerlic. On en débrief avec Yves. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/371-e25b74a02356",
+      "pubDate": "2026-08-27T03:00:16.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/ddeb6928-74b0-4076-94a3-e25b74a02356.mp3?_=1793883661",
+      "duration": "17:26"
+    },
+    {
       "id": "745d673f45eb",
       "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",

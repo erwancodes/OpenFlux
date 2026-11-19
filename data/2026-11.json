@@ -2,6 +2,1615 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "a203b48be6e9",
+      "title": "Publicité : un marché toujours tiré par le digital, des prévisions 2026 à la baisse",
+      "description": "Vidéo, audio, social, retail media : le baromètre BUMP détaille les leviers qui soutiennent un marché publicitaire en croissance de 4,1 %.",
+      "link": "https://www.blogdumoderateur.com/publicite-marche-toujours-tire-digital-previsions-2026-baisse/",
+      "pubDate": "2026-11-19T09:52:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/BUMP-novembre-2026-1-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "90135b7b8759",
+      "title": "Instagram permet désormais d’éditer une Story après sa publication",
+      "description": "Les utilisateurs ont maintenant 15 minutes pour modifier le texte, la musique ou les stickers d'une Story après sa publication.",
+      "link": "https://www.blogdumoderateur.com/instagram-editer-story-apres-publication/",
+      "pubDate": "2026-11-19T09:36:40.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/instagram-edition-story-apres-publication-294x159.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d858cc1e9bac",
+      "title": "Webmecanik, l’alternative française de CRM et marketing automation aux solutions américaines",
+      "description": "On vous explique pourquoi Webmecanik Automation et Webmecanik Pipeline constituent des alternatives plus que crédibles aux solutions américaines.",
+      "link": "https://www.blogdumoderateur.com/webmecanik-alternative-francaise-crm-marketing-automation/",
+      "pubDate": "2026-11-19T08:41:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/webmecanik-alternative-francaise-294x165.png",
+      "type": "blog"
+    },
+    {
+      "id": "d4bbe0f2a1af",
+      "title": "Les Français sont-ils prêts à payer le prix de la souveraineté numérique ?",
+      "description": "Selon une enquête menée par Ipsos bva auprès de 1 000 Français pour Entreprises & Médias, 77 % jugent nécessaire de renforcer la souveraineté du pays sur les outils d'IA. Mais pas au détriment du prix ou de la performance.",
+      "link": "https://www.blogdumoderateur.com/francais-payer-prix-souverainete-numerique/",
+      "pubDate": "2026-11-19T07:00:53.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/ipsos-bva-souverainete-1-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8c49137c25b0",
+      "title": "Visibilité dans ChatGPT : que valent les premières statistiques d’OpenAI ?",
+      "description": "OpenAI ouvre enfin aux entreprises leurs chiffres de visibilité dans ChatGPT. Mais quand les IA envoient si peu de trafic, quel intérêt présentent ces données pour les marques ?",
+      "link": "https://www.blogdumoderateur.com/visibilite-chatgpt-que-valents-premieres-statistiques-openai/",
+      "pubDate": "2026-11-19T06:00:22.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/businesses-in-chatgpt-2026-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "108d95f37681",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "pubDate": "2026-11-19T00:42:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6a21dab5c79c",
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "description": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "pubDate": "2026-11-19T00:40:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "afb1f8fc8494",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "description": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "pubDate": "2026-11-18T23:45:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e78487095dd3",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "description": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "pubDate": "2026-11-18T23:25:17.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d442346cc5e5",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "description": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "pubDate": "2026-11-18T23:17:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "49ff21afd78e",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "description": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "pubDate": "2026-11-18T22:58:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aed3ea0dfc61",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "description": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "pubDate": "2026-11-18T22:11:15.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "46c96709919c",
+      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+      "description": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+      "pubDate": "2026-11-18T22:04:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "80bdab190c6d",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "description": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "pubDate": "2026-11-18T21:57:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "734339654a32",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "description": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "pubDate": "2026-11-18T21:34:13.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4546d2f009c0",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "description": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "pubDate": "2026-11-18T21:31:21.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "388adedcc584",
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "description": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "pubDate": "2026-11-18T20:07:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "53453b71f99b",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "description": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "pubDate": "2026-11-18T19:56:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "438473f71f92",
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "description": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "pubDate": "2026-11-18T19:29:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8bb2ac688178",
+      "title": "Road trip vers l'Espagne, partie 3",
+      "description": "Jours 13 à 18 : Pays Basque « du Nord » Pour notre séjour à Biarritz avec mon épouse Bénédicte, nous avons choisi un logement un peu à l’écart du centre-ville. Au programme, pas mal de balades à pied, une journée à vélo de location, le reste à moto pour découvrir les environs. La ville de Biarritz…",
+      "link": "https://standblog.org/blog/post/2026/11/18/Road-trip-vers-l-Espagne-partie-3",
+      "pubDate": "2026-11-18T18:25:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://pix.diaspodon.fr/storage/m/_v2/40/4796c06ff-5eacf7/T07W2ndZH2NP/IifoxOTyMTZxXZ0VXpscdNnzDp818fFezgLbX6LT.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "13feb5a0d5b2",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "description": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "pubDate": "2026-11-18T18:04:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "663072a23757",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "description": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "pubDate": "2026-11-18T17:32:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e72410701ed4",
+      "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
+      "description": "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.",
+      "link": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
+      "pubDate": "2026-11-18T17:30:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d83fee4011ac",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "description": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "pubDate": "2026-11-18T16:59:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eaeb1e564c50",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "description": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "pubDate": "2026-11-18T16:14:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7fdefbe550bf",
+      "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
+      "description": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
+      "link": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
+      "pubDate": "2026-11-18T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7db11e469128",
+      "title": "Défi Zéro Déchet : 10 ans aux côtés des collectivités",
+      "description": "Défi Zéro Déchet : la plateforme libre des collectivités créée par Les-Tilleuls.coop Cet article, Défi Zéro Déchet : 10 ans aux côtés des collectivités, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/defi-zero-dechet-plateforme-collectivites",
+      "pubDate": "2026-11-18T11:25:15.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/flat-lay-zero-waste-spoons-concept-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3e873a37b645",
+      "title": "Gemini va conserver vos discussions plus longtemps, même avec l’historique désactivé",
+      "description": "Gemini va remplacer le réglage « Conserver l’activité » par deux paramètres indépendants et porter à environ deux mois la conservation des discussions lorsque l’historique est désactivé.",
+      "link": "https://www.blogdumoderateur.com/gemini-conserver-discussions-plus-longtemps/",
+      "pubDate": "2026-11-18T10:28:25.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3f3b180cadd6",
+      "title": "Métiers exposés à l’IA : les offres d’emploi ralentissent aussi pour les profils expérimentés",
+      "description": "Selon une étude de Coface et de l’Observatoire des emplois menacés et émergents, les annonces des professions très exposées à l’IA restent en retrait par rapport aux métiers peu exposés, y compris pour les profils confirmés.",
+      "link": "https://www.blogdumoderateur.com/metiers-exposes-ia-offres-emploi-ralentissent-profils-experimentes/",
+      "pubDate": "2026-11-18T10:20:31.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-294x155.png",
+      "type": "blog"
+    },
+    {
+      "id": "949832ed5c26",
+      "title": "Microsoft dévoile 7 nouveaux modèles d’IA lors de sa conférence Ignite",
+      "description": "Pour rivaliser avec les modèles d’Anthropic et d’OpenAI, l’entreprise mise sur un argument clé : des performances presque identiques pour une fraction de leur coût.",
+      "link": "https://www.blogdumoderateur.com/microsoft-7-nouveaux-modeles-ia-conference-ignite/",
+      "pubDate": "2026-11-18T10:04:59.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/mai-image-2-7-canvas-demo.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "b353b9ea87f2",
+      "title": "OpenAI lance GPT-6.2 Astra et Sol, des modèles moins chers et plus performants",
+      "description": "OpenAI dévoile GPT-6.2 Astra, son nouveau modèle de pointe pour les projets complexes, et GPT-6.2 Sol, pensé pour le travail quotidien.",
+      "link": "https://www.blogdumoderateur.com/openai-gpt-6-2-astra-sol-modeles-moins-chers-plus-performants/",
+      "pubDate": "2026-11-18T09:40:46.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/openai-gpt-6-2-astra-sol-294x170.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fcce8a33b288",
+      "title": "ChatGPT for Sales : OpenAI veut faire de ChatGPT l’outil de travail des commerciaux",
+      "description": "OpenAI lance un plugin Sales et plus de 30 plugins partenaires. Les commerciaux peuvent préparer un rendez-vous, rédiger une relance ou mettre à jour leur CRM depuis ChatGPT.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-for-sales-outil-travail-commerciaux/",
+      "pubDate": "2026-11-18T09:39:26.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/ChatGPT-for-Sales-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a0a2979e40e0",
+      "title": "Les pires mots de passe utilisés par les Français en 2026",
+      "description": "NordPass a passé au crible, dans 44 pays, les identifiants et mots de passe exposés dans des fuites de données. En France, les suites de chiffres et le clavier AZERTY dominent toujours le classement.",
+      "link": "https://www.blogdumoderateur.com/pires-mots-de-passe-utilises-francais-2026/",
+      "pubDate": "2026-11-18T09:29:50.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/mots-de-passe-utilises-france-2026-294x175.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "98a8a8cfe46a",
+      "title": "noTube, une alternative française pour transcrire et résumer une vidéo YouTube",
+      "description": "L'outil français noTube produit le transcript horodaté, le résumé et les chapitres d'une vidéo YouTube à partir de son lien, face à Otter.ai, Fireflies ou ChatGPT.",
+      "link": "https://www.blogdumoderateur.com/notube-alternative-francaise-transcrire-resumer-video-youtube/",
+      "pubDate": "2026-11-18T08:08:07.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/notube-alternative-francaise-294x161.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fac447488808",
+      "title": "Peut-on encore se passer de TikTok dans sa stratégie social media ?",
+      "description": "Pour quelles marques TikTok est-il pertinent, et comment y réussir ? Quatre experts livrent leurs conseils.",
+      "link": "https://www.blogdumoderateur.com/peut-on-encore-passer-tiktok-strategie-social-media/",
+      "pubDate": "2026-11-18T06:00:12.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/strategie-social-media-tiktok-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "d2bca330ff67",
+      "title": "#385.src -  AT Protocol: Décentraliser son identité numérique avec Julien Wittouck",
+      "description": "\"Quitter un réseau social, d'habitude c'est tout perdre. BlueSky, eux, promettent l'inverse : vos données ne lui appartiennent pas.\" Le D.E.V. de la semaine est Julien Wittouck, développeur back-end, architecte et associé chez Ekité, enseignant à l'université de Lille et conférencier. Dans cet…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/385-0e842b5cd5a9",
+      "pubDate": "2026-11-18T04:00:31.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/d10145c3-79c4-48ee-a732-a60756f68418.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/1ebca351-8f11-461b-9acf-0e842b5cd5a9.mp3?_=1794920431",
+      "duration": "01:04:25"
+    },
+    {
+      "id": "db953577ceec",
+      "title": "Comment l'IA pourrait faire disparaitre l'humanité ?",
+      "description": "Entre 1 et 99 % de risque selon les experts. Mais concrètement, comment l'IA nous ferait disparaître ? Cinq scénarios, du plus proche au plus lointain.",
+      "link": "https://eventuallycoding.com/p/comment-l-ia-pourrait-faire-disparaitre-l-humanite",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1795019634005-ahaqp3r.png",
+      "type": "blog"
+    },
+    {
+      "id": "2a3a4ec1ea73",
+      "title": "Outils de gestion sur mesure pour TPE et PME — plus vite et plus simplement avec le no-code",
+      "description": "Comment créer des outils de gestion sur mesure avec le no-code ? Thomas Vedel et Matthieu Gameiro racontent le projet TimeTonic d’IP Conseils : des tâches simplifiées, une application qui évolue avec les utilisateurs et un temps de traitement par dossier divisé par quatre. Un retour d’expérience…",
+      "link": "https://oliviersauvage.com/fr/outils-gestion-no-code-tpe-pme/",
+      "pubDate": "2026-11-17T16:32:55.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e8299ef977f",
+      "title": "Many small reads, a few huge invalidations: what I learned alongside Symfony Cache on Redis Cluster",
+      "description": "On our e-commerce API, we invalidate a few hundred cache entries all the time, and that is easy with any cache. But switching the active catalogue means invalidating around a million entries at once, and that has to be fast too. With the first version of my cache, it blocked everything else for…",
+      "link": "https://jolicode.com/blog/many-small-reads-a-few-huge-invalidations-what-i-learned-alongside-symfony-cache-on-redis-cluster",
+      "pubDate": "2026-11-17T14:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/redis-performance/mermaid-diagram-2026-11-17-160842.png",
+      "type": "blog"
+    },
+    {
+      "id": "5eec6dfe861c",
+      "title": "Le Français OVHcloud se lance dans les LLM avec Olala, un petit modèle ouvert",
+      "description": "Le spécialiste roubaisien du cloud publie son premier LLM, entraîné sur des supercalculateurs publics européens, et se pose en concurrent direct de Mistral AI.",
+      "link": "https://www.blogdumoderateur.com/ovhcloud-llm-olala-petit-modele-ouvert/",
+      "pubDate": "2026-11-17T14:05:13.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/ovhcloud-llm-olala-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "0612d9c62d13",
+      "title": "Robots de nettoyage en 2026 : pourquoi les ventes accélèrent, de la maison à l’entrepôt",
+      "description": "Près de 7,9 millions de robots aspirateurs ont été expédiés dans le monde au deuxième trimestre 2026. Du côté des professionnels, les ventes de robots de nettoyage recensées en 2026 ont progressé de 40 % sur un an. Derrière ces chiffres, une question se pose pour les particuliers comme pour les…",
+      "link": "https://www.robot-magazine.fr/robots-de-nettoyage-en-2026-pourquoi-les-ventes-accelerent-de-la-maison-a-lentrepot/?utm_source=rss&utm_medium=rss&utm_campaign=robots-de-nettoyage-en-2026-pourquoi-les-ventes-accelerent-de-la-maison-a-lentrepot",
+      "pubDate": "2026-11-17T11:59:47.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "837810a3d42e",
+      "title": "Cas client : la Caisse de Solidarité reprend la main sur sa plateforme de dons",
+      "description": "La Caisse de Solidarité est une association loi 1901 créée en 2020 et une activité militante existante depuis 2016. Elle collecte des dons et les reverse aux salarié·es grévistes et aux personnes en difficulté lors de mouvements sociaux. Elle soutient aussi les personnes victimes de…",
+      "link": "https://les-tilleuls.coop/blog/etude-de-cas-caisse-de-solidarite",
+      "pubDate": "2026-11-17T10:44:57.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/Vignette-blog-1200×630@1x-1024x538.png",
+      "type": "blog"
+    },
+    {
+      "id": "31b4d8db350d",
+      "title": "TransferNow, l’alternative française pour envoyer et recevoir des fichiers volumineux",
+      "description": "Prix, fonctionnalités, hébergement des données : on passe en revue les arguments qui plaident en faveur de cet outil français, lancé en 2013, pour l'envoi et la réception de fichiers volumineux.",
+      "link": "https://www.blogdumoderateur.com/transfernow-alternative-francaise-envoyer-recevoir-fichiers-volumineux/",
+      "pubDate": "2026-11-17T08:43:38.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/transfernow-alternative-transfert-fichiers-294x166.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a38c18ea0c23",
+      "title": "Comment l’équipe de France olympique et paralympique crée de l’émotion sur les réseaux sociaux",
+      "description": "Leïla Gammouh, ancienne social media manager de l'équipe de France olympique et paralympique, est l'invitée du podcast vidéo produit par Swello, en partenariat avec BDM.",
+      "link": "https://www.blogdumoderateur.com/comment-equipe-france-olympique-paralympique-cree-emotion-reseaux-sociaux/",
+      "pubDate": "2026-11-17T08:21:21.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/leila-gammouh-equipe-france-olympique-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2a1e0fd582dd",
+      "title": "Comment LinkedIn recommande vos posts au-delà de votre réseau",
+      "description": "Comment LinkedIn recommande-t-il vos publications à des personnes hors de votre réseau ? Son équipe d’ingénierie explique le rôle du profil professionnel, du pays et des premières interactions. Voici ce que les dirigeants et commerciaux de PME industrielles peuvent en tirer pour écrire des posts…",
+      "link": "https://oliviersauvage.com/fr/algorithme-linkedin-recommandation-posts/",
+      "pubDate": "2026-11-17T07:11:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f642.png",
+      "type": "blog"
+    },
+    {
+      "id": "53f60c2a6150",
+      "title": "Instinct, l’agent IA qui valait 10 milliards",
+      "description": "Des prouesses qui font le tour des réseaux, des invitations revendues à prix d'or, une valorisation à 10 milliards de dollars : Instinct, l'agent IA que l'on commande via WhatsApp ou iMessage, est devenu un phénomène en quelques semaines. Pourquoi ?",
+      "link": "https://www.blogdumoderateur.com/instinct-agent-ia-10-milliards/",
+      "pubDate": "2026-11-17T06:00:31.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/instinct-agent-ia-personnel-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "e15beb8636c0",
+      "title": "Vue et React : même route, deux boîtes de vitesses",
+      "description": "Vue, c'est l'automatique ; React, la manuelle. Un même composant écrit dans les deux, ce qui se passe sous le capot (réactivité, setup et hooks, écosystème), comment les deux se rapprochent par le compilateur, et les questions à poser avant de choisir.",
+      "link": "https://blog.eleven-labs.com/fr/vue-react-meme-route-deux-boites-de-vitesses/",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0bc8b05b85a0",
+      "title": "Vue and React: same road, two gearboxes",
+      "description": "Vue is the automatic; React, the stick shift. The same component written in both, what happens under the hood (reactivity, setup and hooks, ecosystem), how the two are converging through the compiler, and the questions to ask before choosing.",
+      "link": "https://blog.eleven-labs.com/en/vue-react-same-road-two-gearboxes/",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4875e03b1ed2",
+      "title": "Tomber",
+      "description": "– Non mais, c’est comme la prof elle a dit : les charrettes en ski ! Mesdames et messieurs, “tomber de charrettes en ski, là”. Je vais me coucher, j’ai tout donné pour celui-“là”. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-tomber/",
+      "pubDate": "2026-11-16T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "135863e501b6",
+      "title": "Stage optimisation d'un calcul haute performance pour ingénieur⋅e fin d'études ",
+      "description": "Contrat : Stage de 6 mois Lieu : Toulouse",
+      "link": "https://makina-corpus.com/devops/stage-optimisation-dun-calcul-haute-performance-pour-ingenieure-fin-detudes",
+      "pubDate": "2026-11-16T18:32:30.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4067a06f16b1",
+      "title": "Combien est payée une semaine d'astreinte dans la tech en France ?",
+      "description": "TL;DR Une semaine d’astreinte “complète” (4 nuits de semaine + un week-end, soit 123 heures où on peut te réveiller) est payée entre 150 € (fonction publique) et 765 € brut (le haut du panier dans le privé), hors majorations. La médiane de mon échantillon tourne autour de 500 €, soit à peine plus…",
+      "link": "https://blog.zwindler.fr/2026/11/16/combien-paye-astreinte-tech-france/",
+      "pubDate": "2026-11-16T17:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/11/astreinte-marathon.webp",
+      "type": "blog"
+    },
+    {
+      "id": "35b537255280",
+      "title": "Coraza dans FrankenPHP : ce que ça coûte vraiment d’embarquer un WAF",
+      "description": "Coraza dans FrankenPHP : benchmarks WAF et coût Kubernetes Cet article, Coraza dans FrankenPHP : ce que ça coûte vraiment d’embarquer un WAF, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/coraza-frankenphp-waf-benchmarks-kubernetes",
+      "pubDate": "2026-11-16T14:58:10.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/magnific_MBsFFMbDCm-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "53766c8d5b6a",
+      "title": "Emails, présentations, cartes de visite : comment Letsignit harmonise l’image de marque des entreprises",
+      "description": "Au-delà des campagnes, l’image de marque se construit aussi dans les échanges quotidiens des collaborateurs. Avec sa plateforme, Letsignit aide les équipes Marketing et Communication à harmoniser ces points de contact tout en simplifiant leur gestion.",
+      "link": "https://www.blogdumoderateur.com/emails-presentations-cartes-visite-letsignit/",
+      "pubDate": "2026-11-16T13:00:57.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/VCARDS-LETSIGNIT-294x172.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b47cb645662c",
+      "title": "Les meilleurs modèles pour piloter des agents IA en novembre 2026",
+      "description": "Les modèles d'Anthropic dominent toujours l'Agent Arena, un benchmark collaboratif qui mesure l'aptitude des IA à orchestrer des tâches agentiques.",
+      "link": "https://www.blogdumoderateur.com/meilleurs-modeles-piloter-agents-ia-novembre-2026/",
+      "pubDate": "2026-11-16T09:49:47.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/classement-agents-ia-novembre-2026-294x142.png",
+      "type": "blog"
+    },
+    {
+      "id": "e4cc86c6f8f5",
+      "title": "Faut-il encore faire venir du trafic sur son site ?",
+      "description": "Faut-il chercher à faire venir du trafic sur son site ? À partir du livre Zero Click Marketing, je décrypte ce que le zéro clic change pour les entreprises B2B : visibilité, intention d’achat, mesure des résultats et rôle du site. Moins de visites ne signifie pas moins de clients. The post Faut-il…",
+      "link": "https://oliviersauvage.com/fr/trafic-site-marketing-zero-clic/",
+      "pubDate": "2026-11-16T09:37:19.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f642.png",
+      "type": "blog"
+    },
+    {
+      "id": "14c46306e8f2",
+      "title": "ChatGPT Wallet : les agents d’OpenAI peuvent désormais régler les achats en ligne",
+      "description": "OpenAI ouvre le paiement à ses agents IA avec un portefeuille conçu avec Visa, Mastercard et American Express, réservé pour l’instant aux abonnés Pro américains.",
+      "link": "https://www.blogdumoderateur.com/chatgpt-wallet-agents-ia-openai-achats-en-ligne/",
+      "pubDate": "2026-11-16T09:35:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/ChatGPT-Wallet--294x164.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6bca2f87297a",
+      "title": "Comment encaisser avec son smartphone en 2026 ?",
+      "description": "Un smartphone équipé de la puce NFC peut remplacer le terminal de paiement pour accepter la carte bancaire. Le Tap to Pay repose sur un principe simple, avec quelques limites à connaître avant de s’équiper.",
+      "link": "https://www.blogdumoderateur.com/encaisser-smartphone-2026/",
+      "pubDate": "2026-11-16T09:33:58.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Tap-to-pay-monext-294x155.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "85e6b2ebede4",
+      "title": "LinkedIn s’attaque enfin aux commentaires générés par IA",
+      "description": "LinkedIn étend sa lutte contre l’AI slop aux commentaires. Les réponses génériques perdent en visibilité, et les créateurs ne reçoivent plus que les notifications des commentaires de qualité.",
+      "link": "https://www.blogdumoderateur.com/linkedin-commentaires-generes-ia/",
+      "pubDate": "2026-11-16T09:31:21.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/linkedin-ia-slop-commentaires-294x172.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c5e048602ede",
+      "title": "Proton Pass : pourquoi choisir une alternative européenne pour votre gestionnaire de mots de passe ?",
+      "description": "Changer de gestionnaire prend quelques minutes, à condition de respecter quelques précautions. Tour d’horizon des arguments de Proton Pass et de la marche à suivre pour l'adopter.",
+      "link": "https://www.blogdumoderateur.com/proton-pass-alternative-europeenne-gestionnaire-mots-de-passe/",
+      "pubDate": "2026-11-16T08:26:46.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Proton-Pass-Cover-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8c34278662c6",
+      "title": "5 formations pour créer des agents IA et automatiser ses tâches",
+      "description": "Besoin de monter en compétences pour automatiser une partie de vos tâches avec l’IA ? Cette sélection réunit des formations pour apprendre à concevoir des agents et des assistants, et à les intégrer à votre travail au quotidien.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-agents-ia-326/",
+      "pubDate": "2026-11-16T07:00:28.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/selection-formation-agents-ia-326-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "702c931ad091",
+      "title": "Liens Tech - Novembre 2026",
+      "description": "Au menu ce mois-ci : du stockage cloud hébergé en Europe, un outil d'accessibilité pour les mathématiques, un outil de traitement de fichiers auto-hébergé, un téléchargeur de vidéos, un serveur MCP pour sa médiathèque et un outil de visualisation de données, avec un webinar cybersécurité en clôture.",
+      "link": "https://domopi.eu/liens-tech-novembre-2026/",
+      "pubDate": "2026-11-16T06:45:58.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f95fe2107783",
+      "title": "Iron Man est protégé, le style des artistes non : l’angle mort du droit d’auteur face à l’IA",
+      "description": "Karen Robinson, Deputy General Counsel d’Adobe, détaille la position de l’éditeur sur la protection du style des artistes, aux États-Unis comme en Europe. Et livre ses conseils juridiques à ceux qui créent avec l’IA.",
+      "link": "https://www.blogdumoderateur.com/iron-man-protege-style-artistes-angle-mort-droit-auteur-ia/",
+      "pubDate": "2026-11-16T06:00:58.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/itw-karen-robinson-adobe-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ac5cbdee7206",
+      "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+      "description": "1,200 hot takes, 14 “random” languages, zero opinions about C#, and one model that argued both sides of Go’s error handling. We asked 12 AI models for their most controversial opinion about programming languages, 1,200 times in total. We wanted to check one thing. When you give a model permission…",
+      "link": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
+      "pubDate": "2026-11-15T17:02:29.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ab4e5874de39",
+      "title": "Travail des juniors et IA : avant de savoir prompter, il faut savoir penser.",
+      "description": "Quel avenir pour le travail des juniors face à l’IA ? Expérience, esprit critique et compétences transversales : pourquoi savoir penser compte plus que savoir prompter. The post Travail des juniors et IA : avant de savoir prompter, il faut savoir penser. appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/travail-des-juniors-et-ia-avant-de-savoir-prompter-il-faut-savoir-penser/",
+      "pubDate": "2026-11-15T09:53:22.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ecfbacc85c4f",
+      "title": "J'ai construit un projet troué de partout : ce que voit stackalarm, et pas vos audits",
+      "description": "composer audit et npm audit trouvent des failles. Mais pas dans le runtime, l'image Docker, la forge auto-hébergée ni le code copié. Démonstration sur La Passoire, un monorepo Symfony, Next.js et Python troué de partout.",
+      "link": "https://yoandev.co/stackalarm-la-passoire",
+      "pubDate": "2026-11-15T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/stackalarm-la-passoire.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ea036d6a52e6",
+      "title": "Presque",
+      "description": "Sa mère s’agace car ses devoirs ne sont pas faits, ou mal. – Allez on passe au français : montre-moi le fruit de tes recherches sur la filmographie de Hitchcock. Je ne dirais pas qu’il n’y a pas d’effort. Il n’y a juste pas les résultats. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-presque/",
+      "pubDate": "2026-11-14T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d9a0cd1caf22",
+      "title": "PHP, Brotli et autres raisons de devenir ébéniste",
+      "description": "Deux failles critiques dans PHP, une vulnérabilité dans Brotli et quelques envies de reconversion. Retour sur un mois d'octobre mouvementé.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-brotli-et-autres-raisons-de-devenir-ebeniste/",
+      "pubDate": "2026-11-14T12:54:36.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8116cea0b0fd",
+      "title": "Le développeur, gardien du harness",
+      "description": "Tout le monde semble s’accorder sur le fait que les développeurs vont devenir de moins en moins techniques pour devenir plus orientés fonctionnel. J’ai moi-même partagé plusieurs réflexions dans ce sens. Mais je me demande s’il n’y a pas également un autre chemin possible. Dans un monde où l’IA…",
+      "link": "https://www.jdecool.fr/blog/2026/11/14/le-developpeur-gardien-du-harness.html",
+      "pubDate": "2026-11-13T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68a053bd50f3",
+      "title": "Quizz cinéma",
+      "description": "– … mais si, un film avec Moïse ! C’était Maui dans Vaiana. – Je l’ai vu, moi, “Rafle” ? C’était Ralph 2.0. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-quizz-cinema/",
+      "pubDate": "2026-11-13T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aa05cc8f9419",
+      "title": "Plus sympa cette année",
+      "description": "Discussion autour de la réunion parents-profs : – J’ai pris des rendez-vous, regarde, ça te convient ? 1, par contre. 1 ? Le sens de l’observation. Les noms sont modifiés. ↩ rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-prof/",
+      "pubDate": "2026-11-13T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5540bde74641",
+      "title": "Être fail-safe, c'est avant tout une question produit",
+      "description": "La résilience n'est pas qu'une affaire de retry et de DLQ : sans décision produit, ces mécanismes provoquent doublons, fausses alertes et incohérences. Une méthode pour cadrer les failure paths dès les ateliers produit.",
+      "link": "https://blog.ippon.fr/2026/11/13/resilience-fail-safe-question-produit/",
+      "pubDate": "2026-11-13T12:58:20.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/fail-safe-safe-to-fail.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cc16d81d15ff",
+      "title": "Avec Gemini 4 Hydrogen, Google Search s’offre une mise à jour majeure",
+      "description": "Google assure que son moteur de recherche traite mieux les requêtes complexes grâce à Gemini 4 Hydrogen. Le modèle débarque aussi dans l’application Gemini, dans l’API et dans Antigravity.",
+      "link": "https://www.blogdumoderateur.com/gemini-4-hydrogen/",
+      "pubDate": "2026-11-13T09:52:12.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/gemini-4-hydrogen-294x157.png",
+      "type": "blog"
+    },
+    {
+      "id": "f11997d4c9ef",
+      "title": "Se former en alternance dès le début 2027",
+      "description": "Démarrer en entreprise dès janvier et rejoindre en mars la rentrée d’une majeure consacrée à l’IA et à la data, c’est possible. Vincent Montet, fondateur et directeur du MBADMB de l’EFAP, détaille les atouts de ce calendrier et partage ses conseils aux candidats.",
+      "link": "https://www.blogdumoderateur.com/se-former-alternance-debut-2027/",
+      "pubDate": "2026-11-13T08:10:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/avantages-rentree-decalee-mars-2027-alternance-mbadmb-294x196.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "379dc82e8d30",
+      "title": "Pourquoi toutes les IA ont des mascottes mignonnes ?",
+      "description": "Alors que les incidents liés aux agents IA et les modèles à accès restreint nourrissent l’inquiétude, les géants de la tech misent sur des personnages mignons pour rassurer leurs utilisateurs. Analyse.",
+      "link": "https://www.blogdumoderateur.com/pourquoi-ia-mascottes-mignonnes/",
+      "pubDate": "2026-11-13T06:00:21.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6a89be7b9e10",
+      "title": "#362.exe - Le LEAN à l'ère de l'IA: Réapprendre à produire du code (vraiment) Lean avec l'IA par Jordan Nourry",
+      "description": "Pour l'épisode #362 je recevais Yacine Hmito. On en débrief avec Jordan. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/362-60d955870338",
+      "pubDate": "2026-11-13T04:00:41.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/a1a2f062-9387-43eb-ab07-60d955870338.mp3?_=1794488441",
+      "duration": "15:00"
+    },
+    {
+      "id": "ca20fd1b1bce",
+      "title": "XVIII",
+      "description": "J’entends Tanjiro réviser ses leçons à voix haute. “Au gngngn siècle…” Pff, alors… croix-v-baton, c’est seize. Donc là, ça fait 16-baton-baton… donc 18. On reprend : “Au 18e siècle,…” rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-xviii/",
+      "pubDate": "2026-11-12T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "827ddaa90703",
+      "title": "Secret Santa in 2026: exclusions, Slack Connect, and a fresh coat of paint",
+      "description": "Every year since 2015, right when the first fairy lights go up, Secret Santa comes out of hibernation. The idea has not changed: sign in with Slack, Discord or Webex, pick the participants, and everyone gets a private message with the name of the person they will be buying a gift for. No account,…",
+      "link": "https://jolicode.com/blog/secret-santa-in-2026-exclusions-slack-connect-and-a-fresh-coat-of-paint",
+      "pubDate": "2026-11-12T14:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/secret-santa-2026/channels.png",
+      "type": "blog"
+    },
+    {
+      "id": "54307793bdd9",
+      "title": "Secret Santa 2026 : Slack Connect, exclusions et un coup de neuf",
+      "description": "Chaque année depuis 2015, au moment où les premières guirlandes s’allument, Secret Santa reprend du service. Le principe n’a pas changé : vous vous connectez avec Slack, Discord ou Webex, vous choisissez les participants et chacun reçoit en message privé le nom de la personne à qui offrir un…",
+      "link": "https://jolicode.com/blog/secret-santa-2026-slack-connect-exclusions-et-un-coup-de-neuf",
+      "pubDate": "2026-11-12T14:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/secret-santa-2026/channels.png",
+      "type": "blog"
+    },
+    {
+      "id": "fc843f712b81",
+      "title": "FrankenPHP 1.13.5 et Caddy 2.11.9 : des versions renforcées grâce à l’OSS Scanner d’Anthropic",
+      "description": "FrankenPHP 1.13.5 et Caddy 2.11.9 corrigent plusieurs failles, souvent trouvées par l'OSS Scanner d'Anthropic. Découvrir ce qui change dans vos outils. Cet article, FrankenPHP 1.13.5 et Caddy 2.11.9 : des versions renforcées grâce à l’OSS Scanner d’Anthropic, est paru en premier sur…",
+      "link": "https://les-tilleuls.coop/blog/frankenphp-1-13-5-caddy-2-11-9-correctifs-securite",
+      "pubDate": "2026-11-12T14:20:27.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/computer-screen-1024x724.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8fcba1b87777",
+      "title": "Road trip vers l'Espagne, partie 2",
+      "description": "Jour 5 : Castejon de Sos - Sos del Rey Catolico Le lendemain, après un petit déjeuner typiquement local, à savoir des tranches de saucisson, de la sauce tomate avec de l’huile d’olive sur du pain et une tranche d’omelette aux pommes de terre accompagné de thé et de café, je repars sous un ciel…",
+      "link": "https://standblog.org/blog/post/2026/11/12/Road-trip-vers-l-Espagne-partie-2",
+      "pubDate": "2026-11-12T14:19:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://pix.diaspodon.fr/storage/m/_v2/40/4796c06ff-5eacf7/qWchjbiLfpmd/zV5U34Z7zF95Rt6t93WwXbltBjIDS1aH39FtKt4C.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8e0bab27a02a",
+      "title": "Agents IA : la revanche des seniors",
+      "description": "Les agents IA transforment profondément la manière dont nous pratiquons certains métiers… une transformation qui mettrait les plus jeunes de côté et valoriserait les seniors ? À voir… Quand tout le monde peut créer avec l’IA Le problème avec les agents IA et l’IA générative, c’est qu’ils vont…",
+      "link": "https://oliviersauvage.com/fr/agents-ia-la-revanche-des-seniors/",
+      "pubDate": "2026-11-12T13:56:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a83b568c416d",
+      "title": "Comment Adobe compte sur ses agents IA pour décloisonner ses logiciels",
+      "description": "Aller chercher les utilisateurs là où ils travaillent, sans bousculer les pros : Zorana Gee, Senior Director des Creative Agents d’Adobe détaille la stratégie agentique de l'éditeur.",
+      "link": "https://www.blogdumoderateur.com/comment-adobe-compte-agents-ia-decloisonner-logiciels/",
+      "pubDate": "2026-11-12T11:09:36.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/MCP-Adobe-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "e4ecd213843f",
+      "title": "L'usine à vulnérabilités : R0 planifie, R1 audite, R2 contre-expertise",
+      "description": "TL;DR Suite de l’article de septembre : je concluais que trouver des vulns était devenu trivial et que le goulot d’étranglement, c’était moi, l’humain dans la boucle. Depuis, j’ai industrialisé la partie triage : mon repo d’audit est devenu une usine à findings, avec des agents aux rôles distincts…",
+      "link": "https://blog.zwindler.fr/2026/11/12/usine-agentique-a-findings/",
+      "pubDate": "2026-11-12T11:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/11/20250611_191900.webp",
+      "type": "blog"
+    },
+    {
+      "id": "62b56b551454",
+      "title": "L’UE présente le Digital Fairness Act pour protéger les internautes des pratiques commerciales déloyales",
+      "description": "Avec le DFA, Bruxelles souhaite remplacer la directive de 2005 sur les pratiques commerciales déloyales et offrir aux internautes la même protection qu’en magasin physique.",
+      "link": "https://www.blogdumoderateur.com/ue-presente-digital-fairness-act/",
+      "pubDate": "2026-11-12T10:19:37.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Europe-DFA-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f4b010a24883",
+      "title": "weAR rapproche fournisseurs et industriels à un moment clé pour l’automatisation et la robotique",
+      "description": "weAR revient au Bilbao Exhibition Centre du 23 au 25 février 2027 pour sa deuxième édition. Le salon conforte ainsi sa place de rendez-vous biennal de référence pour l’automatisation et la robotique. Alors que les technologies progressent à un rythme sans précédent et occupent une place croissante…",
+      "link": "https://www.robot-magazine.fr/wear-rapproche-fournisseurs-et-industriels-a-un-moment-cle-pour-lautomatisation-et-la-robotique/?utm_source=rss&utm_medium=rss&utm_campaign=wear-rapproche-fournisseurs-et-industriels-a-un-moment-cle-pour-lautomatisation-et-la-robotique",
+      "pubDate": "2026-11-12T08:43:52.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c8028599b837",
+      "title": "JetBrains IDEs Transformed for the Agentic Era of Development – With Air",
+      "description": "As agents write more code, individual productivity goes up, but the bottleneck moves to review. 49% of developers now spend four or more hours a week reviewing AI output and correcting prompts (Atlassian State of Developer Experience Report 2026). We believe this means you need to understand what…",
+      "link": "https://blog.jetbrains.com/ai/2026/11/air-in-jetbrains-ides-ga/",
+      "pubDate": "2026-11-11T09:38:53.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/11/daywell_session_compressed.gif",
+      "type": "blog"
+    },
+    {
+      "id": "0bb39bcddf9c",
+      "title": "Road trip vers l'Espagne, partie 1",
+      "description": "Jour 1 : Paris - Rambouillet – Chartres - Saumur Ça faisait longtemps que j’avais dans la tête cette idée d’aller faire un grand tour de moto prendre plusieurs semaines de vacances, et rouler dans des paysages magnifiques dans des endroits où il y a du soleil seul ou avec des potes et retrouver des…",
+      "link": "https://standblog.org/blog/post/2026/11/11/Road-trip-vers-l-Espagne-partie-1",
+      "pubDate": "2026-11-11T09:09:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://pix.diaspodon.fr/storage/m/_v2/40/4796c06ff-5eacf7/uvOtFzb64ihk/BrVDzp8nCg0WYrClKaP6ZOJm8sSWQMA8YhmkQMy9.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "314c3b513372",
+      "title": "#384.src -  Usine logicielle 100% AI: Qui réveille-t-on quand l'usine prend feu ? avec Nikolay Rodionov",
+      "description": "\"tu sais que c'est du code que tu vas devoir jeter à la poubelle assez vite.\" Le D.E.V. de la semaine est Nikolay Rodionov, ingénieur et entrepreneur, fondateur d'Alpic. Avec lui, on plonge dans l'usine logicielle qu'il a construite en quelques mois : des agents autonomes qui codent dans des…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/384-3680913dce53",
+      "pubDate": "2026-11-11T04:00:45.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/70f6652d-6c46-4eb6-a40d-70666b7b38e8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/2d2ae4ea-acb6-4ff5-883b-3680913dce53.mp3?_=1794315645",
+      "duration": "01:01:41"
+    },
+    {
+      "id": "e720b6e3568f",
+      "title": "Logiciels industriels : concevoir des interfaces pour le terrain",
+      "description": "Dans un entrepôt, un opérateur doit retirer ses gants de sécurité pour appuyer sur un bouton trop petit. Le geste ne prend que quelques secondes, mais il se répète à chaque utilisation. Et lorsque les gants sont obligatoires, le défaut d’ergonomie devient aussi un problème de sécurité. Dans cet…",
+      "link": "https://oliviersauvage.com/fr/logiciels-industriels-interfaces-terrain/",
+      "pubDate": "2026-11-10T17:11:27.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2f47aea5bd85",
+      "title": "Interview de Pierrick Besnet, Directeur Général de 4CAD Group",
+      "description": "Les industriels doivent aujourd’hui arbitrer entre automatisation, digitalisation et intelligence artificielle. Comment définir les priorités ? Je pense justement qu’il faut éviter de les opposer. Automatisation, digitalisation et intelligence artificielle répondent à des niveaux de maturité et à…",
+      "link": "https://www.robot-magazine.fr/interview-de-pierrick-besnet-directeur-general-de-4cad-group/?utm_source=rss&utm_medium=rss&utm_campaign=interview-de-pierrick-besnet-directeur-general-de-4cad-group",
+      "pubDate": "2026-11-10T12:03:11.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": "https://www.robot-magazine.fr/wp-content/uploads/2026/11/4CAD-NANTES_2023-85-.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2f1714a0cd01",
+      "title": "Mise en place de Ntfy : un point d'entrée unique pour toutes vos notifications",
+      "description": "Alertes éparpillées entre mails, Telegram et applis dédiées ? Un serveur Ntfy auto-hébergé réunit tout et vous laisse décider de leur destination.",
+      "link": "https://domopi.eu/mise-en-place-de-ntfy-un-point-dentree-unique-pour-toutes-vos-notifications/",
+      "pubDate": "2026-11-10T06:45:00.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/10/Notification-bleue-dans-un-espace-tech.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f971ad043a6c",
+      "title": "Cursor Projects is now multiplayer",
+      "description": "An update on our recent security incident",
+      "link": "https://cursor.com/blog/projects-multiplayer",
+      "pubDate": "2026-11-10T00:00:00.000Z",
+      "source": "Cursor Blog",
+      "sourceUrl": "https://any-feeds.com/api/feeds/custom/cmkoaiogm0000lf04qmtirq2g/rss.xml",
+      "categories": [
+        "Vibe Coding",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4833b6ab94b7",
+      "title": "Évolution des performances de la table de routage sous Linux",
+      "description": "Dans des articles précédents, j'ai expliqué comment le noyau Linux gérait les tables de routage et . J'ai suivi l'évolution des performances de recherche , avec l'impact des , ainsi qu'. Cet article met à jour ces chiffres jusqu'à Linux 7.3 et expose les responsables de chaque régression !…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-linux-performance-ipv4-ipv6-table-routage",
+      "pubDate": "2026-11-09T20:07:32.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://media-bernat-ch.b-cdn.net/images/linux/ipv6-radix-perf-2026.b057a30dbcf68e.svg",
+      "type": "blog"
+    },
+    {
+      "id": "adf74a2081f4",
+      "title": "Jane 8: modern PHP models, Symfony HttpClient and lazy API calls",
+      "description": "Jane 7.14 shipped on September 1st. Exactly one month later, we tagged 8.0.0: a major version, with breaking changes we chose one by one. A major version of a code generator is a strange beast: it changes the code it writes, and therefore the code you write. We did not take that lightly. Jane…",
+      "link": "https://jolicode.com/blog/jane-8-modern-php-models-symfony-httpclient-and-lazy-api-calls",
+      "pubDate": "2026-11-09T15:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "37c7521a0877",
+      "title": "Kubedock et GitLab Runner : exécuter vos tests d'intégration avec Testcontainers sur Kubernetes sans Docker-in-Docker",
+      "description": "Comment faire tourner Testcontainers dans un job GitLab Runner sur Kubernetes sans conteneur privilégié : sidecar Kubedock, permissions RBAC, parallélisme, nettoyage, et les cas où un simple service GitLab CI suffit.",
+      "link": "https://blog.ippon.fr/2026/11/09/kubedock-gitlab-runner-testcontainers-kubernetes/",
+      "pubDate": "2026-11-09T08:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGdpdGxhYnxlbnwwfHx8fDE3OTQyMzA3OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000",
+      "type": "blog"
+    },
+    {
+      "id": "48edcf566e62",
+      "title": "#237.diff - Exotec: Une reine et une armée de robots avec Sophie Paquereau",
+      "description": "Il y a 3 ans, dans l'épisode #237 je recevais Sophie Paquereau. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/237-3130cbe7b951",
+      "pubDate": "2026-11-09T04:00:29.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/9e7c0f1d-cfb3-4c63-81e3-3130cbe7b951.mp3?_=1794142829",
+      "duration": "01:04:44"
+    },
+    {
+      "id": "834cae4e5f19",
+      "title": "Hacktoberfest 2026",
+      "description": "Comme en 2025 (cf https://blog.zenika.com/2025/12/15/hacktoberfest-25-ledition-zenika-open-source/) et depuis plusieurs années, Zenika célèbre l’Hacktoberfest durant le mois d’octobre. Cet événement mondial de",
+      "link": "https://blog.zenika.com/2026/11/06/hacktoberfest-2026/",
+      "pubDate": "2026-11-06T14:44:39.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/11/image-e4916c55.png?resize=505%2C439&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "394068472197",
+      "title": "GeoDNS programmable : migration d'AWS vers Bunny",
+      "description": "Pour optimiser les performances de ce blog, je m'appuyais sur pour servir les ressources statiques et sur pour un DNS géolocalisé qui dirige les lecteurs vers le serveur le plus proche. Mais Route 53 coûte cher : , auxquels s'ajoute nécessaire à la signature des zones avec DNSSEC. Quand j'ai…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-bunny-geodns",
+      "pubDate": "2026-11-06T13:29:34.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://media-bernat-ch.b-cdn.net/images/bunny-dns-map.05f55a00ae040e.svg",
+      "type": "blog"
+    },
+    {
+      "id": "0a4384f687e3",
+      "title": "Caillou",
+      "description": "Je mets mes chaussures qui étaient dans l’entrée. Au fond du pied droit, je sens un caillou. Pas un truc minuscule, un truc qui se ressent vraiment, et dont la forme est très étrange, très sphérique. Je retire ma chaussure, la retourne : un M&M’s. Aucun des deux garçons n’est capable de me fournir…",
+      "link": "https://boris.schapira.dev/notes/2026-11-caillou/",
+      "pubDate": "2026-11-05T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "132f34ed0a6a",
+      "title": "Building a RAG Pipeline for Semantic Code Search: A Developer Diary and Field Notes",
+      "description": "Part 2: Storage, Search, and Agent Tooling In this blog series, we aim to share some of the lessons we learned over the past six months as we built and rolled out Air Context, a production-grade RAG system for code search. In the first post of the series, we covered chunking, parsing, and…",
+      "link": "https://blog.jetbrains.com/ai/2026/11/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes-part-2/",
+      "pubDate": "2026-11-05T14:54:27.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/11/image-23.png",
+      "type": "blog"
+    },
+    {
+      "id": "01d0ce52524d",
+      "title": "Vos clients ont l’IA pour s’informer. Ils ont encore besoin de vous pour décider.",
+      "description": "Dans la vente complexe B2B, l’humain reste au centre. Mais une IA intégrée aux connaissances et aux processus de l’entreprise peut lui donner de bien meilleurs moyens de convaincre. Le résumé : L’IA permet aux acheteurs de comparer des offres et de préparer leurs questions. Elle ne suffit pas à…",
+      "link": "https://oliviersauvage.com/fr/vos-clients-ont-lia-pour-sinformer-ils-ont-encore-besoin-de-vous-pour-decider/",
+      "pubDate": "2026-11-05T12:01:25.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2e1d2b250451",
+      "title": "React Native, encore valable en 2026 ? avec David Leuliette",
+      "description": "React Native et Expo tiennent-ils toujours la route face à une IA qui sait écrire du Swift et du Kotlin pour faire du natif ? David Leuliette, qui livre des apps React Native depuis plus de 10 ans pour des startups comme pour des grands comptes, nous donne sa vision du terrain : ce qui marche, ce…",
+      "link": "https://double-slash.dev/podcasts/react-native/",
+      "pubDate": "2026-11-05T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1793787451/episode/ART_146_utower.png",
+      "type": "podcast",
+      "audioUrl": "https://cdn.double-slash.dev/episodes/DS_146_react-native.mp3",
+      "duration": "3687"
+    },
+    {
       "id": "575587e7ab45",
       "title": "Influence marketing : les contenus citant des marques génèrent de plus en plus de vues",
       "description": "Selon la deuxième édition du Baromètre de l’influence du CPA et de l’UMICC, les publications mentionnant une marque sont plus consultées qu’il y a un an, mais suscitent un peu moins d’engagement.",
@@ -99,6 +1708,36 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/1c3c40a5-bd08-49fd-bdaa-5fb716849506.mp3?_=1793710900",
       "duration": "01:00:26"
+    },
+    {
+      "id": "bd4e3af20e1a",
+      "title": "Quand l'IA devient un réflexe",
+      "description": "Il y a un dicton assez connu en informatique : “quand on a un marteau, tout ressemble à un clou”. Depuis l’arrivée de l’IA, j’ai l’impression de le voir appliqué dans de nombreuses équipes de développement. L’IA est une révolution, c’est certain. Elle rend faciles des tâches qui étaient longues ou…",
+      "link": "https://www.jdecool.fr/blog/2026/11/04/quand-l-ia-devient-un-reflexe.html",
+      "pubDate": "2026-11-03T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68973cca9040",
+      "title": "Oups",
+      "description": "Nous sommes mercredi midi. J’arrête de travailler pour préparer le repas. Tanjiro a fini les cours à 10h. Je le retrouve devant la TV et lui demande de venir m’aider à mettre la table. Il descend avec moi, pose deux assiettes et me demande : – Elle rentre quand, maman ? Je me retourne, il a…",
+      "link": "https://boris.schapira.dev/notes/2026-11-oups/",
+      "pubDate": "2026-11-03T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "52eb9ce7b224",
