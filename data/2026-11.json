@@ -2,6 +2,486 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "d112d3cf21a0",
+      "title": "DevFest Toulouse 2026 - Récap express",
+      "description": "Un DevFest Toulouse en coup de vent Comme je vous l’avais annoncé en septembre, j’étais ce jeudi 19 novembre au DevFest Toulouse, au Diagora de Labège, pour présenter ma boîte à coucou des Guignols. J’avais VRAIMENT envie de faire ce talk (comme le précédent sur KubeSolo, Raspberry Pi Zero et…",
+      "link": "https://blog.zwindler.fr/2026/11/20/recap-devfest-toulouse-2026/",
+      "pubDate": "2026-11-20T11:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/11/devfest-toulouse-2026.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0f0fc19b63f7",
+      "title": "Trop d’outils IA pour développer : lequel installer ?",
+      "description": "Trop d’outils IA pour développer ? ADE, IDE, terminal : notre tour des environnements pour orchestrer des agents. Cet article, Trop d’outils IA pour développer : lequel installer ?, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/outils-ia-developpement-agentique-ade",
+      "pubDate": "2026-11-20T09:48:30.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/artisanat-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "88264271f833",
+      "title": "The U.S. national cyber director is stepping down",
+      "description": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+      "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "pubDate": "2026-11-20T09:14:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "59bb35b94c78",
+      "title": "En entreprise, la fidélité aux modèles d’IA ne dure que quelques semaines",
+      "description": "L’index de Databricks, nourri par l’usage de plus de 10 000 entreprises, met en évidence des bascules rapides d’un modèle d'IA à l’autre, au rythme des sorties.",
+      "link": "https://www.blogdumoderateur.com/entreprise-fidelite-modeles-ia/",
+      "pubDate": "2026-11-20T08:56:51.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/introducing-databricks-ai-index-state-enterprise-ai-tokenomics-blog-1-294x214.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ef9fe7230c36",
+      "title": "Ce que les PME doivent savoir avant d’installer un robot dans leur atelier d’usinage",
+      "description": "Longtemps cantonnée à l’automobile, la robotisation gagne progressivement les ateliers d’usinage. Mais entre la décision d’investir et l’installation d’une cellule, le chemin réserve des surprises. Sur la base des témoignages des intégrateurs et des constructeurs rencontrés lors de ses reportages,…",
+      "link": "https://www.robot-magazine.fr/ce-que-les-pme-doivent-savoir-avant-dinstaller-un-robot-dans-leur-atelier-dusinage/?utm_source=rss&utm_medium=rss&utm_campaign=ce-que-les-pme-doivent-savoir-avant-dinstaller-un-robot-dans-leur-atelier-dusinage",
+      "pubDate": "2026-11-20T08:51:55.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f5cee618a53a",
+      "title": "Fraude documentaire : une alternative souveraine pour sécuriser les documents des logiciels métier",
+      "description": "Intégrer la signature électronique à un logiciel métier suppose de confier des données sensibles à un tiers. Goodflag propose aux éditeurs une infrastructure 100 % française.",
+      "link": "https://www.blogdumoderateur.com/fraude-documentaire-alternative-souveraine-securiser-documents-logiciels-metier/",
+      "pubDate": "2026-11-20T08:43:56.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Signature-Electronique-Alternatives-Fraude-294x176.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c6b95277d169",
+      "title": "Archie, l’outil français qui transforme vos contenus oubliés en posts sur les réseaux sociaux",
+      "description": "Dévoilé fin octobre par Agorapulse, Archie est un outil dopé à l'IA, capable de créer des publications percutantes à partir d'un webinaire, d'un rapport interne ou d'un livre blanc. Des contenus « riches en idées originales », mais encore inexploités.",
+      "link": "https://www.blogdumoderateur.com/archie-outil-francais-transforme-contenus-oublies-posts-reseaux-sociaux/",
+      "pubDate": "2026-11-20T08:37:19.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/archie-agorapulse-294x167.png",
+      "type": "blog"
+    },
+    {
+      "id": "7f5254489f18",
+      "title": "Accessibilité : les sites d’information à la traîne en Europe, la France en dernière position",
+      "description": "La Fondation Contentsquare et Fruggr ont audité les sites les plus visités de sept pays européens. Les médias obtiennent la note la plus faible des cinq secteurs étudiés, avec des défauts relevés sur les visuels et l’interactivité.",
+      "link": "https://www.blogdumoderateur.com/accessibilite-sites-information-traine-europe-france-derniere-position/",
+      "pubDate": "2026-11-20T06:00:16.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/score-accessibilite-numerique-secteurs-contentsquare-fondation-294x154.png",
+      "type": "blog"
+    },
+    {
+      "id": "8faabefc1d8b",
+      "title": "#360.exe - Docker Sandbox: Sécuriser les agents IA sans ralentir les devs par Quentin de Quelen",
+      "description": "Pour l'épisode #360 je recevais Guillaume Lours. On en débrief avec Quentin. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/360-6e8e07e7ad53",
+      "pubDate": "2026-11-20T04:00:35.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/c87ad1ee-c3c1-4a4a-b813-6e8e07e7ad53.mp3?_=1795093235",
+      "duration": "14:43"
+    },
+    {
+      "id": "8288c457eabd",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "pubDate": "2026-11-20T00:56:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "327354b7a28e",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "pubDate": "2026-11-20T00:43:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "126a1d2c7fae",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "description": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "pubDate": "2026-11-20T00:26:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a52aba1fad9e",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "description": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+      "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "pubDate": "2026-11-19T23:37:56.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "255531d94837",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "description": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+      "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "pubDate": "2026-11-19T22:33:26.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "094a4dd2aa9b",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "pubDate": "2026-11-19T21:58:06.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "802831022001",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "pubDate": "2026-11-19T21:42:31.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "65a3912905c8",
+      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "description": "Uber is testing the new program in three U.S. cities.",
+      "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+      "pubDate": "2026-11-19T21:33:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1fbaae0c3ffb",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "pubDate": "2026-11-19T20:18:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0027e4a1d292",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "description": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "pubDate": "2026-11-19T19:10:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3a850c903b02",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "description": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "pubDate": "2026-11-19T18:09:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ee20d352f0da",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "description": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "pubDate": "2026-11-19T17:38:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8bc2fdc1aef6",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "description": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "pubDate": "2026-11-19T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c12b546d5a71",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "description": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "pubDate": "2026-11-19T16:59:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d708a4dbf97d",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "description": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "pubDate": "2026-11-19T16:19:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a00e88ad26b",
+      "title": "UK government forced to disclose secret Apple backdoor order",
+      "description": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+      "link": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "pubDate": "2026-11-19T15:32:20.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ddb4b8e8befa",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "pubDate": "2026-11-19T14:54:39.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3353b6af7447",
+      "title": "Maintenir ses projets open source à jour avec Renovate et Antigravity",
+      "description": "Renovate Renovate est un outil que j’apprécie et que j’utilise beaucoup. J’ai d’ailleurs écrit un article de blog à son",
+      "link": "https://blog.zenika.com/2026/11/19/maintenir-ses-projets-open-source-a-jour-avec-renovate-et-antigravity/",
+      "pubDate": "2026-11-19T14:07:37.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/11/image-797095ae.png?resize=800%2C237&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "f1f026a09dde",
+      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "description": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+      "link": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+      "pubDate": "2026-11-19T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "91089de2fc64",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "description": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "pubDate": "2026-11-19T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "19f2906cf4a4",
+      "title": "Les levées de fonds dans la robotique s’envolent, les usines européennes ralentissent",
+      "description": "Les startups robotiques ont attiré 9,9 milliards de dollars au troisième trimestre 2026. En Chine, les fabricants de robots et leurs fournisseurs entrent en Bourse. Au même moment, SoftBank peine à finaliser le rachat d’ABB Robotics et les installations reculent dans l’Union européenne. État des…",
+      "link": "https://www.robot-magazine.fr/les-levees-de-fonds-dans-la-robotique-senvolent-les-usines-europeennes-ralentissent/?utm_source=rss&utm_medium=rss&utm_campaign=les-levees-de-fonds-dans-la-robotique-senvolent-les-usines-europeennes-ralentissent",
+      "pubDate": "2026-11-19T13:28:18.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a203b48be6e9",
       "title": "Publicité : un marché toujours tiré par le digital, des prévisions 2026 à la baisse",
       "description": "Vidéo, audio, social, retail media : le baromètre BUMP détaille les leviers qui soutiennent un marché publicitaire en croissance de 4,1 %.",
@@ -595,6 +1075,23 @@
       "type": "blog"
     },
     {
+      "id": "36ec626d73b3",
+      "title": "News novembre 2026, Discord lâche Electron, OVH lance son premier LLM et Cactus met l'IA dans une montre",
+      "description": "Nous évoquons un répertoire des newsletters tech francophones, Discord qui prépare Project Phoenix en Rust et GPUI, Kiri et Colima pour se passer de Docker Desktop, KiviDB compatible Redis, my-bad de Daniel Roe, eve 1.0 de Vercel, les modèles Cactus de moins de 30 Mo, Olala mini d'OVHcloud,…",
+      "link": "https://double-slash.dev/podcasts/news-nov-26-rc1/",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1794997906/ART_147_lyu4f7.png",
+      "type": "podcast",
+      "audioUrl": "https://cdn.double-slash.dev/episodes/DS_147_news-nov26.mp3",
+      "duration": "2733"
+    },
+    {
       "id": "2a3a4ec1ea73",
       "title": "Outils de gestion sur mesure pour TPE et PME — plus vite et plus simplement avec le no-code",
       "description": "Comment créer des outils de gestion sur mesure avec le no-code ? Thomas Vedel et Matthieu Gameiro racontent le projet TimeTonic d’IP Conseils : des tâches simplifiées, une application qui évolue avec les utilisateurs et un temps de traitement par dossier divisé par quatre. Un retour d’expérience…",
@@ -982,6 +1479,22 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/itw-karen-robinson-adobe-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2be317edd4f7",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 5 : le function calling",
+      "description": "Enhance 224 to 176. Enhance, stop. ©Rick Deckard",
+      "link": "https://philippart-s.github.io/blog/2026-11-16-java-and-ai-part5/",
+      "pubDate": "2026-11-16T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
