@@ -2,6 +2,102 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "7289e21f33e2",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "pubDate": "2026-11-21T21:37:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ed913cfa76c",
+      "title": "A tale of two Nvidias",
+      "description": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "pubDate": "2026-11-21T21:07:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e41fc8a711e0",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "description": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "pubDate": "2026-11-21T18:44:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d15566b2aef3",
+      "title": "Here are the top AI agents that can live in your text messages ",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "pubDate": "2026-11-21T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "53e893a48ca0",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "description": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "pubDate": "2026-11-21T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e38a968ec4d",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "description": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+      "link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "pubDate": "2026-11-21T15:18:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "728117660118",
       "title": "Startup sues Apple in India over tap-to-share contacts feature",
       "description": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
@@ -13,6 +109,23 @@
         "IA",
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b0f10c50b77e",
+      "title": "Les news d'août et septembre 2026 : la rentrée du durcissement",
+      "description": "FlyD sur Unsplash Je vous avais donné rendez-vous en septembre… et nous voici bientôt en décembre. Je n’ai pas chômé pour autant : la rentrée a été dense côté pro, et je n’ai pas pris le temps d’écrire de nouveaux articles même si mon backlog déborde d’idées ou de thèmes pour l’alimenter. Cela fait…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/09/news-aout-septembre/",
+      "pubDate": "2026-11-21T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
