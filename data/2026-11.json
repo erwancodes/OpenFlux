@@ -2,6 +2,166 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "f27b8c975905",
+      "title": "Top 20 des modèles d’IA les plus performants en novembre 2026",
+      "description": "Porté par Gemini 4 Carbon et Neon, Google s’adjuge les trois premières places du classement Arena en novembre. Anthropic garde la main sur l’analyse d’images et de documents.",
+      "link": "https://www.blogdumoderateur.com/top-20-modeles-ia-performants-novembre-2026/",
+      "pubDate": "2026-11-23T09:08:46.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/modeles-novembre-2026-text-294x186.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0c2b40de2e67",
+      "title": "5 formations pour monter des vidéos avec Premiere Pro, DaVinci Resolve ou l’IA",
+      "description": "Une sélection de formations pour apprendre à dérusher, à étalonner, à mixer le son et à animer ses contenus, du tournage jusqu’à leur diffusion sur les réseaux sociaux.",
+      "link": "https://www.blogdumoderateur.com/selection-formation-montage-video-327/",
+      "pubDate": "2026-11-23T07:00:57.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/selection-formation-montage-video-327-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6a122e3058bd",
+      "title": "IA en production, souveraineté, réversibilité : les nouveaux chantiers des CTO",
+      "description": "Le Tech.Rocks Summit fête ses dix ans les 30 novembre et 1er décembre. Sa directrice générale revient sur une décennie de tech et sur l’état des CTO en 2026.",
+      "link": "https://www.blogdumoderateur.com/ia-production-souverainete-reversibilite-nouveaux-chantiers-cto/",
+      "pubDate": "2026-11-23T06:00:11.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/tech-rocks-26-294x171.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "04e5e033b799",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "pubDate": "2026-11-23T01:25:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1da50c247535",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "description": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "pubDate": "2026-11-22T21:42:48.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "90468db0d5a9",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "description": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "pubDate": "2026-11-22T21:14:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7aaba70f0b27",
+      "title": "The best apps to make new friends right now",
+      "description": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "pubDate": "2026-11-22T21:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b51af88d58d8",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "description": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "pubDate": "2026-11-22T18:08:43.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "70eecc407642",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "pubDate": "2026-11-22T17:06:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9dc96c937c82",
+      "title": "Can a TV be too large? An investigation",
+      "description": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "pubDate": "2026-11-22T15:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7289e21f33e2",
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
