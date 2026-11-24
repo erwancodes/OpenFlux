@@ -2,6 +2,436 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "3cb6a22ea502",
+      "title": "Parvis : l’assistant IA des communes qui cite ses sources",
+      "description": "À l’occasion du Salon des Maires et des Collectivités Locales, où nous sommes présent·es, notre coopérative et Tilia lancent Parvis, un assistant pour les communes qui répond aux questions des habitants et habitantes à partir du site et des documents de la mairie. Chaque réponse cite sa source : un…",
+      "link": "https://les-tilleuls.coop/blog/parvis-assistant-ia-communes",
+      "pubDate": "2026-11-24T14:27:11.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/vignette-parvis-1024x538.png",
+      "type": "blog"
+    },
+    {
+      "id": "064cd1a5d210",
+      "title": "Comment ajouter des agrégations à une collection API Platform",
+      "description": "En juillet 2023, j'ai demandé sur les discussions d'API Platform comment renvoyer des données en plus dans une GetCollection, et surtout comment les documenter. J'avais proposé d'écrire un article si ça intéressait quelqu'un, et en septembre, quelqu'un a dit oui. Le voici, avec trois ans de retard…",
+      "link": "https://jolicode.com/blog/comment-ajouter-des-agregations-a-une-collection-api-platform",
+      "pubDate": "2026-11-24T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "13e106216370",
+      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+      "description": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+      "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+      "pubDate": "2026-11-24T13:29:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f01ddb032ffe",
+      "title": "Le Mode IA de Google se connecte à Wallet et Drive pour personnaliser ses réponses",
+      "description": "Le Mode IA de Google peut désormais consulter Google Wallet pour personnaliser ses réponses. Drive et l'application Gemini suivront dans les prochaines semaines.",
+      "link": "https://www.blogdumoderateur.com/mode-ia-google-wallet-drive/",
+      "pubDate": "2026-11-24T09:44:26.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Wallet-Personal-Intelligence-Google-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5b89a9c0c551",
+      "title": "Anthropic lance Claude Ship pour automatiser la correction et la validation des pull requests",
+      "description": "Moins de temps passé sur les pull requests. C'est la promesse de Claude Ship, une suite d'agents IA lancés en bêta par Anthropic auprès des clients Team et Enterprise.",
+      "link": "https://www.blogdumoderateur.com/anthropic-lance-claude-ship/",
+      "pubDate": "2026-11-24T09:43:10.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/claude-ship-294x166.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "8c9bb689eee9",
+      "title": "Comment construire son budget influence pour 2027 à partir de ses objectifs",
+      "description": "À l'heure où les budgets 2027 prennent forme, Alexis Duvernoy, CEO et co-fondateur de l'agence 18h08, détaille sa méthode pour répartir un budget influence selon ses objectifs, avec des repères de 30 000 à 150 000 euros.",
+      "link": "https://www.blogdumoderateur.com/comment-construire-budget-influence-2027-a-partir-objectifs/",
+      "pubDate": "2026-11-24T08:12:13.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/18h08-Webinar-Budget-2027--294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "14b372892d59",
+      "title": "Black Friday : que devient votre colis quand vous le renvoyez ?",
+      "description": "Le Black Friday a lieu ce vendredi. Après les commandes vient le flux des retours. En entrepôt, chaque article doit être identifié, contrôlé et orienté vers la bonne destination. Des bras robotisés aux robots mobiles de tri, deux déploiements chez CEVA Logistics et Happy Returns montrent quelles…",
+      "link": "https://www.robot-magazine.fr/black-friday-que-devient-votre-colis-quand-vous-le-renvoyez/?utm_source=rss&utm_medium=rss&utm_campaign=black-friday-que-devient-votre-colis-quand-vous-le-renvoyez",
+      "pubDate": "2026-11-24T06:21:36.000Z",
+      "source": "Robot Magazine",
+      "sourceUrl": "https://www.robot-magazine.fr/feed/",
+      "categories": [
+        "Robotique"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b0438fc99770",
+      "title": "Comment les marques peuvent faire citer leurs vidéos par les IA",
+      "description": "Les moteurs de réponse peinent encore à exploiter ce que montrent les vidéos. Rudy Lellouche, CPTO d’Aive, explique comment les marques peuvent y remédier.",
+      "link": "https://www.blogdumoderateur.com/comment-marques-peuvent-faire-citer-videos-ia/",
+      "pubDate": "2026-11-24T06:00:40.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Video-GEO-Aive-294x167.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "3e3d5a4bd74c",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "description": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "pubDate": "2026-11-23T23:07:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a72cc3aa1f3d",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "pubDate": "2026-11-23T22:05:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eea6d4f773cb",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "pubDate": "2026-11-23T22:02:05.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d4f79d2af1d5",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "description": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "pubDate": "2026-11-23T21:47:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bcef4e5640ff",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "pubDate": "2026-11-23T21:25:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "19cceeec9c2a",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "description": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "pubDate": "2026-11-23T20:38:53.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "20bb58c8d5c8",
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "description": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "link": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "pubDate": "2026-11-23T19:31:41.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "50419d3a895f",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "pubDate": "2026-11-23T19:14:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f6a9f2b4d78",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "description": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "pubDate": "2026-11-23T18:12:22.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9e07b8c2cf04",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "pubDate": "2026-11-23T17:14:23.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aa1274f91f4a",
+      "title": "Meta throws out its net-zero goal — its competitors should be furious",
+      "description": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "pubDate": "2026-11-23T17:13:45.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3e04281a8147",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "description": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "pubDate": "2026-11-23T16:57:40.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "79c3fac607e1",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "description": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "pubDate": "2026-11-23T16:39:10.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1100af5b02a1",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "description": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+      "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "pubDate": "2026-11-23T16:20:11.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "51e551e855ad",
+      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "description": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
+      "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "pubDate": "2026-11-23T15:29:49.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5876b76a766d",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "description": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "pubDate": "2026-11-23T15:04:01.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "10ed8c9647ec",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "description": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "pubDate": "2026-11-23T14:43:03.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0affd11db18d",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "description": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "pubDate": "2026-11-23T14:21:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "31053907af70",
+      "title": "Uber now lets you book rides that record the drive by default",
+      "description": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
+      "link": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+      "pubDate": "2026-11-23T14:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f27b8c975905",
       "title": "Top 20 des modèles d’IA les plus performants en novembre 2026",
       "description": "Porté par Gemini 4 Carbon et Neon, Google s’adjuge les trois premières places du classement Arena en novembre. Anthropic garde la main sur l’analyse d’images et de documents.",
