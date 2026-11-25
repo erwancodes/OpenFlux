@@ -2,6 +2,473 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "65e141102054",
+      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "description": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
+      "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+      "pubDate": "2026-11-25T13:08:19.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5f2a9faee9c0",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "description": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "pubDate": "2026-11-25T13:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "81456c5c6aa1",
+      "title": "Mellum2.1 Instruct Is Out, Bringing Faster Answers for Coding Agents",
+      "description": "The faster sibling of Mellum2.1 Thinking, built for sub-agents, tool loops, and chat. In October, we released Mellum2.1 Thinking, an open 12B mixture-of-experts model with 2.5B active parameters, trained to work as a coding agent. Today, we are releasing its sibling, Mellum2.1 Instruct. It is built…",
+      "link": "https://blog.jetbrains.com/ai/2026/11/mellum2-1-instruct-is-out-bringing-faster-answers-for-coding-agents/",
+      "pubDate": "2026-11-25T11:00:00.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/11/5-closing-banner-hugging-face.png",
+      "type": "blog"
+    },
+    {
+      "id": "a05949b69525",
+      "title": "Quand les ventes plafonnent, par où commencer ?",
+      "description": "Quand les ventes plafonnent, quelles actions lancer d’abord ? Mathilde Le Rouzic explique comment un audit marketing B2B aide à revoir les priorités. À partir du cas d’un grossiste en téléphonie, elle montre comment écouter ses clients, réunir marketing et commerciaux et combiner des actions…",
+      "link": "https://oliviersauvage.com/fr/quand-les-ventes-plafonnent-par-ou-commencer/",
+      "pubDate": "2026-11-25T10:51:11.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3f565d3e023",
+      "title": "Comment transcrire en texte l’audio d’une réunion, en local et gratuitement avec Whisper",
+      "description": "Transcription Google Meet oubliée ? Avec ffmpeg et whisper.cpp, convertissez l'audio de votre réunion en texte sur votre laptop, en quelques minutes, sans coût de tokens et sans envoyer de données dans le cloud.",
+      "link": "https://blog.ippon.fr/2026/11/25/transcrire-audio-reunion-whisper/",
+      "pubDate": "2026-11-25T08:01:30.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/11/image_f4706479.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "45c2d57beb67",
+      "title": "Google-Agent : comment éviter de bloquer l’agent IA sur votre site",
+      "description": "Google détaille comment reconnaître Google-Agent, son agent qui navigue et agit sur les sites pour le compte des internautes, et comment le laisser passer sans affaiblir vos protections anti-bots.",
+      "link": "https://www.blogdumoderateur.com/google-agent-comment-eviter-bloquer-agent-ia-site/",
+      "pubDate": "2026-11-25T07:30:31.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/google-agent-acces-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "7adafd1fedef",
+      "title": "E-commerce : comment l’IA accompagne l’acheteur de la recherche à la décision d’achat",
+      "description": "Recherches sans résultat, questions restées sans réponse : sur un site e-commerce, l'hésitation coûte des ventes. Longtemps associé à la recherche interne, Doofinder mise désormais sur un assistant IA et des outils de découverte pour accompagner l'acheteur jusqu'à l'achat.",
+      "link": "https://www.blogdumoderateur.com/e-commerce-ia-accompagne-acheteur-recherche-decision-achat/",
+      "pubDate": "2026-11-25T07:00:43.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/doofinder-aiassistant_FR-1-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bceca427e27d",
+      "title": "Apprentissage des langues : ce que les réseaux sociaux changent pour la Gen Z",
+      "description": "Comprendre une vidéo en VO ne garantit pas de savoir s’exprimer à l’oral. Pour savoir comment franchir ce cap, notamment dans un contexte professionnel, nous avons interrogé Sofia Zambelli, responsable linguistique et impact social chez Babbel.",
+      "link": "https://www.blogdumoderateur.com/apprentissage-langues-reseaux-sociaux-gen-z/",
+      "pubDate": "2026-11-25T06:00:26.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Sofia-Zambelli-Babbel-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "61d38405be3e",
+      "title": "#386.src - ESN AI Native: Remettre l'humain au coeur de l'Agentic Software Factory avec Jordan Nourry",
+      "description": "\"Vous voulez quelque chose qui va plus vite, mais quelle organisation voulez-vous créer autour de ça ?\" Le D.E.V. de la semaine est Jordan Nourry, cofondateur de Shodo Studio. Face à l'arrivée massive de l'IA générative, Jordan explique comment son ESN a complètement repensé son modèle : équipes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/386-1d1a7e0f66d5",
+      "pubDate": "2026-11-25T04:00:27.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/ebcefb2c-2e00-4a52-9294-8f218234f6c7.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/65ceec49-da35-4c8e-b8f7-1d1a7e0f66d5.mp3?_=1795525227",
+      "duration": "01:13:08"
+    },
+    {
+      "id": "11304642d4ef",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether…",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "pubDate": "2026-11-25T00:12:02.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c23a6a86a20a",
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "description": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+      "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "pubDate": "2026-11-25T00:10:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e44c9c780e6",
+      "title": "On a gagné du temps. Rendons-le aux humains",
+      "description": "Il y a quelques mois, le backlog de mon équipe s'est vidé. Plutôt que de coder des features pour remplir le vide, on a remis de la discussion entre métier, produit et tech. Ce que l'IA ne fera pas à notre place : décider.",
+      "link": "https://yoandev.co/rendre-le-temps-aux-humains",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Erwan Codes",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/rendre-le-temps-aux-humains.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c8f17d7e10c4",
+      "title": "Modèles de décision, une IA qui répond en 10 ms",
+      "description": "Depuis le marketing de septembre 2026 autour de JEV, une petite famille de decision models s'est formée : JEV, Clef, D1 et Laya. L'idée, c'est un modèle rapide et automatique, qui classe, route, score ou filtre, là où un LLM, plus lent et plus coûteux, reste le bon outil pour écrire, coder,…",
+      "link": "https://double-slash.dev/podcasts/decision_model/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1795540127/episode/ART_148_biw0zb.png",
+      "type": "podcast",
+      "audioUrl": "https://cdn.double-slash.dev/episodes/DS_148_decision_model.mp3",
+      "duration": "2559"
+    },
+    {
+      "id": "3f66369c8927",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "description": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "pubDate": "2026-11-24T22:27:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a919734a680d",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "pubDate": "2026-11-24T21:48:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ddf5f5e1e3a0",
+      "title": "Even the best AI agents struggle with everyday life",
+      "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "pubDate": "2026-11-24T21:33:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a18f6caa7fc1",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "description": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "pubDate": "2026-11-24T21:32:38.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9fd8a5bde39c",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "pubDate": "2026-11-24T21:19:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47053c4a00f4",
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "description": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+      "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "pubDate": "2026-11-24T21:09:04.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b68502d162ee",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "description": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "pubDate": "2026-11-24T18:30:42.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a15f266d5fa6",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "pubDate": "2026-11-24T18:02:59.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a547ac10f3b5",
+      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+      "description": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+      "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+      "pubDate": "2026-11-24T17:44:34.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "163ed0e04413",
+      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "description": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+      "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+      "pubDate": "2026-11-24T17:29:09.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "08a6094b9f24",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "description": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "pubDate": "2026-11-24T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "022f717aafc7",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "description": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "pubDate": "2026-11-24T16:46:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aa9ffe741a63",
+      "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+      "description": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
+      "link": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+      "pubDate": "2026-11-24T16:40:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b6f91c10121e",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "description": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "pubDate": "2026-11-24T16:10:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "22cc1bf342d8",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "description": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "pubDate": "2026-11-24T16:02:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "352ca41f41cf",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "description": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "pubDate": "2026-11-24T15:51:07.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3cb6a22ea502",
       "title": "Parvis : l’assistant IA des communes qui cite ses sources",
       "description": "À l’occasion du Salon des Maires et des Collectivités Locales, où nous sommes présent·es, notre coopérative et Tilia lancent Parvis, un assistant pour les communes qui répond aux questions des habitants et habitantes à partir du site et des documents de la mairie. Chaque réponse cite sa source : un…",
@@ -137,6 +604,21 @@
       "sourceUrl": "https://techcrunch.com/feed/",
       "categories": [
         "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b75879382016",
+      "title": "Déployer un projet Symfony sur Scaleway Functions",
+      "description": "Je l’ai évoqué plusieurs fois au travers de différents articles de ce blog, mais je porte une attention particulière à utiliser et héberger mes outils sur des infrastructures françaises ou (à défaut) européennes. Pour des sites statiques simples, je passe généralement par un hébergement Alwaysdata…",
+      "link": "https://www.jdecool.fr/blog/2026/11/24/deployer-un-projet-symfony-sur-scaleway-functions.html",
+      "pubDate": "2026-11-23T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
         "Programmation",
         "Web"
       ],
