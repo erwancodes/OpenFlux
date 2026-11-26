@@ -2,6 +2,391 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ea1c00698dd0",
+      "title": "Couper les lignes sur le web avec des caractères invisibles",
+      "description": "Il est difficile d'obtenir une bonne typographie sur le web. Comparés à des moteurs tels que ou , les navigateurs ne disposent toujours pas d'un bon algorithme pour couper les lignes. La directive CSS tente d'améliorer la situation, mais elle n'est toujours et . de l' existent en JavaScript, mais…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-web-typographie",
+      "pubDate": "2026-11-26T13:19:12.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://media-bernat-ch.b-cdn.net/images/xkcd-1015.5bbc33a6b165fd.png",
+      "type": "blog"
+    },
+    {
+      "id": "63067913e21d",
+      "title": "Comment automatiser les tests d'un jeu vidéo avec Playwright ?",
+      "description": "Découvrez comment utiliser Playwright pour automatiser les tests d'un jeu vidéo dans le navigateur : déplacements, interactions, clavier et détection des erreurs JavaScript.",
+      "link": "https://code-garage.com/blog/comment-automatiser-les-tests-d-un-jeu-video-avec-playwright",
+      "pubDate": "2026-11-26T09:55:22.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "94e85db2013b",
+      "title": "Claude permet de transformer un artefact en application Mac et Windows",
+      "description": "Les contenus interactifs créés par Claude peuvent maintenant être installés sur l’ordinateur et fonctionner comme des logiciels traditionnels.",
+      "link": "https://www.blogdumoderateur.com/claude-permet-transformer-artefact-application-mac-windows/",
+      "pubDate": "2026-11-26T09:49:54.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/claude-artefact-application-mac-windows-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "381f5f3ea247",
+      "title": "Les entreprises de moins de 1 000 salariés seront bientôt dispensées de registre RGPD",
+      "description": "Ce mardi 24 novembre, les eurodéputés ont voté un allègement du RGPD. Sous 1 000 salariés, seuls les traitements à risque élevé devront encore figurer dans un registre.",
+      "link": "https://www.blogdumoderateur.com/entreprises-moins-1000-salaries-dispensees-registre-rgpd/",
+      "pubDate": "2026-11-26T09:46:42.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Europe-Omnibus-RGPD-294x155.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "41215b671b61",
+      "title": "WhatsApp permet désormais de programmer un message : comment ça marche",
+      "description": "Un appui long sur le bouton d'envoi suffit désormais pour choisir la date et l'heure de réception d'un message sur WhatsApp.",
+      "link": "https://www.blogdumoderateur.com/whatsapp-programmer-message/",
+      "pubDate": "2026-11-26T09:39:57.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/whatsapp-programmer-message-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "70beac3c1fc1",
+      "title": "Comment réduire l’empreinte carbone des vidéos générées par IA : les conseils de fifty-five",
+      "description": "Sustainable AI Manager & Webanalytics chez fifty-five, Hortense Juillet revient sur ce qui fait de la vidéo le format le plus énergivore de l'IA, et sur les leviers dont disposent les marketeurs et les créatifs pour en faire un usage plus sobre.",
+      "link": "https://www.blogdumoderateur.com/comment-reduire-empreinte-carbone-videos-generees-ia-conseils-fifty-five/",
+      "pubDate": "2026-11-26T09:04:01.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Hortense-Juillet-fifty-five-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4f7031063a14",
+      "title": "8 événements à ne pas manquer en décembre 2026",
+      "description": "Retrouvez dans cette sélection : la visite guidée de Marketing Studio, un webinar consacré à la communication RSE sur LinkedIn, le Carrefour de l'IA (pour tous), mais aussi Presse & Médias au Futur, Imagine Summit, ou encore GenerationAI Paris, Adopt AI et Open Source Experience.",
+      "link": "https://www.blogdumoderateur.com/evenements-digital-decembre-2026/",
+      "pubDate": "2026-11-26T08:36:35.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/evenements-digital-decembre-2026-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d7b28b808e94",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "pubDate": "2026-11-25T22:44:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cecacbdc2750",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "description": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "pubDate": "2026-11-25T20:56:44.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a9618eadf7f9",
+      "title": "Développement augmenté : bien outiller son agent",
+      "description": "Vous confiez un petit correctif à votre agent : « Empêche les doublons à la création d’une facture ». L’agent ouvre quelques",
+      "link": "https://blog.zenika.com/2026/11/25/developpement-augmente-bien-outiller-son-agent/",
+      "pubDate": "2026-11-25T20:06:40.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fb19c642f1b7",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "pubDate": "2026-11-25T20:03:27.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "74d99a307b5d",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "pubDate": "2026-11-25T19:54:57.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "70b9acbfbf9a",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "description": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+      "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "pubDate": "2026-11-25T19:54:32.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4fddd7d3c17",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "pubDate": "2026-11-25T19:44:24.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ed88987e3d5",
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "description": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+      "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "pubDate": "2026-11-25T18:49:52.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b23f29d590b",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "pubDate": "2026-11-25T18:11:46.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1b214afa5a2f",
+      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+      "description": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+      "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+      "pubDate": "2026-11-25T17:36:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5b2e3451b1a5",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "description": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "pubDate": "2026-11-25T17:35:58.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "42cd4506e23b",
+      "title": "X’s latest update for creators focuses on vertical video",
+      "description": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
+      "link": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+      "pubDate": "2026-11-25T17:28:29.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6ccba0f5ca79",
+      "title": "WhatsApp now lets you schedule messages in group and individual chats",
+      "description": "Users can schedule messages from 10 minutes later to after 14 days.",
+      "link": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+      "pubDate": "2026-11-25T16:57:51.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "00dcbf37e519",
+      "title": "Allstate suffers multiday tech outage ahead of Thanksgiving",
+      "description": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+      "link": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+      "pubDate": "2026-11-25T15:08:37.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "65e4432b2079",
+      "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+      "description": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+      "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+      "pubDate": "2026-11-25T14:20:28.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d204a99ce77",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "description": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "pubDate": "2026-11-25T14:10:18.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "19c0f223a0e5",
+      "title": "React Native Connection 2026",
+      "description": "Résumé talk par talk de la React Native Connection 2026 : agents IA, desktop, web, navigation, animations et les tendances à retenir.",
+      "link": "https://blog.ippon.fr/2026/11/25/react-native-connection-2026/",
+      "pubDate": "2026-11-25T13:49:51.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/11/data-src-image-2ba30b1a-c1c6-47ee-a3d0-fb296a746396-1.png",
+      "type": "blog"
+    },
+    {
       "id": "65e141102054",
       "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
       "description": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
@@ -211,6 +596,53 @@
       "type": "podcast",
       "audioUrl": "https://cdn.double-slash.dev/episodes/DS_148_decision_model.mp3",
       "duration": "2559"
+    },
+    {
+      "id": "c51bbfd31fee",
+      "title": "jsdom ou happy-dom : l'envers du décor",
+      "description": "J'ai passé les tests de composants d'un jeu React de jsdom à happy-dom pour gagner une minute de CI par PR. Les chiffres de la migration, trois tests rouges et 406 erreurs réseau, ce qu'ils disent des deux faux navigateurs, et les questions à se poser avant de changer.",
+      "link": "https://blog.eleven-labs.com/fr/jsdom-ou-happy-dom-envers-du-decor/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "40cca57bf596",
+      "title": "jsdom or happy-dom: behind the scenes",
+      "description": "I moved the component tests of a React game from jsdom to happy-dom to shave a minute of CI off every PR. The numbers from the migration, three red tests and 406 network errors, what they reveal about the two fake browsers, and what to ask yourself before switching.",
+      "link": "https://blog.eleven-labs.com/en/jsdom-or-happy-dom-behind-the-scenes/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "95b0d275f719",
+      "title": "Et si le bon ratio était un PO pour un développeur ?",
+      "description": "Pendant des années, on a dimensionné les équipes de développement sur le modèle des “pizza teams” inspiré du fonctionnement d’Amazon. Le principe est simple: une équipe doit être assez petite pour être nourrie avec deux pizzas. C’est ainsi qu’on se retrouve fréquemment avec des équipes d’à peu près…",
+      "link": "https://www.jdecool.fr/blog/2026/11/25/et-si-le-bon-ratio-etait-un-po-pour-un-developpeur.html",
+      "pubDate": "2026-11-24T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "3f66369c8927",
