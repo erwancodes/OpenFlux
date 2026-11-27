@@ -2,6 +2,199 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "feafeb183d72",
+      "title": "Retrouver un travail grâce à son réseau",
+      "description": "J’ai de nombreux amis qui se retrouvent à chercher un job ces temps-ci, et il se trouve que j’ai une méthode qui pourrait les aider, et toi aussi, cher(e) lecteurice. Cela se passe en deux temps. D’abord savoir ce que tu veux faire dans ton prochain job et savoir l’exprimer clairement. Ensuite une…",
+      "link": "https://standblog.org/blog/post/2026/11/27/Retrouver-un-travail-grace-a-son-reseau",
+      "pubDate": "2026-11-27T10:47:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/.ikigai_m.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "871e1fce3e3a",
+      "title": "Claude : les serveurs MCP peuvent maintenant livrer des skills et gérer des tâches longues",
+      "description": "Anthropic lance Skills over MCP en bêta publique. Les services connectés à Claude peuvent fournir, en plus de leurs outils, les consignes pour bien s'en servir.",
+      "link": "https://www.blogdumoderateur.com/claude-serveurs-mcp-livrer-skills-gerer-taches-longues/",
+      "pubDate": "2026-11-27T09:18:30.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Claude-Skills-over-MCP-294x154.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "182271ff5bd4",
+      "title": "SEO local : 6 indicateurs à auditer quand on gère un réseau de points de vente",
+      "description": "Sur Google comme dans ChatGPT, la visibilité d'une enseigne se joue point de vente par point de vente. L'audit gratuit de Digitaleo mesure ces écarts et priorise les corrections.",
+      "link": "https://www.blogdumoderateur.com/seo-local-6-indicateurs/",
+      "pubDate": "2026-11-27T08:50:13.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Digitaleo-Audit-1-294x162.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d619ccfe5c10",
+      "title": "Avec Parlons Tech, la MAIF ouvre les coulisses de sa DSI et donne la parole à ses experts",
+      "description": "Dans le premier épisode de cette série vidéo, deux experts de la MAIF détaillent l'usage du GitOps sur leur plateforme OpenShift. Ils reviennent sur ce que cette méthode change pour les équipes et sur les pistes explorées, du platform engineering à l'IA.",
+      "link": "https://www.blogdumoderateur.com/parlons-tech-maif-ouvre-coulisses-dsi-parole-experts/",
+      "pubDate": "2026-11-27T08:38:47.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/parlons-tech-episode-gitops-maif-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8956b9257a9f",
+      "title": "Pourquoi tout a planté en novembre (et pourquoi les pirates n’y sont pour rien)",
+      "description": "Un bug dormant chez Microsoft, un routeur dans l'Arkansas, une mise à jour chez Apple... En deux semaines, des incidents sans lien entre eux ont coupé messageries, vols et paiements. Aucun pirate derrière, assurent les autorités, plutôt une course aux correctifs qui a mal tourné.",
+      "link": "https://www.blogdumoderateur.com/pourquoi-tout-plante-novembre/",
+      "pubDate": "2026-11-27T06:00:34.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Panne-en-serie-outlook-faa-apple-microsoft-294x196.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "0ad6c9f30ed0",
+      "title": "#299.exe - IA: Du mythe à la réalité: Apprendre à comprendre l'intelligence par Arnaud Héritier",
+      "description": "Pour l'épisode #299 je recevais Nastasia Saby. On en débrief avec Arnaud. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/299-98b3c12a9fee",
+      "pubDate": "2026-11-27T04:00:14.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/beb88e1d-5520-4299-9c4c-98b3c12a9fee.mp3?_=1795698014",
+      "duration": "13:53"
+    },
+    {
+      "id": "979e22972f74",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "pubDate": "2026-11-26T20:03:54.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8a47fa25d48b",
+      "title": "Is Alice Huang a spy or not?",
+      "description": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "pubDate": "2026-11-26T20:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "58238582b61f",
+      "title": "X finally gets parental controls after 20 years",
+      "description": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "pubDate": "2026-11-26T19:31:50.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "805fcb4a332b",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "description": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "pubDate": "2026-11-26T17:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b81da0547893",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "pubDate": "2026-11-26T16:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "categories": [
+        "IA",
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c2ac4774920e",
+      "title": "Depuis l’arrivée des AI Overviews, le taux de clics a reculé de 22 % en France",
+      "description": "Ahrefs a comparé le taux de clics de plus de 31 000 mots clés français, avec et sans résumé IA. Sans surprise, la baisse frappe toutes les positions de la SERP, première place comprise, ainsi que toutes les intentions de recherche.",
+      "link": "https://www.blogdumoderateur.com/depuis-arrivee-ai-overviews-taux-clics-recule-22-pourcent-france/",
+      "pubDate": "2026-11-26T15:04:30.000Z",
+      "source": "Blog du Modérateur",
+      "sourceUrl": "https://www.blogdumoderateur.com/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Web"
+      ],
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/infographie-apercus-ia-france-taux-de-clics-etude-ahrefs-fr-copie-294x228.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ea1c00698dd0",
       "title": "Couper les lignes sur le web avec des caractères invisibles",
       "description": "Il est difficile d'obtenir une bonne typographie sur le web. Comparés à des moteurs tels que ou , les navigateurs ne disposent toujours pas d'un bon algorithme pour couper les lignes. La directive CSS tente d'améliorer la situation, mais elle n'est toujours et . de l' existent en JavaScript, mais…",
@@ -1327,6 +1520,22 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "296ff7dbbe18",
+      "title": "Kotlin Benchmark 2.0: How AI Coding Agents Handle Harder Tasks and Closed-Source Code",
+      "description": "In July, we released the Kotlin Benchmark – a collection of 105 real repository-level tasks for evaluating AI coding agents’ work with Kotlin. Since then, we’ve updated it to be more representative of what Kotlin teams do, with more reliable results and more data to help you choose an agent-model…",
+      "link": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-benchmark-2-0-how-ai-coding-agents-handle-harder-tasks-and-closed-source-code/",
+      "pubDate": "2026-11-23T14:13:29.000Z",
+      "source": "JetBrains AI Blog",
+      "sourceUrl": "https://blog.jetbrains.com/ai/feed/",
+      "categories": [
+        "Vibe Coding",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/11/Kotlin-Benchmark-2.0-leaderboard-infographic-1920x1080-23-Nov-2026.png",
       "type": "blog"
     },
     {
@@ -3225,6 +3434,23 @@
         "Web"
       ],
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Proton-Pass-Cover-294x165.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bf1419c5c8c7",
+      "title": "Le prix réel de l'IA va remettre le numérique responsable au centre du jeu",
+      "description": "Six enseignements du GreenTech Forum 2026 pour les directions du numérique : empreinte de l'IA, réglementation, souveraineté, IA éthique, retours d'expérience techniques et feuille de route de chantiers.",
+      "link": "https://blog.ippon.fr/2026/11/16/prix-reel-ia-numerique-responsable/",
+      "pubDate": "2026-11-16T08:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://images.unsplash.com/photo-1680992046626-418f7e910589?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGRhdGFjZW50ZXJzJTIwZ3JlZW58ZW58MHx8fHwxNzk0OTA1NjMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000",
       "type": "blog"
     },
     {
